@@ -1,0 +1,827 @@
+[
+  {
+    "id": "math-001",
+    "section": "math",
+    "category": "math.arithmetic.order_of_operations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the value of 8 + 3 × 4 − 2?",
+    "options": [
+      {"label": "A", "text": "42"},
+      {"label": "B", "text": "18"},
+      {"label": "C", "text": "22"},
+      {"label": "D", "text": "14"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Follow order of operations (PEMDAS). First multiply: 3 × 4 = 12. Then add and subtract left to right: 8 + 12 − 2 = 18.",
+    "commonMistakes": ["A: added 8 + 3 first to get 11, then multiplied by 4 to get 44, then subtracted 2", "C: added 8 + 3 first to get 11, then multiplied by 4 and subtracted 2 incorrectly", "D: subtracted before adding"]
+  },
+  {
+    "id": "math-002",
+    "section": "math",
+    "category": "math.arithmetic.fractions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is 3/4 + 2/3?",
+    "options": [
+      {"label": "A", "text": "5/7"},
+      {"label": "B", "text": "17/12"},
+      {"label": "C", "text": "5/12"},
+      {"label": "D", "text": "1"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Find a common denominator. LCD of 4 and 3 is 12. Convert: 3/4 = 9/12 and 2/3 = 8/12. Add: 9/12 + 8/12 = 17/12.",
+    "commonMistakes": ["A: added numerators and denominators separately (3+2)/(4+3)", "C: subtracted instead of added", "D: estimated incorrectly"]
+  },
+  {
+    "id": "math-003",
+    "section": "math",
+    "category": "math.arithmetic.decimals",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is 0.25 × 0.4?",
+    "options": [
+      {"label": "A", "text": "0.1"},
+      {"label": "B", "text": "1.0"},
+      {"label": "C", "text": "0.01"},
+      {"label": "D", "text": "0.65"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Multiply 25 × 4 = 100. Count decimal places: 0.25 has 2 and 0.4 has 1, so 3 total decimal places. Move the decimal 3 places: 100 → 0.100 = 0.1.",
+    "commonMistakes": ["B: miscounted decimal places", "C: counted too many decimal places", "D: added instead of multiplied"]
+  },
+  {
+    "id": "math-004",
+    "section": "math",
+    "category": "math.arithmetic.percentages",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is 15% of 80?",
+    "options": [
+      {"label": "A", "text": "10"},
+      {"label": "B", "text": "12"},
+      {"label": "C", "text": "15"},
+      {"label": "D", "text": "8"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Convert 15% to a decimal: 0.15. Multiply: 0.15 × 80 = 12.",
+    "commonMistakes": ["A: calculated 10% of 80 and stopped", "C: confused 15% with 15", "D: calculated 10% of 80"]
+  },
+  {
+    "id": "math-005",
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "The ratio of boys to girls in a class is 3:5. If there are 24 boys, how many girls are there?",
+    "options": [
+      {"label": "A", "text": "40"},
+      {"label": "B", "text": "30"},
+      {"label": "C", "text": "32"},
+      {"label": "D", "text": "36"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Set up a proportion: 3/5 = 24/g. Cross-multiply: 3g = 120. Divide by 3: g = 40.",
+    "commonMistakes": ["B: added 24 + 6 (the scale factor of 8 was not applied correctly)", "C: multiplied 24 by 4/3 instead of 5/3", "D: found total students instead of just girls"]
+  },
+  {
+    "id": "math-006",
+    "section": "math",
+    "category": "math.arithmetic.fractions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is 5/6 ÷ 2/3?",
+    "options": [
+      {"label": "A", "text": "5/9"},
+      {"label": "B", "text": "10/18"},
+      {"label": "C", "text": "5/4"},
+      {"label": "D", "text": "10/6"}
+    ],
+    "correctAnswer": "C",
+    "explanation": "To divide fractions, multiply by the reciprocal: 5/6 × 3/2 = 15/12. Simplify: 15/12 = 5/4.",
+    "commonMistakes": ["A: multiplied straight across without flipping", "B: same as A but unsimplified", "D: flipped the wrong fraction"]
+  },
+  {
+    "id": "math-007",
+    "section": "math",
+    "category": "math.arithmetic.absolute_value",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the value of |−7| + |3|?",
+    "options": [
+      {"label": "A", "text": "−4"},
+      {"label": "B", "text": "4"},
+      {"label": "C", "text": "10"},
+      {"label": "D", "text": "−10"}
+    ],
+    "correctAnswer": "C",
+    "explanation": "Absolute value makes both numbers positive. |−7| = 7 and |3| = 3. So 7 + 3 = 10.",
+    "commonMistakes": ["A: computed −7 + 3 without taking absolute value", "B: took absolute value of (−7 + 3)", "D: added the negatives"]
+  },
+  {
+    "id": "math-008",
+    "section": "math",
+    "category": "math.arithmetic.percentages",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A shirt originally costs $60. It is on sale for 25% off. What is the sale price?",
+    "options": [
+      {"label": "A", "text": "$35"},
+      {"label": "B", "text": "$45"},
+      {"label": "C", "text": "$40"},
+      {"label": "D", "text": "$15"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "25% of $60 = 0.25 × 60 = $15 discount. Sale price = $60 − $15 = $45.",
+    "commonMistakes": ["A: subtracted 25 from 60 directly", "C: computed 1/3 off instead of 1/4 off", "D: gave the discount amount, not the sale price"]
+  },
+  {
+    "id": "math-009",
+    "section": "math",
+    "category": "math.arithmetic.order_of_operations",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the value of 2(6 + 3)² ÷ 9?",
+    "options": [
+      {"label": "A", "text": "18"},
+      {"label": "B", "text": "6"},
+      {"label": "C", "text": "162"},
+      {"label": "D", "text": "36"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Parentheses first: 6 + 3 = 9. Exponent: 9² = 81. Multiply: 2 × 81 = 162. Divide: 162 ÷ 9 = 18.",
+    "commonMistakes": ["B: divided 9² by 9 first to get 9, then multiplied by 2, then divided again", "C: forgot to divide by 9", "D: computed (6+3)² ÷ 9 but forgot the 2 multiplier, then doubled incorrectly"]
+  },
+  {
+    "id": "math-010",
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A recipe calls for 2 cups of flour for every 3 cups of sugar. If Maria uses 9 cups of sugar, how many cups of flour does she need?",
+    "options": [
+      {"label": "A", "text": "4.5"},
+      {"label": "B", "text": "6"},
+      {"label": "C", "text": "13.5"},
+      {"label": "D", "text": "12"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Set up the proportion: 2/3 = f/9. Cross-multiply: 3f = 18. Divide: f = 6.",
+    "commonMistakes": ["A: set up ratio as 1:2 instead of 2:3", "C: multiplied 9 by 3/2 instead of 2/3", "D: multiplied 9 × (2/3) incorrectly by doing 9 × 2 minus 3 + 3"]
+  },
+  {
+    "id": "math-011",
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "If 5x − 10 = 25, what is the value of x?",
+    "options": [
+      {"label": "A", "text": "3"},
+      {"label": "B", "text": "5"},
+      {"label": "C", "text": "7"},
+      {"label": "D", "text": "35"}
+    ],
+    "correctAnswer": "C",
+    "explanation": "Add 10 to both sides: 5x = 35. Divide both sides by 5: x = 7.",
+    "commonMistakes": ["A: divided 25 by 5 and subtracted 10/5", "B: divided 25 by 5 without adding 10 first", "D: added 10 but forgot to divide by 5"]
+  },
+  {
+    "id": "math-012",
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Simplify: 4(2x + 3) − 5x",
+    "options": [
+      {"label": "A", "text": "3x + 3"},
+      {"label": "B", "text": "3x + 12"},
+      {"label": "C", "text": "8x + 12"},
+      {"label": "D", "text": "13x"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Distribute: 4(2x) + 4(3) − 5x = 8x + 12 − 5x. Combine like terms: 3x + 12.",
+    "commonMistakes": ["A: distributed the 4 only to 2x, getting 8x + 3 − 5x", "C: forgot to subtract 5x", "D: added all coefficients together"]
+  },
+  {
+    "id": "math-013",
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "If 2(x − 4) = 3x + 6, what is the value of x?",
+    "options": [
+      {"label": "A", "text": "−14"},
+      {"label": "B", "text": "−2"},
+      {"label": "C", "text": "2"},
+      {"label": "D", "text": "14"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Distribute: 2x − 8 = 3x + 6. Subtract 2x from both sides: −8 = x + 6. Subtract 6: x = −14.",
+    "commonMistakes": ["B: made a sign error when distributing 2(x−4)", "C: got the sign wrong on the final answer", "D: forgot the negative sign"]
+  },
+  {
+    "id": "math-014",
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which value of x satisfies the inequality −3x + 9 > 0?",
+    "options": [
+      {"label": "A", "text": "4"},
+      {"label": "B", "text": "3"},
+      {"label": "C", "text": "2"},
+      {"label": "D", "text": "−3"}
+    ],
+    "correctAnswer": "C",
+    "explanation": "Solve: −3x + 9 > 0 → −3x > −9 → x < 3 (flip the sign when dividing by negative). Only x = 2 is less than 3. Check: −3(2) + 9 = 3 > 0. ✓",
+    "commonMistakes": ["A: forgot to flip the inequality sign and got x > 3", "B: solved as x ≤ 3, but 3 gives exactly 0, not > 0", "D: plugged in without solving first"]
+  },
+  {
+    "id": "math-015",
+    "section": "math",
+    "category": "math.algebra.exponents",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the value of 3⁴?",
+    "options": [
+      {"label": "A", "text": "12"},
+      {"label": "B", "text": "64"},
+      {"label": "C", "text": "81"},
+      {"label": "D", "text": "27"}
+    ],
+    "correctAnswer": "C",
+    "explanation": "3⁴ = 3 × 3 × 3 × 3 = 9 × 9 = 81.",
+    "commonMistakes": ["A: multiplied 3 × 4", "B: computed 4³ instead of 3⁴", "D: computed 3³ instead of 3⁴"]
+  },
+  {
+    "id": "math-016",
+    "section": "math",
+    "category": "math.algebra.exponents",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Simplify: (2x³)² · x",
+    "options": [
+      {"label": "A", "text": "4x⁷"},
+      {"label": "B", "text": "2x⁷"},
+      {"label": "C", "text": "4x⁶"},
+      {"label": "D", "text": "4x⁵"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "First square the expression: (2x³)² = 2² · (x³)² = 4x⁶. Then multiply by x: 4x⁶ · x = 4x⁷.",
+    "commonMistakes": ["B: forgot to square the coefficient 2", "C: forgot to multiply by the extra x", "D: added exponents 3+2 instead of 3×2"]
+  },
+  {
+    "id": "math-017",
+    "section": "math",
+    "category": "math.algebra.patterns_sequences",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "In a sequence, the first term is 5 and each term after is 3 more than the previous term. What is the 10th term?",
+    "options": [
+      {"label": "A", "text": "30"},
+      {"label": "B", "text": "32"},
+      {"label": "C", "text": "35"},
+      {"label": "D", "text": "33"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "This is an arithmetic sequence with a₁ = 5 and d = 3. The nth term formula: aₙ = a₁ + (n−1)d. a₁₀ = 5 + (10−1)(3) = 5 + 27 = 32.",
+    "commonMistakes": ["A: computed 10 × 3 = 30 (forgot the starting term offset)", "C: computed 5 + 10(3) using n instead of n−1", "D: off by one in the count"]
+  },
+  {
+    "id": "math-018",
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the slope of the line that passes through the points (2, 5) and (6, 13)?",
+    "options": [
+      {"label": "A", "text": "1/2"},
+      {"label": "B", "text": "2"},
+      {"label": "C", "text": "4"},
+      {"label": "D", "text": "8"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Slope = (y₂ − y₁)/(x₂ − x₁) = (13 − 5)/(6 − 2) = 8/4 = 2.",
+    "commonMistakes": ["A: computed the reciprocal (x-change)/(y-change)", "C: only computed the x-difference", "D: only computed the y-difference"]
+  },
+  {
+    "id": "math-019",
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "If x + y = 10 and x − y = 4, what is the value of x?",
+    "options": [
+      {"label": "A", "text": "3"},
+      {"label": "B", "text": "5"},
+      {"label": "C", "text": "7"},
+      {"label": "D", "text": "14"}
+    ],
+    "correctAnswer": "C",
+    "explanation": "Add the two equations: (x + y) + (x − y) = 10 + 4 → 2x = 14 → x = 7.",
+    "commonMistakes": ["A: found y instead of x", "B: averaged 10 and 4", "D: forgot to divide by 2"]
+  },
+  {
+    "id": "math-020",
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "If (2/3)x + 5 = 11, what is the value of x?",
+    "options": [
+      {"label": "A", "text": "4"},
+      {"label": "B", "text": "6"},
+      {"label": "C", "text": "9"},
+      {"label": "D", "text": "24"}
+    ],
+    "correctAnswer": "C",
+    "explanation": "Subtract 5: (2/3)x = 6. Multiply both sides by 3/2: x = 6 × (3/2) = 9.",
+    "commonMistakes": ["A: divided 6 by 3/2 instead of multiplying", "B: subtracted 5 correctly but then divided by 2/3 wrong (just divided by 1)", "D: multiplied 6 × 4"]
+  },
+  {
+    "id": "math-021",
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "If a = −2 and b = 5, what is the value of 3a² − 2b?",
+    "options": [
+      {"label": "A", "text": "2"},
+      {"label": "B", "text": "22"},
+      {"label": "C", "text": "−22"},
+      {"label": "D", "text": "−2"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Substitute: 3(−2)² − 2(5) = 3(4) − 10 = 12 − 10 = 2.",
+    "commonMistakes": ["B: computed (−2)² as −4 giving 3(−4)−10 = −22, then flipped the sign", "C: computed (−2)² as −4 instead of 4", "D: computed 3(−2) instead of 3(−2)²"]
+  },
+  {
+    "id": "math-022",
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Solve for x: 4(x + 1) ≤ 2(x − 3) + 18",
+    "options": [
+      {"label": "A", "text": "x ≤ 2"},
+      {"label": "B", "text": "x ≤ 4"},
+      {"label": "C", "text": "x ≤ 6"},
+      {"label": "D", "text": "x ≤ 8"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Distribute: 4x + 4 ≤ 2x − 6 + 18 → 4x + 4 ≤ 2x + 12. Subtract 2x: 2x + 4 ≤ 12. Subtract 4: 2x ≤ 8. Divide by 2: x ≤ 4.",
+    "commonMistakes": ["A: made an error combining −6 + 18", "C: forgot to distribute the 2 to −3", "D: forgot to subtract 4 from both sides"]
+  },
+  {
+    "id": "math-023",
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "At a store, 3 pencils and 2 erasers cost $2.10. One pencil and 4 erasers cost $1.70. What is the cost of one eraser?",
+    "options": [
+      {"label": "A", "text": "$0.20"},
+      {"label": "B", "text": "$0.25"},
+      {"label": "C", "text": "$0.30"},
+      {"label": "D", "text": "$0.50"}
+    ],
+    "correctAnswer": "C",
+    "explanation": "Let p = pencil cost, e = eraser cost. System: 3p + 2e = 2.10 and p + 4e = 1.70. From the second equation: p = 1.70 − 4e. Substitute: 3(1.70 − 4e) + 2e = 2.10 → 5.10 − 12e + 2e = 2.10 → −10e = −3.00 → e = 0.30.",
+    "commonMistakes": ["A: arithmetic error in substitution", "B: divided total by number of items", "D: found pencil cost instead of eraser cost"]
+  },
+  {
+    "id": "math-024",
+    "section": "math",
+    "category": "math.algebra.patterns_sequences",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "The first three terms of a sequence are 2, 6, 18, ... If the pattern continues, what is the 6th term?",
+    "options": [
+      {"label": "A", "text": "162"},
+      {"label": "B", "text": "486"},
+      {"label": "C", "text": "1458"},
+      {"label": "D", "text": "54"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "This is a geometric sequence with first term 2 and common ratio 3. The terms are: a₁=2, a₂=6, a₃=18, a₄=54, a₅=162, a₆=486. The 6th term is 486.",
+    "commonMistakes": ["A: found the 5th term", "C: found the 7th term", "D: found the 4th term"]
+  },
+  {
+    "id": "math-025",
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A number increased by 40% is 84. What is the original number?",
+    "options": [
+      {"label": "A", "text": "50.4"},
+      {"label": "B", "text": "60"},
+      {"label": "C", "text": "44"},
+      {"label": "D", "text": "120"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Let the number be n. Then 1.4n = 84. Divide both sides by 1.4: n = 60.",
+    "commonMistakes": ["A: computed 84 × 0.6 instead of dividing by 1.4", "C: subtracted 40% of 84 from 84", "D: multiplied 84 × 1.4"]
+  },
+  {
+    "id": "math-026",
+    "section": "math",
+    "category": "math.geometry.perimeter_area",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "A rectangle has a length of 12 cm and a width of 5 cm. What is its area?",
+    "options": [
+      {"label": "A", "text": "34 cm²"},
+      {"label": "B", "text": "60 cm²"},
+      {"label": "C", "text": "17 cm²"},
+      {"label": "D", "text": "120 cm²"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Area of a rectangle = length × width = 12 × 5 = 60 cm².",
+    "commonMistakes": ["A: found the perimeter (2×12 + 2×5) instead of area", "C: found half the perimeter", "D: doubled the area"]
+  },
+  {
+    "id": "math-027",
+    "section": "math",
+    "category": "math.geometry.angles",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Two angles are supplementary. If one angle measures 65°, what is the measure of the other angle?",
+    "options": [
+      {"label": "A", "text": "25°"},
+      {"label": "B", "text": "35°"},
+      {"label": "C", "text": "115°"},
+      {"label": "D", "text": "295°"}
+    ],
+    "correctAnswer": "C",
+    "explanation": "Supplementary angles add up to 180°. The other angle = 180° − 65° = 115°.",
+    "commonMistakes": ["A: subtracted from 90° (complementary)", "B: confused supplementary with something else", "D: subtracted from 360°"]
+  },
+  {
+    "id": "math-028",
+    "section": "math",
+    "category": "math.geometry.triangles",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "In a triangle, two angles measure 47° and 68°. What is the measure of the third angle?",
+    "options": [
+      {"label": "A", "text": "65°"},
+      {"label": "B", "text": "75°"},
+      {"label": "C", "text": "55°"},
+      {"label": "D", "text": "245°"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "The sum of angles in a triangle is 180°. Third angle = 180° − 47° − 68° = 65°.",
+    "commonMistakes": ["B: subtracted only one angle from 180°, then divided", "C: arithmetic error (47 + 68 = 115, 180 − 115 = 65, not 55)", "D: subtracted from 360° instead of 180°"]
+  },
+  {
+    "id": "math-029",
+    "section": "math",
+    "category": "math.geometry.perimeter_area",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A triangle has a base of 14 inches and a height of 9 inches. What is its area?",
+    "options": [
+      {"label": "A", "text": "126 in²"},
+      {"label": "B", "text": "63 in²"},
+      {"label": "C", "text": "46 in²"},
+      {"label": "D", "text": "23 in²"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Area of a triangle = (1/2) × base × height = (1/2) × 14 × 9 = 63 in².",
+    "commonMistakes": ["A: forgot to multiply by 1/2", "C: added base + height and multiplied by 2", "D: divided the perimeter by something"]
+  },
+  {
+    "id": "math-030",
+    "section": "math",
+    "category": "math.geometry.pythagorean_theorem",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A right triangle has legs of length 6 and 8. What is the length of the hypotenuse?",
+    "options": [
+      {"label": "A", "text": "14"},
+      {"label": "B", "text": "10"},
+      {"label": "C", "text": "12"},
+      {"label": "D", "text": "√48"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Use the Pythagorean theorem: c² = a² + b² = 36 + 64 = 100. So c = √100 = 10.",
+    "commonMistakes": ["A: added the legs directly", "C: guessed between 6 and 14", "D: subtracted 64 − 36 instead of adding"]
+  },
+  {
+    "id": "math-031",
+    "section": "math",
+    "category": "math.geometry.coordinate_geometry",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the distance between the points (1, 3) and (4, 7)?",
+    "options": [
+      {"label": "A", "text": "5"},
+      {"label": "B", "text": "7"},
+      {"label": "C", "text": "25"},
+      {"label": "D", "text": "3"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Distance = √[(4−1)² + (7−3)²] = √[9 + 16] = √25 = 5.",
+    "commonMistakes": ["B: added the differences (3 + 4) instead of using the formula", "C: forgot to take the square root", "D: only used the x-distance"]
+  },
+  {
+    "id": "math-032",
+    "section": "math",
+    "category": "math.geometry.volume",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the volume of a rectangular prism with length 8 cm, width 5 cm, and height 3 cm?",
+    "options": [
+      {"label": "A", "text": "80 cm³"},
+      {"label": "B", "text": "120 cm³"},
+      {"label": "C", "text": "16 cm³"},
+      {"label": "D", "text": "40 cm³"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Volume = length × width × height = 8 × 5 × 3 = 120 cm³.",
+    "commonMistakes": ["A: multiplied only two dimensions (8 × 5 × 2)", "C: added all three dimensions", "D: multiplied only 8 × 5"]
+  },
+  {
+    "id": "math-033",
+    "section": "math",
+    "category": "math.geometry.circles",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the circumference of a circle with a diameter of 14 cm? (Use π ≈ 22/7)",
+    "options": [
+      {"label": "A", "text": "22 cm"},
+      {"label": "B", "text": "44 cm"},
+      {"label": "C", "text": "154 cm"},
+      {"label": "D", "text": "88 cm"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Circumference = πd = (22/7) × 14 = 44 cm.",
+    "commonMistakes": ["A: used radius instead of diameter (π × 7)", "C: calculated area instead (πr²)", "D: doubled the circumference"]
+  },
+  {
+    "id": "math-034",
+    "section": "math",
+    "category": "math.geometry.transformations",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Point P(3, −2) is reflected over the y-axis. What are the coordinates of the image?",
+    "options": [
+      {"label": "A", "text": "(−3, −2)"},
+      {"label": "B", "text": "(3, 2)"},
+      {"label": "C", "text": "(−3, 2)"},
+      {"label": "D", "text": "(−2, 3)"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Reflecting over the y-axis changes the sign of the x-coordinate and keeps the y-coordinate the same. So (3, −2) → (−3, −2).",
+    "commonMistakes": ["B: reflected over the x-axis instead", "C: reflected over both axes (rotation)", "D: swapped coordinates"]
+  },
+  {
+    "id": "math-035",
+    "section": "math",
+    "category": "math.geometry.angles",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Two parallel lines are cut by a transversal. If one of the alternate interior angles measures 72°, what is the measure of the other alternate interior angle?",
+    "options": [
+      {"label": "A", "text": "72°"},
+      {"label": "B", "text": "108°"},
+      {"label": "C", "text": "18°"},
+      {"label": "D", "text": "36°"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Alternate interior angles formed by parallel lines and a transversal are equal. So the other angle is also 72°.",
+    "commonMistakes": ["B: computed the supplementary angle (180 − 72)", "C: computed the complementary angle (90 − 72)", "D: divided 72 by 2"]
+  },
+  {
+    "id": "math-036",
+    "section": "math",
+    "category": "math.geometry.circles",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "The area of a circle is 49π square meters. What is the diameter of the circle?",
+    "options": [
+      {"label": "A", "text": "7 m"},
+      {"label": "B", "text": "14 m"},
+      {"label": "C", "text": "49 m"},
+      {"label": "D", "text": "24.5 m"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Area = πr² = 49π, so r² = 49 and r = 7. Diameter = 2r = 14 m.",
+    "commonMistakes": ["A: found the radius but not the diameter", "C: confused r² with the diameter", "D: divided 49 by 2"]
+  },
+  {
+    "id": "math-037",
+    "section": "math",
+    "category": "math.geometry.pythagorean_theorem",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A ladder leans against a wall. The base of the ladder is 5 feet from the wall, and the ladder is 13 feet long. How high up the wall does the ladder reach?",
+    "options": [
+      {"label": "A", "text": "8 ft"},
+      {"label": "B", "text": "12 ft"},
+      {"label": "C", "text": "18 ft"},
+      {"label": "D", "text": "√194 ft"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "The ladder, wall, and ground form a right triangle. 13² = 5² + h². So 169 = 25 + h². h² = 144. h = 12 ft.",
+    "commonMistakes": ["A: subtracted 13 − 5", "C: added 13 + 5", "D: added the squares instead of subtracting"]
+  },
+  {
+    "id": "math-038",
+    "section": "math",
+    "category": "math.statistics.mean_median_mode",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the median of the data set: 3, 7, 9, 12, 15?",
+    "options": [
+      {"label": "A", "text": "7"},
+      {"label": "B", "text": "9"},
+      {"label": "C", "text": "9.2"},
+      {"label": "D", "text": "12"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "The data is already in order. With 5 values, the median is the middle (3rd) value: 9.",
+    "commonMistakes": ["A: picked the second value", "C: calculated the mean instead", "D: picked the fourth value"]
+  },
+  {
+    "id": "math-039",
+    "section": "math",
+    "category": "math.statistics.mean_median_mode",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "The mean of five numbers is 18. If four of the numbers are 12, 15, 20, and 23, what is the fifth number?",
+    "options": [
+      {"label": "A", "text": "18"},
+      {"label": "B", "text": "20"},
+      {"label": "C", "text": "22"},
+      {"label": "D", "text": "10"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Sum of all five = 18 × 5 = 90. Sum of the four known = 12 + 15 + 20 + 23 = 70. Fifth number = 90 − 70 = 20.",
+    "commonMistakes": ["A: assumed the fifth number equals the mean", "C: arithmetic error in the sum", "D: subtracted the mean from the sum of four"]
+  },
+  {
+    "id": "math-040",
+    "section": "math",
+    "category": "math.statistics.probability",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A bag contains 4 red marbles, 6 blue marbles, and 2 green marbles. If one marble is drawn at random, what is the probability it is blue?",
+    "options": [
+      {"label": "A", "text": "1/4"},
+      {"label": "B", "text": "1/3"},
+      {"label": "C", "text": "1/2"},
+      {"label": "D", "text": "1/6"}
+    ],
+    "correctAnswer": "C",
+    "explanation": "Total marbles = 4 + 6 + 2 = 12. Probability of blue = 6/12 = 1/2.",
+    "commonMistakes": ["A: divided 6 by 24 or miscounted total", "B: divided by number of colors", "D: used only one type in denominator"]
+  },
+  {
+    "id": "math-041",
+    "section": "math",
+    "category": "math.statistics.data_interpretation",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A student's test scores are 85, 90, 78, and 92. What score must she get on the fifth test to have an average of exactly 88?",
+    "options": [
+      {"label": "A", "text": "95"},
+      {"label": "B", "text": "88"},
+      {"label": "C", "text": "90"},
+      {"label": "D", "text": "93"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Needed total = 88 × 5 = 440. Current sum = 85 + 90 + 78 + 92 = 345. Fifth score = 440 − 345 = 95.",
+    "commonMistakes": ["B: assumed the fifth score must equal the desired average", "C: miscalculated the current sum", "D: arithmetic error"]
+  },
+  {
+    "id": "math-042",
+    "section": "math",
+    "category": "math.statistics.probability",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Two fair coins are flipped. What is the probability of getting at least one head?",
+    "options": [
+      {"label": "A", "text": "1/4"},
+      {"label": "B", "text": "1/2"},
+      {"label": "C", "text": "3/4"},
+      {"label": "D", "text": "1"}
+    ],
+    "correctAnswer": "C",
+    "explanation": "The sample space is {HH, HT, TH, TT}. 'At least one head' includes HH, HT, TH — that's 3 out of 4 outcomes. P = 3/4.",
+    "commonMistakes": ["A: found P(both tails)", "B: thought heads on one coin is always 1/2", "D: assumed at least one head is certain"]
+  },
+  {
+    "id": "math-043",
+    "section": "math",
+    "category": "math.word_problems.rate_distance_time",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A car travels at 55 miles per hour. How far will it travel in 3 hours and 30 minutes?",
+    "options": [
+      {"label": "A", "text": "165 miles"},
+      {"label": "B", "text": "185 miles"},
+      {"label": "C", "text": "192.5 miles"},
+      {"label": "D", "text": "175 miles"}
+    ],
+    "correctAnswer": "C",
+    "explanation": "Convert 3 hours 30 minutes to 3.5 hours. Distance = rate × time = 55 × 3.5 = 192.5 miles.",
+    "commonMistakes": ["A: used 3 hours instead of 3.5", "B: rounded 3.5 to 3.4 or similar error", "D: used 3 hours and added half of 55 incorrectly"]
+  },
+  {
+    "id": "math-044",
+    "section": "math",
+    "category": "math.word_problems.percent_change",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A jacket costs $80. The price increases by 10%, then the new price decreases by 10%. What is the final price?",
+    "options": [
+      {"label": "A", "text": "$80.00"},
+      {"label": "B", "text": "$79.20"},
+      {"label": "C", "text": "$78.40"},
+      {"label": "D", "text": "$81.00"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "After 10% increase: $80 × 1.10 = $88. After 10% decrease: $88 × 0.90 = $79.20.",
+    "commonMistakes": ["A: assumed increase then decrease by same % returns to original", "C: applied both changes to original price", "D: added instead of multiplying percentages"]
+  },
+  {
+    "id": "math-045",
+    "section": "math",
+    "category": "math.word_problems.ratio_proportion",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "A map has a scale of 1 inch = 20 miles. If two cities are 3.5 inches apart on the map, what is the actual distance?",
+    "options": [
+      {"label": "A", "text": "60 miles"},
+      {"label": "B", "text": "70 miles"},
+      {"label": "C", "text": "75 miles"},
+      {"label": "D", "text": "23.5 miles"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Actual distance = 3.5 × 20 = 70 miles.",
+    "commonMistakes": ["A: used 3 inches instead of 3.5", "C: used 3.5 + 20 × 3", "D: added 3.5 + 20"]
+  },
+  {
+    "id": "math-046",
+    "section": "math",
+    "category": "math.word_problems.age_problems",
+    "difficulty": 3,
+    "type": "grid_in",
+    "stem": "Tom is 4 years older than twice Sarah's age. If Tom is 30 years old, how old is Sarah?",
+    "options": null,
+    "correctAnswer": "13",
+    "explanation": "Set up equation: 2s + 4 = 30. Subtract 4: 2s = 26. Divide by 2: s = 13.",
+    "commonMistakes": ["17: added 4 instead of subtracting", "15: divided 30 by 2 without subtracting 4", "34: computed 2(30) − 4 ÷ 2 incorrectly"]
+  },
+  {
+    "id": "math-047",
+    "section": "math",
+    "category": "math.word_problems.combined_work",
+    "difficulty": 3,
+    "type": "grid_in",
+    "stem": "Pipe A fills a tank in 6 hours. Pipe B fills the same tank in 12 hours. Working together, how many hours will it take to fill the tank?",
+    "options": null,
+    "correctAnswer": "4",
+    "explanation": "Pipe A's rate = 1/6 tank per hour. Pipe B's rate = 1/12 tank per hour. Combined rate = 1/6 + 1/12 = 2/12 + 1/12 = 3/12 = 1/4. Time = 1 ÷ (1/4) = 4 hours.",
+    "commonMistakes": ["9: averaged 6 and 12", "3: added rates incorrectly as 1/6 + 1/12 = 1/3", "18: multiplied 6 × 12 ÷ 4"]
+  },
+  {
+    "id": "math-048",
+    "section": "math",
+    "category": "math.word_problems.rate_distance_time",
+    "difficulty": 3,
+    "type": "grid_in",
+    "stem": "A cyclist rides at 12 mph going uphill and 18 mph going downhill. If she rides 36 miles uphill and then 36 miles downhill, what is her average speed for the entire trip in mph?",
+    "options": null,
+    "correctAnswer": "14.4",
+    "explanation": "Time uphill = 36/12 = 3 hours. Time downhill = 36/18 = 2 hours. Total distance = 72 miles. Total time = 5 hours. Average speed = 72/5 = 14.4 mph.",
+    "commonMistakes": ["15: averaged the two speeds (12+18)/2", "13: made arithmetic error with fractions", "16: weighted average incorrectly"]
+  },
+  {
+    "id": "math-049",
+    "section": "math",
+    "category": "math.geometry.volume",
+    "difficulty": 3,
+    "type": "grid_in",
+    "stem": "A cylinder has a radius of 3 cm and a height of 7 cm. What is its volume in terms of π? (Enter your answer as a number, where the answer represents that number times π.)",
+    "options": null,
+    "correctAnswer": "63",
+    "explanation": "Volume = πr²h = π(3²)(7) = π(9)(7) = 63π. The answer is 63.",
+    "commonMistakes": ["42: used 2πrh (surface area formula)", "21: used πr×h instead of πr²h", "126: used diameter instead of radius"]
+  },
+  {
+    "id": "math-050",
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 2,
+    "type": "grid_in",
+    "stem": "If 4x + 7 = 2x + 19, what is the value of x?",
+    "options": null,
+    "correctAnswer": "6",
+    "explanation": "Subtract 2x from both sides: 2x + 7 = 19. Subtract 7: 2x = 12. Divide by 2: x = 6.",
+    "commonMistakes": ["13: subtracted 7 from 19 but forgot to divide", "3: divided 19 − 7 by 4 instead of 2", "26: added 7 to 19 instead of subtracting"]
+  }
+]

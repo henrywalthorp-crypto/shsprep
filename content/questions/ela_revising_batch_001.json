@@ -1,0 +1,572 @@
+[
+  {
+    "id": "ela-re-001",
+    "section": "ela",
+    "category": "ela.revising.grammar.run_ons",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Read this sentence. Which edit should be made to correct the sentence?\n\n\"The museum opened its new exhibit last Friday visitors lined up around the block to see it.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "The museum opened its new exhibit last Friday, visitors lined up around the block to see it."},
+      {"label": "B", "text": "The museum opened its new exhibit last Friday; visitors lined up around the block to see it."},
+      {"label": "C", "text": "The museum opened its new exhibit last Friday visitors, lined up around the block to see it."},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "B",
+    "explanation": "The original is a run-on sentence containing two independent clauses with no punctuation between them. Option B correctly uses a semicolon to separate them.",
+    "commonMistakes": ["A: creates a comma splice, which is also incorrect", "C: misplaces the comma and creates confusion", "D: the sentence clearly has a run-on error"]
+  },
+  {
+    "id": "ela-re-002",
+    "section": "ela",
+    "category": "ela.revising.grammar.fragments",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Read this sentence. Which edit should be made to correct the sentence?\n\n\"Because the temperature dropped below freezing overnight. The pipes in the basement burst.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "Because the temperature dropped below freezing overnight; the pipes in the basement burst."},
+      {"label": "B", "text": "Because the temperature dropped below freezing overnight, the pipes in the basement burst."},
+      {"label": "C", "text": "The temperature dropped below freezing overnight. Because the pipes in the basement burst."},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "B",
+    "explanation": "The first part is a subordinate clause (beginning with 'because') and cannot stand alone as a sentence. Option B correctly joins it to the independent clause with a comma.",
+    "commonMistakes": ["A: a semicolon should not follow a dependent clause", "C: rearranges the sentence but creates a new fragment", "D: the first part is clearly a sentence fragment"]
+  },
+  {
+    "id": "ela-re-003",
+    "section": "ela",
+    "category": "ela.revising.grammar.subject_verb_agreement",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Read this sentence. Which edit should be made to correct the sentence?\n\n\"The collection of rare stamps were donated to the library last month.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "Change \"were\" to \"was\""},
+      {"label": "B", "text": "Change \"stamps\" to \"stamp\""},
+      {"label": "C", "text": "Change \"donated\" to \"donating\""},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "The subject is 'collection' (singular), not 'stamps.' The verb must agree with the singular subject: 'was donated.'",
+    "commonMistakes": ["B: 'stamps' is correct as the object of the preposition", "C: changing to 'donating' would create a fragment", "D: there is a subject-verb agreement error"]
+  },
+  {
+    "id": "ela-re-004",
+    "section": "ela",
+    "category": "ela.revising.grammar.pronoun_antecedent",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read this sentence. Which edit should be made to correct the sentence?\n\n\"Each of the girls on the soccer team brought their own water bottle to practice.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "Change \"their\" to \"her\""},
+      {"label": "B", "text": "Change \"their\" to \"its\""},
+      {"label": "C", "text": "Change \"Each\" to \"All\""},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Each' is a singular indefinite pronoun and requires a singular pronoun. Since the antecedent refers to 'girls,' 'her' is the correct replacement.",
+    "commonMistakes": ["B: 'its' is used for things, not people", "C: while 'all' would make 'their' correct, the question asks to correct the existing sentence", "D: there is a pronoun-antecedent agreement error"]
+  },
+  {
+    "id": "ela-re-005",
+    "section": "ela",
+    "category": "ela.revising.grammar.verb_tense",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read this sentence. Which edit should be made to correct the sentence?\n\n\"The detective examined the evidence carefully and then goes to interview the witness.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "Change \"examined\" to \"examines\""},
+      {"label": "B", "text": "Change \"goes\" to \"went\""},
+      {"label": "C", "text": "Change \"examined\" to \"examining\""},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "B",
+    "explanation": "The sentence begins in the past tense ('examined') so the second verb must also be past tense ('went') to maintain consistency.",
+    "commonMistakes": ["A: shifting to present tense would fix consistency but changes the intended past-tense narrative", "C: 'examining' would create a grammatical error", "D: there is a verb tense inconsistency"]
+  },
+  {
+    "id": "ela-re-006",
+    "section": "ela",
+    "category": "ela.revising.grammar.comma_usage",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Read this sentence. Which edit should be made to correct the sentence?\n\n\"After finishing her homework Maya went outside to walk the dog.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "Add a comma after \"homework\""},
+      {"label": "B", "text": "Add a comma after \"Maya\""},
+      {"label": "C", "text": "Add a comma after \"outside\""},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "An introductory phrase ('After finishing her homework') should be followed by a comma before the main clause begins.",
+    "commonMistakes": ["B: placing the comma after the subject disrupts the sentence", "C: no comma is needed after 'outside'", "D: a comma is required after the introductory phrase"]
+  },
+  {
+    "id": "ela-re-007",
+    "section": "ela",
+    "category": "ela.revising.grammar.modifiers",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read this sentence. Which revision corrects the error?\n\n\"Covered in chocolate frosting, Marcus handed the cake to his grandmother.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "Marcus handed the cake, covered in chocolate frosting, to his grandmother."},
+      {"label": "B", "text": "Marcus, covered in chocolate frosting, handed the cake to his grandmother."},
+      {"label": "C", "text": "Covered in chocolate frosting, Marcus handed his grandmother the cake."},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "The modifier 'covered in chocolate frosting' is dangling — it illogically modifies 'Marcus' instead of 'the cake.' Option A places the modifier next to 'cake.'",
+    "commonMistakes": ["B: this still says Marcus is covered in frosting", "C: rearranges but doesn't fix the dangling modifier", "D: there is a dangling modifier error"]
+  },
+  {
+    "id": "ela-re-008",
+    "section": "ela",
+    "category": "ela.revising.grammar.parallelism",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read this sentence. Which revision corrects the error in parallel structure?\n\n\"The coach told the players to stretch before the game, warming up with drills, and that they should stay hydrated.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "The coach told the players to stretch before the game, to warm up with drills, and to stay hydrated."},
+      {"label": "B", "text": "The coach told the players to stretch before the game, warm up with drills, and staying hydrated."},
+      {"label": "C", "text": "The coach told the players stretching before the game, warming up with drills, and that they should stay hydrated."},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "The three items in the list must share the same grammatical form. Option A uses parallel infinitives: 'to stretch,' 'to warm up,' and 'to stay.'",
+    "commonMistakes": ["B: 'staying' breaks the parallel structure", "C: mixes gerunds with a clause, still not parallel", "D: the original mixes infinitive, gerund, and clause forms"]
+  },
+  {
+    "id": "ela-re-009",
+    "section": "ela",
+    "category": "ela.revising.grammar.clarity_concision",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which revision of this sentence is the most concise without changing the meaning?\n\n\"Due to the fact that the road was closed, we had to take an alternate route that was longer in distance.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "Because the road was closed, we had to take a longer alternate route."},
+      {"label": "B", "text": "The road was closed, and so we took an alternate route that happened to be longer."},
+      {"label": "C", "text": "Due to road closure, an alternate and longer route was required to be taken by us."},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Due to the fact that' is wordy and can be replaced with 'because.' 'Longer in distance' is redundant — 'longer' suffices. Option A is the most concise.",
+    "commonMistakes": ["B: still wordy with 'happened to be'", "C: uses passive voice and is awkward", "D: the sentence contains unnecessary wordiness"]
+  },
+  {
+    "id": "ela-re-010",
+    "section": "ela",
+    "category": "ela.revising.grammar.word_choice",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Read this sentence. Which edit should be made to correct the sentence?\n\n\"The loud thunder had a big affect on the sleeping baby.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "Change \"affect\" to \"effect\""},
+      {"label": "B", "text": "Change \"loud\" to \"loudly\""},
+      {"label": "C", "text": "Change \"sleeping\" to \"asleep\""},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Affect' is typically a verb, while 'effect' is typically a noun. Here, a noun is needed after the article 'a,' so 'effect' is correct.",
+    "commonMistakes": ["B: 'loud' correctly modifies the noun 'thunder'", "C: 'sleeping' works as an adjective here", "D: 'affect' is incorrectly used as a noun"]
+  },
+  {
+    "id": "ela-re-011",
+    "section": "ela",
+    "category": "ela.revising.grammar.transitions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read these sentences. Which transition best connects the two ideas?\n\n\"The hiking trail was steep and covered in loose gravel. _______, the group decided to continue to the summit.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "Furthermore"},
+      {"label": "B", "text": "Nevertheless"},
+      {"label": "C", "text": "Similarly"},
+      {"label": "D", "text": "For instance"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "The second sentence contrasts with the first — despite the difficulty, the group continued. 'Nevertheless' signals this contrast.",
+    "commonMistakes": ["A: 'furthermore' adds information, not contrast", "C: 'similarly' shows comparison, not contrast", "D: 'for instance' introduces an example"]
+  },
+  {
+    "id": "ela-re-012",
+    "section": "ela",
+    "category": "ela.revising.grammar.run_ons",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read this sentence. Which edit should be made to correct the sentence?\n\n\"The artist spent months perfecting her technique, she wanted every brushstroke to convey emotion.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "The artist spent months perfecting her technique; she wanted every brushstroke to convey emotion."},
+      {"label": "B", "text": "The artist spent months perfecting her technique she wanted every brushstroke to convey emotion."},
+      {"label": "C", "text": "The artist spent months, perfecting her technique, she wanted every brushstroke to convey emotion."},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "The original is a comma splice — two independent clauses joined only by a comma. A semicolon correctly separates them.",
+    "commonMistakes": ["B: removes the comma entirely, creating a run-on", "C: adds more commas but doesn't fix the splice", "D: the comma splice must be corrected"]
+  },
+  {
+    "id": "ela-re-013",
+    "section": "ela",
+    "category": "ela.revising.grammar.subject_verb_agreement",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read this sentence. Which edit should be made to correct the sentence?\n\n\"Neither the teacher nor the students was prepared for the fire drill.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "Change \"was\" to \"were\""},
+      {"label": "B", "text": "Change \"nor\" to \"or\""},
+      {"label": "C", "text": "Change \"prepared\" to \"preparing\""},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "With 'neither...nor,' the verb agrees with the subject closest to it. 'Students' is plural, so the verb should be 'were.'",
+    "commonMistakes": ["B: 'nor' is the correct correlative conjunction with 'neither'", "C: changing 'prepared' would alter the sentence structure incorrectly", "D: there is a subject-verb agreement error"]
+  },
+  {
+    "id": "ela-re-014",
+    "section": "ela",
+    "category": "ela.revising.grammar.comma_usage",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Read this sentence. Which version uses commas correctly?\n\n\"Dr. Patel who has been practicing medicine for twenty years recently published a study on childhood nutrition.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "Dr. Patel, who has been practicing medicine for twenty years, recently published a study on childhood nutrition."},
+      {"label": "B", "text": "Dr. Patel who has been practicing medicine for twenty years, recently published a study on childhood nutrition."},
+      {"label": "C", "text": "Dr. Patel, who has been practicing medicine for twenty years recently published a study on childhood nutrition."},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "The clause 'who has been practicing medicine for twenty years' is nonessential (nonrestrictive) information and must be set off by commas on both sides.",
+    "commonMistakes": ["B: missing the first comma before 'who'", "C: missing the second comma after 'years'", "D: the nonrestrictive clause needs commas"]
+  },
+  {
+    "id": "ela-re-015",
+    "section": "ela",
+    "category": "ela.revising.grammar.modifiers",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Read this sentence. Which revision corrects the error?\n\n\"Walking through the park on a sunny afternoon, the flowers seemed to bloom in every direction.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "Walking through the park on a sunny afternoon, I noticed flowers blooming in every direction."},
+      {"label": "B", "text": "The flowers, walking through the park on a sunny afternoon, seemed to bloom in every direction."},
+      {"label": "C", "text": "Walking through the park on a sunny afternoon, blooming flowers were in every direction."},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "The participial phrase 'Walking through the park' dangles because 'flowers' cannot walk. Option A provides a logical subject ('I') for the modifier.",
+    "commonMistakes": ["B: moving the phrase next to 'flowers' is absurd since flowers can't walk", "C: still has no logical subject for 'walking'", "D: the dangling modifier must be corrected"]
+  },
+  {
+    "id": "ela-re-016",
+    "section": "ela",
+    "category": "ela.revising.grammar.verb_tense",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Read this sentence. Which edit should be made to correct the sentence?\n\n\"By the time the paramedics arrived, the bystanders already performed CPR for ten minutes.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "Change \"arrived\" to \"arrive\""},
+      {"label": "B", "text": "Change \"performed\" to \"had been performing\""},
+      {"label": "C", "text": "Change \"performed\" to \"will perform\""},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "B",
+    "explanation": "The sentence describes an action (performing CPR) that was ongoing before another past event (paramedics arriving). The past perfect progressive 'had been performing' correctly shows this relationship.",
+    "commonMistakes": ["A: changing 'arrived' to present tense would create a tense inconsistency", "C: future tense makes no sense in this past context", "D: the tense relationship is incorrect as written"]
+  },
+  {
+    "id": "ela-re-017",
+    "section": "ela",
+    "category": "ela.revising.grammar.word_choice",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Read this sentence. Which edit should be made to correct the sentence?\n\n\"The principle of the school announced that classes would be canceled due to the snowstorm.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "Change \"principle\" to \"principal\""},
+      {"label": "B", "text": "Change \"canceled\" to \"canceling\""},
+      {"label": "C", "text": "Change \"due to\" to \"because\""},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Principal' refers to the head of a school, while 'principle' means a fundamental belief or rule. The sentence refers to a person, so 'principal' is correct.",
+    "commonMistakes": ["B: 'canceled' is correct in this context", "C: 'due to' is acceptable here", "D: 'principle' is the wrong word"]
+  },
+  {
+    "id": "ela-re-018",
+    "section": "ela",
+    "category": "ela.revising.grammar.parallelism",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Read this sentence. Which revision corrects the error in parallel structure?\n\n\"The documentary was praised for its stunning cinematography, insightful interviews, and because it addressed an important social issue.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "The documentary was praised for its stunning cinematography, insightful interviews, and important social commentary."},
+      {"label": "B", "text": "The documentary was praised for its stunning cinematography, for insightful interviews, and because it addressed an important social issue."},
+      {"label": "C", "text": "The documentary was praised because of its stunning cinematography, insightful interviews, and it addressed an important social issue."},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "The list should contain parallel noun phrases. Option A uses three noun phrases: 'stunning cinematography,' 'insightful interviews,' and 'important social commentary.'",
+    "commonMistakes": ["B: mixing 'for' and 'because' breaks parallelism", "C: 'it addressed' is a clause, not a noun phrase", "D: the original mixes noun phrases with a clause"]
+  },
+  {
+    "id": "ela-re-019",
+    "section": "ela",
+    "category": "ela.revising.grammar.clarity_concision",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Which revision of this sentence is the most clear and concise?\n\n\"It is important to note that the reason the experiment failed was because the temperature was not properly controlled by the researchers.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "The experiment failed because the researchers did not properly control the temperature."},
+      {"label": "B", "text": "It should be noted that improper temperature control by the researchers was the reason for the experiment's failure."},
+      {"label": "C", "text": "The reason why the experiment failed was due to the fact that temperature was not controlled."},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Option A eliminates the wordy opening ('It is important to note that'), fixes the redundant 'the reason...was because' construction, and uses active voice.",
+    "commonMistakes": ["B: still uses passive voice and a wordy opening", "C: 'the reason...was due to the fact' is even wordier", "D: the original is unnecessarily verbose"]
+  },
+  {
+    "id": "ela-re-020",
+    "section": "ela",
+    "category": "ela.revising.grammar.transitions",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Read these sentences. Which transition best connects the two ideas?\n\n\"The city council approved funding for three new community gardens. _______, local residents had submitted a petition with over two thousand signatures supporting the project.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "In contrast"},
+      {"label": "B", "text": "Previously"},
+      {"label": "C", "text": "As a result"},
+      {"label": "D", "text": "On the other hand"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "The petition was submitted before the council's approval. 'Previously' signals that the second sentence describes an earlier event that provides context.",
+    "commonMistakes": ["A: there is no contrast between the two ideas", "C: the petition is not a result of the approval; it preceded it", "D: the ideas are not opposing"]
+  },
+  {
+    "id": "ela-re-021",
+    "section": "ela",
+    "category": "ela.revising.passage.sentence_placement",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read this passage. Where should sentence 6 be placed to improve the organization of the paragraph?",
+    "stimulus": "(1) The monarch butterfly's annual migration is one of nature's most remarkable journeys. (2) Each fall, millions of monarchs travel up to 3,000 miles from Canada and the northern United States to the mountains of central Mexico. (3) Scientists have discovered that the butterflies use a combination of the sun's position and Earth's magnetic field to navigate. (4) Once they arrive, the monarchs cluster together on oyamel fir trees, sometimes covering entire branches. (5) In the spring, they begin the long journey north again, though no single butterfly completes the entire round trip. (6) Despite traveling such vast distances, the butterflies weigh less than a gram.",
+    "passageId": "passage-monarch",
+    "options": [
+      {"label": "A", "text": "After sentence 1"},
+      {"label": "B", "text": "After sentence 2"},
+      {"label": "C", "text": "After sentence 4"},
+      {"label": "D", "text": "Leave as is."}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Sentence 6 emphasizes how impressive the migration distance is by contrasting it with the butterfly's tiny weight. It fits best after sentence 2, which introduces the 3,000-mile distance.",
+    "commonMistakes": ["A: too early — the distance hasn't been mentioned yet", "C: this interrupts the arrival-to-departure flow", "D: at the end, the contrast feels disconnected from the distance detail"]
+  },
+  {
+    "id": "ela-re-022",
+    "section": "ela",
+    "category": "ela.revising.passage.irrelevant_sentence",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Read this passage. Which sentence is irrelevant to the argument presented in the paragraph and should be removed?",
+    "stimulus": "(1) The monarch butterfly's annual migration is one of nature's most remarkable journeys. (2) Each fall, millions of monarchs travel up to 3,000 miles from Canada and the northern United States to the mountains of central Mexico. (3) Scientists have discovered that the butterflies use a combination of the sun's position and Earth's magnetic field to navigate. (4) Many people enjoy planting butterfly gardens in their backyards. (5) Once they arrive, the monarchs cluster together on oyamel fir trees, sometimes covering entire branches. (6) In the spring, they begin the long journey north again, though no single butterfly completes the entire round trip.",
+    "passageId": "passage-monarch",
+    "options": [
+      {"label": "A", "text": "Sentence 2"},
+      {"label": "B", "text": "Sentence 3"},
+      {"label": "C", "text": "Sentence 4"},
+      {"label": "D", "text": "Sentence 5"}
+    ],
+    "correctAnswer": "C",
+    "explanation": "Sentence 4 discusses backyard butterfly gardens, which is off-topic. The paragraph focuses on the monarch's migration journey, not gardening.",
+    "commonMistakes": ["A: sentence 2 provides essential details about the migration route", "B: sentence 3 explains how they navigate, relevant to migration", "D: sentence 5 describes what happens when they arrive"]
+  },
+  {
+    "id": "ela-re-023",
+    "section": "ela",
+    "category": "ela.revising.passage.best_transition",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read this passage. Which transition should be added to the beginning of sentence 5 to best connect it to the rest of the paragraph?",
+    "stimulus": "(1) The monarch butterfly's annual migration is one of nature's most remarkable journeys. (2) Each fall, millions of monarchs travel up to 3,000 miles from Canada and the northern United States to the mountains of central Mexico. (3) Scientists have discovered that the butterflies use a combination of the sun's position and Earth's magnetic field to navigate. (4) Once they arrive, the monarchs cluster together on oyamel fir trees, sometimes covering entire branches. (5) No single butterfly completes the entire round trip. (6) The generation that flies south in the fall lives up to eight months, but its offspring make the return journey north the following spring.",
+    "passageId": "passage-monarch",
+    "options": [
+      {"label": "A", "text": "For example,"},
+      {"label": "B", "text": "Remarkably,"},
+      {"label": "C", "text": "In addition,"},
+      {"label": "D", "text": "Meanwhile,"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "'Remarkably' emphasizes the surprising nature of the fact that no single butterfly completes the round trip, which fits the paragraph's tone of wonder about the migration.",
+    "commonMistakes": ["A: this is not an example of the previous sentence", "C: 'in addition' is too neutral for this surprising fact", "D: 'meanwhile' implies simultaneous events, which doesn't fit"]
+  },
+  {
+    "id": "ela-re-024",
+    "section": "ela",
+    "category": "ela.revising.passage.sentence_revision",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Read this passage. Which revision of sentence 3 best maintains the formal style of the paragraph?",
+    "stimulus": "(1) The monarch butterfly's annual migration is one of nature's most remarkable journeys. (2) Each fall, millions of monarchs travel up to 3,000 miles from Canada and the northern United States to the mountains of central Mexico. (3) It's pretty crazy how the butterflies basically use the sun and magnets to figure out where they're going. (4) Once they arrive, the monarchs cluster together on oyamel fir trees, sometimes covering entire branches. (5) In the spring, they begin the long journey north again, though no single butterfly completes the entire round trip.",
+    "passageId": "passage-monarch",
+    "options": [
+      {"label": "A", "text": "Scientists have discovered that the butterflies navigate using a combination of the sun's position and Earth's magnetic field."},
+      {"label": "B", "text": "The butterflies basically know where to go because of the sun and magnets, which is really cool."},
+      {"label": "C", "text": "Using the sun and magnets, the butterflies figure out where they're headed."},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "The paragraph uses a formal, informative tone. Option A replaces the informal language ('pretty crazy,' 'basically,' 'figure out') with precise, academic language that matches the rest of the passage.",
+    "commonMistakes": ["B: still uses informal language ('basically,' 'really cool')", "C: 'figure out' and 'headed' remain too casual", "D: the informal tone of sentence 3 clashes with the passage"]
+  },
+  {
+    "id": "ela-re-025",
+    "section": "ela",
+    "category": "ela.revising.passage.paragraph_organization",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Read this passage. Which sentence sequence would best improve the logical organization of the paragraph?",
+    "stimulus": "(1) The monarch butterfly's annual migration is one of nature's most remarkable journeys. (2) In the spring, they begin the long journey north again. (3) Each fall, millions of monarchs travel up to 3,000 miles to central Mexico. (4) Once they arrive, the monarchs cluster together on oyamel fir trees. (5) Scientists have discovered that the butterflies navigate using the sun's position and Earth's magnetic field.",
+    "passageId": "passage-monarch",
+    "options": [
+      {"label": "A", "text": "1, 3, 5, 4, 2"},
+      {"label": "B", "text": "1, 5, 3, 2, 4"},
+      {"label": "C", "text": "1, 2, 3, 4, 5"},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "The logical sequence is: introduce the migration (1), describe the fall journey south (3), explain how they navigate (5), describe their arrival (4), then describe the spring return (2).",
+    "commonMistakes": ["B: navigation before the journey is described feels premature", "C: the return north (2) shouldn't come before the journey south (3)", "D: the current order is illogical — spring return comes before the fall departure"]
+  },
+  {
+    "id": "ela-re-026",
+    "section": "ela",
+    "category": "ela.revising.passage.sentence_placement",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read this passage. Where should the following sentence be added to best improve the paragraph?\n\n\"This process, known as desalination, requires significant amounts of energy.\"",
+    "stimulus": "(1) Access to clean drinking water remains one of the greatest challenges in many parts of the world. (2) In coastal regions, engineers have developed methods to remove salt from seawater. (3) Some facilities use a technique called reverse osmosis, which forces water through specialized membranes. (4) Others rely on thermal distillation, heating seawater until it evaporates and then collecting the freshwater vapor. (5) Critics argue that more investment should go toward conserving existing freshwater sources instead.",
+    "passageId": "passage-water",
+    "options": [
+      {"label": "A", "text": "After sentence 1"},
+      {"label": "B", "text": "After sentence 2"},
+      {"label": "C", "text": "After sentence 4"},
+      {"label": "D", "text": "After sentence 5"}
+    ],
+    "correctAnswer": "C",
+    "explanation": "The new sentence defines desalination and mentions its energy cost. It fits best after sentence 4, which completes the description of the two desalination methods, and transitions naturally to the criticism in sentence 5.",
+    "commonMistakes": ["A: no context for 'this process' yet", "B: only one method has been described; the summary should come after both", "D: after the criticism, it would feel out of place"]
+  },
+  {
+    "id": "ela-re-027",
+    "section": "ela",
+    "category": "ela.revising.passage.irrelevant_sentence",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read this passage. Which sentence is irrelevant to the main idea of the paragraph and should be removed?",
+    "stimulus": "(1) Access to clean drinking water remains one of the greatest challenges in many parts of the world. (2) In coastal regions, engineers have developed methods to remove salt from seawater. (3) The ocean covers approximately 71 percent of Earth's surface and is home to countless marine species. (4) Some facilities use reverse osmosis, which forces water through specialized membranes to filter out salt. (5) Others rely on thermal distillation, heating seawater until it evaporates and then collecting the freshwater vapor. (6) These technologies offer hope to communities that lack reliable freshwater sources.",
+    "passageId": "passage-water",
+    "options": [
+      {"label": "A", "text": "Sentence 2"},
+      {"label": "B", "text": "Sentence 3"},
+      {"label": "C", "text": "Sentence 5"},
+      {"label": "D", "text": "Sentence 6"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Sentence 3 discusses the ocean's size and marine life, which is not relevant to the paragraph's focus on desalination technology for drinking water.",
+    "commonMistakes": ["A: sentence 2 introduces the desalination concept", "C: sentence 5 describes a desalination method", "D: sentence 6 provides a concluding statement about the technology's importance"]
+  },
+  {
+    "id": "ela-re-028",
+    "section": "ela",
+    "category": "ela.revising.passage.best_transition",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Read this passage. Which transition should be added to the beginning of sentence 5 to best connect it to the preceding ideas?",
+    "stimulus": "(1) Access to clean drinking water remains one of the greatest challenges in many parts of the world. (2) In coastal regions, engineers have developed desalination methods to remove salt from seawater. (3) Some facilities use reverse osmosis, which forces water through specialized membranes. (4) Others rely on thermal distillation, heating seawater and collecting the freshwater vapor. (5) Critics argue that these technologies consume too much energy and that more investment should go toward conserving existing freshwater sources.",
+    "passageId": "passage-water",
+    "options": [
+      {"label": "A", "text": "Furthermore,"},
+      {"label": "B", "text": "However,"},
+      {"label": "C", "text": "Similarly,"},
+      {"label": "D", "text": "In other words,"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Sentence 5 introduces a counterargument to the positive portrayal of desalination in sentences 2–4. 'However' signals this shift to an opposing viewpoint.",
+    "commonMistakes": ["A: 'furthermore' adds supporting information, but sentence 5 introduces opposition", "C: 'similarly' shows likeness, not contrast", "D: 'in other words' rephrases, but sentence 5 introduces a new opposing idea"]
+  },
+  {
+    "id": "ela-re-029",
+    "section": "ela",
+    "category": "ela.revising.passage.sentence_revision",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read this passage. Which revision of sentence 4 best improves its clarity?",
+    "stimulus": "(1) Access to clean drinking water remains one of the greatest challenges in many parts of the world. (2) In coastal regions, engineers have developed desalination methods to remove salt from seawater. (3) Some facilities use reverse osmosis, which forces water through specialized membranes. (4) Heating seawater until it evaporates and the freshwater vapor is collected by other facilities through thermal distillation. (5) These technologies offer hope to communities that lack reliable freshwater sources.",
+    "passageId": "passage-water",
+    "options": [
+      {"label": "A", "text": "Other facilities rely on thermal distillation, heating seawater until it evaporates and then collecting the freshwater vapor."},
+      {"label": "B", "text": "Thermal distillation is when seawater is heated and vapor collected by them."},
+      {"label": "C", "text": "Other facilities, through thermal distillation, the seawater is heated until evaporating and freshwater vapor collection."},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "The original sentence 4 is awkwardly constructed with passive voice and a buried subject. Option A puts the subject ('other facilities') first and uses active, parallel structure.",
+    "commonMistakes": ["B: vague pronoun 'them' and informal 'is when' construction", "C: garbled syntax with no clear main verb", "D: the original is confusing and poorly structured"]
+  },
+  {
+    "id": "ela-re-030",
+    "section": "ela",
+    "category": "ela.revising.passage.paragraph_organization",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Read this passage. Which sentence sequence would best improve the logical organization of the paragraph?",
+    "stimulus": "(1) These technologies offer hope to arid communities worldwide. (2) Access to clean drinking water remains one of the greatest challenges in many parts of the world. (3) However, critics point out that desalination consumes large amounts of energy. (4) Some facilities use reverse osmosis, while others rely on thermal distillation. (5) In coastal regions, engineers have developed methods to remove salt from seawater.",
+    "passageId": "passage-water",
+    "options": [
+      {"label": "A", "text": "2, 5, 4, 1, 3"},
+      {"label": "B", "text": "2, 5, 4, 3, 1"},
+      {"label": "C", "text": "5, 4, 2, 3, 1"},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "The logical flow is: introduce the problem (2), introduce the solution (5), explain specific methods (4), state the positive impact (1), then present the counterargument (3).",
+    "commonMistakes": ["B: ending on the hopeful note (1) after the criticism (3) is less effective than building to the counterpoint", "C: starts with the solution before establishing the problem", "D: the current order is clearly disorganized"]
+  }
+]
