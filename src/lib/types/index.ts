@@ -217,6 +217,70 @@ export interface ExamScore {
 }
 
 // ============================================================================
+// Parent Dashboard Types
+// ============================================================================
+
+export interface LinkedChild {
+  id: string
+  first_name: string
+  last_name: string
+  grade: GradeLevel | null
+  target_school: string | null
+  overall_accuracy: number
+  total_questions: number
+  current_streak: number
+  sessions_this_week: number
+  last_active_at: string | null
+}
+
+export interface ChildDetail extends LinkedChild {
+  recent_sessions: ChildSession[]
+  accuracy_trend: { week: string; accuracy: number }[]
+  section_breakdown: { section: string; accuracy: number; questions: number }[]
+}
+
+export interface ChildSession {
+  id: string
+  section_filter: SectionType | null
+  category_filter: string | null
+  mode: SessionMode
+  total_questions: number
+  accuracy: number | null
+  time_spent_seconds: number
+  completed_at: string
+}
+
+export interface ChildSkillData {
+  student_name: string
+  skills: {
+    category: string
+    section: SectionType
+    mastery_level: number
+    accuracy: number
+    trend: TrendDirection
+    total_attempted: number
+  }[]
+}
+
+export interface ChildExamData {
+  student_name: string
+  exams: {
+    id: string
+    composite_score: number | null
+    ela_scaled_score: number | null
+    math_scaled_score: number | null
+    completed_at: string | null
+    previous_composite: number | null
+  }[]
+}
+
+export interface ChildSessionsData {
+  student_name: string
+  sessions: ChildSession[]
+  total: number
+}
+
+// ============================================================================
 // API Types
 // ============================================================================
 

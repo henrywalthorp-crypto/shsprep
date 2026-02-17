@@ -23,7 +23,12 @@ import {
   Check,
   Crown,
   Loader2,
+  Copy,
+  Link2,
+  UserX,
+  RefreshCw,
 } from "lucide-react";
+import { useRole } from "@/lib/context/role-context";
 import type { Profile } from "@/lib/types";
 
 const profileSchema = z.object({
@@ -48,10 +53,15 @@ type PasswordForm = z.infer<typeof passwordSchema>;
 export default function ProfilePage() {
   const router = useRouter();
   const { signOut } = useAuth();
+  const { role } = useRole();
   const [profile, setProfile] = useState<Profile | null>(null);
   const [loading, setLoading] = useState(true);
   const [activeSection, setActiveSection] = useState<"profile" | "security">("profile");
   const [saving, setSaving] = useState(false);
+  const [inviteCode, setInviteCode] = useState<string | null>(null);
+  const [linkedParents, setLinkedParents] = useState<{ id: string; name: string }[]>([]);
+  const [generatingCode, setGeneratingCode] = useState(false);
+  const [codeCopied, setCodeCopied] = useState(false);
 
   const profileForm = useForm<ProfileForm>({
     resolver: zodResolver(profileSchema),
@@ -73,11 +83,51 @@ export default function ProfilePage() {
             grade: d.profile.grade || undefined,
             target_school: d.profile.target_school || "",
           });
+          if (d.profile.invite_code) setInviteCode(d.profile.invite_code);
+          if (d.profile.linked_parents) setLinkedParents(d.profile.linked_parents);
         }
       })
       .catch(() => toast.error("Failed to load profile"))
       .finally(() => setLoading(false));
   }, []);
+
+  const generateInviteCode = async () => {
+    setGeneratingCode(true);
+    try {
+      const res = await fetch("/api/profile/invite-code", { method: "POST" });
+      const d = await res.json();
+      if (res.ok && d.invite_code) {
+        setInviteCode(d.invite_code);
+        toast.success("Invite code generated!");
+      } else {
+        toast.error(d.error || "Failed to generate code");
+      }
+    } catch { toast.error("Network error"); }
+    finally { setGeneratingCode(false); }
+  };
+
+  const copyInviteCode = () => {
+    if (inviteCode) {
+      navigator.clipboard.writeText(inviteCode);
+      setCodeCopied(true);
+      toast.success("Copied to clipboard!");
+      setTimeout(() => setCodeCopied(false), 2000);
+    }
+  };
+
+  const unlinkParent = async (parentId: string) => {
+    try {
+      const res = await fetch("/api/parent/unlink", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ parent_id: parentId }),
+      });
+      if (res.ok) {
+        setLinkedParents((prev) => prev.filter((p) => p.id !== parentId));
+        toast.success("Parent unlinked");
+      }
+    } catch { toast.error("Failed to unlink"); }
+  };
 
   const onSaveProfile = async (data: ProfileForm) => {
     setSaving(true);
@@ -255,6 +305,7 @@ export default function ProfilePage() {
             <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} className="space-y-6">
               <form onSubmit={passwordForm.handleSubmit(onChangePassword)} className="bg-white rounded-[24px] border border-slate-100 p-6">
                 <h2 className="font-black text-deep-forest text-lg mb-6">Change Password</h2>
+
                 <div className="space-y-4">
                   <div>
                     <label className="text-[10px] font-black text-slate-400 uppercase tracking-widest mb-2 block">Current Password</label>
@@ -308,6 +359,77 @@ export default function ProfilePage() {
           )}
         </div>
       </div>
+
+      {/* Parent Access Section — Students Only */}
+      {role === "student" && (
+        <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} className="mt-8">
+          <div className="bg-white rounded-[24px] border border-slate-100 p-6">
+            <div className="flex items-center gap-3 mb-6">
+              <Link2 className="w-5 h-5 text-[#4F46E5]" />
+              <h2 className="font-black text-deep-forest text-lg">Parent Access</h2>
+            </div>
+            <p className="text-sm text-slate-400 font-medium mb-6">
+              Share your invite code with a parent so they can track your preparation progress.
+            </p>
+
+            {/* Invite Code */}
+            <div className="mb-6">
+              <label className="text-[10px] font-black text-slate-400 uppercase tracking-widest mb-2 block">Your Invite Code</label>
+              {inviteCode ? (
+                <div className="flex items-center gap-3">
+                  <div className="px-6 py-4 bg-slate-50 rounded-xl font-black text-2xl tracking-[0.3em] text-deep-forest select-all">
+                    {inviteCode}
+                  </div>
+                  <button
+                    onClick={copyInviteCode}
+                    className="p-3 rounded-xl bg-slate-100 hover:bg-slate-200 transition-colors"
+                    title="Copy to clipboard"
+                  >
+                    {codeCopied ? <Check className="w-5 h-5 text-[#22C55E]" /> : <Copy className="w-5 h-5 text-slate-500" />}
+                  </button>
+                  <button
+                    onClick={generateInviteCode}
+                    disabled={generatingCode}
+                    className="p-3 rounded-xl bg-slate-100 hover:bg-slate-200 transition-colors"
+                    title="Regenerate code"
+                  >
+                    <RefreshCw className={`w-5 h-5 text-slate-500 ${generatingCode ? "animate-spin" : ""}`} />
+                  </button>
+                </div>
+              ) : (
+                <button
+                  onClick={generateInviteCode}
+                  disabled={generatingCode}
+                  className="px-6 py-3 bg-[#4F46E5] text-white rounded-xl font-black text-sm shadow-lg shadow-[#4F46E5]/20 hover:bg-[#4338CA] transition-colors disabled:opacity-50 flex items-center gap-2"
+                >
+                  {generatingCode && <Loader2 className="w-4 h-4 animate-spin" />}
+                  Generate Invite Code
+                </button>
+              )}
+            </div>
+
+            {/* Linked Parents */}
+            {linkedParents.length > 0 && (
+              <div>
+                <label className="text-[10px] font-black text-slate-400 uppercase tracking-widest mb-3 block">Linked Parents</label>
+                <div className="space-y-2">
+                  {linkedParents.map((parent) => (
+                    <div key={parent.id} className="flex items-center justify-between p-4 bg-slate-50 rounded-xl">
+                      <span className="text-sm font-bold text-deep-forest">{parent.name}</span>
+                      <button
+                        onClick={() => unlinkParent(parent.id)}
+                        className="flex items-center gap-1.5 text-xs font-bold text-[#EF4444] hover:underline"
+                      >
+                        <UserX className="w-3.5 h-3.5" /> Unlink
+                      </button>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+          </div>
+        </motion.div>
+      )}
     </div>
   );
 }
