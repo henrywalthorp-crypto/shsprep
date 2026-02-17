@@ -4,22 +4,22 @@ import Image from 'next/image';
 const BlogPreview = () => {
   const blogPosts = [
     {
-      title: "SHSAT 2024: Everything You Need to Know",
-      tag: "Guide",
-      image: "https://images.unsplash.com/photo-1434031211128-a39118a7ae3f?auto=format&fit=crop&q=80&w=800",
-      link: "/blog/shsat-2024-guide"
+      title: "Parent's Guide to SHSAT Registration & Preparation (2026)",
+      tag: "For Parents",
+      image: "https://images.unsplash.com/photo-1491438590914-bc09fcaaf77a?auto=format&fit=crop&q=80&w=800",
+      link: "/blog/parent-guide-shsat-registration-2026"
     },
     {
-      title: "How to Master the SHSAT Math Section",
-      tag: "Tips",
+      title: "SHSAT Math 2026: The Complete Study Guide",
+      tag: "Math",
       image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&q=80&w=800",
-      link: "/blog/shsat-math-mastery"
+      link: "/blog/shsat-math-2026-study-guide"
     },
     {
-      title: "The Top 5 Specialized High Schools in NYC",
-      tag: "Schools",
-      image: "https://images.unsplash.com/photo-1541339907198-e08756ebafe3?auto=format&fit=crop&q=80&w=800",
-      link: "/blog/top-nyc-specialized-schools"
+      title: "2026 SHSAT Changes: What's New and How to Prepare",
+      tag: "Test Prep",
+      image: "https://images.unsplash.com/photo-1434031211128-a39118a7ae3f?auto=format&fit=crop&q=80&w=800",
+      link: "/blog/2026-shsat-adaptive-changes"
     }
   ];
 

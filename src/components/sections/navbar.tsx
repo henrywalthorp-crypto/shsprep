@@ -137,6 +137,7 @@ const Navbar = () => {
               </div>
               <a href="/pricing" className="px-4 py-2 rounded-full hover:bg-black/5 transition-colors">Pricing</a>
               <a href="/resources" className="px-4 py-2 rounded-full hover:bg-black/5 transition-colors">Resources</a>
+              <a href="/blog" className="px-4 py-2 rounded-full hover:bg-black/5 transition-colors">Blog</a>
               <div
                 className="relative"
                 onMouseEnter={() => setActiveDropdown("about")}
@@ -233,6 +234,7 @@ const Navbar = () => {
                   </li>
                   <li><a href="/pricing" className="block py-4 text-xl font-bold font-display border-b border-black/5">Pricing</a></li>
                   <li><a href="/resources" className="block py-4 text-xl font-bold font-display border-b border-black/5">Resources</a></li>
+                  <li><a href="/blog" className="block py-4 text-xl font-bold font-display border-b border-black/5">Blog</a></li>
                   <li>
                     <button
                       onClick={() => setActiveDropdown(activeDropdown === "about" ? null : "about")}
