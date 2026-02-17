@@ -1,0 +1,405 @@
+{
+  "passages": [
+    {
+      "id": "passage_rc_004",
+      "type": "historical_fiction",
+      "title": "The Last Balloon",
+      "text": "On the morning of September 19, 1783, Élise pressed herself against the wooden barricade at Versailles, her fingers white against the rail. Around her, half of France seemed to have gathered — farmers who had abandoned their fields, merchants who had shuttered their stalls, noblewomen in powdered wigs leaning from gilded carriages. All of them staring at the same impossible thing: a globe of blue and gold fabric, taller than a three-story house, swaying above the palace courtyard like a great painted lantern.\n\nÉlise was fourteen and had walked eleven miles from her village because her father, a papermaker, had supplied some of the lining for the balloon's envelope. He had told her at supper three weeks ago, almost offhandedly, that the Montgolfier brothers used paper in their designs. 'Our paper,' he had said, tapping the table with a flour-dusted finger. 'Imagine that.' She had not stopped imagining since.\n\nThe balloon — they were calling it a 'montgolfière' — was tethered to the ground by heavy ropes while workers fed a straw-and-wool fire beneath its open mouth. Élise could smell the smoke from where she stood, sharp and animal. Inside the wicker basket beneath the envelope, three passengers waited: a sheep, a duck, and a rooster. The crowd found this hilarious. Élise did not. She understood that the animals were scouts, sent ahead the way miners sent canaries into tunnels. If they survived the altitude, humans might follow.\n\nKing Louis XVI was watching from a balcony. Marie Antoinette sat beside him, holding a small spyglass. Élise had never seen the King before, but she barely glanced at him. Her eyes were on the balloon.\n\nAt half past noon, the ropes were cut.\n\nThe montgolfière rose — slowly at first, then with a strange, silent urgency, as though the sky were pulling it upward by an invisible thread. The crowd gasped as one. Élise felt her stomach drop the way it did when she leaned too far over the bridge near her village. The balloon climbed above the rooftops, above the chimneys, above the spire of the palace chapel, trailing a thin veil of smoke.\n\nFor eight minutes, it drifted southeast, shrinking to the size of a coin, then a button, then a seed. When it finally descended into the forest two miles away, the crowd erupted. People wept. Strangers embraced.\n\nÉlise did not cheer. She stood perfectly still, her hand on the barricade, staring at the empty sky where the balloon had been. Something had changed — not in the sky but in her. She had spent her whole life watching smoke rise from her father's workshop and disappear. Now she understood that rising was not the same as vanishing. Things could go up and come back. Things could leave the ground and land somewhere new.\n\nShe turned and began the eleven-mile walk home, composing in her head the letter she would write to the Montgolfier brothers that evening, asking whether they had ever considered hiring a papermaker's daughter.",
+      "wordCount": 462
+    },
+    {
+      "id": "passage_rc_005",
+      "type": "social_science_nonfiction",
+      "title": "The Bystander Effect: Why Groups Don't Help",
+      "text": "On March 13, 1964, a young woman named Kitty Genovese was attacked outside her apartment building in Queens, New York. According to initial reports, thirty-eight of her neighbors witnessed the assault from their windows, yet not one called the police. The story became a national scandal and a symbol of urban indifference. Later investigations revealed that the original account was significantly exaggerated — the number of witnesses was smaller, some did call for help, and many could not see what was happening. But the flawed story had already sparked a revolution in social psychology.\n\nInspired by the Genovese case, psychologists John Darley and Bibb Latané designed a series of experiments in 1968 to test a counterintuitive hypothesis: that the presence of other people actually reduces the likelihood that any single individual will help in an emergency. In one study, participants sat in individual cubicles and communicated through an intercom system, believing they were in a group discussion. When one participant appeared to have a seizure, 85 percent of subjects who believed they were the only listener reported the emergency. But when subjects thought four other people were also listening, only 31 percent sought help.\n\nDarley and Latané called this phenomenon the bystander effect, and they identified two psychological mechanisms behind it. The first is diffusion of responsibility: when multiple people witness an emergency, each individual feels less personally obligated to act because they assume someone else will. The second mechanism is pluralistic ignorance: in ambiguous situations, people look to others for cues about how to behave. If no one else appears alarmed, each person concludes that the situation must not be serious — creating a feedback loop of inaction.\n\nSubsequent research has confirmed and refined these findings. A 2011 meta-analysis published in Psychological Bulletin examined over fifty years of bystander effect studies and found that the effect is strongest in low-danger, ambiguous situations. Interestingly, the analysis also found that in clearly dangerous emergencies — when someone is visibly bleeding, for example — the presence of bystanders can actually increase helping behavior, because the danger is unambiguous and social pressure shifts toward action.\n\nUnderstanding the bystander effect has had practical consequences. Emergency training programs now teach people to counteract diffusion of responsibility by pointing directly at a specific individual and saying, 'You — call 911.' Anti-bullying curricula in schools train students to recognize pluralistic ignorance and act even when peers seem unconcerned. The lesson of the research is not that people are heartless, but that helping is a decision shaped by social context. When individuals understand the psychological forces working against them, they are better equipped to overcome them.",
+      "wordCount": 403
+    },
+    {
+      "id": "passage_rc_006",
+      "type": "poetry",
+      "title": "What the River Keeps",
+      "text": "My brother built a boat of balsa wood\nand set it spinning on the current's back.\nWe watched it bob and weave through sun and shade,\na thumb-sized vessel charting its own track.\n\nHe said, I'll build a bigger one someday,\none wide enough for both of us to ride.\nI believed him the way children believe —\nwith the whole chest open, nothing held inside.\n\nThat was the summer of the climbing tree,\nthe summer of the rusted bicycle,\nthe last year he would walk me home from school\nbefore the world grew large andological.\n\nThe river took the boat around the bend.\nWe chased it laughing through the willow shade\nbut lost it where the water deepened, dark\nand quiet as a promise someone made.\n\nNow I am older than he was that day.\nThe climbing tree was felled. The bike is gone.\nThe river still runs past the house, still keeps\nwhatever small things we have set upon\n\nits back — a boat, a trust, a careless word,\na season we were sure would never end.\nI stand here at the bank with empty hands.\nThe current takes. The current does not bend.\n\nBut sometimes, in the eddies near the shore,\nI catch a flash of balsa, sun, and grace —\nnot the boat itself but its bright ghost,\nstill spinning in the water's keeping place.",
+      "wordCount": 222
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_rc_004_01",
+      "section": "ela",
+      "category": "ela.reading.main_idea",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "stem": "Which statement best expresses the central idea of the passage?",
+      "passageId": "passage_rc_004",
+      "options": [
+        {"label": "A", "text": "The Montgolfier brothers' balloon launch was an important event attended by the French royal family."},
+        {"label": "B", "text": "A young girl witnesses humanity's first balloon flight and is inspired to imagine a new future for herself."},
+        {"label": "C", "text": "Hot air balloons were invented using paper supplied by small village workshops."},
+        {"label": "D", "text": "Animals were used in early scientific experiments because humans feared high altitudes."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The passage follows Élise's experience at the balloon launch and culminates in her personal transformation — realizing that 'rising was not the same as vanishing' and imagining a new path for herself. A captures a factual detail but misses the personal narrative. C overstates her father's role. D is a minor detail, not the central idea.",
+      "commonMistakes": ["A — describes the historical event but misses Élise's personal arc, which is the passage's focus", "C — exaggerates a small detail about the father's paper into the central idea"]
+    },
+    {
+      "id": "q_rc_004_02",
+      "section": "ela",
+      "category": "ela.reading.best_evidence",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "stem": "Which quotation from the passage best supports the idea that the balloon launch changed Élise's understanding of possibility?",
+      "passageId": "passage_rc_004",
+      "options": [
+        {"label": "A", "text": "\"Her eyes were on the balloon.\""},
+        {"label": "B", "text": "\"She had spent her whole life watching smoke rise from her father's workshop and disappear. Now she understood that rising was not the same as vanishing.\""},
+        {"label": "C", "text": "\"The crowd gasped as one.\""},
+        {"label": "D", "text": "\"People wept. Strangers embraced.\""}
+      ],
+      "correctAnswer": "B",
+      "explanation": "This quotation directly contrasts Élise's old understanding (smoke rises and disappears) with her new realization (things can rise and return), showing how the launch changed her sense of what is possible. A shows attention but not transformation. C and D describe the crowd, not Élise's internal shift.",
+      "commonMistakes": ["A — shows focus but does not demonstrate a change in understanding", "D — describes the crowd's reaction, not Élise's personal transformation"]
+    },
+    {
+      "id": "q_rc_004_03",
+      "section": "ela",
+      "category": "ela.reading.inference",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "stem": "Based on the passage, what can the reader most reasonably infer about Élise's feelings when she does not laugh at the animals in the basket?",
+      "passageId": "passage_rc_004",
+      "options": [
+        {"label": "A", "text": "She is frightened that the animals will be harmed."},
+        {"label": "B", "text": "She takes the experiment seriously and understands its purpose."},
+        {"label": "C", "text": "She thinks the crowd is being disrespectful to the King."},
+        {"label": "D", "text": "She does not like animals and finds them uninteresting."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The passage explains that Élise 'understood that the animals were scouts, sent ahead the way miners sent canaries into tunnels.' Her seriousness comes from grasping the scientific purpose, not from fear (A), concern about propriety (C), or dislike of animals (D).",
+      "commonMistakes": ["A — while concern for the animals is plausible, the passage emphasizes understanding, not fear", "C — the passage never connects her reaction to the King's presence"]
+    },
+    {
+      "id": "q_rc_004_04",
+      "section": "ela",
+      "category": "ela.reading.vocabulary_in_context",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "stem": "As used in the passage, the word \"urgency\" most nearly means —",
+      "passageId": "passage_rc_004",
+      "options": [
+        {"label": "A", "text": "danger"},
+        {"label": "B", "text": "determination"},
+        {"label": "C", "text": "speed"},
+        {"label": "D", "text": "loudness"}
+      ],
+      "correctAnswer": "C",
+      "explanation": "The balloon rose 'slowly at first, then with a strange, silent urgency,' describing its increasing speed of ascent. The word conveys momentum and quickness. 'Danger' (A) introduces a threat not present. 'Determination' (B) implies intent the balloon lacks. 'Loudness' (D) contradicts 'silent.'",
+      "commonMistakes": ["B — personifies the balloon with willpower not supported by context", "A — introduces a sense of threat that the passage does not convey"]
+    },
+    {
+      "id": "q_rc_004_05",
+      "section": "ela",
+      "category": "ela.reading.authors_purpose",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "stem": "The author most likely includes the detail about Élise barely glancing at King Louis XVI in order to —",
+      "passageId": "passage_rc_004",
+      "options": [
+        {"label": "A", "text": "show that Élise is disrespectful toward authority figures"},
+        {"label": "B", "text": "suggest that the King was not an important historical figure"},
+        {"label": "C", "text": "emphasize that the balloon, not royalty, is what captivates Élise's imagination"},
+        {"label": "D", "text": "indicate that Élise could not see the balcony clearly from where she stood"}
+      ],
+      "correctAnswer": "C",
+      "explanation": "By noting that Élise barely looks at the King — a figure others would find awe-inspiring — the author underscores that her attention and passion are directed entirely toward the balloon and what it represents. A misreads indifference as disrespect. B is historically inaccurate. D is contradicted by the passage stating she could see him.",
+      "commonMistakes": ["A — Élise's inattention reflects fascination with the balloon, not defiance", "D — the passage says she 'barely glanced,' implying she could see him but chose not to look"]
+    },
+    {
+      "id": "q_rc_004_06",
+      "section": "ela",
+      "category": "ela.reading.figurative_language",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "stem": "The simile comparing the balloon to sizes — \"a coin, then a button, then a seed\" — primarily serves to —",
+      "passageId": "passage_rc_004",
+      "options": [
+        {"label": "A", "text": "show that the balloon was poorly constructed and shrinking"},
+        {"label": "B", "text": "convey the balloon's increasing distance through progressively smaller familiar objects"},
+        {"label": "C", "text": "suggest that Élise has poor eyesight"},
+        {"label": "D", "text": "demonstrate that the balloon was not as large as the crowd expected"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The descending size comparisons — coin, button, seed — create a visual sequence that communicates how far the balloon has traveled. Each object is smaller and more intimate, drawing the reader into Élise's perspective. A misreads apparent shrinking as literal. C and D are unsupported.",
+      "commonMistakes": ["A — the balloon appears to shrink due to distance, not structural failure", "D — the passage already established the balloon's enormous size"]
+    },
+    {
+      "id": "q_rc_004_07",
+      "section": "ela",
+      "category": "ela.reading.plot_character",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "stem": "What does the letter Élise plans to write reveal about her character?",
+      "passageId": "passage_rc_004",
+      "options": [
+        {"label": "A", "text": "She is impulsive and does not think before she acts."},
+        {"label": "B", "text": "She is ambitious and wants to be part of the future of flight."},
+        {"label": "C", "text": "She is homesick and wants to leave her village permanently."},
+        {"label": "D", "text": "She wants to convince her father to stop making paper."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "Élise composes a letter asking whether the Montgolfiers have considered hiring a papermaker's daughter, showing ambition and a desire to participate in aviation. A misreads initiative as impulsiveness. C and D are unsupported.",
+      "commonMistakes": ["A — planning a letter during an eleven-mile walk shows thoughtfulness, not impulsiveness", "C — she wants to join the Montgolfiers' work, not simply escape her village"]
+    },
+    {
+      "id": "q_rc_005_01",
+      "section": "ela",
+      "category": "ela.reading.main_idea",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "stem": "What is the central idea of the passage?",
+      "passageId": "passage_rc_005",
+      "options": [
+        {"label": "A", "text": "The murder of Kitty Genovese proved that city dwellers are heartless and indifferent."},
+        {"label": "B", "text": "The presence of other witnesses can reduce an individual's likelihood of helping, but understanding this effect can help people overcome it."},
+        {"label": "C", "text": "Psychologists Darley and Latané were the first people to study human behavior in emergencies."},
+        {"label": "D", "text": "Emergency training programs are the most effective way to reduce crime in cities."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The passage explains the bystander effect — how groups inhibit individual helping — and concludes that awareness of it enables people to act. A is contradicted by the passage's final paragraph. C overstates Darley and Latané's uniqueness. D is not a claim the passage makes.",
+      "commonMistakes": ["A — the passage explicitly states the lesson is 'not that people are heartless'", "C — the passage says they were inspired by the case, not that they were the first to study emergencies"]
+    },
+    {
+      "id": "q_rc_005_02",
+      "section": "ela",
+      "category": "ela.reading.best_evidence",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "stem": "Which sentence from the passage provides the strongest evidence that the bystander effect does not apply equally in all emergency situations?",
+      "passageId": "passage_rc_005",
+      "options": [
+        {"label": "A", "text": "\"In one study, participants sat in individual cubicles and communicated through an intercom system.\""},
+        {"label": "B", "text": "\"Darley and Latané called this phenomenon the bystander effect.\""},
+        {"label": "C", "text": "\"The analysis also found that in clearly dangerous emergencies — when someone is visibly bleeding, for example — the presence of bystanders can actually increase helping behavior.\""},
+        {"label": "D", "text": "\"Emergency training programs now teach people to counteract diffusion of responsibility.\""}
+      ],
+      "correctAnswer": "C",
+      "explanation": "This sentence directly states an exception — that in unambiguous, dangerous emergencies, bystanders can increase rather than decrease helping. This shows the effect varies by situation. A describes methodology. B names the phenomenon. D discusses countermeasures, not variation in the effect itself.",
+      "commonMistakes": ["D — describes how to counteract the effect, not evidence that it varies by situation", "A — provides experimental context but no information about when the effect does or doesn't apply"]
+    },
+    {
+      "id": "q_rc_005_03",
+      "section": "ela",
+      "category": "ela.reading.inference",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "stem": "Based on the passage, the reader can infer that pluralistic ignorance is most likely to occur when —",
+      "passageId": "passage_rc_005",
+      "options": [
+        {"label": "A", "text": "an emergency is obvious and clearly life-threatening"},
+        {"label": "B", "text": "a situation is ambiguous and people rely on others' reactions to judge its seriousness"},
+        {"label": "C", "text": "only one person witnesses an event"},
+        {"label": "D", "text": "emergency responders are already present at the scene"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The passage defines pluralistic ignorance as occurring 'in ambiguous situations' when 'people look to others for cues about how to behave.' A describes the opposite — unambiguous situations where the effect weakens. C removes the social element required. D introduces a scenario not discussed.",
+      "commonMistakes": ["A — the passage states the bystander effect is strongest in ambiguous, not clearly dangerous, situations", "C — pluralistic ignorance requires the presence of others to observe"]
+    },
+    {
+      "id": "q_rc_005_04",
+      "section": "ela",
+      "category": "ela.reading.vocabulary_in_context",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "stem": "As used in the passage, the word \"counterintuitive\" most nearly means —",
+      "passageId": "passage_rc_005",
+      "options": [
+        {"label": "A", "text": "impossible to prove"},
+        {"label": "B", "text": "contrary to what one would expect"},
+        {"label": "C", "text": "widely accepted"},
+        {"label": "D", "text": "based on personal experience"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The hypothesis that more witnesses leads to less helping goes against common expectation — most people would assume more witnesses means more help. 'Counterintuitive' means contrary to intuition or expectation. A, C, and D do not capture this meaning.",
+      "commonMistakes": ["A — counterintuitive means unexpected, not unverifiable", "C — it means the opposite of widely expected, not widely accepted"]
+    },
+    {
+      "id": "q_rc_005_05",
+      "section": "ela",
+      "category": "ela.reading.authors_purpose",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "stem": "The author most likely begins the passage with the Kitty Genovese case in order to —",
+      "passageId": "passage_rc_005",
+      "options": [
+        {"label": "A", "text": "prove that the bystander effect causes violent crime"},
+        {"label": "B", "text": "provide a dramatic, real-world example that motivated the research discussed in the passage"},
+        {"label": "C", "text": "argue that journalists are responsible for spreading misinformation"},
+        {"label": "D", "text": "show that New York City was more dangerous in the 1960s than it is today"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The Genovese case functions as a narrative hook and historical catalyst — it 'sparked a revolution in social psychology' and inspired Darley and Latané's research. The author even notes the original account was exaggerated, so it is not presented as proof (A). C and D are not the author's purpose.",
+      "commonMistakes": ["A — the passage notes the original account was exaggerated and uses the case as motivation, not proof", "C — the correction of the account is a minor detail, not the author's purpose for including it"]
+    },
+    {
+      "id": "q_rc_005_06",
+      "section": "ela",
+      "category": "ela.reading.claim_vs_evidence",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "stem": "Which of the following is a specific piece of evidence the author uses to support the claim that the bystander effect is real?",
+      "passageId": "passage_rc_005",
+      "options": [
+        {"label": "A", "text": "The lesson of the research is not that people are heartless."},
+        {"label": "B", "text": "Emergency training programs teach people to point at a specific individual and say, 'You — call 911.'"},
+        {"label": "C", "text": "When subjects thought four other people were also listening, only 31 percent sought help, compared to 85 percent who believed they were alone."},
+        {"label": "D", "text": "The Kitty Genovese story became a national scandal."}
+      ],
+      "correctAnswer": "C",
+      "explanation": "The specific percentages (85% vs. 31%) from Darley and Latané's experiment constitute empirical evidence directly supporting the existence of the bystander effect. A is an interpretive claim. B describes a practical application. D is a historical fact about public reaction, not evidence for the effect.",
+      "commonMistakes": ["D — the Genovese case motivated the research but is not experimental evidence for the effect", "B — this describes an application of the research, not evidence supporting the claim"]
+    },
+    {
+      "id": "q_rc_005_07",
+      "section": "ela",
+      "category": "ela.reading.tone_mood",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "stem": "The overall tone of the passage is best described as —",
+      "passageId": "passage_rc_005",
+      "options": [
+        {"label": "A", "text": "angry and accusatory"},
+        {"label": "B", "text": "informative and cautiously optimistic"},
+        {"label": "C", "text": "humorous and lighthearted"},
+        {"label": "D", "text": "detached and indifferent"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The passage presents research findings in a clear, informative manner and ends on an optimistic note — that understanding the bystander effect helps people overcome it. A is too strong; the passage does not blame anyone. C does not match the serious subject. D contradicts the engaged, purposeful conclusion.",
+      "commonMistakes": ["A — the passage explains rather than accuses; it even notes people are 'not heartless'", "D — the conclusion's emphasis on practical solutions shows engagement, not indifference"]
+    },
+    {
+      "id": "q_rc_006_01",
+      "section": "ela",
+      "category": "ela.reading.main_idea",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "stem": "Which statement best expresses the central theme of the poem?",
+      "passageId": "passage_rc_006",
+      "options": [
+        {"label": "A", "text": "Building toy boats is an important childhood activity that teaches practical skills."},
+        {"label": "B", "text": "Rivers are dangerous and should be treated with caution."},
+        {"label": "C", "text": "Memory preserves traces of what time has taken away, even if the original moments cannot be recovered."},
+        {"label": "D", "text": "Siblings inevitably grow apart as they get older."}
+      ],
+      "correctAnswer": "C",
+      "explanation": "The poem traces the speaker's memory of a shared childhood moment with a brother, acknowledges what time has taken (the tree, the bike, the closeness), yet finds 'a flash of balsa, sun, and grace' — a ghost of the memory still preserved by the river. A is literal. B misreads the river's role. D captures one element but misses the poem's emphasis on memory's persistence.",
+      "commonMistakes": ["D — the poem is about memory and loss broadly, not just sibling separation", "A — reduces the poem's figurative content to a literal activity"]
+    },
+    {
+      "id": "q_rc_006_02",
+      "section": "ela",
+      "category": "ela.reading.best_evidence",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "stem": "Which lines from the poem best support the idea that the speaker recognizes time has passed irreversibly?",
+      "passageId": "passage_rc_006",
+      "options": [
+        {"label": "A", "text": "\"My brother built a boat of balsa wood / and set it spinning on the current's back.\""},
+        {"label": "B", "text": "\"I stand here at the bank with empty hands. / The current takes. The current does not bend.\""},
+        {"label": "C", "text": "\"We watched it bob and weave through sun and shade\""},
+        {"label": "D", "text": "\"He said, I'll build a bigger one someday\""}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The image of 'empty hands' and the declaration 'The current does not bend' directly convey that time moves in one direction and what is lost cannot be retrieved. A and C describe the past moment. D quotes the brother's childhood promise.",
+      "commonMistakes": ["A — describes the original moment, not the speaker's recognition of irreversible time", "D — this is the brother's hopeful promise, not the speaker's mature understanding"]
+    },
+    {
+      "id": "q_rc_006_03",
+      "section": "ela",
+      "category": "ela.reading.inference",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "stem": "Based on the poem, the reader can infer that the speaker's relationship with the brother —",
+      "passageId": "passage_rc_006",
+      "options": [
+        {"label": "A", "text": "ended because of a serious argument"},
+        {"label": "B", "text": "was close in childhood but became distant over time"},
+        {"label": "C", "text": "has remained unchanged since childhood"},
+        {"label": "D", "text": "was always difficult and strained"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The poem describes a warm shared childhood ('We chased it laughing') followed by separation — 'the last year he would walk me home from school / before the world grew large.' The present tense shows the speaker alone at the river. A invents a conflict. C contradicts the poem's sense of loss. D contradicts the warm memories.",
+      "commonMistakes": ["A — the poem attributes the distance to time and change, not conflict", "C — the entire poem is built on the contrast between past closeness and present distance"]
+    },
+    {
+      "id": "q_rc_006_04",
+      "section": "ela",
+      "category": "ela.reading.vocabulary_in_context",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "stem": "In the context of the poem, the word \"logical\" in the made-up term \"large and logical\" most nearly suggests —",
+      "passageId": "passage_rc_006",
+      "options": [
+        {"label": "A", "text": "sensible and well-organized"},
+        {"label": "B", "text": "ruled by reason in a way that crowds out childhood wonder"},
+        {"label": "C", "text": "scientifically advanced"},
+        {"label": "D", "text": "confusing and unpredictable"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The poem pairs 'large and logical' with the loss of the brother walking the speaker home — marking the transition from childhood closeness to an adult world governed by reason rather than imagination. A captures denotation but misses the poem's tone of loss. C is too narrow. D contradicts the word's meaning.",
+      "commonMistakes": ["A — technically correct in isolation but misses the poem's implication that logic displaces childhood intimacy", "D — 'logical' suggests order, not unpredictability"]
+    },
+    {
+      "id": "q_rc_006_05",
+      "section": "ela",
+      "category": "ela.reading.authors_purpose",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "stem": "The poet most likely uses the catalog of lost things — \"The climbing tree was felled. The bike is gone.\" — in order to —",
+      "passageId": "passage_rc_006",
+      "options": [
+        {"label": "A", "text": "criticize the people who destroyed the tree and removed the bicycle"},
+        {"label": "B", "text": "provide concrete examples that reinforce the poem's theme of time passing and things disappearing"},
+        {"label": "C", "text": "show that the speaker had an unhappy childhood"},
+        {"label": "D", "text": "explain why the speaker no longer visits the river"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The short, declarative sentences listing vanished objects make the abstract idea of time's passage tangible and specific. A invents blame not present. C contradicts the warm memories. D is unsupported — the speaker is at the river.",
+      "commonMistakes": ["A — the tone is elegiac, not accusatory; no one is blamed", "D — the speaker is standing at the bank in the present tense"]
+    },
+    {
+      "id": "q_rc_006_06",
+      "section": "ela",
+      "category": "ela.reading.figurative_language",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "stem": "In the final stanza, the phrase \"not the boat itself but its bright ghost\" is an example of —",
+      "passageId": "passage_rc_006",
+      "options": [
+        {"label": "A", "text": "personification, giving the boat human qualities"},
+        {"label": "B", "text": "hyperbole, exaggerating the boat's importance"},
+        {"label": "C", "text": "metaphor, comparing the memory of the boat to a ghostly apparition"},
+        {"label": "D", "text": "simile, using 'like' or 'as' to compare two unlike things"}
+      ],
+      "correctAnswer": "C",
+      "explanation": "The speaker calls the flash of memory a 'bright ghost' — directly equating the memory with a spectral image without using 'like' or 'as,' making it a metaphor. A is incorrect because the boat is not given human traits. B is not exaggeration. D is wrong because no 'like' or 'as' is used.",
+      "commonMistakes": ["D — there is no 'like' or 'as'; this is metaphor, not simile", "A — 'ghost' does not personify the boat; it metaphorically describes the memory"]
+    },
+    {
+      "id": "q_rc_006_07",
+      "section": "ela",
+      "category": "ela.reading.tone_mood",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "stem": "The overall tone of the poem is best described as —",
+      "passageId": "passage_rc_006",
+      "options": [
+        {"label": "A", "text": "bitter and resentful"},
+        {"label": "B", "text": "nostalgic and bittersweet"},
+        {"label": "C", "text": "cheerful and carefree"},
+        {"label": "D", "text": "fearful and anxious"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The poem warmly recalls childhood memories while acknowledging loss, creating a bittersweet mood. The final image — a 'bright ghost' still spinning — adds tenderness without resolving the loss. A is too harsh. C ignores the sadness. D does not match the reflective quality.",
+      "commonMistakes": ["A — the speaker is wistful, not resentful; there is no anger in the poem", "C — while the memories are happy, the present-tense sections are tinged with sadness"]
+    }
+  ]
+}
