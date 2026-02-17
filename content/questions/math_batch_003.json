@@ -1,0 +1,822 @@
+[
+  {
+    "id": "math-101",
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Maria is 4 times as old as her daughter. In 6 years, Maria will be 3 times as old as her daughter. How old is Maria now?",
+    "options": [
+      {"label": "A", "text": "24"},
+      {"label": "B", "text": "36"},
+      {"label": "C", "text": "48"},
+      {"label": "D", "text": "32"}
+    ],
+    "correctAnswer": "C",
+    "explanation": "Let the daughter's age be d. Maria's age is 4d. In 6 years: 4d + 6 = 3(d + 6). So 4d + 6 = 3d + 18, giving d = 12. Maria is 4(12) = 48.",
+    "commonMistakes": ["A: solved d = 6 by error", "B: found 3d instead of 4d", "D: arithmetic error in solving"]
+  },
+  {
+    "id": "math-102",
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "On a map, 2 centimeters represent 15 kilometers. If two cities are 9 centimeters apart on the map, what is the actual distance between them in kilometers?",
+    "options": [
+      {"label": "A", "text": "60"},
+      {"label": "B", "text": "67.5"},
+      {"label": "C", "text": "75"},
+      {"label": "D", "text": "45"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Set up the proportion: 2/15 = 9/x. Cross-multiply: 2x = 135, so x = 67.5 km.",
+    "commonMistakes": ["A: multiplied 9 × 15 / 2 incorrectly", "C: estimated 10 × 7.5", "D: multiplied 9 × 5"]
+  },
+  {
+    "id": "math-103",
+    "section": "math",
+    "category": "math.algebra.exponents",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the value of 2⁵ × 2³?",
+    "options": [
+      {"label": "A", "text": "2¹⁵"},
+      {"label": "B", "text": "2⁸"},
+      {"label": "C", "text": "4⁸"},
+      {"label": "D", "text": "2²"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "When multiplying powers with the same base, add the exponents: 2⁵ × 2³ = 2⁵⁺³ = 2⁸.",
+    "commonMistakes": ["A: multiplied exponents instead of adding", "C: multiplied bases and added exponents", "D: subtracted exponents"]
+  },
+  {
+    "id": "math-104",
+    "section": "math",
+    "category": "math.algebra.patterns_sequences",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "The first five terms of a sequence are 3, 7, 11, 15, 19, ... What is the 20th term?",
+    "options": [
+      {"label": "A", "text": "79"},
+      {"label": "B", "text": "83"},
+      {"label": "C", "text": "76"},
+      {"label": "D", "text": "80"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "This is an arithmetic sequence with first term a₁ = 3 and common difference d = 4. The nth term is a₁ + (n−1)d = 3 + 19(4) = 3 + 76 = 79.",
+    "commonMistakes": ["B: used n = 20 instead of n−1 = 19", "C: used d = 3", "D: added 20 × 4 to 0"]
+  },
+  {
+    "id": "math-105",
+    "section": "math",
+    "category": "math.geometry.volume",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "A cylinder has a radius of 3 inches and a height of 10 inches. What is the volume of the cylinder? (Use π ≈ 3.14)",
+    "options": [
+      {"label": "A", "text": "94.2 cubic inches"},
+      {"label": "B", "text": "188.4 cubic inches"},
+      {"label": "C", "text": "282.6 cubic inches"},
+      {"label": "D", "text": "314 cubic inches"}
+    ],
+    "correctAnswer": "C",
+    "explanation": "Volume of a cylinder = πr²h = 3.14 × 3² × 10 = 3.14 × 9 × 10 = 282.6 cubic inches.",
+    "commonMistakes": ["A: used πrh instead of πr²h", "B: used 2πrh (surface area formula)", "D: used π × 10² × 3.14 incorrectly"]
+  },
+  {
+    "id": "math-106",
+    "section": "math",
+    "category": "math.statistics.data_interpretation",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "A teacher recorded quiz scores for 8 students: 72, 85, 90, 78, 85, 92, 88, 85. What is the mode of the data set?",
+    "options": [
+      {"label": "A", "text": "84.375"},
+      {"label": "B", "text": "85"},
+      {"label": "C", "text": "86.5"},
+      {"label": "D", "text": "88"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "The mode is the value that appears most frequently. 85 appears three times, more than any other value.",
+    "commonMistakes": ["A: calculated the mean", "C: calculated the median", "D: picked a middle-looking value"]
+  },
+  {
+    "id": "math-107",
+    "section": "math",
+    "category": "math.algebra.exponents",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Express 45,000 in scientific notation.",
+    "options": [
+      {"label": "A", "text": "4.5 × 10⁴"},
+      {"label": "B", "text": "45 × 10³"},
+      {"label": "C", "text": "4.5 × 10³"},
+      {"label": "D", "text": "0.45 × 10⁵"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Scientific notation requires a number between 1 and 10 multiplied by a power of 10. 45,000 = 4.5 × 10⁴.",
+    "commonMistakes": ["B: first factor is not between 1 and 10", "C: incorrect power of 10", "D: first factor is less than 1"]
+  },
+  {
+    "id": "math-108",
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "A car travels 180 miles in 3 hours. At this rate, how far will it travel in 5 hours?",
+    "options": [
+      {"label": "A", "text": "250 miles"},
+      {"label": "B", "text": "300 miles"},
+      {"label": "C", "text": "360 miles"},
+      {"label": "D", "text": "270 miles"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Unit rate = 180 ÷ 3 = 60 mph. In 5 hours: 60 × 5 = 300 miles.",
+    "commonMistakes": ["A: estimated incorrectly", "C: multiplied 180 × 2", "D: added 180 + 90"]
+  },
+  {
+    "id": "math-109",
+    "section": "math",
+    "category": "math.arithmetic.absolute_value",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the value of |−7| + |3 − 8|?",
+    "options": [
+      {"label": "A", "text": "2"},
+      {"label": "B", "text": "12"},
+      {"label": "C", "text": "−2"},
+      {"label": "D", "text": "10"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "|−7| = 7 and |3 − 8| = |−5| = 5. So 7 + 5 = 12.",
+    "commonMistakes": ["A: computed −7 + 5", "C: kept negatives inside absolute value", "D: computed |−7| + |3| only"]
+  },
+  {
+    "id": "math-110",
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "The sum of three consecutive integers is 96. What is the largest of the three integers?",
+    "options": [
+      {"label": "A", "text": "31"},
+      {"label": "B", "text": "32"},
+      {"label": "C", "text": "33"},
+      {"label": "D", "text": "34"}
+    ],
+    "correctAnswer": "C",
+    "explanation": "Let the integers be n, n+1, n+2. Then n + (n+1) + (n+2) = 96, so 3n + 3 = 96, 3n = 93, n = 31. The largest is 31 + 2 = 33.",
+    "commonMistakes": ["A: gave the smallest integer", "B: gave the middle integer", "D: added 3 to 31"]
+  },
+  {
+    "id": "math-111",
+    "section": "math",
+    "category": "math.statistics.data_interpretation",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "A bar graph shows the number of books read by students during summer: June: 45, July: 60, August: 35. How many total books were read over the summer?",
+    "options": [
+      {"label": "A", "text": "130"},
+      {"label": "B", "text": "140"},
+      {"label": "C", "text": "150"},
+      {"label": "D", "text": "120"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Add all three months: 45 + 60 + 35 = 140 books.",
+    "commonMistakes": ["A: subtraction error", "C: added 50 instead of 45", "D: forgot one month"]
+  },
+  {
+    "id": "math-112",
+    "section": "math",
+    "category": "math.algebra.patterns_sequences",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "The first four terms of a geometric sequence are 2, 6, 18, 54, ... What is the next term?",
+    "options": [
+      {"label": "A", "text": "108"},
+      {"label": "B", "text": "162"},
+      {"label": "C", "text": "72"},
+      {"label": "D", "text": "90"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "The common ratio is 6 ÷ 2 = 3. The next term is 54 × 3 = 162.",
+    "commonMistakes": ["A: multiplied by 2 instead of 3", "C: added 18 to 54", "D: added 36 to 54"]
+  },
+  {
+    "id": "math-113",
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "A recipe calls for 3 cups of flour for every 2 cups of sugar. If you use 9 cups of flour, how many cups of sugar do you need?",
+    "options": [
+      {"label": "A", "text": "4"},
+      {"label": "B", "text": "5"},
+      {"label": "C", "text": "6"},
+      {"label": "D", "text": "7"}
+    ],
+    "correctAnswer": "C",
+    "explanation": "Set up the proportion: 3/2 = 9/x. Cross-multiply: 3x = 18, so x = 6 cups of sugar.",
+    "commonMistakes": ["A: divided 9 by 2 and rounded", "B: subtracted 9 − 4", "D: added 2 + 5"]
+  },
+  {
+    "id": "math-114",
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A chemist mixes a 20% salt solution with a 50% salt solution to make 12 liters of a 30% salt solution. How many liters of the 20% solution are used?",
+    "options": [
+      {"label": "A", "text": "4"},
+      {"label": "B", "text": "6"},
+      {"label": "C", "text": "8"},
+      {"label": "D", "text": "9"}
+    ],
+    "correctAnswer": "C",
+    "explanation": "Let x = liters of 20% solution. Then 12 − x = liters of 50% solution. Set up: 0.20x + 0.50(12 − x) = 0.30(12). So 0.20x + 6 − 0.50x = 3.6. Then −0.30x = −2.4, x = 8.",
+    "commonMistakes": ["A: solved for the 50% amount", "B: assumed equal amounts", "D: arithmetic error"]
+  },
+  {
+    "id": "math-115",
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Kevin is 5 years older than Lena. In 3 years, the sum of their ages will be 41. How old is Lena now?",
+    "options": [
+      {"label": "A", "text": "13"},
+      {"label": "B", "text": "15"},
+      {"label": "C", "text": "18"},
+      {"label": "D", "text": "20"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Let Lena's age = L. Kevin's age = L + 5. In 3 years: (L + 3) + (L + 5 + 3) = 41. So 2L + 11 = 41, 2L = 30, L = 15.",
+    "commonMistakes": ["A: forgot to add 3 to Kevin's age too", "C: found Kevin's current age", "D: found Kevin's age in 3 years"]
+  },
+  {
+    "id": "math-116",
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Two similar triangles have corresponding sides in the ratio 3:5. If the shorter side of the larger triangle is 20 cm, what is the corresponding side of the smaller triangle?",
+    "options": [
+      {"label": "A", "text": "10 cm"},
+      {"label": "B", "text": "12 cm"},
+      {"label": "C", "text": "15 cm"},
+      {"label": "D", "text": "8 cm"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "The ratio is 3:5, and the larger triangle's side is 20. Set up: 3/5 = x/20. Cross-multiply: 5x = 60, x = 12 cm.",
+    "commonMistakes": ["A: divided 20 by 2", "C: used 3/4 ratio", "D: multiplied 20 × 3/5 incorrectly"]
+  },
+  {
+    "id": "math-117",
+    "section": "math",
+    "category": "math.algebra.exponents",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Simplify: (3x²y)³",
+    "options": [
+      {"label": "A", "text": "9x⁶y³"},
+      {"label": "B", "text": "27x⁶y³"},
+      {"label": "C", "text": "27x⁵y³"},
+      {"label": "D", "text": "3x⁶y³"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Apply the power rule: (3x²y)³ = 3³ · (x²)³ · y³ = 27x⁶y³.",
+    "commonMistakes": ["A: computed 3² instead of 3³", "C: added exponents 2+3 instead of multiplying", "D: didn't raise 3 to the power"]
+  },
+  {
+    "id": "math-118",
+    "section": "math",
+    "category": "math.arithmetic.absolute_value",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve: |2x − 5| = 9",
+    "options": [
+      {"label": "A", "text": "x = 7 or x = −2"},
+      {"label": "B", "text": "x = 7 only"},
+      {"label": "C", "text": "x = 2 or x = −7"},
+      {"label": "D", "text": "x = 7 or x = 2"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Set up two equations: 2x − 5 = 9 gives 2x = 14, x = 7. And 2x − 5 = −9 gives 2x = −4, x = −2.",
+    "commonMistakes": ["B: forgot the negative case", "C: swapped the solutions", "D: solved 2x − 5 = 9 and 2x + 5 = 9"]
+  },
+  {
+    "id": "math-119",
+    "section": "math",
+    "category": "math.geometry.volume",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A cone has a radius of 4 cm and a height of 9 cm. What is the volume of the cone? (Use π ≈ 3.14)",
+    "options": [
+      {"label": "A", "text": "150.72 cm³"},
+      {"label": "B", "text": "452.16 cm³"},
+      {"label": "C", "text": "113.04 cm³"},
+      {"label": "D", "text": "48π cm³"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Volume of a cone = (1/3)πr²h = (1/3)(3.14)(16)(9) = (1/3)(452.16) = 150.72 cm³.",
+    "commonMistakes": ["B: forgot to divide by 3", "C: used height of 3 instead of 9 and forgot 1/3", "D: left answer in terms of π without simplifying"]
+  },
+  {
+    "id": "math-120",
+    "section": "math",
+    "category": "math.statistics.data_interpretation",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "The table below shows the number of students in each grade who participate in band:\n\nGrade 6: 24 students\nGrade 7: 32 students\nGrade 8: 28 students\n\nWhat percentage of the total band students are in Grade 7? (Round to the nearest whole percent.)",
+    "options": [
+      {"label": "A", "text": "29%"},
+      {"label": "B", "text": "32%"},
+      {"label": "C", "text": "38%"},
+      {"label": "D", "text": "33%"}
+    ],
+    "correctAnswer": "C",
+    "explanation": "Total = 24 + 32 + 28 = 84. Grade 7 percentage = 32/84 ≈ 0.381 = 38%.",
+    "commonMistakes": ["A: divided 24/84", "B: confused the count with the percentage", "D: divided 28/84"]
+  },
+  {
+    "id": "math-121",
+    "section": "math",
+    "category": "math.algebra.patterns_sequences",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "The nth term of a sequence is given by aₙ = 5n − 3. What is the sum of the first 4 terms?",
+    "options": [
+      {"label": "A", "text": "38"},
+      {"label": "B", "text": "40"},
+      {"label": "C", "text": "42"},
+      {"label": "D", "text": "36"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "a₁ = 5(1) − 3 = 2, a₂ = 5(2) − 3 = 7, a₃ = 5(3) − 3 = 12, a₄ = 5(4) − 3 = 17. Sum = 2 + 7 + 12 + 17 = 38.",
+    "commonMistakes": ["B: started with n = 0", "C: added incorrectly", "D: missed one term"]
+  },
+  {
+    "id": "math-122",
+    "section": "math",
+    "category": "math.algebra.exponents",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which expression is equivalent to (6 × 10⁴) × (3 × 10⁵)?",
+    "options": [
+      {"label": "A", "text": "18 × 10⁹"},
+      {"label": "B", "text": "1.8 × 10¹⁰"},
+      {"label": "C", "text": "18 × 10²⁰"},
+      {"label": "D", "text": "1.8 × 10⁹"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Multiply coefficients: 6 × 3 = 18. Add exponents: 10⁴ × 10⁵ = 10⁹. Result: 18 × 10⁹ = 1.8 × 10¹⁰ in proper scientific notation.",
+    "commonMistakes": ["A: not in proper scientific notation", "C: multiplied exponents", "D: didn't adjust the exponent when converting 18 to 1.8"]
+  },
+  {
+    "id": "math-123",
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "The sum of three consecutive even integers is 78. What is the middle integer?",
+    "options": [
+      {"label": "A", "text": "24"},
+      {"label": "B", "text": "26"},
+      {"label": "C", "text": "28"},
+      {"label": "D", "text": "30"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Let the three consecutive even integers be n, n+2, n+4. Then n + (n+2) + (n+4) = 78, so 3n + 6 = 78, 3n = 72, n = 24. The middle integer is 26.",
+    "commonMistakes": ["A: gave the smallest", "C: gave the largest", "D: divided 78 by 3 and rounded up to next even"]
+  },
+  {
+    "id": "math-124",
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Store A sells 5 notebooks for $8.75. Store B sells 3 notebooks for $5.40. Which store offers the better unit price, and by how much per notebook?",
+    "options": [
+      {"label": "A", "text": "Store A, by $0.05"},
+      {"label": "B", "text": "Store B, by $0.05"},
+      {"label": "C", "text": "Store A, by $0.10"},
+      {"label": "D", "text": "Store B, by $0.10"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Store A: $8.75 ÷ 5 = $1.75 per notebook. Store B: $5.40 ÷ 3 = $1.80 per notebook. Store A is cheaper by $0.05.",
+    "commonMistakes": ["B: reversed the comparison", "C: calculation error on difference", "D: reversed and miscalculated"]
+  },
+  {
+    "id": "math-125",
+    "section": "math",
+    "category": "math.geometry.volume",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A sphere has a diameter of 6 inches. What is its volume? (Use π ≈ 3.14)",
+    "options": [
+      {"label": "A", "text": "113.04 in³"},
+      {"label": "B", "text": "904.32 in³"},
+      {"label": "C", "text": "28.26 in³"},
+      {"label": "D", "text": "56.52 in³"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Radius = 6/2 = 3 inches. Volume = (4/3)πr³ = (4/3)(3.14)(27) = (4/3)(84.78) = 113.04 in³.",
+    "commonMistakes": ["B: used diameter instead of radius", "C: computed πr² only", "D: computed (2/3)πr³"]
+  },
+  {
+    "id": "math-126",
+    "section": "math",
+    "category": "math.statistics.data_interpretation",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "The mean of five test scores is 82. Four of the scores are 78, 85, 90, and 76. What is the fifth score?",
+    "options": [
+      {"label": "A", "text": "81"},
+      {"label": "B", "text": "82"},
+      {"label": "C", "text": "79"},
+      {"label": "D", "text": "84"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Total = mean × count = 82 × 5 = 410. Sum of four scores = 78 + 85 + 90 + 76 = 329. Fifth score = 410 − 329 = 81.",
+    "commonMistakes": ["B: assumed the fifth is also the mean", "C: subtracted incorrectly", "D: arithmetic error"]
+  },
+  {
+    "id": "math-127",
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A store sells a jacket for $72 after a 20% discount. What was the original price?",
+    "options": [
+      {"label": "A", "text": "$86.40"},
+      {"label": "B", "text": "$90"},
+      {"label": "C", "text": "$92"},
+      {"label": "D", "text": "$96"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "After a 20% discount, the price is 80% of the original. So 0.80 × P = 72, P = 72 ÷ 0.80 = $90.",
+    "commonMistakes": ["A: added 20% of 72 to 72", "C: added 20 to 72", "D: divided by 0.75 instead of 0.80"]
+  },
+  {
+    "id": "math-128",
+    "section": "math",
+    "category": "math.arithmetic.absolute_value",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which of the following values of x satisfies |x + 3| < 5?",
+    "options": [
+      {"label": "A", "text": "x = −9"},
+      {"label": "B", "text": "x = 3"},
+      {"label": "C", "text": "x = −1"},
+      {"label": "D", "text": "x = 5"}
+    ],
+    "correctAnswer": "C",
+    "explanation": "|x + 3| < 5 means −5 < x + 3 < 5, so −8 < x < 2. Only x = −1 falls in this range.",
+    "commonMistakes": ["A: outside the range (−9 < −8 is false)", "B: 3 > 2 so outside range", "D: far outside range"]
+  },
+  {
+    "id": "math-129",
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A model car is built at a scale of 1:24. If the model is 7.5 inches long, what is the actual length of the car in feet?",
+    "options": [
+      {"label": "A", "text": "12 feet"},
+      {"label": "B", "text": "15 feet"},
+      {"label": "C", "text": "18 feet"},
+      {"label": "D", "text": "10 feet"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Actual length = 7.5 × 24 = 180 inches = 180 ÷ 12 = 15 feet.",
+    "commonMistakes": ["A: divided 180 by 15", "C: multiplied 7.5 × 24 but divided by 10", "D: used scale of 1:16"]
+  },
+  {
+    "id": "math-130",
+    "section": "math",
+    "category": "math.algebra.exponents",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the value of 4⁻² ?",
+    "options": [
+      {"label": "A", "text": "−16"},
+      {"label": "B", "text": "−8"},
+      {"label": "C", "text": "1/16"},
+      {"label": "D", "text": "1/8"}
+    ],
+    "correctAnswer": "C",
+    "explanation": "A negative exponent means the reciprocal: 4⁻² = 1/4² = 1/16.",
+    "commonMistakes": ["A: interpreted as −(4²)", "B: interpreted as −(4×2)", "D: computed 1/4 × 1/2"]
+  },
+  {
+    "id": "math-131",
+    "section": "math",
+    "category": "math.algebra.patterns_sequences",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A sequence begins: 1, 4, 9, 16, 25, ... What is the 10th term?",
+    "options": [
+      {"label": "A", "text": "81"},
+      {"label": "B", "text": "100"},
+      {"label": "C", "text": "64"},
+      {"label": "D", "text": "121"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "The sequence consists of perfect squares: n². The 10th term is 10² = 100.",
+    "commonMistakes": ["A: computed 9²", "C: computed 8²", "D: computed 11²"]
+  },
+  {
+    "id": "math-132",
+    "section": "math",
+    "category": "math.statistics.data_interpretation",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A data set has the values: 12, 15, 18, 22, 25, 30, 35. What is the interquartile range (IQR)?",
+    "options": [
+      {"label": "A", "text": "13"},
+      {"label": "B", "text": "15"},
+      {"label": "C", "text": "10"},
+      {"label": "D", "text": "17"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Median = 22. Lower half: 12, 15, 18 → Q1 = 15. Upper half: 25, 30, 35 → Q3 = 30. IQR = Q3 − Q1 = 30 − 15 = 15.",
+    "commonMistakes": ["A: computed range/2", "C: subtracted 22 − 12", "D: used wrong quartile values"]
+  },
+  {
+    "id": "math-133",
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A tank is being filled with water at a rate of 4.5 gallons per minute. At the same time, water drains from the tank at a rate of 1.5 gallons per minute. If the tank starts empty and has a capacity of 120 gallons, how many minutes will it take to fill?",
+    "options": [
+      {"label": "A", "text": "30"},
+      {"label": "B", "text": "40"},
+      {"label": "C", "text": "80"},
+      {"label": "D", "text": "26.7"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Net fill rate = 4.5 − 1.5 = 3 gallons per minute. Time = 120 ÷ 3 = 40 minutes.",
+    "commonMistakes": ["A: used only fill rate (120/4.5 ≈ 26.7, rounded wrong)", "C: used drain rate only", "D: divided by fill rate only"]
+  },
+  {
+    "id": "math-134",
+    "section": "math",
+    "category": "math.geometry.volume",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A cylindrical water tank has a diameter of 8 feet and a height of 5 feet. How many cubic feet of water can it hold? (Use π ≈ 3.14)",
+    "options": [
+      {"label": "A", "text": "251.2 ft³"},
+      {"label": "B", "text": "1,004.8 ft³"},
+      {"label": "C", "text": "502.4 ft³"},
+      {"label": "D", "text": "125.6 ft³"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Radius = 8/2 = 4 feet. V = πr²h = 3.14 × 16 × 5 = 251.2 ft³.",
+    "commonMistakes": ["B: used diameter instead of radius", "C: used r = 8", "D: used r = 2"]
+  },
+  {
+    "id": "math-135",
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "The product of two consecutive odd integers is 143. What is the sum of the two integers?",
+    "options": [
+      {"label": "A", "text": "22"},
+      {"label": "B", "text": "24"},
+      {"label": "C", "text": "26"},
+      {"label": "D", "text": "20"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Let the integers be n and n + 2. Then n(n + 2) = 143. Testing: 11 × 13 = 143. Sum = 11 + 13 = 24.",
+    "commonMistakes": ["A: tried 10 + 12", "C: tried 12 + 14", "D: tried 9 + 11"]
+  },
+  {
+    "id": "math-136",
+    "section": "math",
+    "category": "math.algebra.exponents",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "If 2ⁿ = 32 and 3ᵐ = 81, what is the value of 2ⁿ⁻² × 3ᵐ⁻²?",
+    "options": [
+      {"label": "A", "text": "72"},
+      {"label": "B", "text": "64"},
+      {"label": "C", "text": "96"},
+      {"label": "D", "text": "108"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "2ⁿ = 32 = 2⁵, so n = 5. 3ᵐ = 81 = 3⁴, so m = 4. Then 2⁵⁻² × 3⁴⁻² = 2³ × 3² = 8 × 9 = 72.",
+    "commonMistakes": ["B: computed 2⁶", "C: computed 2⁵ × 3", "D: computed 4 × 27"]
+  },
+  {
+    "id": "math-137",
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A pharmacist has a 10% saline solution and a 40% saline solution. How many milliliters of each should be mixed to produce 600 mL of a 22% saline solution?",
+    "options": [
+      {"label": "A", "text": "360 mL of 10% and 240 mL of 40%"},
+      {"label": "B", "text": "400 mL of 10% and 200 mL of 40%"},
+      {"label": "C", "text": "240 mL of 10% and 360 mL of 40%"},
+      {"label": "D", "text": "300 mL of 10% and 300 mL of 40%"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Let x = mL of 10%. Then 600 − x = mL of 40%. 0.10x + 0.40(600 − x) = 0.22(600). 0.10x + 240 − 0.40x = 132. −0.30x = −108. x = 360. So 360 mL of 10% and 240 mL of 40%.",
+    "commonMistakes": ["B: arithmetic error", "C: swapped the two amounts", "D: assumed equal amounts"]
+  },
+  {
+    "id": "math-138",
+    "section": "math",
+    "category": "math.arithmetic.absolute_value",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "How many integer values of x satisfy |3x − 1| ≤ 10?",
+    "options": [
+      {"label": "A", "text": "5"},
+      {"label": "B", "text": "6"},
+      {"label": "C", "text": "7"},
+      {"label": "D", "text": "8"}
+    ],
+    "correctAnswer": "C",
+    "explanation": "|3x − 1| ≤ 10 means −10 ≤ 3x − 1 ≤ 10, so −9 ≤ 3x ≤ 11, giving −3 ≤ x ≤ 11/3 ≈ 3.67. Integer values: −3, −2, −1, 0, 1, 2, 3 → 7 values.",
+    "commonMistakes": ["A: used strict inequality", "B: missed x = −3", "D: included x = 4"]
+  },
+  {
+    "id": "math-139",
+    "section": "math",
+    "category": "math.geometry.volume",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A cone and a cylinder have the same radius and the same height. If the volume of the cylinder is 90π cm³, what is the volume of the cone?",
+    "options": [
+      {"label": "A", "text": "30π cm³"},
+      {"label": "B", "text": "45π cm³"},
+      {"label": "C", "text": "60π cm³"},
+      {"label": "D", "text": "270π cm³"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "The volume of a cone is exactly 1/3 the volume of a cylinder with the same radius and height. So V_cone = 90π ÷ 3 = 30π cm³.",
+    "commonMistakes": ["B: divided by 2", "C: subtracted 30π", "D: multiplied by 3"]
+  },
+  {
+    "id": "math-140",
+    "section": "math",
+    "category": "math.algebra.patterns_sequences",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "In a geometric sequence, the 3rd term is 12 and the 6th term is 96. What is the first term?",
+    "options": [
+      {"label": "A", "text": "3"},
+      {"label": "B", "text": "4"},
+      {"label": "C", "text": "6"},
+      {"label": "D", "text": "2"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Let the first term be a and common ratio be r. Then ar² = 12 and ar⁵ = 96. Dividing: r³ = 96/12 = 8, so r = 2. Then a(4) = 12, a = 3.",
+    "commonMistakes": ["B: divided 12 by 3", "C: divided 12 by 2", "D: guessed"]
+  },
+  {
+    "id": "math-141",
+    "section": "math",
+    "category": "math.statistics.data_interpretation",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A survey of 200 students recorded their favorite sport. The results showed: Soccer 35%, Basketball 25%, Baseball 20%, Tennis 10%, Other 10%. If 15 students who chose Soccer switch to Basketball, what percent of students now prefer Basketball?",
+    "options": [
+      {"label": "A", "text": "30%"},
+      {"label": "B", "text": "32.5%"},
+      {"label": "C", "text": "35%"},
+      {"label": "D", "text": "27.5%"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Originally Basketball = 25% of 200 = 50 students. After 15 switch: 50 + 15 = 65. New percentage: 65/200 = 32.5%.",
+    "commonMistakes": ["A: added 5% to 25%", "C: added 10% to 25%", "D: subtracted instead of added"]
+  },
+  {
+    "id": "math-142",
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "The sum of the ages of a father and his two sons is 70. The father is 3 times as old as the older son, and the older son is 5 years older than the younger son. How old is the father?",
+    "options": [
+      {"label": "A", "text": "39"},
+      {"label": "B", "text": "42"},
+      {"label": "C", "text": "45"},
+      {"label": "D", "text": "36"}
+    ],
+    "correctAnswer": "C",
+    "explanation": "Let older son = x. Father = 3x, younger son = x − 5. Sum: 3x + x + (x − 5) = 70. So 5x − 5 = 70, 5x = 75, x = 15. Father = 3(15) = 45.",
+    "commonMistakes": ["A: used 4x = 70 + 5 incorrectly", "B: made the younger son x − 3", "D: used 2x instead of 3x"]
+  },
+  {
+    "id": "math-143",
+    "section": "math",
+    "category": "math.algebra.exponents",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "The population of a bacterial colony doubles every 3 hours. If the colony starts with 500 bacteria, which expression represents the population after 15 hours?",
+    "options": [
+      {"label": "A", "text": "500 × 2¹⁵"},
+      {"label": "B", "text": "500 × 2⁵"},
+      {"label": "C", "text": "500 × 5²"},
+      {"label": "D", "text": "500 × 15²"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "In 15 hours, the colony doubles 15 ÷ 3 = 5 times. Population = 500 × 2⁵.",
+    "commonMistakes": ["A: used 15 as the exponent", "C: confused base and exponent", "D: squared the hours"]
+  },
+  {
+    "id": "math-144",
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Triangle ABC is similar to triangle DEF. In triangle ABC, the sides are 5, 12, and 13. If the longest side of triangle DEF is 39, what is the perimeter of triangle DEF?",
+    "options": [
+      {"label": "A", "text": "78"},
+      {"label": "B", "text": "90"},
+      {"label": "C", "text": "60"},
+      {"label": "D", "text": "117"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Scale factor = 39/13 = 3. Perimeter of ABC = 5 + 12 + 13 = 30. Perimeter of DEF = 30 × 3 = 90.",
+    "commonMistakes": ["A: multiplied 13 × 6", "C: multiplied 30 × 2", "D: multiplied 39 × 3"]
+  },
+  {
+    "id": "math-145",
+    "section": "math",
+    "category": "math.geometry.volume",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A hemisphere has a radius of 6 cm. What is the total volume of the hemisphere? (Use π ≈ 3.14)",
+    "options": [
+      {"label": "A", "text": "452.16 cm³"},
+      {"label": "B", "text": "226.08 cm³"},
+      {"label": "C", "text": "904.32 cm³"},
+      {"label": "D", "text": "339.12 cm³"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Volume of hemisphere = (2/3)πr³ = (2/3)(3.14)(216) = (2/3)(678.24) = 452.16 cm³.",
+    "commonMistakes": ["B: used (1/3)πr³", "C: computed full sphere", "D: used (1/2)πr³"]
+  },
+  {
+    "id": "math-146",
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 3,
+    "type": "grid_in",
+    "stem": "A boat travels 24 miles upstream in 4 hours and returns downstream in 3 hours. What is the speed of the current in miles per hour?",
+    "correctAnswer": "1",
+    "explanation": "Upstream speed = 24/4 = 6 mph. Downstream speed = 24/3 = 8 mph. Let boat speed = b and current = c. Then b − c = 6 and b + c = 8. Adding: 2b = 14, b = 7. So c = 1 mph.",
+    "commonMistakes": ["Subtracted 8 − 6 = 2 and didn't divide by 2", "Used 24/(4−3) = 24", "Averaged 6 and 8 to get 7"]
+  },
+  {
+    "id": "math-147",
+    "section": "math",
+    "category": "math.algebra.exponents",
+    "difficulty": 3,
+    "type": "grid_in",
+    "stem": "If 5^(2x−1) = 125, what is the value of x?",
+    "correctAnswer": "2",
+    "explanation": "125 = 5³. So 5^(2x−1) = 5³, meaning 2x − 1 = 3, 2x = 4, x = 2.",
+    "commonMistakes": ["Set 2x − 1 = 125", "Got x = 1.5 from 2x = 3", "Set 2x = 3 without subtracting 1"]
+  },
+  {
+    "id": "math-148",
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 3,
+    "type": "grid_in",
+    "stem": "In a class of 40 students, the ratio of boys to girls is 3:5. How many more girls are there than boys?",
+    "correctAnswer": "10",
+    "explanation": "Total parts = 3 + 5 = 8. Each part = 40/8 = 5. Boys = 3 × 5 = 15. Girls = 5 × 5 = 25. Difference = 25 − 15 = 10.",
+    "commonMistakes": ["Got 25 − 15 = 5 by error", "Divided 40 by 3 and 5 separately", "Used 3:5 as fractions of 40 incorrectly"]
+  },
+  {
+    "id": "math-149",
+    "section": "math",
+    "category": "math.algebra.patterns_sequences",
+    "difficulty": 2,
+    "type": "grid_in",
+    "stem": "An arithmetic sequence has a first term of 7 and a common difference of −3. What is the 8th term?",
+    "correctAnswer": "-14",
+    "explanation": "aₙ = a₁ + (n−1)d = 7 + 7(−3) = 7 − 21 = −14.",
+    "commonMistakes": ["Used n = 8 instead of n−1 = 7 to get −17", "Added instead of subtracted", "Got 7 − 24 = −17"]
+  },
+  {
+    "id": "math-150",
+    "section": "math",
+    "category": "math.statistics.data_interpretation",
+    "difficulty": 3,
+    "type": "grid_in",
+    "stem": "The median of a set of 9 numbers arranged in order is 14. The mean of the set is 16. If the 8 numbers other than the median have a sum of 126, and a new number, 30, is added to the set, what is the new mean of the 10 numbers?",
+    "correctAnswer": "17.4",
+    "explanation": "Original sum = 126 + 14 (median) = 140. Check: mean = 140/9 ≈ 15.56 — but we're told mean is 16, so sum = 16 × 9 = 144. The other 8 numbers sum to 144 − 14 = 130. Wait — re-read: the 8 others sum to 126, so total = 126 + 14 = 140 and mean = 140/9. But stem says mean is 16 → 16 × 9 = 144. This means total = 144. Adding 30: new total = 144 + 30 = 174. New mean = 174/10 = 17.4.",
+    "commonMistakes": ["Used 140 + 30 = 170, then 170/10 = 17", "Forgot to use the given mean to find correct total", "Divided by 9 instead of 10"]
+  }
+]

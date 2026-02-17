@@ -1,0 +1,405 @@
+{
+  "passages": [
+    {
+      "id": "passage_rc_007",
+      "type": "contemporary_fiction",
+      "title": "Two Tongues",
+      "text": "The morning of the talent show, Priya stood in front of the bathroom mirror and practiced saying her own name.\n\n\"Pree-yah.\" That was the cafeteria version — flattened, Americanized, the syllables stripped down like furniture from a box. It was the version she'd been using since third grade, when Aiden Marsh had laughed so hard at roll call that milk came out of his nose. After that, she'd started introducing herself with the soft r and the clipped vowels, and eventually even her teachers stopped trying to pronounce it correctly.\n\nBut today was different. Today she was going to sing \"Yeh Ishq Hai\" in front of four hundred people, and the song did not care about the cafeteria version of anything.\n\nHer mother had taught her the ghazal over winter break, sitting cross-legged on the living room rug, harmonium wheezing between them like a third family member. The melody was deceptively simple — five notes circling each other like birds above a field — but the Urdu lyrics demanded a kind of surrender Priya wasn't used to giving. Each word had to be placed precisely, with the right weight on the right syllable, or the meaning tilted sideways. Her mother would stop her mid-phrase: \"Not prr. Listen. The tongue touches here.\" And Priya would feel the sound reshape her mouth into something unfamiliar, or maybe something very old.\n\nShe'd been secretly terrified for weeks. Not of forgetting the words — she'd memorized those by Thanksgiving — but of what people would think. At school, she moved through the hallways in a careful performance of normalcy: the right sneakers, the right slang, her Spotify wrapped full of the same artists as everyone else. The ghazal was a door she'd kept closed, and now she was about to fling it open under fluorescent lights.\n\nIn the wings of the auditorium, she could hear Marcus Rivera finishing his stand-up set, the audience laughing in waves. Her hands were cold. She pressed them against her stomach and felt her heartbeat through her palms.\n\n\"You don't have to do this,\" she told herself. But even as she thought it, she knew it was a lie. The song was already in her throat, waiting. It had been waiting since those winter afternoons with her mother, since before that — since her grandmother had sung it in a kitchen in Lahore that Priya had never seen but somehow recognized in the melody's shape.\n\nWhen Marcus left the stage, the emcee called her name. The cafeteria version. Priya walked into the light, adjusted the microphone, and opened her mouth. What came out was not the flattened, careful sound she carried through the hallways. It was the other voice — the one that lived beneath the first, older and more honest, the tongue touching exactly where her mother had shown her.\n\nThe auditorium went quiet. Not the restless quiet of boredom, but the held-breath quiet of surprise. Priya closed her eyes and let the ghazal unspool, note by careful note, and for three minutes and forty seconds, she did not translate herself for anyone.",
+      "wordCount": 478
+    },
+    {
+      "id": "passage_rc_008",
+      "type": "stem_nonfiction",
+      "title": "Urban Heat Islands: Cities That Cook",
+      "text": "On a summer afternoon in Phoenix, Arizona, the temperature on a downtown street can be 10 to 15 degrees Fahrenheit higher than in the surrounding desert. In New York City, nighttime temperatures in Manhattan frequently remain 7°F warmer than in nearby rural areas, even hours after sunset. These disparities are not random — they are symptoms of a well-documented phenomenon known as the urban heat island (UHI) effect, in which cities become significantly warmer than the rural landscapes around them.\n\nThe primary cause is surprisingly straightforward: cities replace natural surfaces with materials that absorb and retain heat. Asphalt, concrete, brick, and steel have high thermal mass — they soak up solar energy during the day and release it slowly at night. A study published in Environmental Research Letters in 2019 analyzed surface temperatures in 60 American cities and found that pavement and rooftops were responsible for approximately 60 percent of excess urban heat. By contrast, natural surfaces like soil and vegetation reflect more sunlight and cool the air through evapotranspiration, the process by which plants release water vapor from their leaves.\n\nThe consequences are not merely uncomfortable. Heat is the deadliest weather-related hazard in the United States, killing more people annually than hurricanes, tornadoes, and floods combined. The Centers for Disease Control and Prevention reported that between 2004 and 2018, an average of 702 Americans died each year from heat-related illness. Urban heat islands intensify this risk, particularly in low-income neighborhoods, which often have fewer trees and more impervious surfaces. A 2021 analysis by the journal Nature Communications found that formerly redlined neighborhoods — areas where banks once refused loans based on race — are today an average of 2.6°C (4.7°F) hotter than non-redlined areas in the same city, a direct legacy of decades of disinvestment in green infrastructure.\n\nSolutions exist, though they require political will and sustained investment. Cool roofs — coated with reflective white or light-colored materials — can reduce surface temperatures by up to 60°F compared to traditional dark roofs. Tree canopy expansion programs in cities like Melbourne, Australia, aim to increase urban tree cover from 22 percent to 40 percent by 2040, providing shade and evapotranspiration. Permeable pavement, which allows rainwater to seep through rather than pooling on hot surfaces, is being piloted in neighborhoods across Los Angeles and Philadelphia.\n\nPerhaps the most striking statistic comes from a 2020 study in the Proceedings of the National Academy of Sciences: researchers estimated that planting trees in optimal locations across U.S. cities could reduce peak summer temperatures by 1.5°C (2.7°F) and prevent roughly 400 heat-related deaths per year. For a problem that is literally built into the pavement, the remedy may be as old as civilization itself — the deliberate planting of shade.",
+      "wordCount": 423
+    },
+    {
+      "id": "passage_rc_009",
+      "type": "poetry",
+      "title": "November Orchard",
+      "text": "The trees have stopped pretending.\nAll October they held their bright disguises —\ncrimson, copper, the frantic gold\nof someone dressing for a party\nthey know they will leave early —\n\nbut now the limbs stand bare\nand ordinary, saying nothing\nthey haven't said before.\nThe apples that remain\nare soft, brown-shouldered, leaning\ntoward the grass as if remembering\nthey were always meant to fall.\n\nI used to think November was a loss,\nthe year's long exhale,\nall color surrendered to the honest grey.\nBut look: beneath the stripped branches,\nlight reaches the ground for the first time\nin months. The sparrows find seeds\nthey couldn't see in summer.\nThe fence line, hidden since May,\nemerges like a sentence\nfinished at last.\n\nThere is a word for this —\nnot emptiness but clarity,\nthe way a room feels larger\nwhen you finally clear the shelves.\nThe orchard is not grieving.\nIt is putting things down\nthe way my grandmother set her rings\non the nightstand every evening:\ncarefully, with the quiet faith\nthat morning would return them.",
+      "wordCount": 174
+    }
+  ],
+  "questions": [
+    {
+      "id": "ela-rc-043",
+      "section": "ela",
+      "category": "ela.reading.main_idea",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "stem": "Which statement best expresses the central idea of the passage?",
+      "passageId": "passage_rc_007",
+      "options": [
+        {"label": "A", "text": "Priya discovers she has a natural talent for singing that impresses her classmates."},
+        {"label": "B", "text": "A student chooses to embrace her cultural heritage by performing a family song despite her fear of standing out."},
+        {"label": "C", "text": "Talent shows give students opportunities to showcase skills they have been practicing in secret."},
+        {"label": "D", "text": "Priya's mother pressures her to learn a traditional song she does not want to perform."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The passage follows Priya's internal struggle between fitting in at school and honoring her cultural identity through the ghazal. Her decision to sing without 'translating herself' is the core arc. A reduces the story to talent alone. C is too generic. D contradicts the passage — her mother taught her, but Priya chose to perform.",
+      "commonMistakes": ["A — focuses on the audience reaction rather than Priya's internal conflict and choice", "D — misreads the mother's teaching as pressure; the passage shows Priya's fear is about peers, not her mother"]
+    },
+    {
+      "id": "ela-rc-044",
+      "section": "ela",
+      "category": "ela.reading.vocabulary_in_context",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "stem": "As used in the passage, the word \"surrender\" most nearly means —",
+      "passageId": "passage_rc_007",
+      "options": [
+        {"label": "A", "text": "defeat"},
+        {"label": "B", "text": "openness"},
+        {"label": "C", "text": "weakness"},
+        {"label": "D", "text": "obedience"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The passage says the lyrics 'demanded a kind of surrender Priya wasn't used to giving,' meaning she had to let go of self-consciousness and be open to the unfamiliar sounds. It does not imply defeat (A), weakness (C), or obedience (D) — rather a willingness to let the music reshape her.",
+      "commonMistakes": ["A — 'surrender' commonly means defeat, but the context describes emotional openness, not losing", "D — obedience implies following orders; Priya's challenge is internal, not about compliance"]
+    },
+    {
+      "id": "ela-rc-045",
+      "section": "ela",
+      "category": "ela.reading.inference",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "stem": "Based on the passage, what can the reader most reasonably infer about why Priya began using the 'cafeteria version' of her name?",
+      "passageId": "passage_rc_007",
+      "options": [
+        {"label": "A", "text": "Her teachers could not read the spelling of her name on the roster."},
+        {"label": "B", "text": "She wanted to avoid being singled out or embarrassed because of her name."},
+        {"label": "C", "text": "Her family encouraged her to use an American pronunciation at school."},
+        {"label": "D", "text": "She preferred the sound of the shortened version."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The passage directly links the name change to Aiden Marsh laughing at roll call. After that humiliation, Priya adopted the flattened pronunciation to avoid standing out. A is not supported. C contradicts the mother's emphasis on correct Urdu pronunciation. D contradicts Priya's description of the name as 'stripped down.'",
+      "commonMistakes": ["A — the passage attributes the change to a classmate's laughter, not teacher difficulty", "C — the passage gives no indication her family wanted her to change her name"]
+    },
+    {
+      "id": "ela-rc-046",
+      "section": "ela",
+      "category": "ela.reading.best_evidence",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "stem": "Which quotation from the passage best supports the idea that Priya feels she hides part of herself at school?",
+      "passageId": "passage_rc_007",
+      "options": [
+        {"label": "A", "text": "\"The melody was deceptively simple — five notes circling each other like birds above a field.\""},
+        {"label": "B", "text": "\"At school, she moved through the hallways in a careful performance of normalcy: the right sneakers, the right slang.\""},
+        {"label": "C", "text": "\"Her hands were cold. She pressed them against her stomach.\""},
+        {"label": "D", "text": "\"When Marcus left the stage, the emcee called her name.\""}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The phrase 'careful performance of normalcy' directly conveys that Priya deliberately conceals her authentic self at school by curating her appearance and behavior to fit in. A describes the melody. C shows nervousness but not concealment. D is a plot event.",
+      "commonMistakes": ["C — shows physical anxiety but does not address the idea of hiding an identity", "A — describes the music, not Priya's behavior at school"]
+    },
+    {
+      "id": "ela-rc-047",
+      "section": "ela",
+      "category": "ela.reading.figurative_language",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "stem": "In the final paragraph, the phrase \"she did not translate herself for anyone\" most likely means that Priya —",
+      "passageId": "passage_rc_007",
+      "options": [
+        {"label": "A", "text": "sang the entire song in Urdu without providing an English translation"},
+        {"label": "B", "text": "expressed herself authentically without adjusting for others' expectations"},
+        {"label": "C", "text": "refused to speak to anyone after the performance ended"},
+        {"label": "D", "text": "performed the song differently from how her mother had taught her"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "Throughout the passage, 'translation' is used metaphorically for the way Priya adapts herself — her name, her habits — to fit in. By not translating herself, she performs without compromise, sharing her authentic cultural voice. A takes the word literally. C and D are unsupported.",
+      "commonMistakes": ["A — takes 'translate' literally rather than as the metaphor the passage has built throughout", "D — contradicts the passage, which shows Priya singing exactly as her mother taught"]
+    },
+    {
+      "id": "ela-rc-048",
+      "section": "ela",
+      "category": "ela.reading.authors_purpose",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "stem": "The author most likely includes the detail about the harmonium 'wheezing between them like a third family member' in order to —",
+      "passageId": "passage_rc_007",
+      "options": [
+        {"label": "A", "text": "suggest that the harmonium is old and in poor condition"},
+        {"label": "B", "text": "imply that Priya's family cannot afford a better instrument"},
+        {"label": "C", "text": "emphasize the intimacy and warmth of the musical tradition shared between mother and daughter"},
+        {"label": "D", "text": "show that Priya's mother is not a skilled musician"}
+      ],
+      "correctAnswer": "C",
+      "explanation": "Personifying the harmonium as a 'third family member' elevates it from an object to a participant in the bond between Priya and her mother. The detail conveys warmth and closeness, not poverty (B), poor quality (A), or lack of skill (D).",
+      "commonMistakes": ["A — 'wheezing' is personification conveying character, not a criticism of the instrument's condition", "B — the passage contains no information about the family's finances"]
+    },
+    {
+      "id": "ela-rc-049",
+      "section": "ela",
+      "category": "ela.reading.plot_character",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "stem": "Which of the following best describes the turning point in the passage?",
+      "passageId": "passage_rc_007",
+      "options": [
+        {"label": "A", "text": "When Priya's mother teaches her where to place her tongue for the correct sound"},
+        {"label": "B", "text": "When Priya hears Marcus Rivera's stand-up set from the wings"},
+        {"label": "C", "text": "When Priya opens her mouth onstage and sings in her authentic voice instead of her 'cafeteria' voice"},
+        {"label": "D", "text": "When the audience becomes quiet and Priya closes her eyes"}
+      ],
+      "correctAnswer": "C",
+      "explanation": "The passage builds toward the moment Priya chooses to sing with 'the other voice — the one that lived beneath the first, older and more honest.' This is when her internal conflict resolves into action. A is backstory. B is a transitional detail. D follows from the turning point but is not itself the decisive moment.",
+      "commonMistakes": ["D — the audience's silence is the consequence of the turning point, not the turning point itself", "A — this is important context but occurs during the backstory, not the climactic moment"]
+    },
+    {
+      "id": "ela-rc-050",
+      "section": "ela",
+      "category": "ela.reading.main_idea",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "stem": "Which statement best expresses the central idea of the passage?",
+      "passageId": "passage_rc_008",
+      "options": [
+        {"label": "A", "text": "Phoenix, Arizona, is the hottest city in the United States due to its desert location."},
+        {"label": "B", "text": "Cities are significantly warmer than surrounding areas because of man-made surfaces, and this heat has serious health and equity consequences."},
+        {"label": "C", "text": "Planting trees is the most effective way to reduce all forms of air pollution in cities."},
+        {"label": "D", "text": "Cool roofs and permeable pavement have already eliminated the urban heat island effect in most American cities."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The passage explains the UHI effect, its causes (man-made surfaces), its consequences (heat deaths, racial inequity), and potential solutions. A is a supporting detail. C overstates the passage — trees reduce heat, but the passage doesn't claim they address all pollution. D is factually unsupported.",
+      "commonMistakes": ["A — this is a specific example used to introduce the topic, not the central idea", "C — the passage discusses trees as a heat mitigation tool, not a solution to all air pollution"]
+    },
+    {
+      "id": "ela-rc-051",
+      "section": "ela",
+      "category": "ela.reading.best_evidence",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "stem": "Which detail from the passage best supports the claim that urban heat disproportionately affects certain communities?",
+      "passageId": "passage_rc_008",
+      "options": [
+        {"label": "A", "text": "Asphalt, concrete, brick, and steel have high thermal mass."},
+        {"label": "B", "text": "Cool roofs can reduce surface temperatures by up to 60°F compared to traditional dark roofs."},
+        {"label": "C", "text": "Formerly redlined neighborhoods are today an average of 2.6°C hotter than non-redlined areas in the same city."},
+        {"label": "D", "text": "Heat is the deadliest weather-related hazard in the United States."}
+      ],
+      "correctAnswer": "C",
+      "explanation": "The redlining statistic directly links historical racial discrimination to present-day heat inequality, showing that certain communities are disproportionately affected. A describes a general cause. B describes a solution. D states overall danger but not disparity.",
+      "commonMistakes": ["D — establishes that heat is deadly but does not address the disproportionate impact on specific communities", "A — explains why cities are hot generally, not why some neighborhoods are hotter than others"]
+    },
+    {
+      "id": "ela-rc-052",
+      "section": "ela",
+      "category": "ela.reading.vocabulary_in_context",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "stem": "As used in the passage, the word \"impervious\" most nearly means —",
+      "passageId": "passage_rc_008",
+      "options": [
+        {"label": "A", "text": "dangerous"},
+        {"label": "B", "text": "not allowing water to pass through"},
+        {"label": "C", "text": "extremely hot"},
+        {"label": "D", "text": "artificially colored"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The passage contrasts 'impervious surfaces' with permeable pavement that 'allows rainwater to seep through.' This context makes clear that impervious means not allowing water to pass through. A, C, and D are unrelated to the word's meaning.",
+      "commonMistakes": ["C — impervious surfaces contribute to heat, but the word itself describes water resistance, not temperature", "A — the passage associates these surfaces with negative outcomes, but 'dangerous' is not the meaning of 'impervious'"]
+    },
+    {
+      "id": "ela-rc-053",
+      "section": "ela",
+      "category": "ela.reading.inference",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "stem": "Based on the passage, what can the reader most reasonably infer about why nighttime temperatures in cities remain elevated?",
+      "passageId": "passage_rc_008",
+      "options": [
+        {"label": "A", "text": "City buildings block wind patterns that would normally cool the air."},
+        {"label": "B", "text": "Urban materials absorb heat during the day and release it slowly after sunset."},
+        {"label": "C", "text": "Air conditioning units pump hot air outside, warming the streets."},
+        {"label": "D", "text": "City lights generate significant amounts of heat radiation at night."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The passage states that materials with high thermal mass 'soak up solar energy during the day and release it slowly at night,' directly explaining elevated nighttime temperatures. A, C, and D introduce factors not discussed in the passage.",
+      "commonMistakes": ["A — while plausible in general, the passage does not mention wind patterns", "C — air conditioning is not discussed in the passage"]
+    },
+    {
+      "id": "ela-rc-054",
+      "section": "ela",
+      "category": "ela.reading.authors_purpose",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "stem": "The author most likely includes the information about redlining in order to —",
+      "passageId": "passage_rc_008",
+      "options": [
+        {"label": "A", "text": "argue that banks should be required to invest in urban tree planting"},
+        {"label": "B", "text": "show that the urban heat island effect is connected to historical racial and economic inequality"},
+        {"label": "C", "text": "explain why some cities are hotter than others"},
+        {"label": "D", "text": "prove that the urban heat island effect has existed for over a century"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The redlining detail connects present-day heat disparities to historical discriminatory practices, adding a social justice dimension to the scientific discussion. A prescribes a policy not mentioned. C confuses within-city variation with between-city variation. D misinterprets the timeline.",
+      "commonMistakes": ["C — redlining explains variation within a single city, not differences between cities", "A — the passage does not make specific policy demands about banks"]
+    },
+    {
+      "id": "ela-rc-055",
+      "section": "ela",
+      "category": "ela.reading.claim_evidence",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "stem": "Which statement from the passage is best described as a claim rather than evidence?",
+      "passageId": "passage_rc_008",
+      "options": [
+        {"label": "A", "text": "Between 2004 and 2018, an average of 702 Americans died each year from heat-related illness."},
+        {"label": "B", "text": "Pavement and rooftops were responsible for approximately 60 percent of excess urban heat."},
+        {"label": "C", "text": "Solutions exist, though they require political will and sustained investment."},
+        {"label": "D", "text": "Formerly redlined neighborhoods are today an average of 2.6°C hotter than non-redlined areas."}
+      ],
+      "correctAnswer": "C",
+      "explanation": "A, B, and D are specific, verifiable data points from studies. C is an assertion — an evaluative judgment about political will and investment — that the subsequent evidence about cool roofs and tree planting is meant to support.",
+      "commonMistakes": ["B — this is a specific finding from a published study, making it evidence rather than a claim", "A — this is a verifiable statistic from the CDC, not an arguable claim"]
+    },
+    {
+      "id": "ela-rc-056",
+      "section": "ela",
+      "category": "ela.reading.figurative_language",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "stem": "The final sentence of the passage — \"For a problem that is literally built into the pavement, the remedy may be as old as civilization itself — the deliberate planting of shade\" — primarily serves to —",
+      "passageId": "passage_rc_008",
+      "options": [
+        {"label": "A", "text": "suggest that modern technology is unnecessary for solving environmental problems"},
+        {"label": "B", "text": "create a contrast between the modern, engineered nature of the problem and the simplicity of a natural solution"},
+        {"label": "C", "text": "argue that ancient civilizations understood urban planning better than modern ones"},
+        {"label": "D", "text": "imply that the urban heat island effect has existed since ancient times"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The sentence juxtaposes 'built into the pavement' (modern infrastructure) with a remedy 'as old as civilization' (planting trees), creating a rhetorical contrast between technological cause and natural solution. A overstates — the passage also discusses cool roofs and permeable pavement. C and D are not supported.",
+      "commonMistakes": ["A — the passage advocates multiple solutions including technology (cool roofs, permeable pavement), not just trees", "D — the sentence says the remedy is old, not the problem"]
+    },
+    {
+      "id": "ela-rc-057",
+      "section": "ela",
+      "category": "ela.reading.main_idea",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "stem": "Which statement best expresses the central idea of the poem?",
+      "passageId": "passage_rc_009",
+      "options": [
+        {"label": "A", "text": "November is the most beautiful month in an orchard because of the falling apples."},
+        {"label": "B", "text": "The bare trees of late autumn reveal a clarity and openness that the speaker comes to see not as loss but as a form of grace."},
+        {"label": "C", "text": "The speaker is mourning the death of a grandmother who used to tend an orchard."},
+        {"label": "D", "text": "Orchards require careful maintenance to survive the transition from fall to winter."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The poem shifts from apparent loss (bare trees, fallen leaves) to a realization that November's bareness brings clarity — 'not emptiness but clarity.' The grandmother image is a simile for peaceful letting go, not the poem's subject. A and D misread the poem's focus.",
+      "commonMistakes": ["C — the grandmother appears only in a simile in the final stanza; she is not the poem's subject", "A — the poem ultimately values November's clarity, but doesn't call it the 'most beautiful' month"]
+    },
+    {
+      "id": "ela-rc-058",
+      "section": "ela",
+      "category": "ela.reading.vocabulary_in_context",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "stem": "As used in the poem, the word \"honest\" in the phrase \"the honest grey\" most nearly means —",
+      "passageId": "passage_rc_009",
+      "options": [
+        {"label": "A", "text": "truthful and unadorned"},
+        {"label": "B", "text": "morally correct"},
+        {"label": "C", "text": "dull and unpleasant"},
+        {"label": "D", "text": "reliable and predictable"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "The poem contrasts October's 'bright disguises' with November's 'honest grey,' using 'honest' to mean stripped of pretense — truthful and unadorned. B applies a moral framework not present. C assigns a negative judgment the speaker ultimately rejects. D doesn't fit the poetic context.",
+      "commonMistakes": ["C — the speaker initially seems to view grey negatively but shifts to seeing it as clarity, not dullness", "B — 'honest' here is about appearance, not moral character"]
+    },
+    {
+      "id": "ela-rc-059",
+      "section": "ela",
+      "category": "ela.reading.figurative_language",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "stem": "In the first stanza, the poet compares the autumn trees to —",
+      "passageId": "passage_rc_009",
+      "options": [
+        {"label": "A", "text": "actors removing costumes after a performance"},
+        {"label": "B", "text": "guests dressed up for a party they know will end soon"},
+        {"label": "C", "text": "painters applying bright colors to a canvas"},
+        {"label": "D", "text": "children playing a game of hide and seek"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The poem describes October's colors as 'bright disguises' and likens the gold to 'someone dressing for a party / they know they will leave early.' This directly compares the trees to party guests who know their time is limited. A is close but not what the text says. C and D are unsupported.",
+      "commonMistakes": ["A — the metaphor is about dressing for a party, not removing costumes; the removal happens in November", "C — while colors are mentioned, the extended metaphor is specifically about a party, not painting"]
+    },
+    {
+      "id": "ela-rc-060",
+      "section": "ela",
+      "category": "ela.reading.authors_purpose",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "stem": "The poet most likely includes the image of sparrows finding seeds in order to —",
+      "passageId": "passage_rc_009",
+      "options": [
+        {"label": "A", "text": "show that birds are more active in November than in other months"},
+        {"label": "B", "text": "provide a concrete example of how bareness reveals what fullness had hidden"},
+        {"label": "C", "text": "suggest that the orchard is still producing food in late autumn"},
+        {"label": "D", "text": "introduce the theme of hunger and survival in winter"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The sparrows find seeds 'they couldn't see in summer' — when the branches were full of leaves. This image concretely illustrates the poem's central insight that November's bareness creates clarity and reveals hidden things. A, C, and D miss the thematic purpose.",
+      "commonMistakes": ["D — the poem is not about survival; the sparrows finding seeds illustrates the theme of clarity through loss", "A — the poem doesn't compare bird activity across months"]
+    },
+    {
+      "id": "ela-rc-061",
+      "section": "ela",
+      "category": "ela.reading.inference",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "stem": "Based on the poem, it can be inferred that the speaker's attitude toward November has —",
+      "passageId": "passage_rc_009",
+      "options": [
+        {"label": "A", "text": "remained consistently positive throughout the speaker's life"},
+        {"label": "B", "text": "shifted from seeing it as a season of loss to seeing it as a season of clarity"},
+        {"label": "C", "text": "changed from excitement to deep sadness"},
+        {"label": "D", "text": "always been one of indifference"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The speaker states 'I used to think November was a loss' and then pivots with 'But look' to describe the clarity and openness that bareness brings. This marks a clear shift from negative to positive understanding. A contradicts 'I used to think... a loss.' C and D are unsupported.",
+      "commonMistakes": ["A — the phrase 'I used to think November was a loss' shows the speaker once held a negative view", "C — the poem shifts toward appreciation, not sadness"]
+    },
+    {
+      "id": "ela-rc-062",
+      "section": "ela",
+      "category": "ela.reading.best_evidence",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "stem": "Which lines from the poem best support the interpretation that the poem uses an extended metaphor comparing seasonal change to emotional acceptance?",
+      "passageId": "passage_rc_009",
+      "options": [
+        {"label": "A", "text": "\"The apples that remain / are soft, brown-shouldered, leaning / toward the grass\""},
+        {"label": "B", "text": "\"The orchard is not grieving. / It is putting things down / the way my grandmother set her rings / on the nightstand every evening\""},
+        {"label": "C", "text": "\"All October they held their bright disguises — / crimson, copper, the frantic gold\""},
+        {"label": "D", "text": "\"The sparrows find seeds / they couldn't see in summer\""}
+      ],
+      "correctAnswer": "B",
+      "explanation": "These lines explicitly bridge the natural world and human experience: the orchard 'putting things down' parallels the grandmother's nightly ritual of removing rings, connecting seasonal shedding to the emotional act of letting go with faith. A and C describe natural imagery without the human parallel. D illustrates clarity but not emotional acceptance.",
+      "commonMistakes": ["C — describes October's colors vividly but does not connect to emotional acceptance", "A — personifies the apples slightly but does not develop the extended metaphor linking nature to human emotion"]
+    },
+    {
+      "id": "ela-rc-063",
+      "section": "ela",
+      "category": "ela.reading.figurative_language",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "stem": "The simile \"the way a room feels larger / when you finally clear the shelves\" most likely suggests that —",
+      "passageId": "passage_rc_009",
+      "options": [
+        {"label": "A", "text": "the orchard appears physically bigger in November because the leaves have fallen"},
+        {"label": "B", "text": "letting go of what is familiar can create unexpected space and openness"},
+        {"label": "C", "text": "the speaker is planning to clean and organize a room in the house"},
+        {"label": "D", "text": "empty spaces are always preferable to full ones"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The simile compares November's stripped-down orchard to a room that feels larger after clearing shelves, using a domestic image to convey the emotional insight that releasing what you've held onto creates a sense of spaciousness and freedom. A takes it too literally. C is absurd in context. D overgeneralizes.",
+      "commonMistakes": ["A — takes the simile literally rather than recognizing its figurative meaning about emotional openness", "D — the poem values this specific kind of clearing, not a universal preference for emptiness"]
+    }
+  ]
+}
