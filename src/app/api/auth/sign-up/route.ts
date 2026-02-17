@@ -1,12 +1,44 @@
-// TODO: POST - Register new user with email/password
-// - Validate input (email, password, first_name, last_name, role)
-// - Call supabase.auth.signUp() with user metadata
-// - Profile auto-created via DB trigger (handle_new_user)
-// - Return session or redirect to onboarding
-
+import { createServerClient } from '@/lib/supabase/server'
 import { NextRequest, NextResponse } from 'next/server'
 
 export async function POST(request: NextRequest) {
-  // TODO: Implement
-  return NextResponse.json({ error: 'Not implemented' }, { status: 501 })
+  try {
+    const { email, password, firstName, lastName, role } = await request.json()
+
+    if (!email || !password) {
+      return NextResponse.json({ error: 'Email and password are required' }, { status: 400 })
+    }
+
+    if (password.length < 6) {
+      return NextResponse.json({ error: 'Password must be at least 6 characters' }, { status: 400 })
+    }
+
+    if (!['student', 'parent'].includes(role)) {
+      return NextResponse.json({ error: 'Invalid role' }, { status: 400 })
+    }
+
+    const supabase = await createServerClient()
+    const { data, error } = await supabase.auth.signUp({
+      email,
+      password,
+      options: {
+        data: {
+          first_name: firstName || '',
+          last_name: lastName || '',
+          role: role || 'student',
+        },
+      },
+    })
+
+    if (error) {
+      return NextResponse.json({ error: error.message }, { status: 400 })
+    }
+
+    return NextResponse.json({
+      message: 'Account created successfully',
+      user: data.user,
+    })
+  } catch {
+    return NextResponse.json({ error: 'Internal server error' }, { status: 500 })
+  }
 }

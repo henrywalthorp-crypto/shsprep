@@ -1,13 +1,18 @@
 "use client";
 
-import React from "react";
+import React, { useState } from "react";
 import Link from "next/link";
 import { motion } from "framer-motion";
 import { useRouter } from "next/navigation";
-import { ArrowLeft, ArrowRight } from "lucide-react";
+import { ArrowLeft, ArrowRight, Loader2 } from "lucide-react";
+import { saveOnboardingStep } from "@/lib/actions/onboarding";
 
 const OnboardingPage = () => {
   const router = useRouter();
+  const [parentEmail, setParentEmail] = useState("");
+  const [parentFirstName, setParentFirstName] = useState("");
+  const [parentLastName, setParentLastName] = useState("");
+  const [loading, setLoading] = useState(false);
 
   return (
     <div className="min-h-screen relative flex flex-col items-center justify-center p-6">
@@ -52,6 +57,8 @@ const OnboardingPage = () => {
             <input 
               type="email" 
               placeholder="email@address.com"
+              value={parentEmail}
+              onChange={(e) => setParentEmail(e.target.value)}
               className="w-full p-4 bg-off-white border border-transparent rounded-2xl focus:outline-none focus:ring-2 focus:ring-mint focus:bg-white transition-all text-deep-forest placeholder:text-gray-400 font-medium"
             />
           </div>
@@ -64,11 +71,15 @@ const OnboardingPage = () => {
               <input 
                 type="text" 
                 placeholder="First name"
+                value={parentFirstName}
+                onChange={(e) => setParentFirstName(e.target.value)}
                 className="w-full p-4 bg-off-white border border-transparent rounded-2xl focus:outline-none focus:ring-2 focus:ring-mint focus:bg-white transition-all text-deep-forest placeholder:text-gray-400 font-medium"
               />
               <input 
                 type="text" 
                 placeholder="Last name"
+                value={parentLastName}
+                onChange={(e) => setParentLastName(e.target.value)}
                 className="w-full p-4 bg-off-white border border-transparent rounded-2xl focus:outline-none focus:ring-2 focus:ring-mint focus:bg-white transition-all text-deep-forest placeholder:text-gray-400 font-medium"
               />
             </div>
@@ -77,11 +88,25 @@ const OnboardingPage = () => {
           <div className="pt-4">
             <button 
               type="button"
-              onClick={() => router.push("/signup/onboarding/ready")}
-              className="w-full py-5 bg-mint text-deep-forest rounded-[24px] font-bold text-base flex items-center justify-center gap-2 hover:bg-[#B8E26B] transition-all shadow-lg shadow-mint/20 group"
+              disabled={loading}
+              onClick={async () => {
+                setLoading(true);
+                await saveOnboardingStep("parent_info", {
+                  parent_email: parentEmail,
+                  parent_first_name: parentFirstName,
+                  parent_last_name: parentLastName,
+                });
+                setLoading(false);
+                router.push("/signup/onboarding/ready");
+              }}
+              className="w-full py-5 bg-mint text-deep-forest rounded-[24px] font-bold text-base flex items-center justify-center gap-2 hover:bg-[#B8E26B] transition-all shadow-lg shadow-mint/20 group disabled:opacity-50"
             >
-              Continue
-              <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
+              {loading ? <Loader2 className="w-5 h-5 animate-spin" /> : (
+                <>
+                  Continue
+                  <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
+                </>
+              )}
             </button>
           </div>
         </form>

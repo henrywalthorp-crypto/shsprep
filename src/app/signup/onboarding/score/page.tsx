@@ -4,6 +4,7 @@ import React, { useState } from "react";
 import { motion } from "framer-motion";
 import { useRouter } from "next/navigation";
 import { ChevronLeft, ArrowRight, BrainCircuit } from "lucide-react";
+import { saveOnboardingStep } from "@/lib/actions/onboarding";
 
 const ScoreStep = () => {
   const router = useRouter();
@@ -12,6 +13,7 @@ const ScoreStep = () => {
     const handleContinue = () => {
       if (score) {
         localStorage.setItem("shs_onboarding_score", score);
+        saveOnboardingStep("score", { current_score: parseInt(score) });
         router.push(`/signup/onboarding/goal-score?current=${score}`);
       } else {
         localStorage.removeItem("shs_onboarding_score");

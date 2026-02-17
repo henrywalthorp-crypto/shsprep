@@ -4,6 +4,7 @@ import React, { useEffect, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useRouter } from "next/navigation";
 import { Sparkles, Target, ArrowRight, Zap, Brain } from "lucide-react";
+import { completeOnboarding } from "@/lib/actions/onboarding";
 
 const SummaryScreen = () => {
   const router = useRouter();
@@ -194,7 +195,10 @@ const SummaryScreen = () => {
 
                     <div className="pt-4">
                       <button 
-                        onClick={() => router.push("/dashboard")}
+                        onClick={async () => {
+                          await completeOnboarding();
+                          router.push("/dashboard");
+                        }}
                         className="w-full py-5 bg-[#4F46E5] text-white rounded-[24px] font-black text-lg flex items-center justify-center gap-2 hover:bg-[#4338CA] transition-all shadow-xl shadow-[#4F46E5]/20 group"
                       >
                         Start Plan

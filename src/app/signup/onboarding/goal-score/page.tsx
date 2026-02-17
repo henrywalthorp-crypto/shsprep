@@ -4,6 +4,7 @@ import React, { useState, Suspense } from "react";
 import { motion } from "framer-motion";
 import { useRouter, useSearchParams } from "next/navigation";
 import { ChevronLeft, ArrowRight } from "lucide-react";
+import { saveOnboardingStep } from "@/lib/actions/onboarding";
 
 const GoalScoreContent = () => {
   const router = useRouter();
@@ -129,6 +130,7 @@ const GoalScoreContent = () => {
           <button 
             onClick={() => {
               localStorage.setItem("shs_onboarding_goal", goalScore.toString());
+              saveOnboardingStep("goal_score", { goal_score: goalScore });
               router.push("/signup/onboarding/personalizing");
             }}
             className="w-full py-5 bg-mint text-deep-forest rounded-full font-bold text-lg flex items-center justify-center gap-2 hover:bg-[#B8E26B] transition-all shadow-lg shadow-mint/30 group"

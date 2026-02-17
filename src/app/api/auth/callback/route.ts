@@ -1,11 +1,17 @@
-// TODO: GET - OAuth callback handler (Google)
-// - Exchange auth code for session using supabase.auth.exchangeCodeForSession()
-// - Check if profile exists and onboarding is complete
-// - Redirect to /dashboard or /signup/onboarding accordingly
+import { createServerClient } from '@/lib/supabase/server'
+import { NextResponse } from 'next/server'
 
-import { NextRequest, NextResponse } from 'next/server'
+export async function GET(request: Request) {
+  const { searchParams, origin } = new URL(request.url)
+  const code = searchParams.get('code')
+  const next = searchParams.get('next') ?? '/dashboard'
 
-export async function GET(request: NextRequest) {
-  // TODO: Implement
-  return NextResponse.redirect(new URL('/dashboard', request.url))
+  if (code) {
+    const supabase = await createServerClient()
+    const { error } = await supabase.auth.exchangeCodeForSession(code)
+    if (!error) {
+      return NextResponse.redirect(`${origin}${next}`)
+    }
+  }
+  return NextResponse.redirect(`${origin}/sign-in?error=auth_failed`)
 }

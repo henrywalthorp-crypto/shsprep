@@ -1,11 +1,27 @@
-// TODO: POST - Sign in with email/password
-// - Validate input
-// - Call supabase.auth.signInWithPassword()
-// - Return session
-
+import { createServerClient } from '@/lib/supabase/server'
 import { NextRequest, NextResponse } from 'next/server'
 
 export async function POST(request: NextRequest) {
-  // TODO: Implement
-  return NextResponse.json({ error: 'Not implemented' }, { status: 501 })
+  try {
+    const { email, password } = await request.json()
+
+    if (!email || !password) {
+      return NextResponse.json({ error: 'Email and password are required' }, { status: 400 })
+    }
+
+    const supabase = await createServerClient()
+    const { data, error } = await supabase.auth.signInWithPassword({ email, password })
+
+    if (error) {
+      return NextResponse.json({ error: error.message }, { status: 401 })
+    }
+
+    return NextResponse.json({
+      message: 'Signed in successfully',
+      user: data.user,
+      session: data.session,
+    })
+  } catch {
+    return NextResponse.json({ error: 'Internal server error' }, { status: 500 })
+  }
 }

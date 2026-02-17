@@ -1,15 +1,81 @@
 "use client";
 
-import React from "react";
+import React, { useState } from "react";
 import Link from "next/link";
 import { motion } from "framer-motion";
 import { useRouter } from "next/navigation";
-import { ArrowLeft, ChevronRight } from "lucide-react";
-import { FcGoogle } from "react-icons/fc";
-import { AiFillApple } from "react-icons/ai";
+import { ArrowLeft, ChevronRight, Loader2 } from "lucide-react";
+import { Chrome, Apple } from "lucide-react";
+import { createBrowserClient } from "@/lib/supabase/client";
+import { toast } from "sonner";
 
 const SignUpFormPage = () => {
   const router = useRouter();
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
+  const [firstName, setFirstName] = useState("");
+  const [lastName, setLastName] = useState("");
+  const [loading, setLoading] = useState(false);
+  const [googleLoading, setGoogleLoading] = useState(false);
+
+  const handleSignUp = async (e: React.FormEvent) => {
+    e.preventDefault();
+    if (!email || !password || !firstName) {
+      toast.error("Please fill in all required fields");
+      return;
+    }
+    if (password.length < 6) {
+      toast.error("Password must be at least 6 characters");
+      return;
+    }
+
+    setLoading(true);
+    try {
+      const supabase = createBrowserClient();
+      const { error } = await supabase.auth.signUp({
+        email,
+        password,
+        options: {
+          data: {
+            first_name: firstName,
+            last_name: lastName,
+            role: "student",
+          },
+        },
+      });
+      if (error) {
+        toast.error(error.message);
+      } else {
+        localStorage.setItem("shs_student_name", firstName);
+        toast.success("Account created!");
+        router.push("/signup/onboarding");
+      }
+    } catch {
+      toast.error("An unexpected error occurred");
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  const handleGoogleSignUp = async () => {
+    setGoogleLoading(true);
+    try {
+      const supabase = createBrowserClient();
+      const { error } = await supabase.auth.signInWithOAuth({
+        provider: "google",
+        options: {
+          redirectTo: `${window.location.origin}/api/auth/callback?next=/signup/onboarding`,
+        },
+      });
+      if (error) {
+        toast.error(error.message);
+        setGoogleLoading(false);
+      }
+    } catch {
+      toast.error("An unexpected error occurred");
+      setGoogleLoading(false);
+    }
+  };
 
   return (
     <div className="min-h-screen bg-deep-forest relative flex flex-col items-center justify-center p-6 overflow-hidden">
@@ -55,13 +121,21 @@ const SignUpFormPage = () => {
         </h1>
 
         <div className="space-y-4">
-          <button className="w-full flex items-center justify-center gap-3 px-6 py-3.5 bg-[#4F46E5] text-white rounded-xl hover:bg-[#4338CA] transition-all font-bold text-sm shadow-sm shadow-[#4F46E5]/20">
-            <FcGoogle className="text-xl bg-white rounded-full p-0.5" />
+          <button
+            onClick={handleGoogleSignUp}
+            disabled={googleLoading}
+            className="w-full flex items-center justify-center gap-3 px-6 py-3.5 bg-[#4F46E5] text-white rounded-xl hover:bg-[#4338CA] transition-all font-bold text-sm shadow-sm shadow-[#4F46E5]/20 disabled:opacity-50"
+          >
+            {googleLoading ? (
+              <Loader2 className="w-5 h-5 animate-spin" />
+            ) : (
+              <Chrome className="text-xl bg-white rounded-full p-0.5" />
+            )}
             Continue with Google
           </button>
           
           <button className="w-full flex items-center justify-center gap-3 px-6 py-3.5 bg-black text-white rounded-xl hover:bg-zinc-900 transition-all font-bold text-sm">
-            <AiFillApple className="text-xl" />
+            <Apple className="text-xl" />
             Continue with Apple
           </button>
         </div>
@@ -75,12 +149,25 @@ const SignUpFormPage = () => {
           </div>
         </div>
 
-          <form className="space-y-4" onSubmit={(e) => e.preventDefault()}>
+          <form className="space-y-4" onSubmit={handleSignUp}>
             <div className="space-y-1.5">
               <label className="text-xs font-bold text-deep-forest ml-1 uppercase tracking-wider">Your email</label>
               <input
                 type="email"
                 placeholder="email@address.com"
+                value={email}
+                onChange={(e) => setEmail(e.target.value)}
+                className="w-full px-4 py-3.5 bg-off-white border border-transparent rounded-xl focus:outline-none focus:ring-2 focus:ring-mint focus:bg-white focus:border-mint/20 transition-all text-sm font-medium"
+              />
+            </div>
+
+            <div className="space-y-1.5">
+              <label className="text-xs font-bold text-deep-forest ml-1 uppercase tracking-wider">Password</label>
+              <input
+                type="password"
+                placeholder="At least 6 characters"
+                value={password}
+                onChange={(e) => setPassword(e.target.value)}
                 className="w-full px-4 py-3.5 bg-off-white border border-transparent rounded-xl focus:outline-none focus:ring-2 focus:ring-mint focus:bg-white focus:border-mint/20 transition-all text-sm font-medium"
               />
             </div>
@@ -91,28 +178,28 @@ const SignUpFormPage = () => {
                 <input
                   type="text"
                   placeholder="First name"
-                  id="firstName"
+                  value={firstName}
+                  onChange={(e) => setFirstName(e.target.value)}
                   className="w-full px-4 py-3.5 bg-off-white border border-transparent rounded-xl focus:outline-none focus:ring-2 focus:ring-mint focus:bg-white focus:border-mint/20 transition-all text-sm font-medium"
                 />
                 <input
                   type="text"
                   placeholder="Last name"
+                  value={lastName}
+                  onChange={(e) => setLastName(e.target.value)}
                   className="w-full px-4 py-3.5 bg-off-white border border-transparent rounded-xl focus:outline-none focus:ring-2 focus:ring-mint focus:bg-white focus:border-mint/20 transition-all text-sm font-medium"
                 />
               </div>
             </div>
 
             <button 
-              type="button"
-              onClick={() => {
-                const name = (document.getElementById("firstName") as HTMLInputElement)?.value;
-                if (name) localStorage.setItem("shs_student_name", name);
-                router.push("/signup/paywall");
-              }}
-              className="w-full py-4 bg-mint text-deep-forest rounded-xl font-bold text-sm flex items-center justify-center gap-2 hover:bg-[#B8E26B] transition-all shadow-lg shadow-mint/20 mt-6 group"
+              type="submit"
+              disabled={loading}
+              className="w-full py-4 bg-mint text-deep-forest rounded-xl font-bold text-sm flex items-center justify-center gap-2 hover:bg-[#B8E26B] transition-all shadow-lg shadow-mint/20 mt-6 group disabled:opacity-50"
             >
+              {loading && <Loader2 className="w-4 h-4 animate-spin" />}
               Continue
-              <ChevronRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+              {!loading && <ChevronRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />}
             </button>
           </form>
 

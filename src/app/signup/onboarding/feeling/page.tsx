@@ -4,6 +4,7 @@ import React, { useState } from "react";
 import { motion } from "framer-motion";
 import { useRouter } from "next/navigation";
 import { ChevronLeft, ArrowRight, Check, Smile, Ghost, Rocket, HelpCircle } from "lucide-react";
+import { saveOnboardingStep } from "@/lib/actions/onboarding";
 
 const FeelingStep = () => {
   const router = useRouter();
@@ -75,7 +76,10 @@ const FeelingStep = () => {
         </div>
 
         <button 
-          onClick={() => router.push("/signup/onboarding/partnership")}
+          onClick={() => {
+            saveOnboardingStep("feeling", { feeling: selected });
+            router.push("/signup/onboarding/partnership");
+          }}
           className="w-full py-5 bg-mint text-deep-forest rounded-full font-bold text-lg flex items-center justify-center gap-2 hover:bg-[#B8E26B] transition-all shadow-lg shadow-mint/30 group"
         >
           Continue

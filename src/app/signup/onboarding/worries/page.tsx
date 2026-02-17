@@ -4,6 +4,7 @@ import React, { useState } from "react";
 import { motion } from "framer-motion";
 import { useRouter } from "next/navigation";
 import { ChevronLeft, ArrowRight, Check, AlertTriangle, Layout, Clock, Target, Lightbulb } from "lucide-react";
+import { saveOnboardingStep } from "@/lib/actions/onboarding";
 
 const options = [
   { id: "math", label: "Math", icon: Target },
@@ -20,6 +21,7 @@ const options = [
       const selectedOption = options.find(o => o.id === selected);
       if (selectedOption) {
         localStorage.setItem("shs_onboarding_worry", selectedOption.label);
+        saveOnboardingStep("worries", { worry: selectedOption.label });
       }
       router.push("/signup/onboarding/help");
     };

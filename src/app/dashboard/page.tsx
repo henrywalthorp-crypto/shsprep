@@ -2,222 +2,217 @@
 
 import React, { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
-import { 
-  Layout, 
-  BarChart2, 
-  BookOpen, 
-  Users, 
-  Calendar as CalendarIcon, 
-  ChevronDown, 
-  Settings,
-  PenTool,
-  FileText,
-  Info
+import {
+  Layout,
+  Target,
+  CheckCircle2,
+  Sparkles,
+  Flame,
+  Clock,
+  ChevronRight,
+  Zap,
 } from "lucide-react";
 
-const DashboardPage = () => {
+interface SummaryData {
+  totalPracticed: number;
+  overallAccuracy: number;
+  currentStreak: number;
+  weakestSkills: { category: string; mastery: number; accuracy: number }[];
+  strongestSkills: { category: string; mastery: number; accuracy: number }[];
+  recentSessions: {
+    id: string;
+    mode: string;
+    section_filter: string | null;
+    accuracy: number | null;
+    total_questions: number;
+    time_spent_seconds: number;
+    completed_at: string;
+  }[];
+}
+
+function SkeletonCard() {
+  return <div className="bg-white rounded-2xl p-6 border border-slate-100 shadow-sm animate-pulse"><div className="h-4 bg-slate-200 rounded w-24 mb-3" /><div className="h-8 bg-slate-200 rounded w-16" /></div>;
+}
+
+export default function DashboardPage() {
   const router = useRouter();
-  const [userName, setUserName] = useState("Fardin");
-  const [testDate, setTestDate] = useState("");
-  const [scores, setScores] = useState({
-    reading: { current: 550, goal: 600 },
-    math: { current: 550, goal: 600 }
-  });
+  const [data, setData] = useState<SummaryData | null>(null);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    const savedName = localStorage.getItem("shs_student_name");
-    if (savedName) setUserName(savedName);
+    fetch("/api/analytics/summary")
+      .then((r) => {
+        if (!r.ok) throw new Error("Failed to load");
+        return r.json();
+      })
+      .then(setData)
+      .catch((e) => setError(e.message))
+      .finally(() => setLoading(false));
   }, []);
 
-  const handleScoreChange = (type: 'reading' | 'math', field: 'current' | 'goal', value: string) => {
-    const val = parseInt(value);
-    if (!isNaN(val)) {
-      setScores(prev => ({
-        ...prev,
-        [type]: { ...prev[type], [field]: Math.min(val, 800) }
-      }));
-    }
-  };
-
-  const SidebarItem = ({ icon: Icon, label, active = false, onClick }: { icon: any, label: string, active?: boolean, onClick?: () => void }) => (
-    <div 
-      onClick={onClick}
-      className={`flex items-center gap-3 px-4 py-3 rounded-xl cursor-pointer transition-all ${
-        active ? "bg-[#1E293B] text-white" : "text-slate-400 hover:bg-[#1E293B] hover:text-white"
-      }`}
-    >
-      <Icon className="w-5 h-5" />
-      <span className="font-bold text-sm tracking-tight">{label}</span>
-    </div>
-  );
-
-  const ScoreCard = ({ title, type }: { title: string, type: 'reading' | 'math' }) => {
-    const current = scores[type].current;
-    const goal = scores[type].goal;
-    const diff = goal - current;
-
+  if (error) {
     return (
-      <div className="bg-white rounded-[32px] p-8 border border-slate-100 shadow-sm">
-        <div className="flex items-center justify-between mb-8">
-          <h3 className="text-deep-forest font-bold text-lg tracking-tight">{title}</h3>
-          {diff > 0 && (
-            <div className="bg-[#D6FF62] text-deep-forest px-3 py-1 rounded-full text-[10px] font-black">
-              +{diff}pts
-            </div>
-          )}
-        </div>
-
-        <div className="flex items-center gap-4 mb-8">
-          <div className="flex-1 space-y-2">
-            <label className="text-[10px] font-black text-slate-400 uppercase tracking-widest">Current Score:</label>
-            <input 
-              type="number" 
-              value={current}
-              onChange={(e) => handleScoreChange(type, 'current', e.target.value)}
-              className="w-full p-4 bg-slate-50 rounded-2xl border-none focus:ring-2 focus:ring-[#4F46E5] text-deep-forest font-bold text-2xl"
-            />
-          </div>
-          <div className="flex-1 space-y-2">
-            <label className="text-[10px] font-black text-slate-400 uppercase tracking-widest">Goal Score:</label>
-            <input 
-              type="number" 
-              value={goal}
-              onChange={(e) => handleScoreChange(type, 'goal', e.target.value)}
-              className="w-full p-4 bg-[#D6FF62]/20 rounded-2xl border-none focus:ring-2 focus:ring-[#4F46E5] text-deep-forest font-bold text-2xl"
-            />
-          </div>
-        </div>
-
-        <div className="relative pt-6 pb-2">
-          <div className="h-2 w-full bg-slate-100 rounded-full relative">
-            <div className="absolute left-0 h-full bg-[#D6FF62] rounded-full" style={{ width: `${(goal / 800) * 100}%` }} />
-            <div 
-               className="absolute top-1/2 -translate-y-1/2 h-6 w-6 bg-white border-4 border-[#D6FF62] rounded-full shadow-lg cursor-pointer"
-               style={{ left: `${(goal / 800) * 100}%` }}
-            />
-            <div 
-               className="absolute top-1/2 -translate-y-1/2 h-4 w-4 bg-[#4F46E5] rounded-full shadow-md"
-               style={{ left: `${(current / 800) * 100}%` }}
-            />
-          </div>
-          <div className="flex justify-between mt-4 text-[10px] font-black text-slate-300 uppercase tracking-widest">
-            <span>200</span>
-            <div className="flex items-center gap-2">
-               <div className="w-2 h-2 bg-[#4F46E5] rounded-full" />
-               <span>Current</span>
-               <div className="w-2 h-2 bg-[#D6FF62] rounded-full" />
-               <span>Goal</span>
-            </div>
-            <span>800</span>
-          </div>
+      <div className="max-w-4xl">
+        <div className="bg-red-50 text-red-600 rounded-2xl p-6 text-center font-bold">
+          Failed to load dashboard. Please try again.
         </div>
       </div>
     );
-  };
+  }
+
+  const isEmpty = data && data.totalPracticed === 0;
 
   return (
-    <div className="flex min-h-screen bg-[#F8FAFC]">
-      <aside className="w-64 bg-[#0F172A] flex flex-col p-6 fixed inset-y-0 z-50">
-        <div className="flex items-center gap-3 mb-10 px-2">
-          <div className="h-8 w-8 bg-mint rounded-lg flex items-center justify-center text-deep-forest font-bold text-lg shadow-lg shadow-mint/20">
-            S
+    <div className="max-w-4xl">
+      <header className="mb-12">
+        <div className="flex items-center gap-3 mb-3">
+          <div className="h-10 w-10 bg-[#4F46E5] rounded-xl flex items-center justify-center">
+            <Layout className="w-5 h-5 text-white" />
           </div>
-          <span className="text-xl font-bold text-white tracking-tight font-display">
-            SHS<span className="text-white/40">prep</span>
-          </span>
+          <h1 className="text-3xl font-black text-deep-forest font-display">Dashboard</h1>
         </div>
+        <p className="text-slate-400 font-medium">Track your progress and continue preparing for the SHSAT.</p>
+      </header>
 
-        <nav className="flex-1 space-y-1">
-          <SidebarItem icon={PenTool} label="Practice" onClick={() => router.push("/dashboard/practice")} />
-          <SidebarItem icon={BookOpen} label="Mock Exams" onClick={() => router.push("/dashboard/mock-exams")} />
-          <SidebarItem icon={Layout} label="Study Plan" active />
-          <SidebarItem icon={BarChart2} label="Performance" onClick={() => router.push("/dashboard/performance")} />
-          
-          <div className="pt-8 pb-4">
-             <span className="px-4 text-[10px] font-black text-slate-500 uppercase tracking-widest">Additional Tools</span>
+      {/* Stats row */}
+      <div className="grid grid-cols-4 gap-6 mb-12">
+        {loading ? (
+          <>
+            <SkeletonCard /><SkeletonCard /><SkeletonCard /><SkeletonCard />
+          </>
+        ) : (
+          <>
+            <div className="bg-white rounded-2xl p-6 border border-slate-100 shadow-sm">
+              <div className="flex items-center gap-3 mb-2">
+                <Target className="w-5 h-5 text-[#4F46E5]" />
+                <span className="text-[10px] font-black text-slate-400 uppercase tracking-widest">Questions</span>
+              </div>
+              <div className="text-3xl font-black text-deep-forest">{data?.totalPracticed?.toLocaleString() ?? 0}</div>
+            </div>
+            <div className="bg-white rounded-2xl p-6 border border-slate-100 shadow-sm">
+              <div className="flex items-center gap-3 mb-2">
+                <CheckCircle2 className="w-5 h-5 text-[#22C55E]" />
+                <span className="text-[10px] font-black text-slate-400 uppercase tracking-widest">Accuracy</span>
+              </div>
+              <div className="text-3xl font-black text-deep-forest">{data ? Math.round(data.overallAccuracy * 100) : 0}%</div>
+            </div>
+            <div className="bg-white rounded-2xl p-6 border border-slate-100 shadow-sm">
+              <div className="flex items-center gap-3 mb-2">
+                <Flame className="w-5 h-5 text-[#F59E0B]" />
+                <span className="text-[10px] font-black text-slate-400 uppercase tracking-widest">Streak</span>
+              </div>
+              <div className="text-3xl font-black text-deep-forest">{data?.currentStreak ?? 0} days</div>
+            </div>
+            <div className="bg-white rounded-2xl p-6 border border-slate-100 shadow-sm">
+              <div className="flex items-center gap-3 mb-2">
+                <Sparkles className="w-5 h-5 text-[#EC4899]" />
+                <span className="text-[10px] font-black text-slate-400 uppercase tracking-widest">Sessions</span>
+              </div>
+              <div className="text-3xl font-black text-deep-forest">{data?.recentSessions?.length ?? 0}</div>
+            </div>
+          </>
+        )}
+      </div>
+
+      {/* Empty state */}
+      {isEmpty && (
+        <div className="bg-white rounded-[28px] border border-slate-100 shadow-sm p-12 text-center mb-12">
+          <div className="w-16 h-16 bg-[#D6FF62] rounded-2xl flex items-center justify-center mx-auto mb-6">
+            <Zap className="w-8 h-8 text-deep-forest" />
           </div>
-          
-          <SidebarItem icon={Users} label="Partner Directory" onClick={() => router.push("/dashboard/partners")} />
-          <SidebarItem icon={Info} label="Exam Info" onClick={() => router.push("/dashboard/exam-info")} />
-          <SidebarItem icon={FileText} label="Resources" onClick={() => router.push("/dashboard/resources")} />
-        </nav>
-
-        <div 
-          onClick={() => router.push("/dashboard/profile")}
-          className="pt-6 border-t border-slate-800 flex items-center justify-between mt-auto cursor-pointer hover:bg-[#1E293B] -mx-2 px-2 py-3 rounded-xl transition-all"
-        >
-           <div className="flex items-center gap-3">
-              <div className="h-8 w-8 bg-mint rounded-lg flex items-center justify-center text-deep-forest font-bold text-sm">
-                {userName[0]}
-              </div>
-              <span className="text-sm font-bold text-slate-300">{userName}</span>
-           </div>
-           <Settings className="w-4 h-4 text-slate-500 hover:text-white transition-colors" />
+          <h2 className="text-2xl font-black text-deep-forest mb-3">Start Your First Practice Session!</h2>
+          <p className="text-slate-400 font-medium mb-8 max-w-md mx-auto">
+            Jump into practice mode to begin mastering SHSAT topics. We&apos;ll track your progress and help you focus on what matters most.
+          </p>
+          <button
+            onClick={() => router.push("/dashboard/practice")}
+            className="px-8 py-4 bg-[#4F46E5] text-white rounded-xl font-black text-sm shadow-xl shadow-[#4F46E5]/20 hover:bg-[#4338CA] transition-all active:scale-95"
+          >
+            Start Practicing
+          </button>
         </div>
-      </aside>
+      )}
 
-      <main className="flex-1 ml-64 p-12">
-        <div className="max-w-4xl">
-          <header className="mb-12">
-            <div className="flex items-center gap-3 mb-3">
-              <div className="h-10 w-10 bg-[#4F46E5] rounded-xl flex items-center justify-center">
-                <Layout className="w-5 h-5 text-white" />
+      {/* Recent sessions */}
+      {!loading && !isEmpty && data?.recentSessions && data.recentSessions.length > 0 && (
+        <div className="bg-white rounded-[24px] p-6 border border-slate-100 shadow-sm mb-8">
+          <h2 className="font-black text-deep-forest text-lg mb-6">Recent Sessions</h2>
+          <div className="space-y-3">
+            {data.recentSessions.map((s) => (
+              <div
+                key={s.id}
+                className="flex items-center justify-between p-4 bg-slate-50 rounded-xl hover:bg-slate-100 transition-colors"
+              >
+                <div className="flex items-center gap-4">
+                  <div className="w-10 h-10 bg-[#D6FF62]/20 rounded-xl flex items-center justify-center">
+                    <Zap className="w-5 h-5 text-[#84CC16]" />
+                  </div>
+                  <div>
+                    <div className="font-bold text-deep-forest text-sm">
+                      {s.section_filter ? s.section_filter.toUpperCase() : "Mixed"} — {s.mode.replace("_", " ")}
+                    </div>
+                    <div className="flex items-center gap-3 text-xs text-slate-400 mt-0.5">
+                      <span>{s.total_questions} questions</span>
+                      <span className="flex items-center gap-1"><Clock className="w-3 h-3" />{Math.round(s.time_spent_seconds / 60)}m</span>
+                      <span>{new Date(s.completed_at).toLocaleDateString()}</span>
+                    </div>
+                  </div>
+                </div>
+                <div className={`text-xl font-black ${
+                  (s.accuracy ?? 0) >= 0.8 ? "text-[#22C55E]" : (s.accuracy ?? 0) >= 0.6 ? "text-[#F59E0B]" : "text-[#EF4444]"
+                }`}>
+                  {s.accuracy != null ? Math.round(s.accuracy * 100) : 0}%
+                </div>
               </div>
-              <h1 className="text-3xl font-black text-deep-forest font-display">Create a Study Plan</h1>
-            </div>
-            <p className="text-slate-400 font-medium">Fill out the information below to generate a plan to improve your score on the SHSAT.</p>
-          </header>
-
-          <section className="space-y-12">
-            <div>
-              <h2 className="text-lg font-black text-deep-forest mb-6 tracking-tight">Enter Your Test Date</h2>
-              <div className="relative max-w-sm">
-                 <input 
-                   type="text" 
-                   placeholder="Select a test date"
-                   value={testDate}
-                   onChange={(e) => setTestDate(e.target.value)}
-                   className="w-full p-4 bg-white border border-slate-200 rounded-xl focus:ring-2 focus:ring-[#4F46E5] focus:border-transparent text-sm font-medium pr-10"
-                 />
-                 <CalendarIcon className="w-4 h-4 text-slate-400 absolute right-4 top-1/2 -translate-y-1/2" />
-              </div>
-            </div>
-
-            <div>
-              <h2 className="text-lg font-black text-deep-forest mb-6 tracking-tight">Enter Your Current and Goal Scores</h2>
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                <ScoreCard title="Reading & Writing:" type="reading" />
-                <ScoreCard title="Math:" type="math" />
-              </div>
-            </div>
-
-            <div>
-               <h2 className="text-lg font-black text-deep-forest mb-6 tracking-tight">Enter your Preferred Day for Mock Exams</h2>
-               <p className="text-xs text-slate-400 font-medium mb-4 -mt-4">Your plan will include a weekly mock exam on this day of week.</p>
-               <div className="relative max-w-sm">
-                  <select className="w-full p-4 bg-white border border-slate-200 rounded-xl appearance-none focus:ring-2 focus:ring-[#4F46E5] text-sm font-bold text-deep-forest cursor-pointer">
-                    <option>Sunday</option>
-                    <option>Monday</option>
-                    <option>Tuesday</option>
-                    <option>Wednesday</option>
-                    <option>Thursday</option>
-                    <option>Friday</option>
-                    <option>Saturday</option>
-                  </select>
-                  <ChevronDown className="w-4 h-4 text-slate-400 absolute right-4 top-1/2 -translate-y-1/2 pointer-events-none" />
-               </div>
-            </div>
-
-            <div className="flex justify-center pt-8">
-              <button className="px-10 py-4 bg-[#4F46E5] text-white rounded-xl font-black text-sm shadow-xl shadow-[#4F46E5]/20 hover:bg-[#4338CA] transition-all active:scale-95">
-                Commit To My Goal
-              </button>
-            </div>
-          </section>
+            ))}
+          </div>
         </div>
-      </main>
+      )}
+
+      {/* Skill snapshots */}
+      {!loading && !isEmpty && (
+        <div className="grid grid-cols-2 gap-6">
+          {data?.strongestSkills && data.strongestSkills.length > 0 && (
+            <div className="bg-white rounded-[24px] p-6 border border-slate-100 shadow-sm">
+              <h2 className="font-black text-deep-forest text-lg mb-4">Strongest Skills</h2>
+              <div className="space-y-3">
+                {data.strongestSkills.map((s) => (
+                  <div key={s.category} className="flex items-center justify-between">
+                    <span className="text-sm font-bold text-deep-forest">{s.category}</span>
+                    <span className="text-sm font-black text-[#22C55E]">{Math.round(s.accuracy * 100)}%</span>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+          {data?.weakestSkills && data.weakestSkills.length > 0 && (
+            <div className="bg-white rounded-[24px] p-6 border border-slate-100 shadow-sm">
+              <h2 className="font-black text-deep-forest text-lg mb-4">Needs Improvement</h2>
+              <div className="space-y-3">
+                {data.weakestSkills.map((s) => (
+                  <div key={s.category} className="flex items-center justify-between">
+                    <span className="text-sm font-bold text-deep-forest">{s.category}</span>
+                    <span className="text-sm font-black text-[#F59E0B]">{Math.round(s.accuracy * 100)}%</span>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+        </div>
+      )}
+
+      {/* Quick action */}
+      {!loading && !isEmpty && (
+        <div className="mt-8 flex justify-center">
+          <button
+            onClick={() => router.push("/dashboard/practice")}
+            className="px-8 py-4 bg-[#4F46E5] text-white rounded-xl font-black text-sm shadow-xl shadow-[#4F46E5]/20 hover:bg-[#4338CA] transition-all active:scale-95 flex items-center gap-2"
+          >
+            Continue Practicing <ChevronRight className="w-4 h-4" />
+          </button>
+        </div>
+      )}
     </div>
   );
-};
-
-export default DashboardPage;
+}

@@ -1,14 +1,83 @@
-// TODO: GET  - List student's exams with scores
-// TODO: POST - Start new full-length exam (57 ELA + 57 Math)
-
 import { NextRequest, NextResponse } from 'next/server'
+import { createServerClient } from '@/lib/supabase/server'
 
-export async function GET(request: NextRequest) {
-  // TODO: Implement
-  return NextResponse.json({ error: 'Not implemented' }, { status: 501 })
+export async function GET() {
+  try {
+    const supabase = await createServerClient()
+    const { data: { user }, error: authError } = await supabase.auth.getUser()
+    if (authError || !user) {
+      return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
+    }
+
+    const { data: exams, error } = await supabase
+      .from('exams')
+      .select('*')
+      .eq('student_id', user.id)
+      .order('created_at', { ascending: false })
+
+    if (error) {
+      return NextResponse.json({ error: 'Failed to fetch exams' }, { status: 500 })
+    }
+
+    return NextResponse.json({ exams })
+  } catch {
+    return NextResponse.json({ error: 'Internal server error' }, { status: 500 })
+  }
 }
 
-export async function POST(request: NextRequest) {
-  // TODO: Generate fixed exam question set, create session + exam row
-  return NextResponse.json({ error: 'Not implemented' }, { status: 501 })
+export async function POST(_request: NextRequest) {
+  try {
+    const supabase = await createServerClient()
+    const { data: { user }, error: authError } = await supabase.auth.getUser()
+    if (authError || !user) {
+      return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
+    }
+
+    // Select 57 ELA questions
+    const { data: elaQuestions } = await supabase
+      .from('questions')
+      .select('id')
+      .eq('section', 'ela')
+      .limit(57)
+
+    // Select 57 Math questions
+    const { data: mathQuestions } = await supabase
+      .from('questions')
+      .select('id')
+      .eq('section', 'math')
+      .limit(57)
+
+    const elaCount = elaQuestions?.length || 0
+    const mathCount = mathQuestions?.length || 0
+    const totalQuestions = elaCount + mathCount
+
+    if (totalQuestions === 0) {
+      return NextResponse.json({ error: 'Not enough questions available' }, { status: 404 })
+    }
+
+    // Create exam session (3 hours = 10800 seconds)
+    const { data: session, error: sError } = await supabase
+      .from('practice_sessions')
+      .insert({
+        student_id: user.id,
+        mode: 'exam',
+        status: 'in_progress',
+        time_limit_seconds: 10800,
+        total_questions: totalQuestions,
+      })
+      .select()
+      .single()
+
+    if (sError || !session) {
+      return NextResponse.json({ error: 'Failed to create exam session' }, { status: 500 })
+    }
+
+    return NextResponse.json({
+      examId: session.id,
+      totalQuestions,
+      timeLimit: 10800,
+    }, { status: 201 })
+  } catch {
+    return NextResponse.json({ error: 'Internal server error' }, { status: 500 })
+  }
 }

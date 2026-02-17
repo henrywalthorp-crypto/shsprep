@@ -1,14 +1,72 @@
 "use client";
 
-import React from "react";
+import React, { useState } from "react";
 import Link from "next/link";
 import { motion } from "framer-motion";
-import { FcGoogle } from "react-icons/fc";
-import { AiFillApple } from "react-icons/ai";
-import { Check, Star } from "lucide-react";
+import { useRouter } from "next/navigation";
+import { Chrome, Apple } from "lucide-react";
+import { Check, Star, Loader2 } from "lucide-react";
 import { cn } from "@/lib/utils";
+import { createBrowserClient } from "@/lib/supabase/client";
+import { toast } from "sonner";
 
 const SignInPage = () => {
+  const router = useRouter();
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
+  const [loading, setLoading] = useState(false);
+  const [googleLoading, setGoogleLoading] = useState(false);
+  const [showPassword, setShowPassword] = useState(false);
+
+  const handleEmailSignIn = async (e: React.FormEvent) => {
+    e.preventDefault();
+    if (!email) {
+      toast.error("Please enter your email address");
+      return;
+    }
+    if (!password) {
+      setShowPassword(true);
+      return;
+    }
+
+    setLoading(true);
+    try {
+      const supabase = createBrowserClient();
+      const { error } = await supabase.auth.signInWithPassword({ email, password });
+      if (error) {
+        toast.error(error.message);
+      } else {
+        toast.success("Welcome back!");
+        router.push("/dashboard");
+        router.refresh();
+      }
+    } catch {
+      toast.error("An unexpected error occurred");
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  const handleGoogleSignIn = async () => {
+    setGoogleLoading(true);
+    try {
+      const supabase = createBrowserClient();
+      const { error } = await supabase.auth.signInWithOAuth({
+        provider: "google",
+        options: {
+          redirectTo: `${window.location.origin}/api/auth/callback`,
+        },
+      });
+      if (error) {
+        toast.error(error.message);
+        setGoogleLoading(false);
+      }
+    } catch {
+      toast.error("An unexpected error occurred");
+      setGoogleLoading(false);
+    }
+  };
+
   return (
     <div className="flex min-h-screen font-sans bg-white">
       {/* Left Side - Login Form */}
@@ -36,12 +94,20 @@ const SignInPage = () => {
           </div>
 
           <div className="space-y-4">
-            <button className="w-full flex items-center justify-center gap-3 px-6 py-3 border border-gray-200 rounded-xl hover:bg-gray-50 transition-colors font-semibold text-deep-forest">
-              <FcGoogle className="text-xl" />
+            <button
+              onClick={handleGoogleSignIn}
+              disabled={googleLoading}
+              className="w-full flex items-center justify-center gap-3 px-6 py-3 border border-gray-200 rounded-xl hover:bg-gray-50 transition-colors font-semibold text-deep-forest disabled:opacity-50"
+            >
+              {googleLoading ? (
+                <Loader2 className="w-5 h-5 animate-spin" />
+              ) : (
+                <Chrome className="text-xl" />
+              )}
               Continue with Google
             </button>
             <button className="w-full flex items-center justify-center gap-3 px-6 py-3 bg-black text-white rounded-xl hover:bg-zinc-900 transition-colors font-semibold">
-              <AiFillApple className="text-xl" />
+              <Apple className="text-xl" />
               Continue with Apple
             </button>
           </div>
@@ -55,18 +121,37 @@ const SignInPage = () => {
             </div>
           </div>
 
-          <div className="space-y-4">
+          <form onSubmit={handleEmailSignIn} className="space-y-4">
             <div>
               <input
                 type="email"
                 placeholder="Email"
+                value={email}
+                onChange={(e) => setEmail(e.target.value)}
                 className="w-full px-4 py-3 bg-white border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-deep-forest/10 focus:border-deep-forest transition-all"
               />
             </div>
-            <button className="w-full py-3 border border-gray-200 rounded-xl text-deep-forest font-bold hover:bg-gray-50 transition-colors">
+            {showPassword && (
+              <div>
+                <input
+                  type="password"
+                  placeholder="Password"
+                  value={password}
+                  onChange={(e) => setPassword(e.target.value)}
+                  autoFocus
+                  className="w-full px-4 py-3 bg-white border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-deep-forest/10 focus:border-deep-forest transition-all"
+                />
+              </div>
+            )}
+            <button
+              type="submit"
+              disabled={loading}
+              className="w-full py-3 border border-gray-200 rounded-xl text-deep-forest font-bold hover:bg-gray-50 transition-colors disabled:opacity-50 flex items-center justify-center gap-2"
+            >
+              {loading && <Loader2 className="w-4 h-4 animate-spin" />}
               Sign In with Email
             </button>
-          </div>
+          </form>
 
           <div className="mt-8 text-center">
             <p className="text-sm text-text-gray">

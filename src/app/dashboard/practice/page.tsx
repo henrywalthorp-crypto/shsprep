@@ -1,449 +1,548 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useState, useEffect, useRef, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useRouter } from "next/navigation";
-import { 
-  ChevronRight, 
-  BookOpen,
-  Calculator,
-  FileText,
+import { toast } from "sonner";
+import {
   Play,
   CheckCircle2,
-  Sparkles,
-  Target,
+  XCircle,
+  ChevronRight,
   Zap,
-  PenTool,
-  BarChart2,
-  Layout,
-  Users,
-  Settings,
-  Info
+  Target,
+  Clock,
+  ArrowLeft,
+  RotateCcw,
+  BookOpen,
+  Calculator,
+  Loader2,
 } from "lucide-react";
 
-const practiceData = {
-  sections: [
-    {
-      id: "revising-editing",
-      name: "Revising / Editing",
-      icon: FileText,
-      color: "#A3E9FF",
-      colorDark: "#0EA5E9",
-      categories: [
-        {
-          id: "conventions",
-          name: "Conventions of Standard English",
-          subcategories: [
-            { id: "sentence-structure", name: "Sentence Structure", completed: 12, total: 100 },
-            { id: "grammar-usage", name: "Grammar & Usage", completed: 45, total: 100 },
-            { id: "punctuation-mechanics", name: "Punctuation & Mechanics", completed: 0, total: 100 },
-          ]
-        },
-        {
-          id: "effective-language",
-          name: "Effective Language Use",
-          subcategories: [
-            { id: "word-choice", name: "Word Choice & Clarity", completed: 78, total: 100 },
-            { id: "transitions", name: "Transitions & Logical Flow", completed: 23, total: 100 },
-            { id: "precision-concision", name: "Precision & Concision", completed: 0, total: 100 },
-          ]
-        },
-        {
-          id: "organization",
-          name: "Organization & Development",
-          subcategories: [
-            { id: "topic-sentences", name: "Topic Sentences & Supporting Details", completed: 56, total: 100 },
-            { id: "paragraph-unity", name: "Paragraph Unity", completed: 0, total: 100 },
-            { id: "logical-sequencing", name: "Logical Sequencing", completed: 34, total: 100 },
-          ]
-        }
-      ]
-    },
-    {
-      id: "reading-comprehension",
-      name: "Reading Comprehension",
-      icon: BookOpen,
-      color: "#FFB8E0",
-      colorDark: "#EC4899",
-      categories: [
-        {
-          id: "passage-types",
-          name: "Passage Types",
-          subcategories: [
-            { id: "informational", name: "Informational / Expository", completed: 67, total: 100 },
-            { id: "literary", name: "Literary", completed: 89, total: 100 },
-            { id: "poetry", name: "Poetry", completed: 12, total: 100 },
-          ]
-        },
-        {
-          id: "comprehension-skills",
-          name: "Comprehension Skills",
-          subcategories: [
-            { id: "main-idea", name: "Main Idea & Central Theme", completed: 100, total: 100 },
-            { id: "inference", name: "Inference & Interpretation", completed: 45, total: 100 },
-            { id: "supporting-evidence", name: "Supporting Evidence", completed: 23, total: 100 },
-            { id: "vocabulary-context", name: "Vocabulary in Context", completed: 78, total: 100 },
-            { id: "figurative-language", name: "Figurative Language", completed: 0, total: 100 },
-            { id: "tone-style", name: "Tone & Style", completed: 34, total: 100 },
-            { id: "organization-purpose", name: "Organization & Purpose", completed: 56, total: 100 },
-            { id: "point-of-view", name: "Point of View & Perspective", completed: 12, total: 100 },
-            { id: "argument-reasoning", name: "Argument & Reasoning", completed: 0, total: 100 },
-          ]
-        }
-      ]
-    },
-    {
-      id: "mathematics",
-      name: "Mathematics",
-      icon: Calculator,
-      color: "#D6FF62",
-      colorDark: "#84CC16",
-      categories: [
-        {
-          id: "number-operations",
-          name: "Number & Operations",
-          subcategories: [
-            { id: "integers", name: "Integers & Order of Operations", completed: 88, total: 100 },
-            { id: "fractions-decimals", name: "Fractions, Decimals, Percents", completed: 56, total: 100 },
-            { id: "exponents-roots", name: "Exponents & Roots", completed: 34, total: 100 },
-            { id: "absolute-value", name: "Absolute Value", completed: 12, total: 100 },
-          ]
-        },
-        {
-          id: "algebra",
-          name: "Algebra & Expressions",
-          subcategories: [
-            { id: "simplifying", name: "Simplifying Expressions", completed: 45, total: 100 },
-            { id: "solving-equations", name: "Solving Equations", completed: 67, total: 100 },
-            { id: "inequalities", name: "Inequalities", completed: 23, total: 100 },
-            { id: "word-problems", name: "Word Problems", completed: 0, total: 100 },
-          ]
-        },
-        {
-          id: "geometry",
-          name: "Geometry & Measurement",
-          subcategories: [
-            { id: "lines-angles", name: "Lines & Angles", completed: 78, total: 100 },
-            { id: "triangles", name: "Triangles", completed: 56, total: 100 },
-            { id: "quadrilaterals", name: "Quadrilaterals & Polygons", completed: 34, total: 100 },
-            { id: "circles", name: "Circles", completed: 12, total: 100 },
-            { id: "coordinate-geometry", name: "Coordinate Geometry", completed: 45, total: 100 },
-            { id: "3d-figures", name: "3D Figures", completed: 0, total: 100 },
-            { id: "transformations", name: "Transformations", completed: 23, total: 100 },
-          ]
-        },
-        {
-          id: "statistics",
-          name: "Statistics & Probability",
-          subcategories: [
-            { id: "central-tendency", name: "Central Tendency", completed: 67, total: 100 },
-            { id: "graphs-tables", name: "Graphs & Tables", completed: 89, total: 100 },
-            { id: "probability-basics", name: "Probability Basics", completed: 34, total: 100 },
-          ]
-        },
-        {
-          id: "problem-solving",
-          name: "Problem Solving & Grid-Ins",
-          subcategories: [
-            { id: "multi-step", name: "Multi-step Reasoning", completed: 23, total: 100 },
-            { id: "estimation", name: "Estimation", completed: 45, total: 100 },
-            { id: "numeric-entry", name: "Numeric Entry", completed: 12, total: 100 },
-          ]
-        }
-      ]
-    }
-  ]
-};
+type Phase = "setup" | "question" | "feedback" | "results";
 
-const PracticePage = () => {
+interface QuestionData {
+  id: string;
+  section: string;
+  category: string;
+  subcategory: string | null;
+  difficulty: string;
+  type: string;
+  stem: string;
+  stimulus: string | null;
+  options: { label: string; text: string; isCorrect?: boolean }[] | null;
+  passage_id: string | null;
+}
+
+interface FeedbackData {
+  isCorrect: boolean;
+  correctAnswer: string;
+  explanation: string;
+  commonMistakes: { label: string; explanation: string }[];
+  nextQuestion: QuestionData | null;
+}
+
+interface ResultsData {
+  accuracy: number;
+  totalCorrect: number;
+  totalQuestions: number;
+  skillBreakdown: { category: string; correct: number; total: number; accuracy: number }[];
+  timeSpent: number;
+}
+
+export default function PracticePage() {
   const router = useRouter();
-  const [expandedSections, setExpandedSections] = useState<string[]>(["revising-editing"]);
-  const [expandedCategories, setExpandedCategories] = useState<string[]>(["conventions"]);
-  const [userName, setUserName] = useState("Fardin");
 
-  React.useEffect(() => {
-    const savedName = localStorage.getItem("shs_student_name");
-    if (savedName) setUserName(savedName);
-  }, []);
+  // Setup state
+  const [section, setSection] = useState<string>("both");
+  const [difficulty, setDifficulty] = useState<string>("");
+  const [questionCount, setQuestionCount] = useState(20);
+  const [mode, setMode] = useState<"practice" | "timed_practice">("practice");
 
-  const toggleSection = (sectionId: string) => {
-    setExpandedSections(prev => 
-      prev.includes(sectionId) 
-        ? prev.filter(id => id !== sectionId)
-        : [...prev, sectionId]
-    );
+  // Session state
+  const [phase, setPhase] = useState<Phase>("setup");
+  const [sessionId, setSessionId] = useState<string | null>(null);
+  const [currentQuestion, setCurrentQuestion] = useState<QuestionData | null>(null);
+  const [totalQuestions, setTotalQuestions] = useState(0);
+  const [answered, setAnswered] = useState(0);
+  const [correct, setCorrect] = useState(0);
+  const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
+  const [feedback, setFeedback] = useState<FeedbackData | null>(null);
+  const [results, setResults] = useState<ResultsData | null>(null);
+  const [submitting, setSubmitting] = useState(false);
+  const [starting, setStarting] = useState(false);
+
+  // Timer
+  const [timeElapsed, setTimeElapsed] = useState(0);
+  const [timeLimit, setTimeLimit] = useState<number | null>(null);
+  const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
+  const questionStartRef = useRef(Date.now());
+
+  useEffect(() => {
+    if (phase === "question" || phase === "feedback") {
+      timerRef.current = setInterval(() => setTimeElapsed((t) => t + 1), 1000);
+    }
+    return () => { if (timerRef.current) clearInterval(timerRef.current); };
+  }, [phase]);
+
+  const formatTime = (s: number) => {
+    const m = Math.floor(s / 60);
+    const sec = s % 60;
+    return `${m}:${sec.toString().padStart(2, "0")}`;
   };
 
-  const toggleCategory = (categoryId: string) => {
-    setExpandedCategories(prev => 
-      prev.includes(categoryId)
-        ? prev.filter(id => id !== categoryId)
-        : [...prev, categoryId]
-    );
+  const startSession = async () => {
+    setStarting(true);
+    try {
+      const body: Record<string, unknown> = {
+        mode,
+        questionCount,
+      };
+      if (section !== "both") body.section = section;
+      if (difficulty) body.difficulty = difficulty;
+
+      const res = await fetch("/api/practice", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(body),
+      });
+
+      if (!res.ok) {
+        const err = await res.json();
+        toast.error(err.error || "Failed to start session");
+        return;
+      }
+
+      const data = await res.json();
+      setSessionId(data.sessionId);
+      setCurrentQuestion(data.firstQuestion);
+      setTotalQuestions(data.totalQuestions);
+      setAnswered(0);
+      setCorrect(0);
+      setTimeElapsed(0);
+      setTimeLimit(mode === "timed_practice" ? questionCount * 90 : null);
+      questionStartRef.current = Date.now();
+      setPhase("question");
+    } catch {
+      toast.error("Network error. Please try again.");
+    } finally {
+      setStarting(false);
+    }
   };
 
-  const getProgressColor = (completed: number, total: number) => {
-    const pct = (completed / total) * 100;
-    if (pct === 100) return "bg-[#22C55E]";
-    if (pct >= 50) return "bg-[#D6FF62]";
-    if (pct > 0) return "bg-[#A3E9FF]";
-    return "bg-slate-200";
+  const submitAnswer = async () => {
+    if (!selectedAnswer || !currentQuestion || !sessionId) return;
+    setSubmitting(true);
+    const timeSpent = Math.round((Date.now() - questionStartRef.current) / 1000);
+
+    try {
+      const res = await fetch(`/api/practice/${sessionId}/answer`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          questionId: currentQuestion.id,
+          answer: selectedAnswer,
+          timeSpent,
+        }),
+      });
+
+      if (!res.ok) {
+        toast.error("Failed to submit answer");
+        return;
+      }
+
+      const fb: FeedbackData = await res.json();
+      setFeedback(fb);
+      setAnswered((a) => a + 1);
+      if (fb.isCorrect) setCorrect((c) => c + 1);
+      setPhase("feedback");
+    } catch {
+      toast.error("Network error");
+    } finally {
+      setSubmitting(false);
+    }
   };
 
-  const SidebarItem = ({ icon: Icon, label, active = false, onClick }: { icon: any, label: string, active?: boolean, onClick?: () => void }) => (
-    <div 
-      onClick={onClick}
-      className={`flex items-center gap-3 px-4 py-3 rounded-xl cursor-pointer transition-all ${
-        active ? "bg-[#1E293B] text-white" : "text-slate-400 hover:bg-[#1E293B] hover:text-white"
-      }`}
-    >
-      <Icon className="w-5 h-5" />
-      <span className="font-bold text-sm tracking-tight">{label}</span>
-    </div>
-  );
+  const nextQuestion = useCallback(async () => {
+    if (feedback?.nextQuestion) {
+      setCurrentQuestion(feedback.nextQuestion);
+      setSelectedAnswer(null);
+      setFeedback(null);
+      questionStartRef.current = Date.now();
+      setPhase("question");
+    } else {
+      // Complete session
+      try {
+        const res = await fetch(`/api/practice/${sessionId}/complete`, { method: "POST" });
+        if (res.ok) {
+          const r: ResultsData = await res.json();
+          setResults(r);
+        }
+      } catch {}
+      setPhase("results");
+    }
+  }, [feedback, sessionId]);
 
-  return (
-    <div className="flex min-h-screen bg-[#F8FAFC]">
-      <aside className="w-64 bg-[#0F172A] flex flex-col p-6 fixed inset-y-0 z-50">
-        <div className="flex items-center gap-3 mb-10 px-2">
-          <div className="h-8 w-8 bg-mint rounded-lg flex items-center justify-center text-deep-forest font-bold text-lg shadow-lg shadow-mint/20">
-            S
+  // ===== SETUP SCREEN =====
+  if (phase === "setup") {
+    return (
+      <div className="max-w-3xl">
+        <header className="mb-12">
+          <div className="flex items-center gap-3 mb-3">
+            <div className="h-10 w-10 bg-[#4F46E5] rounded-xl flex items-center justify-center">
+              <Zap className="w-5 h-5 text-white" />
+            </div>
+            <h1 className="text-3xl font-black text-deep-forest font-display">Practice Questions</h1>
           </div>
-          <span className="text-xl font-bold text-white tracking-tight font-display">
-            SHS<span className="text-white/40">prep</span>
-          </span>
-        </div>
+          <p className="text-slate-400 font-medium">Configure your practice session and start mastering SHSAT topics.</p>
+        </header>
 
-        <nav className="flex-1 space-y-1">
-          <SidebarItem icon={PenTool} label="Practice" active />
-          <SidebarItem icon={BookOpen} label="Mock Exams" onClick={() => router.push("/dashboard/mock-exams")} />
-          <SidebarItem icon={Layout} label="Study Plan" onClick={() => router.push("/dashboard")} />
-          <SidebarItem icon={BarChart2} label="Performance" onClick={() => router.push("/dashboard/performance")} />
-          
-          <div className="pt-8 pb-4">
-            <span className="px-4 text-[10px] font-black text-slate-500 uppercase tracking-widest">Additional Tools</span>
+        <div className="bg-white rounded-[28px] border border-slate-100 shadow-sm p-8 space-y-8">
+          {/* Section */}
+          <div>
+            <label className="text-[10px] font-black text-slate-400 uppercase tracking-widest mb-3 block">Section</label>
+            <div className="grid grid-cols-3 gap-3">
+              {[
+                { id: "both", label: "Both", icon: Target },
+                { id: "ela", label: "ELA", icon: BookOpen },
+                { id: "math", label: "Math", icon: Calculator },
+              ].map((s) => (
+                <button
+                  key={s.id}
+                  onClick={() => setSection(s.id)}
+                  className={`p-4 rounded-2xl border-2 font-bold text-sm flex items-center gap-3 transition-all ${
+                    section === s.id
+                      ? "border-[#4F46E5] bg-[#4F46E5]/5 text-[#4F46E5]"
+                      : "border-slate-200 text-slate-500 hover:border-slate-300"
+                  }`}
+                >
+                  <s.icon className="w-5 h-5" />
+                  {s.label}
+                </button>
+              ))}
+            </div>
           </div>
-          
-          <SidebarItem icon={Users} label="Partner Directory" onClick={() => router.push("/dashboard/partners")} />
-          <SidebarItem icon={Info} label="Exam Info" onClick={() => router.push("/dashboard/exam-info")} />
-          <SidebarItem icon={FileText} label="Resources" onClick={() => router.push("/dashboard/resources")} />
-          </nav>
 
-          <div 
-            onClick={() => router.push("/dashboard/profile")}
-            className="pt-6 border-t border-slate-800 flex items-center justify-between mt-auto cursor-pointer hover:bg-[#1E293B] -mx-2 px-2 py-3 rounded-xl transition-all"
+          {/* Difficulty */}
+          <div>
+            <label className="text-[10px] font-black text-slate-400 uppercase tracking-widest mb-3 block">Difficulty (Optional)</label>
+            <div className="grid grid-cols-4 gap-3">
+              {[
+                { id: "", label: "Any" },
+                { id: "1", label: "Easy" },
+                { id: "2", label: "Medium" },
+                { id: "3", label: "Hard" },
+              ].map((d) => (
+                <button
+                  key={d.id}
+                  onClick={() => setDifficulty(d.id)}
+                  className={`p-3 rounded-xl border-2 font-bold text-sm transition-all ${
+                    difficulty === d.id
+                      ? "border-[#4F46E5] bg-[#4F46E5]/5 text-[#4F46E5]"
+                      : "border-slate-200 text-slate-500 hover:border-slate-300"
+                  }`}
+                >
+                  {d.label}
+                </button>
+              ))}
+            </div>
+          </div>
+
+          {/* Question count */}
+          <div>
+            <label className="text-[10px] font-black text-slate-400 uppercase tracking-widest mb-3 block">Number of Questions</label>
+            <div className="grid grid-cols-4 gap-3">
+              {[10, 20, 30, 50].map((n) => (
+                <button
+                  key={n}
+                  onClick={() => setQuestionCount(n)}
+                  className={`p-3 rounded-xl border-2 font-bold text-sm transition-all ${
+                    questionCount === n
+                      ? "border-[#4F46E5] bg-[#4F46E5]/5 text-[#4F46E5]"
+                      : "border-slate-200 text-slate-500 hover:border-slate-300"
+                  }`}
+                >
+                  {n}
+                </button>
+              ))}
+            </div>
+          </div>
+
+          {/* Mode */}
+          <div>
+            <label className="text-[10px] font-black text-slate-400 uppercase tracking-widest mb-3 block">Mode</label>
+            <div className="grid grid-cols-2 gap-3">
+              {[
+                { id: "practice" as const, label: "Untimed", desc: "No time pressure" },
+                { id: "timed_practice" as const, label: "Timed", desc: "90 sec per question" },
+              ].map((m) => (
+                <button
+                  key={m.id}
+                  onClick={() => setMode(m.id)}
+                  className={`p-4 rounded-2xl border-2 text-left transition-all ${
+                    mode === m.id
+                      ? "border-[#4F46E5] bg-[#4F46E5]/5"
+                      : "border-slate-200 hover:border-slate-300"
+                  }`}
+                >
+                  <div className={`font-bold text-sm ${mode === m.id ? "text-[#4F46E5]" : "text-slate-600"}`}>{m.label}</div>
+                  <div className="text-xs text-slate-400 mt-0.5">{m.desc}</div>
+                </button>
+              ))}
+            </div>
+          </div>
+
+          <button
+            onClick={startSession}
+            disabled={starting}
+            className="w-full py-4 bg-[#4F46E5] text-white rounded-xl font-black text-sm shadow-xl shadow-[#4F46E5]/20 hover:bg-[#4338CA] transition-all active:scale-[0.98] flex items-center justify-center gap-2 disabled:opacity-50"
           >
-            <div className="flex items-center gap-3">
-              <div className="h-8 w-8 bg-mint rounded-lg flex items-center justify-center text-deep-forest font-bold text-sm">
-                {userName[0]}
-              </div>
-              <span className="text-sm font-bold text-slate-300">{userName}</span>
-            </div>
-            <Settings className="w-4 h-4 text-slate-500 hover:text-white transition-colors" />
+            {starting ? <Loader2 className="w-5 h-5 animate-spin" /> : <Play className="w-5 h-5" />}
+            {starting ? "Starting..." : "Start Practice"}
+          </button>
+        </div>
+      </div>
+    );
+  }
+
+  // ===== QUESTION / FEEDBACK SCREEN =====
+  if ((phase === "question" || phase === "feedback") && currentQuestion) {
+    const progressPct = totalQuestions > 0 ? (answered / totalQuestions) * 100 : 0;
+
+    return (
+      <div className="max-w-3xl">
+        {/* Header bar */}
+        <div className="flex items-center justify-between mb-6">
+          <div className="flex items-center gap-4">
+            <span className="text-sm font-bold text-slate-400">
+              Question {answered + (phase === "question" ? 1 : 0)} of {totalQuestions}
+            </span>
+            <span className={`text-[10px] font-black px-2 py-1 rounded ${
+              currentQuestion.section === "math" ? "bg-[#D6FF62]/30 text-[#84CC16]" : "bg-[#A3E9FF]/30 text-[#0EA5E9]"
+            }`}>
+              {currentQuestion.section?.toUpperCase()} — {currentQuestion.category}
+            </span>
           </div>
-      </aside>
-
-      <main className="flex-1 ml-64 p-12">
-        <div className="max-w-5xl">
-          <header className="mb-12">
-            <div className="flex items-center gap-3 mb-3">
-              <div className="h-10 w-10 bg-[#4F46E5] rounded-xl flex items-center justify-center">
-                <Zap className="w-5 h-5 text-white" />
-              </div>
-              <h1 className="text-3xl font-black text-deep-forest font-display">Practice Questions</h1>
-            </div>
-            <p className="text-slate-400 font-medium">Master each topic by practicing targeted questions. Track your progress and identify areas for improvement.</p>
-          </header>
-
-          <div className="grid grid-cols-3 gap-6 mb-12">
-            <div className="bg-white rounded-2xl p-6 border border-slate-100 shadow-sm">
-              <div className="flex items-center gap-3 mb-2">
-                <Target className="w-5 h-5 text-[#4F46E5]" />
-                <span className="text-[10px] font-black text-slate-400 uppercase tracking-widest">Questions Completed</span>
-              </div>
-              <div className="text-3xl font-black text-deep-forest">1,247</div>
-            </div>
-            <div className="bg-white rounded-2xl p-6 border border-slate-100 shadow-sm">
-              <div className="flex items-center gap-3 mb-2">
-                <CheckCircle2 className="w-5 h-5 text-[#22C55E]" />
-                <span className="text-[10px] font-black text-slate-400 uppercase tracking-widest">Accuracy Rate</span>
-              </div>
-              <div className="text-3xl font-black text-deep-forest">78%</div>
-            </div>
-            <div className="bg-white rounded-2xl p-6 border border-slate-100 shadow-sm">
-              <div className="flex items-center gap-3 mb-2">
-                <Sparkles className="w-5 h-5 text-[#F59E0B]" />
-                <span className="text-[10px] font-black text-slate-400 uppercase tracking-widest">Current Streak</span>
-              </div>
-              <div className="text-3xl font-black text-deep-forest">12 days</div>
-            </div>
-          </div>
-
-          <div className="space-y-6">
-            {practiceData.sections.map((section) => {
-              const Icon = section.icon;
-              const isExpanded = expandedSections.includes(section.id);
-              
-              const totalCompleted = section.categories.reduce((acc, cat) => 
-                acc + cat.subcategories.reduce((a, sub) => a + sub.completed, 0), 0
-              );
-              const totalQuestions = section.categories.reduce((acc, cat) => 
-                acc + cat.subcategories.reduce((a, sub) => a + sub.total, 0), 0
-              );
-              const sectionProgress = Math.round((totalCompleted / totalQuestions) * 100);
-
-              return (
-                <div key={section.id} className="bg-white rounded-[28px] border border-slate-100 shadow-sm overflow-hidden">
-                  <div 
-                    onClick={() => toggleSection(section.id)}
-                    className="p-6 cursor-pointer hover:bg-slate-50 transition-colors"
-                  >
-                    <div className="flex items-center justify-between">
-                      <div className="flex items-center gap-4">
-                        <div 
-                          className="h-14 w-14 rounded-2xl flex items-center justify-center"
-                          style={{ backgroundColor: section.color }}
-                        >
-                          <Icon className="w-7 h-7" style={{ color: section.colorDark }} />
-                        </div>
-                        <div>
-                          <h2 className="text-xl font-black text-deep-forest">{section.name}</h2>
-                          <p className="text-sm text-slate-400 font-medium">{section.categories.length} categories</p>
-                        </div>
-                      </div>
-                      <div className="flex items-center gap-6">
-                        <div className="text-right">
-                          <div className="text-2xl font-black text-deep-forest">{sectionProgress}%</div>
-                          <div className="text-[10px] font-bold text-slate-400 uppercase tracking-wider">{totalCompleted}/{totalQuestions}</div>
-                        </div>
-                        <div className="w-32 h-2 bg-slate-100 rounded-full overflow-hidden">
-                          <div 
-                            className="h-full rounded-full transition-all duration-500"
-                            style={{ width: `${sectionProgress}%`, backgroundColor: section.colorDark }}
-                          />
-                        </div>
-                        <ChevronRight 
-                          className={`w-5 h-5 text-slate-400 transition-transform duration-300 ${isExpanded ? 'rotate-90' : ''}`} 
-                        />
-                      </div>
-                    </div>
-                  </div>
-
-                  <AnimatePresence>
-                    {isExpanded && (
-                      <motion.div
-                        initial={{ height: 0, opacity: 0 }}
-                        animate={{ height: "auto", opacity: 1 }}
-                        exit={{ height: 0, opacity: 0 }}
-                        transition={{ duration: 0.3 }}
-                        className="border-t border-slate-100"
-                      >
-                        <div className="p-6 space-y-4">
-                          {section.categories.map((category) => {
-                            const isCatExpanded = expandedCategories.includes(category.id);
-                            const catCompleted = category.subcategories.reduce((a, s) => a + s.completed, 0);
-                            const catTotal = category.subcategories.reduce((a, s) => a + s.total, 0);
-
-                            return (
-                              <div key={category.id} className="bg-slate-50 rounded-2xl overflow-hidden">
-                                <div 
-                                  onClick={() => toggleCategory(category.id)}
-                                  className="p-5 cursor-pointer hover:bg-slate-100 transition-colors"
-                                >
-                                  <div className="flex items-center justify-between">
-                                    <div className="flex items-center gap-3">
-                                      <ChevronRight 
-                                        className={`w-4 h-4 text-slate-400 transition-transform duration-300 ${isCatExpanded ? 'rotate-90' : ''}`}
-                                      />
-                                      <span className="font-bold text-deep-forest">{category.name}</span>
-                                      <span className="text-xs text-slate-400 font-medium">({category.subcategories.length} topics)</span>
-                                    </div>
-                                    <div className="flex items-center gap-4">
-                                      <span className="text-sm font-bold text-slate-500">{catCompleted}/{catTotal}</span>
-                                      <div className="w-24 h-1.5 bg-slate-200 rounded-full overflow-hidden">
-                                        <div 
-                                          className="h-full rounded-full"
-                                          style={{ 
-                                            width: `${(catCompleted / catTotal) * 100}%`, 
-                                            backgroundColor: section.colorDark 
-                                          }}
-                                        />
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-
-                                <AnimatePresence>
-                                  {isCatExpanded && (
-                                    <motion.div
-                                      initial={{ height: 0, opacity: 0 }}
-                                      animate={{ height: "auto", opacity: 1 }}
-                                      exit={{ height: 0, opacity: 0 }}
-                                      transition={{ duration: 0.2 }}
-                                      className="border-t border-slate-200"
-                                    >
-                                      <div className="p-4 grid gap-3">
-                                        {category.subcategories.map((sub) => {
-                                          const pct = Math.round((sub.completed / sub.total) * 100);
-                                          const isComplete = pct === 100;
-
-                                          return (
-                                            <div 
-                                              key={sub.id}
-                                              className="bg-white rounded-xl p-4 border border-slate-100 flex items-center justify-between group hover:border-slate-200 hover:shadow-sm transition-all cursor-pointer"
-                                            >
-                                              <div className="flex items-center gap-4">
-                                                <div className={`w-10 h-10 rounded-xl flex items-center justify-center ${
-                                                  isComplete ? 'bg-[#22C55E]/10' : 'bg-slate-100'
-                                                }`}>
-                                                  {isComplete ? (
-                                                    <CheckCircle2 className="w-5 h-5 text-[#22C55E]" />
-                                                  ) : (
-                                                    <Target className="w-5 h-5 text-slate-400" />
-                                                  )}
-                                                </div>
-                                                <div>
-                                                  <div className="font-bold text-deep-forest text-sm">{sub.name}</div>
-                                                  <div className="text-xs text-slate-400 font-medium">{sub.completed} of {sub.total} completed</div>
-                                                </div>
-                                              </div>
-                                              <div className="flex items-center gap-4">
-                                                <div className="w-32 h-2 bg-slate-100 rounded-full overflow-hidden">
-                                                  <div 
-                                                    className={`h-full rounded-full transition-all ${getProgressColor(sub.completed, sub.total)}`}
-                                                    style={{ width: `${pct}%` }}
-                                                  />
-                                                </div>
-                                                <span className="text-sm font-black text-slate-500 w-12 text-right">{pct}%</span>
-                                                <button 
-                                                  className="px-4 py-2 bg-[#4F46E5] text-white rounded-lg font-bold text-xs flex items-center gap-2 opacity-0 group-hover:opacity-100 transition-opacity shadow-lg shadow-[#4F46E5]/20 hover:bg-[#4338CA]"
-                                                >
-                                                  <Play className="w-3 h-3" />
-                                                  Practice
-                                                </button>
-                                              </div>
-                                            </div>
-                                          );
-                                        })}
-                                      </div>
-                                    </motion.div>
-                                  )}
-                                </AnimatePresence>
-                              </div>
-                            );
-                          })}
-                        </div>
-                      </motion.div>
-                    )}
-                  </AnimatePresence>
-                </div>
-              );
-            })}
+          <div className="flex items-center gap-4">
+            {timeLimit && (
+              <span className={`text-sm font-bold flex items-center gap-1 ${
+                timeElapsed > timeLimit * 0.8 ? "text-[#EF4444]" : "text-slate-400"
+              }`}>
+                <Clock className="w-4 h-4" />
+                {formatTime(Math.max(0, timeLimit - timeElapsed))}
+              </span>
+            )}
+            <span className="text-sm font-bold text-slate-400 flex items-center gap-1">
+              <Clock className="w-4 h-4" />{formatTime(timeElapsed)}
+            </span>
           </div>
         </div>
-      </main>
-    </div>
-  );
-};
 
-export default PracticePage;
+        {/* Progress bar */}
+        <div className="w-full h-2 bg-slate-100 rounded-full mb-8 overflow-hidden">
+          <motion.div
+            className="h-full bg-[#4F46E5] rounded-full"
+            animate={{ width: `${progressPct}%` }}
+            transition={{ duration: 0.3 }}
+          />
+        </div>
+
+        <AnimatePresence mode="wait">
+          <motion.div
+            key={currentQuestion.id + phase}
+            initial={{ opacity: 0, x: 20 }}
+            animate={{ opacity: 1, x: 0 }}
+            exit={{ opacity: 0, x: -20 }}
+            transition={{ duration: 0.2 }}
+          >
+            {/* Stimulus / passage */}
+            {currentQuestion.stimulus && (
+              <div className="bg-slate-50 rounded-2xl p-6 mb-6 border border-slate-200">
+                <div className="prose prose-sm text-slate-700 max-w-none whitespace-pre-wrap">{currentQuestion.stimulus}</div>
+              </div>
+            )}
+
+            {/* Question stem */}
+            <div className="bg-white rounded-[24px] border border-slate-100 shadow-sm p-8 mb-6">
+              <p className="text-lg font-bold text-deep-forest leading-relaxed">{currentQuestion.stem}</p>
+            </div>
+
+            {/* Options */}
+            {currentQuestion.options && (
+              <div className="space-y-3 mb-8">
+                {currentQuestion.options.map((opt) => {
+                  const isSelected = selectedAnswer === opt.label;
+                  const inFeedback = phase === "feedback" && feedback;
+                  const isCorrectOption = inFeedback && opt.label === feedback?.correctAnswer;
+                  const isWrong = inFeedback && isSelected && !feedback?.isCorrect;
+
+                  let borderClass = "border-slate-200 hover:border-slate-300";
+                  let bgClass = "bg-white";
+                  if (inFeedback && isCorrectOption) {
+                    borderClass = "border-[#22C55E]";
+                    bgClass = "bg-[#22C55E]/5";
+                  } else if (inFeedback && isWrong) {
+                    borderClass = "border-[#EF4444]";
+                    bgClass = "bg-[#EF4444]/5";
+                  } else if (isSelected) {
+                    borderClass = "border-[#4F46E5]";
+                    bgClass = "bg-[#4F46E5]/5";
+                  }
+
+                  return (
+                    <button
+                      key={opt.label}
+                      disabled={phase === "feedback"}
+                      onClick={() => setSelectedAnswer(opt.label)}
+                      className={`w-full p-5 rounded-2xl border-2 text-left transition-all flex items-center gap-4 ${borderClass} ${bgClass}`}
+                    >
+                      <div className={`w-10 h-10 rounded-xl flex items-center justify-center font-black text-sm shrink-0 ${
+                        inFeedback && isCorrectOption
+                          ? "bg-[#22C55E] text-white"
+                          : inFeedback && isWrong
+                          ? "bg-[#EF4444] text-white"
+                          : isSelected
+                          ? "bg-[#4F46E5] text-white"
+                          : "bg-slate-100 text-slate-500"
+                      }`}>
+                        {inFeedback && isCorrectOption ? <CheckCircle2 className="w-5 h-5" /> :
+                         inFeedback && isWrong ? <XCircle className="w-5 h-5" /> :
+                         opt.label}
+                      </div>
+                      <span className="font-bold text-deep-forest text-sm">{opt.text}</span>
+                    </button>
+                  );
+                })}
+              </div>
+            )}
+
+            {/* Feedback panel */}
+            {phase === "feedback" && feedback && (
+              <motion.div
+                initial={{ opacity: 0, y: 10 }}
+                animate={{ opacity: 1, y: 0 }}
+                className={`rounded-2xl p-6 mb-6 border ${
+                  feedback.isCorrect ? "bg-[#22C55E]/5 border-[#22C55E]/20" : "bg-[#EF4444]/5 border-[#EF4444]/20"
+                }`}
+              >
+                <div className="flex items-center gap-3 mb-3">
+                  {feedback.isCorrect ? (
+                    <CheckCircle2 className="w-6 h-6 text-[#22C55E]" />
+                  ) : (
+                    <XCircle className="w-6 h-6 text-[#EF4444]" />
+                  )}
+                  <span className={`font-black text-lg ${feedback.isCorrect ? "text-[#22C55E]" : "text-[#EF4444]"}`}>
+                    {feedback.isCorrect ? "Correct!" : "Incorrect"}
+                  </span>
+                </div>
+                <p className="text-slate-600 text-sm font-medium leading-relaxed mb-3">{feedback.explanation}</p>
+                {feedback.commonMistakes && feedback.commonMistakes.length > 0 && (
+                  <div className="mt-3 pt-3 border-t border-slate-200">
+                    <span className="text-[10px] font-black text-slate-400 uppercase tracking-widest">Common Mistakes</span>
+                    {feedback.commonMistakes.map((m, i) => (
+                      <p key={i} className="text-xs text-slate-500 mt-1"><strong>{m.label}:</strong> {m.explanation}</p>
+                    ))}
+                  </div>
+                )}
+              </motion.div>
+            )}
+
+            {/* Action buttons */}
+            <div className="flex justify-end gap-3">
+              {phase === "question" && (
+                <button
+                  onClick={submitAnswer}
+                  disabled={!selectedAnswer || submitting}
+                  className="px-8 py-4 bg-[#4F46E5] text-white rounded-xl font-black text-sm shadow-xl shadow-[#4F46E5]/20 hover:bg-[#4338CA] transition-all disabled:opacity-40 flex items-center gap-2"
+                >
+                  {submitting ? <Loader2 className="w-4 h-4 animate-spin" /> : null}
+                  Submit Answer
+                </button>
+              )}
+              {phase === "feedback" && (
+                <button
+                  onClick={nextQuestion}
+                  className="px-8 py-4 bg-[#4F46E5] text-white rounded-xl font-black text-sm shadow-xl shadow-[#4F46E5]/20 hover:bg-[#4338CA] transition-all flex items-center gap-2"
+                >
+                  {feedback?.nextQuestion ? "Next Question" : "See Results"} <ChevronRight className="w-4 h-4" />
+                </button>
+              )}
+            </div>
+          </motion.div>
+        </AnimatePresence>
+      </div>
+    );
+  }
+
+  // ===== RESULTS SCREEN =====
+  if (phase === "results") {
+    const r = results;
+    return (
+      <div className="max-w-3xl">
+        <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }}>
+          <div className="text-center mb-10">
+            <div className="w-20 h-20 bg-[#D6FF62] rounded-2xl flex items-center justify-center mx-auto mb-4">
+              <CheckCircle2 className="w-10 h-10 text-deep-forest" />
+            </div>
+            <h1 className="text-3xl font-black text-deep-forest font-display mb-2">Session Complete!</h1>
+            <p className="text-slate-400 font-medium">Here&apos;s how you did.</p>
+          </div>
+
+          {/* Score summary */}
+          <div className="grid grid-cols-3 gap-6 mb-8">
+            <div className="bg-white rounded-2xl p-6 border border-slate-100 shadow-sm text-center">
+              <div className="text-4xl font-black text-deep-forest">{r ? Math.round(r.accuracy * 100) : Math.round((correct / Math.max(answered, 1)) * 100)}%</div>
+              <div className="text-[10px] font-black text-slate-400 uppercase tracking-widest mt-1">Accuracy</div>
+            </div>
+            <div className="bg-white rounded-2xl p-6 border border-slate-100 shadow-sm text-center">
+              <div className="text-4xl font-black text-deep-forest">{r ? r.totalCorrect : correct}/{r ? r.totalQuestions : answered}</div>
+              <div className="text-[10px] font-black text-slate-400 uppercase tracking-widest mt-1">Correct</div>
+            </div>
+            <div className="bg-white rounded-2xl p-6 border border-slate-100 shadow-sm text-center">
+              <div className="text-4xl font-black text-deep-forest">{formatTime(r?.timeSpent ?? timeElapsed)}</div>
+              <div className="text-[10px] font-black text-slate-400 uppercase tracking-widest mt-1">Time</div>
+            </div>
+          </div>
+
+          {/* Skill breakdown */}
+          {r?.skillBreakdown && r.skillBreakdown.length > 0 && (
+            <div className="bg-white rounded-[24px] border border-slate-100 shadow-sm p-6 mb-8">
+              <h2 className="font-black text-deep-forest text-lg mb-4">Skill Breakdown</h2>
+              <div className="space-y-3">
+                {r.skillBreakdown.map((s) => (
+                  <div key={s.category} className="flex items-center gap-4">
+                    <span className="text-sm font-bold text-deep-forest flex-1">{s.category}</span>
+                    <div className="w-32 h-2 bg-slate-100 rounded-full overflow-hidden">
+                      <div
+                        className={`h-full rounded-full ${s.accuracy >= 0.8 ? "bg-[#22C55E]" : s.accuracy >= 0.6 ? "bg-[#F59E0B]" : "bg-[#EF4444]"}`}
+                        style={{ width: `${s.accuracy * 100}%` }}
+                      />
+                    </div>
+                    <span className="text-sm font-black text-slate-500 w-16 text-right">{s.correct}/{s.total}</span>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+
+          <div className="flex justify-center gap-4">
+            <button
+              onClick={() => { setPhase("setup"); setSelectedAnswer(null); setFeedback(null); setResults(null); }}
+              className="px-6 py-4 bg-white border-2 border-slate-200 text-deep-forest rounded-xl font-black text-sm hover:bg-slate-50 transition-all flex items-center gap-2"
+            >
+              <RotateCcw className="w-4 h-4" /> Practice Again
+            </button>
+            <button
+              onClick={() => router.push("/dashboard")}
+              className="px-6 py-4 bg-[#4F46E5] text-white rounded-xl font-black text-sm shadow-xl shadow-[#4F46E5]/20 hover:bg-[#4338CA] transition-all flex items-center gap-2"
+            >
+              <ArrowLeft className="w-4 h-4" /> Back to Dashboard
+            </button>
+          </div>
+        </motion.div>
+      </div>
+    );
+  }
+
+  return null;
+}
