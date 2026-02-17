@@ -37,7 +37,7 @@ const Navbar = () => {
             >
               🎓 Get ready for the 2024 SHSAT —{" "}
               <a href="/practice" className="underline hover:opacity-80 transition-opacity">
-                Join our free diagnostic test
+                Join our diagnostic test
               </a>{" "}
               today.
             </motion.span>

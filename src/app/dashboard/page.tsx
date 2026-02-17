@@ -262,9 +262,20 @@ function ParentDashboard() {
 // Role-Aware Entry
 // ============================================================================
 
+function AdminRedirect() {
+  const router = useRouter();
+  useEffect(() => { router.replace("/dashboard/admin"); }, [router]);
+  return (
+    <div className="flex min-h-[50vh] items-center justify-center">
+      <div className="h-8 w-8 animate-spin rounded-full border-4 border-[#4F46E5] border-t-transparent" />
+    </div>
+  );
+}
+
 export default function DashboardPage() {
   const { role } = useRole();
 
+  if (role === "admin") return <AdminRedirect />;
   if (role === "parent") return <ParentDashboard />;
   return <StudentDashboard />;
 }

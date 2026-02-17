@@ -29,6 +29,7 @@ import {
   RefreshCw,
 } from "lucide-react";
 import { useRole } from "@/lib/context/role-context";
+import { BillingSection } from "@/components/billing/BillingSection";
 import type { Profile } from "@/lib/types";
 
 const profileSchema = z.object({
@@ -359,6 +360,13 @@ export default function ProfilePage() {
           )}
         </div>
       </div>
+
+      {/* Billing Section — Students Only */}
+      {role === "student" && (
+        <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} className="mt-8">
+          <BillingSection />
+        </motion.div>
+      )}
 
       {/* Parent Access Section — Students Only */}
       {role === "student" && (

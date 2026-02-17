@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { createServerClient } from '@/lib/supabase/server'
+import { isSubscriptionActive } from '@/lib/stripe'
 
 export async function GET() {
   try {
@@ -31,6 +32,20 @@ export async function POST(_request: NextRequest) {
     const { data: { user }, error: authError } = await supabase.auth.getUser()
     if (authError || !user) {
       return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
+    }
+
+    // Check subscription - exams require premium
+    const { data: profile } = await supabase
+      .from('profiles')
+      .select('subscription_status, subscription_ends_at')
+      .eq('id', user.id)
+      .single()
+
+    if (!isSubscriptionActive(profile?.subscription_status, profile?.subscription_ends_at)) {
+      return NextResponse.json(
+        { error: 'Active subscription required', redirect: '/signup/paywall' },
+        { status: 403 }
+      )
     }
 
     // Select 57 ELA questions

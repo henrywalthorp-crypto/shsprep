@@ -2,6 +2,7 @@ import { NextRequest, NextResponse } from 'next/server'
 import { createServerClient } from '@/lib/supabase/server'
 import { z } from 'zod'
 import { selectQuestions } from '@/lib/questions/engine'
+import { isSubscriptionActive } from '@/lib/stripe'
 import type { EngineSkillStats, Question, SessionConfig } from '@/lib/types'
 
 const startPracticeSchema = z.object({
@@ -27,6 +28,20 @@ export async function POST(request: NextRequest) {
     }
 
     const { section, category, difficulty, mode, questionCount } = parsed.data
+
+    // Check subscription
+    const { data: profile } = await supabase
+      .from('profiles')
+      .select('subscription_status, subscription_ends_at')
+      .eq('id', user.id)
+      .single()
+
+    if (!isSubscriptionActive(profile?.subscription_status, profile?.subscription_ends_at)) {
+      return NextResponse.json(
+        { error: 'Active subscription required', redirect: '/signup/paywall' },
+        { status: 403 }
+      )
+    }
 
     // Fetch all available questions matching filters
     let query = supabase

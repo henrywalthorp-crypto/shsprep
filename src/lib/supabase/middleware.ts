@@ -45,7 +45,33 @@ export async function updateSession(request: NextRequest) {
     return NextResponse.redirect(url)
   }
 
-  // Redirect authenticated users away from sign-in/signup
+  // HARD PAYWALL: check subscription for dashboard routes (except /dashboard/profile)
+  if (user && request.nextUrl.pathname.startsWith('/dashboard') && !request.nextUrl.pathname.startsWith('/dashboard/profile')) {
+    const { data: profile } = await supabase
+      .from('profiles')
+      .select('subscription_status, subscription_ends_at')
+      .eq('id', user.id)
+      .single()
+
+    const status = profile?.subscription_status
+    const endsAt = profile?.subscription_ends_at
+
+    // Check if subscription is active
+    let isActive = false
+    if (status === 'active') {
+      isActive = !(endsAt && new Date(endsAt) < new Date())
+    } else if (status === 'canceled' && endsAt) {
+      isActive = new Date(endsAt) > new Date()
+    }
+
+    if (!isActive) {
+      const url = request.nextUrl.clone()
+      url.pathname = '/signup/paywall'
+      return NextResponse.redirect(url)
+    }
+  }
+
+  // Redirect authenticated users away from sign-in/signup (but not paywall)
   if (user && (request.nextUrl.pathname === '/sign-in' || request.nextUrl.pathname === '/signup')) {
     const url = request.nextUrl.clone()
     url.pathname = '/dashboard'

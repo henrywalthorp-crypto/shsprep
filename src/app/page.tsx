@@ -8,6 +8,7 @@ import PathToProduction from "@/components/sections/path-to-production";
 import Enterprise from "@/components/sections/enterprise";
 import Testimonials from "@/components/sections/testimonials";
 import BlogPreview from "@/components/sections/blog-preview";
+import PricingSection from "@/components/landing/PricingSection";
 import CTABottom from "@/components/sections/cta-bottom";
 import Footer from "@/components/sections/footer";
 
@@ -24,6 +25,7 @@ export default function Home() {
         <PathToProduction />
         <Enterprise />
         <Testimonials />
+        <PricingSection />
         <BlogPreview />
         <CTABottom />
       </main>

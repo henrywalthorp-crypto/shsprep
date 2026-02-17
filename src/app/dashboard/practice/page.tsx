@@ -64,7 +64,6 @@ function PracticePageContent() {
   const [results, setResults] = useState<ResultsData | null>(null);
   const [submitting, setSubmitting] = useState(false);
   const [starting, setStarting] = useState(false);
-
   // Timer
   const [timeElapsed, setTimeElapsed] = useState(0);
   const [timeLimit, setTimeLimit] = useState<number | null>(null);
@@ -99,6 +98,10 @@ function PracticePageContent() {
 
       if (!res.ok) {
         const err = await res.json().catch(() => ({ error: "Failed to start session" }));
+        if (res.status === 403 && err.redirect) {
+          router.push(err.redirect);
+          return;
+        }
         toast.error(err.error || "Failed to start session");
         return;
       }
@@ -186,14 +189,16 @@ function PracticePageContent() {
   // ===== SETUP SCREEN =====
   if (phase === "setup") {
     return (
-      <PracticeSetup
-        section={section} setSection={setSection}
-        difficulty={difficulty} setDifficulty={setDifficulty}
-        questionCount={questionCount} setQuestionCount={setQuestionCount}
-        mode={mode} setMode={setMode}
-        onStart={startSession}
-        starting={starting}
-      />
+      <>
+        <PracticeSetup
+          section={section} setSection={setSection}
+          difficulty={difficulty} setDifficulty={setDifficulty}
+          questionCount={questionCount} setQuestionCount={setQuestionCount}
+          mode={mode} setMode={setMode}
+          onStart={startSession}
+          starting={starting}
+        />
+      </>
     );
   }
 

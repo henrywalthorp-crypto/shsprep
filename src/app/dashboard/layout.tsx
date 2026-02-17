@@ -5,16 +5,20 @@ import { useRouter, usePathname } from "next/navigation";
 import { useAuth } from "@/lib/auth/provider";
 import { RoleProvider } from "@/lib/context/role-context";
 import type { UserRole } from "@/lib/types";
+import { SubscriptionBadge } from "@/components/billing/SubscriptionBadge";
 import {
   PenTool,
   BookOpen,
   Layout,
+  LayoutDashboard,
   BarChart2,
   Users,
   Settings,
   FileText,
+  FileQuestion,
   Info,
   LogOut,
+  Upload,
 } from "lucide-react";
 
 const studentNavItems = [
@@ -39,11 +43,18 @@ const parentAdditionalItems = [
   { icon: FileText, label: "Resources", href: "/dashboard/resources" },
 ];
 
+const adminNavItems = [
+  { icon: LayoutDashboard, label: "Overview", href: "/dashboard" },
+  { icon: FileQuestion, label: "Questions", href: "/dashboard/admin/questions" },
+  { icon: BookOpen, label: "Passages", href: "/dashboard/admin/passages" },
+  { icon: Upload, label: "Upload", href: "/dashboard/admin/upload" },
+];
+
 export default function DashboardLayout({ children }: { children: React.ReactNode }) {
   const { user, loading, signOut } = useAuth();
   const router = useRouter();
   const pathname = usePathname();
-  const [profile, setProfile] = useState<{ first_name: string; last_name: string; avatar_url: string | null; role: UserRole } | null>(null);
+  const [profile, setProfile] = useState<{ first_name: string; last_name: string; avatar_url: string | null; role: UserRole; subscription_status?: string } | null>(null);
   const [role, setRole] = useState<UserRole | null>(null);
 
   useEffect(() => {
@@ -79,9 +90,10 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
   const displayName = profile?.first_name || user.email?.split("@")[0] || "User";
   const initial = displayName[0]?.toUpperCase() || "U";
 
+  const isAdmin = role === "admin";
   const isParent = role === "parent";
-  const navItems = isParent ? parentNavItems : studentNavItems;
-  const additionalItems = isParent ? parentAdditionalItems : studentAdditionalItems;
+  const navItems = isAdmin ? adminNavItems : isParent ? parentNavItems : studentNavItems;
+  const additionalItems = isAdmin ? [] : isParent ? parentAdditionalItems : studentAdditionalItems;
 
   const isActive = (href: string) => {
     if (href === "/dashboard") return pathname === "/dashboard";
@@ -118,11 +130,13 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
               <SidebarItem key={item.href} icon={item.icon} label={item.label} href={item.href} active={isActive(item.href)} />
             ))}
 
+            {additionalItems.length > 0 && (
             <div className="pt-8 pb-4">
               <span className="px-4 text-[10px] font-black text-slate-500 uppercase tracking-widest">
                 {isParent ? "Resources" : "Additional Tools"}
               </span>
             </div>
+            )}
 
             {additionalItems.map((item) => (
               <SidebarItem key={item.href} icon={item.icon} label={item.label} href={item.href} active={isActive(item.href)} />
@@ -141,6 +155,7 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
                   {initial}
                 </div>
                 <span className="text-sm font-bold text-slate-300">{displayName}</span>
+                <SubscriptionBadge status={(profile?.subscription_status as "inactive" | "active" | "past_due" | "canceled") || "inactive"} />
               </div>
               <Settings className="w-4 h-4 text-slate-500 hover:text-white transition-colors" />
             </div>

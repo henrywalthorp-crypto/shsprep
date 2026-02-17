@@ -1,19 +1,58 @@
 "use client";
 
-import React, { Suspense } from "react";
+import React, { Suspense, useEffect, useState } from "react";
 import Link from "next/link";
 import { motion } from "framer-motion";
-import { useSearchParams } from "next/navigation";
-import { ArrowRight } from "lucide-react";
+import { useSearchParams, useRouter } from "next/navigation";
+import { ArrowRight, CheckCircle, Crown, Loader2 } from "lucide-react";
 
-const SuccessContent = () => {
+function SuccessContent() {
   const searchParams = useSearchParams();
-  const plan = searchParams.get("plan") || "monthly";
-  
-  const isAnnual = plan === "annual";
-  const subtotal = isAnnual ? 599.0 : 99.0;
-  const taxes = Number((subtotal * 0.0838).toFixed(2));
-  const total = Number((subtotal + taxes).toFixed(2));
+  const router = useRouter();
+  const sessionId = searchParams.get("session_id");
+  const [verifying, setVerifying] = useState(!!sessionId);
+  const [premiumActivated, setPremiumActivated] = useState(false);
+  const [countdown, setCountdown] = useState(3);
+
+  // Verify Stripe session if present
+  useEffect(() => {
+    if (!sessionId) return;
+    fetch(`/api/stripe/status?session_id=${sessionId}`)
+      .then((r) => r.ok ? r.json() : null)
+      .then((d) => {
+        if (d?.subscription_status === "active") {
+          setPremiumActivated(true);
+        }
+      })
+      .catch(() => {})
+      .finally(() => setVerifying(false));
+  }, [sessionId]);
+
+  // Auto-redirect after 3 seconds
+  useEffect(() => {
+    if (verifying) return;
+    const timer = setInterval(() => {
+      setCountdown((c) => {
+        if (c <= 1) {
+          router.push("/dashboard");
+          return 0;
+        }
+        return c - 1;
+      });
+    }, 1000);
+    return () => clearInterval(timer);
+  }, [verifying, router]);
+
+  if (verifying) {
+    return (
+      <div className="min-h-screen bg-deep-forest flex items-center justify-center">
+        <div className="text-center">
+          <Loader2 className="w-8 h-8 animate-spin text-mint mx-auto mb-4" />
+          <p className="text-white/60 text-sm font-medium">Verifying your payment...</p>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className="min-h-screen bg-deep-forest relative flex flex-col items-center justify-center p-6 overflow-hidden">
@@ -30,7 +69,7 @@ const SuccessContent = () => {
       </div>
 
       {/* Logo */}
-      <div className="absolute top-12 mb-8 z-20">
+      <div className="absolute top-12 z-20">
         <Link href="/" className="flex flex-col items-center gap-2">
           <div className="h-10 w-10 bg-mint rounded-xl flex items-center justify-center text-deep-forest font-bold text-xl shadow-lg shadow-mint/20">
             S
@@ -45,69 +84,54 @@ const SuccessContent = () => {
       <motion.div
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
-        className="w-full max-w-[440px] bg-white rounded-[32px] p-8 md:p-10 shadow-2xl relative z-10"
+        className="w-full max-w-[440px] bg-white rounded-[32px] p-8 md:p-10 shadow-2xl relative z-10 text-center"
       >
-        <h1 className="text-2xl font-bold text-deep-forest mb-8 font-display">
-          Your plan details
-        </h1>
+        {premiumActivated ? (
+          <>
+            <div className="h-16 w-16 bg-[#22C55E]/10 rounded-2xl flex items-center justify-center mx-auto mb-6">
+              <Crown className="w-8 h-8 text-[#22C55E]" />
+            </div>
+            <h1 className="text-2xl font-bold text-deep-forest mb-3 font-display">
+              Premium Activated! 🎉
+            </h1>
+            <p className="text-sm text-slate-400 font-medium mb-8">
+              You now have unlimited access to all questions, mock exams, and detailed analytics.
+            </p>
+          </>
+        ) : (
+          <>
+            <div className="h-16 w-16 bg-mint/20 rounded-2xl flex items-center justify-center mx-auto mb-6">
+              <CheckCircle className="w-8 h-8 text-deep-forest" />
+            </div>
+            <h1 className="text-2xl font-bold text-deep-forest mb-3 font-display">
+              Welcome to SHS Prep! 🎉
+            </h1>
+            <p className="text-sm text-slate-400 font-medium mb-8">
+              Your account is ready. Subscribe to get started with unlimited practice!
+            </p>
+          </>
+        )}
 
-        {/* Plan Summary Box */}
-        <div className="bg-gray-50 rounded-2xl p-6 mb-4">
-          <h2 className="text-sm font-bold text-deep-forest mb-4">
-            SHSprep {isAnnual ? "Annual" : "Monthly"}
-          </h2>
-          
-          <div className="space-y-3 border-t border-gray-100 pt-4">
-            <div className="flex justify-between text-xs text-gray-500 font-medium">
-              <span>Subtotal</span>
-              <span>${subtotal.toFixed(2)}</span>
-            </div>
-            <div className="flex justify-between text-xs text-gray-500 font-medium">
-              <span>Estimated Taxes (8.38%)</span>
-              <span>${taxes.toFixed(2)}</span>
-            </div>
-            <div className="flex justify-between text-xs text-gray-900 font-bold pt-1">
-              <span>Total billed today</span>
-              <span>$0.00</span>
-            </div>
-            <div className="flex justify-between text-xs text-gray-900 font-bold border-t border-gray-100 pt-3 mt-1">
-              <div className="flex flex-col">
-                <span>Total billed after trial</span>
-                <span className="text-[10px] text-gray-400 font-normal mt-0.5">Due January 01, 2026</span>
-              </div>
-              <span>${total.toFixed(2)}</span>
-            </div>
-          </div>
-        </div>
-
-        {/* Payment Method Box */}
-        <div className="bg-gray-50 rounded-2xl p-6 mb-8">
-          <h3 className="text-xs font-bold text-gray-400 uppercase tracking-wider mb-3">
-            Payment method
-          </h3>
-          <p className="text-sm font-medium text-deep-forest">
-            Link: <span className="text-gray-500">fardinc2320@gmail.com</span>
-          </p>
-        </div>
-
-        <button 
-          onClick={() => window.location.href = "/signup/onboarding"}
+        <button
+          onClick={() => router.push("/dashboard")}
           className="w-full py-4 bg-mint text-deep-forest rounded-2xl font-bold text-sm flex items-center justify-center gap-2 hover:bg-[#B8E26B] transition-all shadow-lg shadow-mint/20 group"
         >
-          Continue
+          Go to Dashboard
           <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
         </button>
+
+        <p className="text-xs text-slate-400 mt-4">
+          Redirecting in {countdown} second{countdown !== 1 ? "s" : ""}...
+        </p>
       </motion.div>
     </div>
   );
-};
+}
 
-const SuccessPage = () => {
+export default function SuccessPage() {
   return (
     <Suspense fallback={<div className="min-h-screen bg-deep-forest" />}>
       <SuccessContent />
     </Suspense>
   );
-};
-
-export default SuccessPage;
+}
