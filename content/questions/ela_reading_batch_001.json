@@ -1,0 +1,405 @@
+{
+  "passages": [
+    {
+      "id": "passage_rc_001",
+      "type": "contemporary_fiction",
+      "title": "The Cartographer's Hands",
+      "text": "Maya pressed her fingertips against the cold glass of the display case, studying the antique compass that had once belonged to her grandmother. The needle trembled, as if it too remembered something important. Behind her, the sounds of the school science fair swelled — laughter, the crackle of a faulty circuit board, Mr. Hensley's booming congratulations to someone else's project.\n\nHer own project sat three tables away, untouched by judges so far: a hand-drawn topographic map of the creek bed behind her apartment complex, each contour line measured with a homemade clinometer she'd built from a protractor, a drinking straw, and dental floss. It wasn't digital. It wasn't flashy. Beside the drone-captured aerial photographs and 3D-printed watersheds of her classmates, it looked like something from another century.\n\nThat was the point, she wanted to say. That was the entire point.\n\nHer grandmother had been a surveyor in the Philippines before emigrating, one of the few women in the field in the 1970s. She'd mapped river deltas by hand, wading through knee-deep water with a transit level on her shoulder. Maya had grown up hearing those stories the way other kids heard fairy tales — except these had mosquitoes instead of dragons, and elevation benchmarks instead of castles.\n\nWhen Lola passed away in October, Maya had inherited the compass and a cardboard box of yellowed field notebooks. The notebooks were filled with numbers and tiny sketches — cross-sections of valleys, the sinuous curves of riverbanks. Maya had spent weeks teaching herself to read them, deciphering her grandmother's shorthand like a secret language.\n\nThe map was her translation.\n\n\"Interesting approach,\" said a voice. Maya turned to find Judge Okafor leaning over her table, reading the legend she'd hand-lettered in India ink. \"You surveyed this yourself?\"\n\n\"With a homemade clinometer.\" Maya's voice came out quieter than she intended. \"My grandmother was a surveyor. I wanted to understand how she saw the land — not from above, not through a screen, but by walking it.\"\n\nJudge Okafor picked up the clinometer and sighted along the straw. \"The contour interval is five feet?\"\n\n\"Three. The slope changes fast near the water.\"\n\nSomething shifted in the judge's expression — a recognition, maybe, of the hours those tight contour lines represented. She set the clinometer down gently.\n\n\"Don't go anywhere,\" Judge Okafor said, and walked toward the other judges with purpose in her stride.\n\nMaya looked back at the compass in the display case. The needle had settled, pointing steadily north. She thought of Lola wading through river deltas, measuring the shape of the earth one careful step at a time, and for the first time all afternoon, she felt the knot in her chest begin to loosen.",
+      "wordCount": 436
+    },
+    {
+      "id": "passage_rc_002",
+      "type": "stem_nonfiction",
+      "title": "The Surprising Science of Slime Molds",
+      "text": "In 2010, researchers at Hokkaido University in Japan placed oat flakes on a wet surface in a pattern that matched the locations of major cities around Tokyo. Then they introduced Physarum polycephalum — a bright yellow, single-celled organism commonly known as slime mold — and waited. Within twenty-six hours, the organism had extended its network of tube-like tendrils to connect all the food sources, forming a pattern that bore a remarkable resemblance to the Tokyo rail system, one of the most efficiently designed transit networks in the world.\n\nThe finding was startling. Here was a creature with no brain, no nervous system, and no capacity for thought in any conventional sense, yet it had essentially solved a complex optimization problem that human engineers had spent decades refining. The slime mold's network was not identical to the rail map, but analysis showed it was comparably efficient in terms of total length, redundancy, and resistance to random disconnection.\n\nPhysarum polycephalum is technically not a fungus, an animal, or a plant. It belongs to a group called myxomycetes, or plasmodial slime molds, which occupy their own peculiar branch on the tree of life. In its active phase, the organism exists as a single enormous cell containing millions of nuclei — a pulsating, flowing sheet of protoplasm that can spread across several square feet. It navigates by expanding in all directions simultaneously, retreating from areas that prove unproductive and reinforcing pathways that lead to nutrients. This process of exploration and reinforcement, biologists have found, follows mathematical principles similar to those used in computer algorithms for network optimization.\n\nSince the Tokyo experiment, slime mold research has exploded. Scientists have used Physarum to model highway systems in fourteen different countries, finding that the organism's solutions frequently matched or improved upon existing infrastructure. A 2016 study published in the journal Royal Society Open Science demonstrated that when Physarum was presented with a map of the ancient Roman road network, it independently reproduced approximately 60 percent of the major routes.\n\nThe implications extend beyond transportation. Computer scientists are studying slime mold behavior to develop more efficient algorithms for data networks, supply chains, and even the distribution of emergency resources. The organism's strategy — decentralized, adaptive, and driven entirely by local chemical signals — offers a model for solving problems that centralized planning often struggles with. In a world increasingly dependent on complex networks, one of nature's simplest organisms may hold lessons that even the most powerful supercomputers have yet to learn.",
+      "wordCount": 381
+    },
+    {
+      "id": "passage_rc_003",
+      "type": "poetry",
+      "title": "Thaw",
+      "text": "All winter I was the locked pond,\nstill and certain of my edges,\nthe cold a kind of clarity\nI mistook for strength.\n\nI knew exactly where I ended.\nThe reeds stood at attention.\nEven the fish held their breath\nbeneath me, waiting.\n\nThen something shifted —\nnot the sun, not yet,\nbut a softness in the air\nlike a question asked\nin a language I'd forgotten I knew.\n\nThe first crack was terrifying.\nI heard myself split\nalong a line I hadn't known\nwas a seam, and suddenly\nI was not one thing but many —\n\nwater and light and the slow\nremembering of current,\nthe shock of my own movement\nafter months of holding still.\n\nThe reeds bent and swayed.\nThe fish rose, silver-sided,\nbreaking the surface I had been.\n\nAnd I understood:\nwhat I'd called my shape\nwas only winter's hand\npressed flat against me,\nand the thaw was not a loss\nbut the first breath\nof what I'd always been.",
+      "wordCount": 162
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_rc_001_01",
+      "section": "ela",
+      "category": "ela.reading.main_idea",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "stem": "Which statement best expresses the central idea of the passage?",
+      "passageId": "passage_rc_001",
+      "options": [
+        {"label": "A", "text": "Science fairs favor students who use expensive technology over those who use traditional methods."},
+        {"label": "B", "text": "A student honors her grandmother's legacy by using traditional surveying techniques to create a meaningful project."},
+        {"label": "C", "text": "Learning to read old notebooks is an important skill for young scientists."},
+        {"label": "D", "text": "Judges at science fairs should value effort more than innovation."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The passage centers on Maya creating a hand-drawn topographic map using her grandmother's surveying methods, connecting her project to her grandmother's legacy. While the passage mentions the contrast with high-tech projects (A), that is a supporting detail, not the central idea. C and D are tangential.",
+      "commonMistakes": ["A — confuses a supporting detail (the contrast with technology) for the main idea", "D — imports an opinion the passage implies but never states as its central focus"]
+    },
+    {
+      "id": "q_rc_001_02",
+      "section": "ela",
+      "category": "ela.reading.best_evidence",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "stem": "Which quotation from the passage best supports the idea that Maya's project is personally meaningful to her?",
+      "passageId": "passage_rc_001",
+      "options": [
+        {"label": "A", "text": "\"It wasn't digital. It wasn't flashy.\""},
+        {"label": "B", "text": "\"My grandmother was a surveyor. I wanted to understand how she saw the land — not from above, not through a screen, but by walking it.\""},
+        {"label": "C", "text": "\"The contour interval is five feet?\""},
+        {"label": "D", "text": "\"Behind her, the sounds of the school science fair swelled — laughter, the crackle of a faulty circuit board.\""}
+      ],
+      "correctAnswer": "B",
+      "explanation": "Maya's own words directly connect her project to her desire to understand her grandmother's perspective, showing the deep personal significance. A describes the project's appearance but not its meaning to her. C is dialogue from the judge. D is setting description.",
+      "commonMistakes": ["A — describes the project but doesn't explain its personal significance", "D — provides atmosphere but no connection to personal meaning"]
+    },
+    {
+      "id": "q_rc_001_03",
+      "section": "ela",
+      "category": "ela.reading.inference",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "stem": "Based on the passage, what can the reader most reasonably infer about Judge Okafor's reaction to Maya's project?",
+      "passageId": "passage_rc_001",
+      "options": [
+        {"label": "A", "text": "She is confused by the old-fashioned technique and wants another judge to evaluate it."},
+        {"label": "B", "text": "She recognizes the quality and effort behind Maya's work and wants to bring it to the other judges' attention."},
+        {"label": "C", "text": "She feels sorry for Maya because her project cannot compete with the technology-based ones."},
+        {"label": "D", "text": "She is a former surveyor herself and feels a personal connection to the project."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The passage describes 'a recognition, maybe, of the hours those tight contour lines represented' and the judge walking toward other judges 'with purpose in her stride,' implying she is impressed and wants to advocate for the project. A contradicts the described 'recognition.' C introduces pity not supported by the text. D is unsupported speculation.",
+      "commonMistakes": ["C — misreads the judge's careful handling of the clinometer as pity rather than respect", "D — invents biographical details about the judge not present in the passage"]
+    },
+    {
+      "id": "q_rc_001_04",
+      "section": "ela",
+      "category": "ela.reading.vocabulary_in_context",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "stem": "As used in the passage, the word \"sinuous\" most nearly means —",
+      "passageId": "passage_rc_001",
+      "options": [
+        {"label": "A", "text": "dangerous"},
+        {"label": "B", "text": "winding"},
+        {"label": "C", "text": "narrow"},
+        {"label": "D", "text": "ancient"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "\"Sinuous\" is used to describe 'the sinuous curves of riverbanks,' meaning winding or curving in and out. The context of river curves supports this meaning. 'Dangerous' (A) confuses sinuous with sinister. 'Narrow' (C) and 'ancient' (D) do not match the context of curves.",
+      "commonMistakes": ["A — confuses 'sinuous' with 'sinister' due to similar spelling", "C — associates rivers with narrowness rather than the curvature described"]
+    },
+    {
+      "id": "q_rc_001_05",
+      "section": "ela",
+      "category": "ela.reading.authors_purpose",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "stem": "The author most likely includes the detail about Maya's grandmother wading through \"knee-deep water with a transit level on her shoulder\" in order to —",
+      "passageId": "passage_rc_001",
+      "options": [
+        {"label": "A", "text": "demonstrate that surveying was a physically demanding and hands-on profession"},
+        {"label": "B", "text": "explain why Maya's grandmother eventually stopped working as a surveyor"},
+        {"label": "C", "text": "contrast the grandmother's dangerous work environment with Maya's safe school setting"},
+        {"label": "D", "text": "suggest that Maya's grandmother was not properly equipped for her job"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "This vivid detail establishes the physical, immersive nature of traditional surveying — the same hands-on approach Maya is trying to recreate in her project. B is not supported; the grandmother's reasons for stopping are not discussed. C overstates the contrast. D misreads the detail as a criticism rather than an illustration of dedication.",
+      "commonMistakes": ["C — identifies a real contrast but overstates it; the purpose is to characterize the work, not emphasize danger", "D — misinterprets a detail meant to convey dedication as a deficiency"]
+    },
+    {
+      "id": "q_rc_001_06",
+      "section": "ela",
+      "category": "ela.reading.tone_mood",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "stem": "How does the mood of the passage shift in the final paragraph?",
+      "passageId": "passage_rc_001",
+      "options": [
+        {"label": "A", "text": "From excitement to disappointment"},
+        {"label": "B", "text": "From anxiety and self-doubt to quiet hope and connection"},
+        {"label": "C", "text": "From grief to complete joy"},
+        {"label": "D", "text": "From boredom to sudden surprise"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "Throughout the passage, Maya feels insecure about her project and grieving her grandmother. In the final paragraph, the compass settling and the 'knot in her chest' beginning to loosen signal a shift toward hope and emotional connection. C overstates the shift — the knot 'begins' to loosen, suggesting quiet relief, not complete joy. A and D don't match the passage's emotional arc.",
+      "commonMistakes": ["C — exaggerates the resolution; the passage suggests the beginning of relief, not total transformation", "A — reverses the actual emotional direction of the passage"]
+    },
+    {
+      "id": "q_rc_001_07",
+      "section": "ela",
+      "category": "ela.reading.plot_character",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "stem": "Which detail from the passage best reveals Maya's motivation for creating her science fair project?",
+      "passageId": "passage_rc_001",
+      "options": [
+        {"label": "A", "text": "She wanted to win first place at the science fair."},
+        {"label": "B", "text": "She wanted to prove that old-fashioned methods are better than modern technology."},
+        {"label": "C", "text": "She wanted to understand her grandmother's way of experiencing the land."},
+        {"label": "D", "text": "She wanted to impress the judges with an unusual approach."}
+      ],
+      "correctAnswer": "C",
+      "explanation": "Maya explicitly states she 'wanted to understand how she saw the land.' The project is driven by a desire to connect with her grandmother's perspective and legacy. A, B, and D attribute competitive or argumentative motivations not supported by the text.",
+      "commonMistakes": ["B — Maya's goal is personal understanding, not proving a point about technology", "A — winning is never mentioned as Maya's motivation"]
+    },
+    {
+      "id": "q_rc_002_01",
+      "section": "ela",
+      "category": "ela.reading.main_idea",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "stem": "What is the central idea of the passage?",
+      "passageId": "passage_rc_002",
+      "options": [
+        {"label": "A", "text": "Slime molds are the most intelligent single-celled organisms on Earth."},
+        {"label": "B", "text": "A brainless organism can solve complex network problems, offering insights for human engineering and technology."},
+        {"label": "C", "text": "The Tokyo rail system was designed by studying organisms found in nature."},
+        {"label": "D", "text": "Scientists should replace computer algorithms with biological organisms."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The passage describes how Physarum polycephalum solves optimization problems and how scientists are applying its strategies to human engineering challenges. A overstates by calling it 'most intelligent.' C reverses the relationship — the slime mold replicated the existing system. D is an extreme position the passage does not advocate.",
+      "commonMistakes": ["C — reverses cause and effect; the rail system existed first", "A — uses 'most intelligent,' which is not supported and mischaracterizes the organism"]
+    },
+    {
+      "id": "q_rc_002_02",
+      "section": "ela",
+      "category": "ela.reading.best_evidence",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "stem": "Which sentence from the passage provides the strongest evidence that slime mold behavior has practical applications beyond transportation?",
+      "passageId": "passage_rc_002",
+      "options": [
+        {"label": "A", "text": "\"Within twenty-six hours, the organism had extended its network of tube-like tendrils to connect all the food sources.\""},
+        {"label": "B", "text": "\"It belongs to a group called myxomycetes, or plasmodial slime molds, which occupy their own peculiar branch on the tree of life.\""},
+        {"label": "C", "text": "\"Computer scientists are studying slime mold behavior to develop more efficient algorithms for data networks, supply chains, and even the distribution of emergency resources.\""},
+        {"label": "D", "text": "\"Scientists have used Physarum to model highway systems in fourteen different countries.\""}
+      ],
+      "correctAnswer": "C",
+      "explanation": "This sentence explicitly names applications outside transportation: data networks, supply chains, and emergency resources. A and D describe transportation-related findings. B is a classification detail with no application mentioned.",
+      "commonMistakes": ["D — this still describes transportation infrastructure, not applications beyond it", "A — describes the initial experiment, which is also transportation-related"]
+    },
+    {
+      "id": "q_rc_002_03",
+      "section": "ela",
+      "category": "ela.reading.inference",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "stem": "Based on the passage, the reader can infer that the Tokyo rail system is mentioned primarily because it —",
+      "passageId": "passage_rc_002",
+      "options": [
+        {"label": "A", "text": "is the oldest rail network in Asia"},
+        {"label": "B", "text": "serves as a well-known benchmark for efficient network design"},
+        {"label": "C", "text": "was the first transportation system modeled on biological organisms"},
+        {"label": "D", "text": "is the only system the slime mold was able to replicate accurately"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The passage describes the Tokyo rail system as 'one of the most efficiently designed transit networks in the world,' and the slime mold's ability to approximate it demonstrates the organism's optimization capability. The rail system functions as a benchmark. A is unsupported. C reverses the relationship. D is contradicted by the mention of fourteen countries.",
+      "commonMistakes": ["C — the rail system was not modeled on organisms; the organism replicated the system", "D — the passage mentions the organism modeled systems in fourteen countries"]
+    },
+    {
+      "id": "q_rc_002_04",
+      "section": "ela",
+      "category": "ela.reading.vocabulary_in_context",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "stem": "As used in the passage, the word \"redundancy\" most nearly means —",
+      "passageId": "passage_rc_002",
+      "options": [
+        {"label": "A", "text": "wastefulness"},
+        {"label": "B", "text": "backup connections that provide reliability"},
+        {"label": "C", "text": "unnecessary repetition"},
+        {"label": "D", "text": "excessive complexity"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "In the context of network design, 'redundancy' refers to having alternative pathways so the system continues to function if one connection fails. The passage mentions 'resistance to random disconnection' alongside redundancy, confirming this meaning. A and C reflect the everyday negative connotation of the word, which does not apply in this technical context.",
+      "commonMistakes": ["C — uses the common negative meaning of 'redundancy' rather than the technical network meaning", "A — similarly misapplies the everyday connotation"]
+    },
+    {
+      "id": "q_rc_002_05",
+      "section": "ela",
+      "category": "ela.reading.authors_purpose",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "stem": "The author most likely organizes the passage by —",
+      "passageId": "passage_rc_002",
+      "options": [
+        {"label": "A", "text": "presenting a chronological history of slime mold research from its discovery to the present"},
+        {"label": "B", "text": "introducing a surprising finding, explaining the science behind it, and then discussing broader applications"},
+        {"label": "C", "text": "comparing and contrasting slime molds with other organisms that solve problems"},
+        {"label": "D", "text": "arguing that slime molds should replace traditional engineering methods"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The passage opens with the striking Tokyo experiment, then explains what slime mold is and how it works, and finally expands to broader applications in computer science and emergency planning. This is a classic 'hook → explanation → implications' structure. A is inaccurate because the passage does not trace a chronological history. C and D do not reflect the actual structure.",
+      "commonMistakes": ["A — while dates are mentioned, the passage is organized by expanding scope, not strict chronology", "D — the passage presents possibilities, not an argument to replace engineering methods"]
+    },
+    {
+      "id": "q_rc_002_06",
+      "section": "ela",
+      "category": "ela.reading.figurative_language",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "stem": "The final sentence of the passage (\"In a world increasingly dependent on complex networks, one of nature's simplest organisms may hold lessons that even the most powerful supercomputers have yet to learn\") primarily serves to —",
+      "passageId": "passage_rc_002",
+      "options": [
+        {"label": "A", "text": "argue that supercomputers are outdated and should be replaced"},
+        {"label": "B", "text": "emphasize the ironic contrast between the organism's simplicity and the complexity of the problems it can address"},
+        {"label": "C", "text": "suggest that scientists have been wasting time studying artificial intelligence"},
+        {"label": "D", "text": "provide a summary of all the experiments described in the passage"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The sentence juxtaposes 'nature's simplest organisms' with 'the most powerful supercomputers,' creating an ironic contrast that reinforces the passage's central surprise — that a brainless organism can solve problems beyond advanced technology. A and C are extreme interpretations. D is inaccurate; the sentence is a thematic conclusion, not a summary of experiments.",
+      "commonMistakes": ["A — mistakes a contrast for an argument; the passage does not call supercomputers outdated", "D — the sentence is a thematic closing, not a factual summary"]
+    },
+    {
+      "id": "q_rc_002_07",
+      "section": "ela",
+      "category": "ela.reading.claim_vs_evidence",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "stem": "Which of the following is a claim made in the passage that is directly supported by specific evidence?",
+      "passageId": "passage_rc_002",
+      "options": [
+        {"label": "A", "text": "Slime mold's strategy offers a model for solving problems that centralized planning struggles with."},
+        {"label": "B", "text": "The organism's solutions frequently matched or improved upon existing infrastructure, as shown by its reproduction of approximately 60 percent of ancient Roman road routes."},
+        {"label": "C", "text": "Physarum polycephalum is the most useful organism for scientific research."},
+        {"label": "D", "text": "Computer scientists will eventually replace all algorithms with biological systems."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The claim that the organism's solutions match existing infrastructure is directly supported by the specific evidence of the 2016 Royal Society study showing 60% reproduction of Roman roads. A is a claim made in the passage but is supported by reasoning rather than a specific data point. C and D are not claims made in the passage at all.",
+      "commonMistakes": ["A — this is a claim in the passage, but it lacks the kind of specific quantitative evidence that supports B", "C — this superlative claim is never made in the passage"]
+    },
+    {
+      "id": "q_rc_003_01",
+      "section": "ela",
+      "category": "ela.reading.main_idea",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "stem": "Which statement best expresses the central theme of the poem?",
+      "passageId": "passage_rc_003",
+      "options": [
+        {"label": "A", "text": "Winter is a destructive force that damages the natural world."},
+        {"label": "B", "text": "Change can feel frightening but ultimately reveals a truer, freer self."},
+        {"label": "C", "text": "Frozen ponds are beautiful but fragile."},
+        {"label": "D", "text": "Nature moves in predictable and comforting cycles."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The poem uses the metaphor of a thawing pond to explore personal transformation. The speaker initially finds comfort in frozen rigidity but comes to understand that the thaw — though 'terrifying' — is not loss but liberation. A misidentifies winter as destructive when the poem frames it as limiting. C is literal. D misses the poem's emphasis on the difficulty and surprise of change.",
+      "commonMistakes": ["C — takes the poem's imagery literally rather than reading it as an extended metaphor", "D — contradicts the poem's depiction of change as surprising and frightening"]
+    },
+    {
+      "id": "q_rc_003_02",
+      "section": "ela",
+      "category": "ela.reading.best_evidence",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "stem": "Which lines from the poem best support the idea that the speaker initially viewed rigidity as positive?",
+      "passageId": "passage_rc_003",
+      "options": [
+        {"label": "A", "text": "\"The first crack was terrifying. / I heard myself split\""},
+        {"label": "B", "text": "\"the cold a kind of clarity / I mistook for strength\""},
+        {"label": "C", "text": "\"The reeds bent and swayed. / The fish rose, silver-sided\""},
+        {"label": "D", "text": "\"the thaw was not a loss / but the first breath\""}
+      ],
+      "correctAnswer": "B",
+      "explanation": "These lines directly state that the speaker perceived the frozen state's 'clarity' as 'strength,' showing a positive (though mistaken) view of rigidity. A describes the moment of change, not the positive view of rigidity. C describes post-thaw imagery. D describes the realization after the thaw.",
+      "commonMistakes": ["A — shows fear of change, not a positive view of rigidity", "D — expresses the poem's conclusion, not the initial perspective"]
+    },
+    {
+      "id": "q_rc_003_03",
+      "section": "ela",
+      "category": "ela.reading.inference",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "stem": "Based on the poem, the speaker most likely views the experience of \"thawing\" as —",
+      "passageId": "passage_rc_003",
+      "options": [
+        {"label": "A", "text": "a painful loss of identity"},
+        {"label": "B", "text": "an unwelcome disruption with no benefit"},
+        {"label": "C", "text": "a necessary and ultimately liberating transformation"},
+        {"label": "D", "text": "a slow, painless return to normal"}
+      ],
+      "correctAnswer": "C",
+      "explanation": "The poem ends with the speaker realizing the thaw 'was not a loss / but the first breath / of what I'd always been,' framing the transformation as liberating. A and B contradict the poem's conclusion. D ignores the 'terrifying' crack and the difficulty described.",
+      "commonMistakes": ["A — the poem explicitly rejects the idea that thawing is a loss", "D — ignores the fear and difficulty the speaker experiences during the process"]
+    },
+    {
+      "id": "q_rc_003_04",
+      "section": "ela",
+      "category": "ela.reading.vocabulary_in_context",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "stem": "In the context of the poem, the phrase \"a softness in the air / like a question asked / in a language I'd forgotten I knew\" most nearly conveys —",
+      "passageId": "passage_rc_003",
+      "options": [
+        {"label": "A", "text": "the speaker's confusion about what is happening in the environment"},
+        {"label": "B", "text": "a vague but deeply familiar stirring that signals the beginning of change"},
+        {"label": "C", "text": "the speaker's inability to communicate with others"},
+        {"label": "D", "text": "a literal shift in wind direction and temperature"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The simile compares the softness to a question in a forgotten language — something unfamiliar on the surface but recognized at a deeper level. This suggests the onset of change felt both strange and instinctively known. A reduces the rich metaphor to simple confusion. C misreads 'language' literally. D ignores the figurative layer entirely.",
+      "commonMistakes": ["A — oversimplifies the metaphor; the speaker is not confused but experiencing recognition", "D — reads the figurative language as purely literal description"]
+    },
+    {
+      "id": "q_rc_003_05",
+      "section": "ela",
+      "category": "ela.reading.authors_purpose",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "stem": "The poet most likely uses the extended metaphor of a frozen pond to —",
+      "passageId": "passage_rc_003",
+      "options": [
+        {"label": "A", "text": "educate the reader about seasonal changes in freshwater ecosystems"},
+        {"label": "B", "text": "represent a state of emotional rigidity and the process of personal growth"},
+        {"label": "C", "text": "argue that people should spend more time observing nature"},
+        {"label": "D", "text": "describe a childhood memory of ice-skating on a pond"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The pond's progression from frozen to flowing parallels a person's movement from emotional rigidity to openness and self-discovery. The poem's closing lines ('what I'd called my shape / was only winter's hand') confirm that the pond represents an internal state. A, C, and D all misread the metaphor as literal or assign purposes not supported by the text.",
+      "commonMistakes": ["A — treats the poem as informational rather than metaphorical", "D — invents a narrative context not present in the poem"]
+    },
+    {
+      "id": "q_rc_003_06",
+      "section": "ela",
+      "category": "ela.reading.figurative_language",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "stem": "In the lines \"what I'd called my shape / was only winter's hand / pressed flat against me,\" the poet uses personification primarily to suggest that —",
+      "passageId": "passage_rc_003",
+      "options": [
+        {"label": "A", "text": "winter is a violent and aggressive season"},
+        {"label": "B", "text": "the speaker's sense of identity was imposed by external forces rather than chosen"},
+        {"label": "C", "text": "the speaker was physically trapped under ice"},
+        {"label": "D", "text": "the cold weather caused the speaker emotional pain"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "By personifying winter as a hand pressing the speaker flat, the poet suggests that the speaker's rigid 'shape' was not inherent but externally imposed. The thaw then represents freedom from that imposed identity. A overstates winter's characterization. C reads the image literally. D introduces emotional pain not specified in these lines.",
+      "commonMistakes": ["A — 'pressed flat' suggests constraint, not violence; the tone is reflective, not angry", "C — takes the metaphor literally rather than reading it as a statement about identity"]
+    },
+    {
+      "id": "q_rc_003_07",
+      "section": "ela",
+      "category": "ela.reading.inference",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "stem": "The lines \"Even the fish held their breath / beneath me, waiting\" most likely suggest that —",
+      "passageId": "passage_rc_003",
+      "options": [
+        {"label": "A", "text": "the fish were dying due to lack of oxygen under the ice"},
+        {"label": "B", "text": "everything in the speaker's world was suspended in stillness, anticipating change"},
+        {"label": "C", "text": "the speaker was worried about the fish surviving the winter"},
+        {"label": "D", "text": "the pond was too shallow to support aquatic life"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "The personification of the fish 'holding their breath' and 'waiting' extends the poem's atmosphere of stillness and anticipation before the thaw. The fish, like the speaker, are poised for transformation. A and D are literal misreadings. C introduces a concern not present in the poem.",
+      "commonMistakes": ["A — reads the figurative language as a literal ecological statement", "C — introduces a worry about the fish that the poem does not express"]
+    }
+  ]
+}
