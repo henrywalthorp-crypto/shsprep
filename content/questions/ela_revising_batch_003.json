@@ -1,0 +1,503 @@
+{
+  "batch": "ela_revising_batch_003",
+  "generated": "2026-02-17",
+  "questionCount": 30,
+  "standalone": [
+    {
+      "id": "ela-re-061",
+      "category": "ela.revising.grammar.subject_verb",
+      "difficulty": "easy",
+      "type": "mc",
+      "stem": "Read this sentence.\n\n\"Neither the coach nor the players *was* prepared for the sudden rainstorm.\"\n\nWhich edit corrects the error in the sentence?",
+      "options": [
+        "Change *was* to *were*",
+        "Change *was* to *is*",
+        "Change *was* to *has been*",
+        "No change needed"
+      ],
+      "correctAnswer": 0,
+      "explanation": "When 'neither...nor' joins a singular and a plural subject, the verb agrees with the subject closest to it. 'Players' is plural, so the verb should be 'were.'",
+      "commonMistakes": ["Students often think the first subject ('coach') controls the verb.", "Some students believe 'neither...nor' always takes a singular verb."]
+    },
+    {
+      "id": "ela-re-062",
+      "category": "ela.revising.grammar.subject_verb",
+      "difficulty": "medium",
+      "type": "mc",
+      "stem": "Read this sentence.\n\n\"The collection of rare stamps *have* attracted attention from dealers around the world.\"\n\nWhich edit corrects the error in the sentence?",
+      "options": [
+        "Change *have* to *has*",
+        "Change *attracted* to *been attracting*",
+        "Change *have attracted* to *were attracting*",
+        "No change needed"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The subject is 'collection,' which is singular. The prepositional phrase 'of rare stamps' does not change the number of the subject. The verb should be 'has.'",
+      "commonMistakes": ["Students often match the verb to 'stamps' instead of the true subject 'collection.'"]
+    },
+    {
+      "id": "ela-re-063",
+      "category": "ela.revising.grammar.misplaced_modifier",
+      "difficulty": "medium",
+      "type": "mc",
+      "stem": "Read this sentence.\n\n\"Covered in chocolate frosting, Marcus couldn't resist the cupcakes on the counter.\"\n\nWhich revision best corrects the misplaced modifier?",
+      "options": [
+        "Marcus couldn't resist the cupcakes covered in chocolate frosting on the counter.",
+        "Marcus, covered in chocolate frosting, couldn't resist the cupcakes on the counter.",
+        "Marcus couldn't resist the cupcakes on the counter covered in chocolate frosting.",
+        "On the counter, Marcus couldn't resist the cupcakes covered in chocolate frosting."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The phrase 'covered in chocolate frosting' should be placed next to 'cupcakes,' which is what it logically modifies. Option A correctly repositions the modifier.",
+      "commonMistakes": ["Students may pick B, thinking it's acceptable to describe Marcus as covered in frosting.", "Option C creates ambiguity about whether the counter is covered in frosting."]
+    },
+    {
+      "id": "ela-re-064",
+      "category": "ela.revising.grammar.misplaced_modifier",
+      "difficulty": "hard",
+      "type": "mc",
+      "stem": "Read this sentence.\n\n\"After practicing for six hours, the piano sonata was finally mastered by Elena.\"\n\nWhich revision best corrects the dangling modifier?",
+      "options": [
+        "After practicing for six hours, Elena finally mastered the piano sonata.",
+        "The piano sonata, after practicing for six hours, was finally mastered by Elena.",
+        "After the piano sonata practiced for six hours, Elena finally mastered it.",
+        "Elena's piano sonata was finally mastered after practicing for six hours."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The introductory phrase 'after practicing for six hours' must be followed by the person who practiced—Elena. Option A places Elena as the subject immediately after the modifier and uses active voice.",
+      "commonMistakes": ["Students may not recognize that a piano sonata cannot practice.", "Option D still leaves the modifier dangling."]
+    },
+    {
+      "id": "ela-re-065",
+      "category": "ela.revising.grammar.comma_splice",
+      "difficulty": "easy",
+      "type": "mc",
+      "stem": "Read this sentence.\n\n\"The library closes at nine o'clock, we need to leave soon.\"\n\nWhich edit best corrects this sentence?",
+      "options": [
+        "The library closes at nine o'clock; we need to leave soon.",
+        "The library closes at nine o'clock we need to leave soon.",
+        "The library closes, at nine o'clock, we need to leave soon.",
+        "The library closes at nine o'clock we, need to leave soon."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The original sentence is a comma splice—two independent clauses joined only by a comma. A semicolon correctly links two related independent clauses.",
+      "commonMistakes": ["Students may not recognize that both parts are complete sentences.", "Option B creates a run-on by removing all punctuation."]
+    },
+    {
+      "id": "ela-re-066",
+      "category": "ela.revising.grammar.comma_splice",
+      "difficulty": "medium",
+      "type": "mc",
+      "stem": "Read this sentence.\n\n\"Tomás wanted to join the debate team he was worried about speaking in front of large crowds.\"\n\nWhich edit best corrects this sentence?",
+      "options": [
+        "Tomás wanted to join the debate team, he was worried about speaking in front of large crowds.",
+        "Tomás wanted to join the debate team, but he was worried about speaking in front of large crowds.",
+        "Tomás wanted to join the debate team he was worried, about speaking in front of large crowds.",
+        "Tomás wanted, to join the debate team he was worried about speaking in front of large crowds."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The original is a run-on sentence (two independent clauses with no punctuation between them). Adding a comma and the coordinating conjunction 'but' correctly joins them and shows the contrast.",
+      "commonMistakes": ["Option A creates a comma splice, which is also incorrect.", "Students may confuse run-ons with comma splices."]
+    },
+    {
+      "id": "ela-re-067",
+      "category": "ela.revising.mechanics.apostrophes",
+      "difficulty": "easy",
+      "type": "mc",
+      "stem": "Read this sentence.\n\n\"The two guitarist's played their solo's flawlessly during the concert.\"\n\nWhich edit corrects all apostrophe errors?",
+      "options": [
+        "The two guitarists played their solos flawlessly during the concert.",
+        "The two guitarist's played their solos flawlessly during the concert.",
+        "The two guitarists played their solo's flawlessly during the concert.",
+        "The two guitarists' played their solos' flawlessly during the concert."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Neither 'guitarists' nor 'solos' is possessive—they are simple plurals. Apostrophes should not be used to form plurals.",
+      "commonMistakes": ["Students frequently add apostrophes to plurals ending in 's.'", "Some students correct one error but not the other."]
+    },
+    {
+      "id": "ela-re-068",
+      "category": "ela.revising.mechanics.apostrophes",
+      "difficulty": "hard",
+      "type": "mc",
+      "stem": "Read this sentence.\n\n\"Its important that the children's coats are hung on they're own hooks before the schools' doors open.\"\n\nWhich version corrects all errors?",
+      "options": [
+        "It's important that the children's coats are hung on their own hooks before the school's doors open.",
+        "Its important that the childrens' coats are hung on their own hooks before the school's doors open.",
+        "It's important that the children's coats are hung on they're own hooks before the schools doors open.",
+        "It's important that the childrens coats are hung on their own hooks before the school's doors open."
+      ],
+      "correctAnswer": 0,
+      "explanation": "'It's' (contraction of 'it is') is needed. 'Children's' is correct because 'children' is already plural, so the apostrophe goes before the 's.' 'Their' is the possessive pronoun (not 'they're'). 'School's' shows possession by one school.",
+      "commonMistakes": ["Confusing its/it's is extremely common.", "Students may think 'childrens'' is correct because the word refers to multiple children.", "'They're' vs 'their' confusion."]
+    },
+    {
+      "id": "ela-re-069",
+      "category": "ela.revising.grammar.pronoun_antecedent",
+      "difficulty": "medium",
+      "type": "mc",
+      "stem": "Read this sentence.\n\n\"Each of the girls on the soccer team must bring their own water bottle to practice.\"\n\nWhich edit corrects the pronoun-antecedent agreement error?",
+      "options": [
+        "Change *their* to *her*",
+        "Change *their* to *its*",
+        "Change *Each* to *All*",
+        "No change needed"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Each' is a singular indefinite pronoun. In formal standard English tested on the SHSAT, the pronoun must agree in number: 'Each...her own water bottle.'",
+      "commonMistakes": ["In everyday speech, 'their' with singular antecedents is common, but formal grammar rules require singular agreement.", "Option C changes the meaning and structure of the sentence."]
+    },
+    {
+      "id": "ela-re-070",
+      "category": "ela.revising.grammar.pronoun_antecedent",
+      "difficulty": "hard",
+      "type": "mc",
+      "stem": "Read this sentence.\n\n\"When a student finishes the exam early, they should review their answers, check that they haven't left any blanks, and turn it in to the proctor.\"\n\nWhich revision corrects the pronoun-antecedent error while maintaining clarity?",
+      "options": [
+        "When a student finishes the exam early, he or she should review the answers, check for blanks, and turn the exam in to the proctor.",
+        "When students finish the exam early, they should review their answers, check that they haven't left any blanks, and turn them in to the proctor.",
+        "When a student finishes the exam early, you should review your answers, check that you haven't left any blanks, and turn it in to the proctor.",
+        "When a student finishes the exam early, we should review our answers, check that we haven't left any blanks, and turn it in to the proctor."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Making the antecedent plural ('students') allows 'they/their/them' to agree naturally. This also fixes 'it' which ambiguously refers to 'exam.' Option A is grammatically correct but option B is more fluid.",
+      "commonMistakes": ["Option C shifts to second person, creating an inconsistent point of view.", "Option D shifts to first person plural inappropriately."]
+    },
+    {
+      "id": "ela-re-071",
+      "category": "ela.revising.style.active_passive",
+      "difficulty": "medium",
+      "type": "mc",
+      "stem": "Read this sentence.\n\n\"The winning goal was scored by Amara in the final minute of the championship game.\"\n\nWhich revision uses active voice to make the sentence more direct?",
+      "options": [
+        "Amara scored the winning goal in the final minute of the championship game.",
+        "In the final minute of the championship game, the winning goal was scored by Amara.",
+        "The winning goal, scored by Amara, came in the final minute of the championship game.",
+        "It was Amara who scored the winning goal in the final minute of the championship game."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Active voice places the doer (Amara) as the subject performing the action (scored). This is more direct and concise than the passive construction.",
+      "commonMistakes": ["Option B just rearranges but keeps passive voice.", "Option D uses a cleft construction which is still less direct than simple active voice."]
+    },
+    {
+      "id": "ela-re-072",
+      "category": "ela.revising.style.active_passive",
+      "difficulty": "medium",
+      "type": "mc",
+      "stem": "Read these sentences.\n\n\"The mural was designed by local artists. Bright colors were chosen to reflect the neighborhood's diversity. The wall was donated by a community business.\"\n\nWhich revision best improves the paragraph by using active voice?",
+      "options": [
+        "Local artists designed the mural, choosing bright colors to reflect the neighborhood's diversity. A community business donated the wall.",
+        "The mural was designed with bright colors that were chosen to reflect diversity, and the wall was donated.",
+        "Designing the mural, local artists had bright colors chosen to reflect the neighborhood's diversity, and the wall was donated by a community business.",
+        "It was local artists who designed the mural, and bright colors were chosen, and a community business donated the wall."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Option A converts all three sentences to active voice, combines related ideas effectively, and maintains clear meaning.",
+      "commonMistakes": ["Option D mixes active and passive awkwardly.", "Option C creates a dangling modifier with 'had bright colors chosen.'"]
+    },
+    {
+      "id": "ela-re-073",
+      "category": "ela.revising.style.sentence_combining",
+      "difficulty": "easy",
+      "type": "mc",
+      "stem": "Read these sentences.\n\n\"The volcano erupted violently. Ash covered the surrounding villages. Residents were forced to evacuate.\"\n\nWhich revision most effectively combines these sentences?",
+      "options": [
+        "When the volcano erupted violently, ash covered the surrounding villages, forcing residents to evacuate.",
+        "The volcano erupted violently and ash covered the surrounding villages and residents were forced to evacuate.",
+        "The volcano erupted violently, ash covered the surrounding villages, residents were forced to evacuate.",
+        "Erupting violently, the surrounding villages were covered in ash and residents were forced to evacuate."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Option A uses subordination ('When') and a participial phrase ('forcing') to show the cause-and-effect relationship clearly and concisely.",
+      "commonMistakes": ["Option B is a run-on with repeated 'and.'", "Option C is a comma splice.", "Option D has a dangling modifier—villages didn't erupt."]
+    },
+    {
+      "id": "ela-re-074",
+      "category": "ela.revising.style.sentence_combining",
+      "difficulty": "hard",
+      "type": "mc",
+      "stem": "Read these sentences.\n\n\"Dr. Mae Jemison was born in 1956. She was the first African American woman in space. She flew aboard the Space Shuttle Endeavour. The mission took place in 1992.\"\n\nWhich revision most effectively combines these sentences?",
+      "options": [
+        "Born in 1956, Dr. Mae Jemison became the first African American woman in space when she flew aboard the Space Shuttle Endeavour in 1992.",
+        "Dr. Mae Jemison was born in 1956 and she was the first African American woman in space and she flew aboard the Space Shuttle Endeavour and the mission took place in 1992.",
+        "Dr. Mae Jemison, who was born in 1956, was the first African American woman in space, and she flew aboard the Space Shuttle Endeavour, and that was in 1992.",
+        "In 1992, Dr. Mae Jemison was born in 1956, and she was the first African American woman in space aboard the Space Shuttle Endeavour."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Option A uses a participial phrase ('Born in 1956') and a subordinate clause ('when she flew') to weave all four facts into one clear, flowing sentence.",
+      "commonMistakes": ["Option B is a stringy sentence with repeated 'and.'", "Option D confuses the chronology by leading with 1992.", "Option C is wordy and repetitive."]
+    },
+    {
+      "id": "ela-re-075",
+      "category": "ela.revising.style.precise_language",
+      "difficulty": "medium",
+      "type": "mc",
+      "stem": "Read this sentence.\n\n\"The thing about the experiment was that it went really bad and stuff happened that the scientists didn't expect.\"\n\nWhich revision replaces vague language with precise language?",
+      "options": [
+        "The experiment produced unexpected results, as the chemical reaction generated twice the predicted amount of heat.",
+        "The thing about the experiment was really surprising because bad things happened.",
+        "The experiment was bad because things went wrong and it was unexpected.",
+        "Something about the experiment went wrong, and the scientists were surprised by the stuff that happened."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Option A eliminates vague words ('thing,' 'stuff,' 'bad,' 'really') and replaces them with specific, descriptive language that tells the reader exactly what happened.",
+      "commonMistakes": ["Students may pick options that still contain vague language like 'things,' 'stuff,' or 'bad.'"]
+    },
+    {
+      "id": "ela-re-076",
+      "category": "ela.revising.style.precise_language",
+      "difficulty": "hard",
+      "type": "mc",
+      "stem": "Read this sentence from a persuasive essay.\n\n\"A lot of people think that schools should do more things to help kids be better at stuff.\"\n\nWhich revision is most appropriate for a formal persuasive essay?",
+      "options": [
+        "Many educators and parents believe that schools should expand academic support programs to improve student achievement.",
+        "A lot of people think that schools need to do better things for kids.",
+        "Tons of folks say schools should totally step up their game to help students out.",
+        "People think schools should improve things for students in a lot of ways."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Option A replaces every vague term with precise language: 'a lot of people' → 'many educators and parents,' 'do more things' → 'expand academic support programs,' 'be better at stuff' → 'improve student achievement.' The tone is formal and appropriate for a persuasive essay.",
+      "commonMistakes": ["Options B and D still contain vague language.", "Option C uses slang ('tons of folks,' 'totally,' 'step up their game') inappropriate for formal writing."]
+    },
+    {
+      "id": "ela-re-077",
+      "category": "ela.revising.organization.transitions",
+      "difficulty": "medium",
+      "type": "mc",
+      "stem": "Read these sentences.\n\n\"Solar panels have become significantly more affordable over the past decade. _______, many homeowners still hesitate to install them because of the high upfront cost.\"\n\nWhich transition best fills the blank?",
+      "options": [
+        "Nevertheless",
+        "Furthermore",
+        "For example",
+        "In addition"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Nevertheless' signals a contrast—even though panels are more affordable, homeowners still hesitate. 'Furthermore,' 'For example,' and 'In addition' all signal continuation or elaboration, not contrast.",
+      "commonMistakes": ["Students may choose 'Furthermore' thinking both sentences add to the same point, but the second sentence presents an opposing idea."]
+    },
+    {
+      "id": "ela-re-078",
+      "category": "ela.revising.organization.transitions",
+      "difficulty": "medium",
+      "type": "mc",
+      "stem": "Read these sentences from an informational essay.\n\n\"The city council approved funding for three new parks. _______, they allocated resources for upgrading existing playground equipment in older neighborhoods.\"\n\nWhich transition best fills the blank?",
+      "options": [
+        "On the other hand",
+        "In contrast",
+        "Additionally",
+        "However"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Additionally' signals that the second action builds on the first—both are positive steps the city council took. The other options signal contrast, which doesn't fit the relationship between these ideas.",
+      "commonMistakes": ["Students may pick 'However' thinking any shift to a new idea requires a contrast word."]
+    },
+    {
+      "id": "ela-re-079",
+      "category": "ela.revising.organization.topic_sentence",
+      "difficulty": "hard",
+      "type": "mc",
+      "stem": "Read this paragraph.\n\n\"_______. The fennec fox, for instance, has oversized ears that radiate heat to keep the animal cool. Camels store fat in their humps, providing energy when food and water are scarce. Even desert plants like cacti have adapted, developing thick waxy skin to minimize water loss.\"\n\nWhich sentence best serves as the topic sentence for this paragraph?",
+      "options": [
+        "Desert organisms have developed remarkable physical adaptations to survive in extreme heat and aridity.",
+        "The desert is a very hot and dry place where many animals and plants live.",
+        "Fennec foxes are one of the most interesting animals found in desert environments.",
+        "There are many different kinds of deserts located around the world."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The paragraph discusses physical adaptations of desert organisms (fox ears, camel humps, cactus skin). Option A introduces this central idea precisely. Option B is too vague, C is too narrow (only about foxes), and D is off-topic.",
+      "commonMistakes": ["Students may pick B because it mentions heat and dryness, but it doesn't introduce the concept of adaptation.", "Option C only covers one example from the paragraph."]
+    },
+    {
+      "id": "ela-re-080",
+      "category": "ela.revising.organization.topic_sentence",
+      "difficulty": "hard",
+      "type": "mc",
+      "stem": "Read this paragraph.\n\n\"_______. First, volunteers sorted donated books by reading level and genre. Next, they cataloged each book in a digital database so patrons could search titles online. Finally, they arranged the shelves using color-coded labels to help young readers find books independently.\"\n\nWhich sentence best serves as the topic sentence?",
+      "options": [
+        "Organizing the community library's children's section required a systematic, multi-step process.",
+        "Volunteers are important members of every community.",
+        "Reading is a valuable skill that children should develop early.",
+        "The community library received a large donation of children's books last month."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The paragraph describes a step-by-step process (sorting, cataloging, arranging) for organizing a library section. Option A directly introduces this multi-step organizational process.",
+      "commonMistakes": ["Option D provides background but doesn't introduce the process the paragraph describes.", "Options B and C are too broad and don't connect to the specific content."]
+    }
+  ],
+  "passageBased": [
+    {
+      "passageId": "passage-005",
+      "passageTitle": "The Rise of Urban Beekeeping",
+      "passage": "(1) Urban beekeeping has experienced a surge in popularity over the past fifteen years. (2) Cities such as New York, London, and Tokyo has relaxed regulations to allow residents to maintain hives on rooftops and in community gardens. (3) Advocates argue that urban hives benefit local ecosystems by boosting pollination rates for flowering plants and vegetable gardens. (4) Keeping bees in a city, however, comes with unique challenges. (5) Noise, pollution, and limited foraging areas can stress colonies. (6) Furthermore beekeepers must educate neighbors who may fear stings or allergic reactions. (7) Despite these obstacles many urban beekeepers report that their hives thrive. (8) The honey produced in cities sometimes even wins awards at agricultural fairs it often has a distinctive floral flavor derived from diverse urban plantings. (9) For city dwellers who wants a meaningful connection to nature, beekeeping offers a surprisingly accessible hobby. (10) Each beekeeper contribute not only to their own well-being but also to the broader health of the urban environment.",
+      "questions": [
+        {
+          "id": "ela-re-081",
+          "category": "ela.revising.grammar.subject_verb",
+          "difficulty": "easy",
+          "type": "mc",
+          "stem": "Which edit corrects the error in sentence 2?",
+          "options": [
+            "Change *has relaxed* to *have relaxed*",
+            "Change *has relaxed* to *is relaxing*",
+            "Change *to allow* to *allowing*",
+            "No change needed"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The compound subject 'Cities such as New York, London, and Tokyo' is plural. The verb must be 'have relaxed' to agree.",
+          "commonMistakes": ["Students may think 'Tokyo' (the nearest noun) controls the verb, but the subject is 'Cities.'"]
+        },
+        {
+          "id": "ela-re-082",
+          "category": "ela.revising.grammar.comma_splice",
+          "difficulty": "medium",
+          "type": "mc",
+          "stem": "Which edit corrects the error in sentence 8?",
+          "options": [
+            "Change the period after *fairs* to a semicolon and make *it* lowercase: *fairs; it*",
+            "Add a semicolon after *fairs*: *fairs; it*",
+            "Add *and* after *fairs*: *fairs, and it*",
+            "No change needed"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Sentence 8 is a run-on—two independent clauses with no punctuation or conjunction between 'fairs' and 'it.' A semicolon correctly separates them.",
+          "commonMistakes": ["Students may not notice the run-on because the sentence reads smoothly aloud."]
+        },
+        {
+          "id": "ela-re-083",
+          "category": "ela.revising.mechanics.apostrophes",
+          "difficulty": "medium",
+          "type": "mc",
+          "stem": "Which edit corrects the punctuation error in sentence 6?",
+          "options": [
+            "Add a comma after *Furthermore*",
+            "Add an apostrophe to *neighbors*: *neighbor's*",
+            "Change *who* to *whom*",
+            "No change needed"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Introductory transitional words like 'Furthermore' should be followed by a comma. The sentence should read 'Furthermore, beekeepers must educate...'",
+          "commonMistakes": ["Students may focus on 'neighbors' and think it needs a possessive apostrophe, but 'neighbors' here is a direct object, not possessive."]
+        },
+        {
+          "id": "ela-re-084",
+          "category": "ela.revising.grammar.subject_verb",
+          "difficulty": "hard",
+          "type": "mc",
+          "stem": "Sentences 9 and 10 both contain errors. Which pair of edits corrects them?",
+          "options": [
+            "Sentence 9: Change *wants* to *want*; Sentence 10: Change *contribute* to *contributes*",
+            "Sentence 9: Change *wants* to *wanting*; Sentence 10: Change *contribute* to *contributing*",
+            "Sentence 9: Change *who* to *whom*; Sentence 10: Change *their* to *its*",
+            "No change needed"
+          ],
+          "correctAnswer": 0,
+          "explanation": "In sentence 9, 'who' refers to 'dwellers' (plural), so the verb is 'want.' In sentence 10, 'Each beekeeper' is singular, requiring 'contributes.'",
+          "commonMistakes": ["Students may think 'each' can take a plural verb.", "The contrast between plural in sentence 9 and singular in sentence 10 is tricky."]
+        },
+        {
+          "id": "ela-re-085",
+          "category": "ela.revising.organization.transitions",
+          "difficulty": "medium",
+          "type": "mc",
+          "stem": "Which revision of sentence 7 best adds an appropriate introductory transition?",
+          "options": [
+            "Despite these obstacles, many urban beekeepers report that their hives thrive.",
+            "In addition to these obstacles, many urban beekeepers report that their hives thrive.",
+            "Because of these obstacles, many urban beekeepers report that their hives thrive.",
+            "No change needed"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The sentence already begins with 'Despite these obstacles' but is missing the comma after the introductory phrase. Option A adds the required comma, making the contrast clear.",
+          "commonMistakes": ["Students may think the original is correct because it has the right transition word, missing the comma error.", "'Because of' would illogically suggest obstacles cause thriving."]
+        }
+      ]
+    },
+    {
+      "passageId": "passage-006",
+      "passageTitle": "Restoring the Monarch Butterfly Migration",
+      "passage": "(1) Every autumn, millions of monarch butterflies embarks on a 3,000-mile migration from Canada to central Mexico. (2) This journey, one of nature's most spectacular events, has been threatened by habitat loss, pesticide use, and climate change. (3) Milkweed, the only plant where monarch caterpillars feed on, has disappeared from much of the American Midwest due to agricultural expansion. (4) Conservation groups have responded by launching milkweed planting campaigns. (5) Thousands of volunteers have planted milkweed in gardens along highways and in vacant lots creating what scientists call \"monarch waystations.\" (6) These waystations provide essential rest stops where migrating butterflies can feed and lay their eggs. (7) The effort has shown promising results. (8) Researchers recorded a twenty percent increase in the monarch population at the Mexican wintering grounds last year, this gave conservationists hope that the decline could be reversed. (9) However, experts warn that sustained commitment is necessary. (10) If funding is cut or public interest fades the monarchs' remarkable migration could once again be in jeopardy.",
+      "questions": [
+        {
+          "id": "ela-re-086",
+          "category": "ela.revising.grammar.subject_verb",
+          "difficulty": "easy",
+          "type": "mc",
+          "stem": "Which edit corrects the error in sentence 1?",
+          "options": [
+            "Change *embarks* to *embark*",
+            "Change *embarks* to *embarking*",
+            "Change *butterflies* to *butterfly's*",
+            "No change needed"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The subject 'millions of monarch butterflies' is plural. The verb should be 'embark' (without the 's').",
+          "commonMistakes": ["Students may be confused by 'millions' and think the subject is singular."]
+        },
+        {
+          "id": "ela-re-087",
+          "category": "ela.revising.grammar.misplaced_modifier",
+          "difficulty": "hard",
+          "type": "mc",
+          "stem": "Which edit corrects the error in sentence 3?",
+          "options": [
+            "Change *where* to *that*",
+            "Change *where* to *which*",
+            "Change *feed on* to *feeds on*",
+            "No change needed"
+          ],
+          "correctAnswer": 0,
+          "explanation": "'Milkweed' is not a place, so 'where' is incorrect. 'That' is the correct relative pronoun for a restrictive clause identifying the plant. 'The only plant that monarch caterpillars feed on.'",
+          "commonMistakes": ["Students often use 'where' for any noun, not just locations.", "Some may choose 'which' but 'that' is preferred for restrictive clauses."]
+        },
+        {
+          "id": "ela-re-088",
+          "category": "ela.revising.grammar.comma_splice",
+          "difficulty": "hard",
+          "type": "mc",
+          "stem": "Which edit corrects the error in sentence 8?",
+          "options": [
+            "Change the comma after *last year* to a semicolon",
+            "Change the comma after *last year* to a period and capitalize *this*",
+            "Change *this gave* to *which gave*",
+            "All of the above would correct the error"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Sentence 8 contains a comma splice. A semicolon (A), a period (B), or a relative pronoun turning the second clause into a dependent clause (C) would all fix it.",
+          "commonMistakes": ["Students may think only one correction method is valid for comma splices.", "Option C is sometimes overlooked—converting to a dependent clause is an elegant fix."]
+        },
+        {
+          "id": "ela-re-089",
+          "category": "ela.revising.style.precise_language",
+          "difficulty": "hard",
+          "type": "mc",
+          "stem": "Read sentence 5.\n\n\"Thousands of volunteers have planted milkweed in gardens along highways and in vacant lots creating what scientists call 'monarch waystations.'\"\n\nWhich revision improves clarity and punctuation?",
+          "options": [
+            "Thousands of volunteers have planted milkweed in gardens, along highways, and in vacant lots, creating what scientists call \"monarch waystations.\"",
+            "Thousands of volunteers have planted milkweed in gardens along highways and in vacant lots, and they created what scientists call \"monarch waystations.\"",
+            "Thousands of volunteers have planted milkweed in gardens along highways and vacant lots creating what scientists call \"monarch waystations.\"",
+            "No change needed"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Option A adds commas to clarify the series of locations (gardens, along highways, and in vacant lots) and places a comma before the participial phrase 'creating...' to separate it from the list.",
+          "commonMistakes": ["Without commas, it's unclear whether 'along highways' modifies 'gardens' or is a separate location.", "The missing comma before 'creating' makes the sentence difficult to parse."]
+        },
+        {
+          "id": "ela-re-090",
+          "category": "ela.revising.mechanics.apostrophes",
+          "difficulty": "hard",
+          "type": "mc",
+          "stem": "Read sentence 10.\n\n\"If funding is cut or public interest fades the monarchs' remarkable migration could once again be in jeopardy.\"\n\nWhich edit corrects the punctuation error while keeping the apostrophe usage correct?",
+          "options": [
+            "Add a comma after *fades*: *fades, the monarchs'*",
+            "Change *monarchs'* to *monarch's*",
+            "Add a comma after *fades* and change *monarchs'* to *monarchs*: *fades, the monarchs*",
+            "No change needed"
+          ],
+          "correctAnswer": 0,
+          "explanation": "A comma is needed after the introductory conditional clause ('If funding is cut or public interest fades'). The apostrophe in 'monarchs'' is correct—it shows possession by plural monarchs (the migration belonging to the monarchs).",
+          "commonMistakes": ["Students may think 'monarchs'' is wrong because the apostrophe comes after the 's,' but it correctly shows plural possession.", "Some may miss the need for a comma after the conditional clause."]
+        }
+      ]
+    }
+  ]
+}

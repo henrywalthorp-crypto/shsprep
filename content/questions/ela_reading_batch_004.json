@@ -1,0 +1,518 @@
+{
+  "batch": "ela_reading_batch_004",
+  "generatedAt": "2026-02-17T01:06:00-05:00",
+  "passages": [
+    {
+      "passageId": "passage-rc-010",
+      "genre": "historical_nonfiction",
+      "title": "The Forgotten Mapmakers of Timbuktu",
+      "text": "Long before European explorers charted the African interior, the scholars of Timbuktu had already produced remarkably detailed maps of trade routes, river systems, and settlements across West Africa. During the fourteenth and fifteenth centuries, Timbuktu was not the remote outpost that later Western narratives would suggest. It was a thriving intellectual capital, home to the University of Sankore, where as many as twenty-five thousand students studied mathematics, astronomy, law, and geography.\n\nThe cartographic tradition of Timbuktu drew on centuries of accumulated knowledge from merchants who traversed the Sahara. Traders arriving from Morocco, Egypt, and the Mediterranean coast shared their observations with local scholars, who synthesized this information into comprehensive geographic texts. Abu Bakr al-Siddiq, a sixteenth-century Timbuktu scholar, produced a manuscript that described the course of the Niger River with an accuracy that European geographers would not match for another three hundred years.\n\nThese maps and geographic texts served practical purposes. Camel caravans carrying gold, salt, and textiles relied on precise knowledge of water sources, mountain passes, and seasonal weather patterns. A miscalculation could mean death in the unforgiving desert. The maps also reflected a sophisticated understanding of scale and proportion, using a grid system that some historians believe was independently developed rather than borrowed from Islamic cartographic traditions farther east.\n\nThe decline of Timbuktu's scholarly tradition began with the Moroccan invasion of 1591. Sultan Ahmad al-Mansur sent an army across the Sahara to seize control of the gold trade, and the resulting occupation devastated the city's intellectual life. Scholars were arrested, libraries were looted, and manuscripts were scattered. Many texts were buried in the desert or hidden in private homes, where they remained for centuries.\n\nToday, efforts to recover and preserve Timbuktu's manuscripts have revealed the extraordinary scope of the city's intellectual heritage. Organizations such as the Timbuktu Manuscripts Project have digitized thousands of texts, including geographic works that challenge the long-held assumption that accurate knowledge of Africa's interior was a European achievement. These documents remind us that the history of exploration and scientific knowledge is far more global and interconnected than traditional accounts have acknowledged.",
+      "wordCount": 338,
+      "questions": [
+        {
+          "id": "ela-rc-064",
+          "passageId": "passage-rc-010",
+          "category": "ela.reading.main_idea",
+          "difficulty": 1,
+          "type": "mc",
+          "stem": "Which statement best expresses the main idea of this passage?",
+          "options": [
+            {"label": "A", "text": "The University of Sankore was one of the largest educational institutions in Africa during the fourteenth century."},
+            {"label": "B", "text": "Timbuktu's scholars produced sophisticated geographic knowledge long before Europeans mapped Africa's interior."},
+            {"label": "C", "text": "The Moroccan invasion of 1591 destroyed most of the manuscripts created in Timbuktu."},
+            {"label": "D", "text": "Modern organizations are working to digitize manuscripts found in Timbuktu."}
+          ],
+          "correctAnswer": "B",
+          "explanation": "The passage's central argument is that Timbuktu scholars created detailed, accurate maps and geographic texts centuries before European explorers charted Africa. The other options describe supporting details, not the overarching idea.",
+          "commonMistakes": ["D — This is discussed only in the final paragraph as a recent development, not the passage's central point.", "C — The invasion is one event in the passage, not its main focus."]
+        },
+        {
+          "id": "ela-rc-065",
+          "passageId": "passage-rc-010",
+          "category": "ela.reading.vocabulary_in_context",
+          "difficulty": 2,
+          "type": "mc",
+          "stem": "As used in paragraph 2, the word \"synthesized\" most nearly means",
+          "options": [
+            {"label": "A", "text": "artificially created"},
+            {"label": "B", "text": "combined into a unified whole"},
+            {"label": "C", "text": "carefully memorized"},
+            {"label": "D", "text": "translated into another language"}
+          ],
+          "correctAnswer": "B",
+          "explanation": "In context, scholars took observations from many different traders and combined them into comprehensive geographic texts. 'Synthesized' here means bringing together separate pieces of information into a coherent whole.",
+          "commonMistakes": ["A — 'Synthesized' can mean 'artificially produced' in chemistry, but in this context it refers to combining information.", "D — While traders came from different regions, the passage does not suggest the issue was one of translation."]
+        },
+        {
+          "id": "ela-rc-066",
+          "passageId": "passage-rc-010",
+          "category": "ela.reading.inference",
+          "difficulty": 2,
+          "type": "mc",
+          "stem": "Based on the passage, it can be inferred that traditional Western accounts of exploration",
+          "options": [
+            {"label": "A", "text": "deliberately suppressed information about Timbuktu's scholars"},
+            {"label": "B", "text": "were primarily based on the work of Moroccan historians"},
+            {"label": "C", "text": "underestimated or overlooked African contributions to geographic knowledge"},
+            {"label": "D", "text": "accurately described the decline of Timbuktu after 1591"}
+          ],
+          "correctAnswer": "C",
+          "explanation": "The passage states that Timbuktu's manuscripts 'challenge the long-held assumption that accurate knowledge of Africa's interior was a European achievement,' implying traditional Western accounts overlooked African contributions.",
+          "commonMistakes": ["A — The passage suggests oversight or ignorance, not deliberate suppression.", "D — The passage does not evaluate the accuracy of Western accounts regarding the city's decline."]
+        },
+        {
+          "id": "ela-rc-067",
+          "passageId": "passage-rc-010",
+          "category": "ela.reading.best_evidence",
+          "difficulty": 2,
+          "type": "mc",
+          "stem": "Which detail from the passage best supports the claim that Timbuktu's geographic knowledge was highly accurate?",
+          "options": [
+            {"label": "A", "text": "As many as twenty-five thousand students studied at the University of Sankore."},
+            {"label": "B", "text": "Traders from Morocco, Egypt, and the Mediterranean shared their observations with local scholars."},
+            {"label": "C", "text": "Abu Bakr al-Siddiq described the Niger River with accuracy Europeans did not match for three hundred years."},
+            {"label": "D", "text": "Organizations have digitized thousands of texts from Timbuktu."}
+          ],
+          "correctAnswer": "C",
+          "explanation": "The specific comparison — that al-Siddiq's description of the Niger River was not matched by European geographers for three centuries — is the strongest direct evidence of the accuracy of Timbuktu's geographic work.",
+          "commonMistakes": ["B — This explains how knowledge was gathered but does not demonstrate its accuracy.", "A — The number of students speaks to the university's size, not the accuracy of its geographic output."]
+        },
+        {
+          "id": "ela-rc-068",
+          "passageId": "passage-rc-010",
+          "category": "ela.reading.text_structure",
+          "difficulty": 2,
+          "type": "mc",
+          "stem": "How is the passage primarily organized?",
+          "options": [
+            {"label": "A", "text": "A problem is identified and several solutions are proposed."},
+            {"label": "B", "text": "A claim is introduced, supported with evidence, and a counterargument is addressed."},
+            {"label": "C", "text": "A topic is introduced, its history and significance are explored, and its modern relevance is discussed."},
+            {"label": "D", "text": "Two competing theories about African cartography are compared and contrasted."}
+          ],
+          "correctAnswer": "C",
+          "explanation": "The passage introduces Timbuktu's cartographic tradition, describes its historical development and decline, and concludes with modern recovery efforts, following a chronological structure that establishes the topic's significance.",
+          "commonMistakes": ["B — While the passage does support claims with evidence, it does not present or refute a specific counterargument.", "D — The passage does not present competing theories."]
+        },
+        {
+          "id": "ela-rc-069",
+          "passageId": "passage-rc-010",
+          "category": "ela.reading.authors_purpose",
+          "difficulty": 1,
+          "type": "mc",
+          "stem": "The author most likely wrote this passage in order to",
+          "options": [
+            {"label": "A", "text": "criticize European explorers for stealing African knowledge"},
+            {"label": "B", "text": "inform readers about an overlooked tradition of African scholarship"},
+            {"label": "C", "text": "persuade readers to donate to manuscript preservation organizations"},
+            {"label": "D", "text": "entertain readers with stories about Saharan trade routes"}
+          ],
+          "correctAnswer": "B",
+          "explanation": "The passage's primary purpose is informational: it aims to educate readers about Timbuktu's cartographic achievements, which are described as underrepresented in traditional historical accounts.",
+          "commonMistakes": ["A — The passage does not accuse Europeans of theft; it simply notes that their accounts overlooked African contributions.", "C — While preservation efforts are mentioned, the passage does not make a fundraising appeal."]
+        },
+        {
+          "id": "ela-rc-070",
+          "passageId": "passage-rc-010",
+          "category": "ela.reading.tone_mood",
+          "difficulty": 3,
+          "type": "mc",
+          "stem": "Which word best describes the author's tone when discussing the Moroccan invasion of 1591?",
+          "options": [
+            {"label": "A", "text": "indifferent"},
+            {"label": "B", "text": "sarcastic"},
+            {"label": "C", "text": "somber"},
+            {"label": "D", "text": "outraged"}
+          ],
+          "correctAnswer": "C",
+          "explanation": "The author describes the invasion's consequences — arrests, looting, scattering of manuscripts — in a serious, regretful tone. Words like 'devastated' convey gravity without the intense emotion of outrage.",
+          "commonMistakes": ["D — While the events are negative, the author's tone is measured and factual, not angry.", "A — The detailed description of losses suggests the author cares about the impact."]
+        }
+      ]
+    },
+    {
+      "passageId": "passage-rc-011",
+      "genre": "science_nature_essay",
+      "title": "The Hidden Intelligence of Slime Molds",
+      "text": "When scientists at Hokkaido University placed a slime mold called Physarum polycephalum in a maze with oat flakes at the entrance and exit, something remarkable happened. Within hours, the organism had extended its tendrils through the maze, explored dead ends, and then retracted from them, ultimately forming a single efficient path between the two food sources. The slime mold had solved the maze — without a brain, without neurons, without anything resembling a nervous system.\n\nPhysarum polycephalum is not a plant, an animal, or a fungus. It belongs to a group of organisms called myxomycetes, sometimes classified within the kingdom Protista. In its active phase, it exists as a plasmodium — a single enormous cell containing millions of nuclei, spreading across surfaces like a bright yellow web. It moves by pulsing cytoplasm through its network of tube-like veins, advancing toward food and retreating from light and dry conditions.\n\nWhat fascinates researchers is that this brainless organism exhibits behaviors typically associated with intelligence. In experiments, Physarum has been shown to find the shortest path between multiple food sources, effectively recreating efficient networks. In one celebrated study, researchers placed oat flakes in positions corresponding to major cities around Tokyo, and the slime mold produced a network strikingly similar to the actual Tokyo rail system — a system designed by teams of engineers over decades.\n\nThe slime mold accomplishes this through a form of distributed decision-making. As it explores, it reinforces tubes that carry more nutrients and allows less productive tubes to shrink. This positive feedback loop — remarkably similar to algorithms used in computer science — enables the organism to optimize its network without any central coordination.\n\nThese findings have prompted scientists to reconsider what intelligence means. Traditional definitions require a brain or at least a nervous system, but Physarum demonstrates that complex problem-solving can emerge from simple biological rules applied across a decentralized network. Some researchers now use the term \"basal cognition\" to describe this capacity, suggesting that the roots of intelligent behavior may extend far deeper into the tree of life than previously imagined. The slime mold challenges us to ask whether intelligence is truly the product of brains — or whether brains are simply one elegant solution to a much older biological challenge.",
+      "wordCount": 348,
+      "questions": [
+        {
+          "id": "ela-rc-071",
+          "passageId": "passage-rc-011",
+          "category": "ela.reading.main_idea",
+          "difficulty": 1,
+          "type": "mc",
+          "stem": "What is the central idea of the passage?",
+          "options": [
+            {"label": "A", "text": "Slime molds are unusual organisms that do not fit neatly into any biological kingdom."},
+            {"label": "B", "text": "A brainless organism demonstrates complex problem-solving, challenging traditional definitions of intelligence."},
+            {"label": "C", "text": "Japanese scientists have conducted groundbreaking experiments on organisms found in nature."},
+            {"label": "D", "text": "Computer algorithms are modeled after biological processes found in simple organisms."}
+          ],
+          "correctAnswer": "B",
+          "explanation": "The passage uses the slime mold's maze-solving and network-building abilities to argue that intelligence may not require a brain, which is the central idea threading through all paragraphs.",
+          "commonMistakes": ["A — Classification is mentioned briefly but is not the passage's focus.", "D — The passage notes a similarity to algorithms but does not claim algorithms were modeled on slime molds."]
+        },
+        {
+          "id": "ela-rc-072",
+          "passageId": "passage-rc-011",
+          "category": "ela.reading.vocabulary_in_context",
+          "difficulty": 2,
+          "type": "mc",
+          "stem": "As used in paragraph 4, the word \"distributed\" most nearly means",
+          "options": [
+            {"label": "A", "text": "handed out to many recipients"},
+            {"label": "B", "text": "spread across the entire organism rather than located in one place"},
+            {"label": "C", "text": "divided into equal portions"},
+            {"label": "D", "text": "published and made widely available"}
+          ],
+          "correctAnswer": "B",
+          "explanation": "In the phrase 'distributed decision-making,' the word means that the process is spread throughout the organism's network rather than controlled by a single central point, as emphasized by 'without any central coordination.'",
+          "commonMistakes": ["A — This is a common meaning of 'distributed' but does not fit the context of decision-making within an organism.", "C — The passage is not describing equal division but rather a decentralized process."]
+        },
+        {
+          "id": "ela-rc-073",
+          "passageId": "passage-rc-011",
+          "category": "ela.reading.inference",
+          "difficulty": 3,
+          "type": "mc",
+          "stem": "The passage suggests that the Tokyo rail experiment was particularly significant because it showed that",
+          "options": [
+            {"label": "A", "text": "slime molds could be used to replace human engineers in designing transit systems"},
+            {"label": "B", "text": "a single-celled organism could arrive at a solution comparable to one produced by expert human planning"},
+            {"label": "C", "text": "the Tokyo rail system was poorly designed and could be improved by biological models"},
+            {"label": "D", "text": "oat flakes are the ideal food source for studying slime mold behavior"}
+          ],
+          "correctAnswer": "B",
+          "explanation": "The passage emphasizes that the slime mold's network was 'strikingly similar' to the rail system 'designed by teams of engineers over decades,' highlighting that a brainless organism matched sophisticated human engineering.",
+          "commonMistakes": ["A — The passage does not suggest slime molds should replace engineers; it uses the comparison to illustrate the organism's capabilities.", "C — The similarity to the slime mold's network suggests the rail system is efficient, not poorly designed."]
+        },
+        {
+          "id": "ela-rc-074",
+          "passageId": "passage-rc-011",
+          "category": "ela.reading.claim_evidence",
+          "difficulty": 2,
+          "type": "mc",
+          "stem": "Which claim does the maze experiment described in paragraph 1 most directly support?",
+          "options": [
+            {"label": "A", "text": "Slime molds prefer oat flakes over other food sources."},
+            {"label": "B", "text": "Organisms without nervous systems can solve problems that seem to require intelligence."},
+            {"label": "C", "text": "Mazes are the best method for testing intelligence in simple organisms."},
+            {"label": "D", "text": "Physarum polycephalum moves faster than most other single-celled organisms."}
+          ],
+          "correctAnswer": "B",
+          "explanation": "The maze experiment demonstrates that Physarum solved a spatial problem — finding an efficient path — without a brain or nervous system, directly supporting the passage's broader claim about intelligence without brains.",
+          "commonMistakes": ["A — Oat flakes were used in the experiment, but the passage makes no claim about the organism's food preferences.", "C — The passage does not evaluate maze experiments as a testing method."]
+        },
+        {
+          "id": "ela-rc-075",
+          "passageId": "passage-rc-011",
+          "category": "ela.reading.authors_purpose",
+          "difficulty": 2,
+          "type": "mc",
+          "stem": "Why does the author include the detail that the slime mold has 'no brain, no neurons, no nervous system'?",
+          "options": [
+            {"label": "A", "text": "To explain why slime molds are classified as protists rather than animals"},
+            {"label": "B", "text": "To emphasize how surprising it is that the organism can solve complex problems"},
+            {"label": "C", "text": "To argue that slime molds are less advanced than other single-celled organisms"},
+            {"label": "D", "text": "To provide a scientific definition of Physarum polycephalum"}
+          ],
+          "correctAnswer": "B",
+          "explanation": "By stressing the absence of any neural structure, the author heightens the contrast between the organism's simplicity and its problem-solving ability, making the achievement more striking for the reader.",
+          "commonMistakes": ["A — Classification is discussed in the next paragraph; this detail serves a rhetorical purpose, not a taxonomic one.", "D — The detail is selective and dramatic, not a comprehensive definition."]
+        },
+        {
+          "id": "ela-rc-076",
+          "passageId": "passage-rc-011",
+          "category": "ela.reading.text_structure",
+          "difficulty": 3,
+          "type": "mc",
+          "stem": "What role does the final paragraph play in the structure of the passage?",
+          "options": [
+            {"label": "A", "text": "It introduces a new experiment that contradicts earlier findings."},
+            {"label": "B", "text": "It broadens the discussion from specific experiments to their wider implications for understanding intelligence."},
+            {"label": "C", "text": "It summarizes each experiment discussed in the passage."},
+            {"label": "D", "text": "It shifts the focus from slime molds to other organisms that display basal cognition."}
+          ],
+          "correctAnswer": "B",
+          "explanation": "The final paragraph moves beyond the specific experiments to discuss what they mean for our understanding of intelligence, introducing the concept of 'basal cognition' and posing a broader philosophical question.",
+          "commonMistakes": ["C — The final paragraph does not summarize the experiments; it draws larger conclusions from them.", "D — Other organisms are implied but not discussed; the focus remains on what the slime mold findings mean."]
+        },
+        {
+          "id": "ela-rc-077",
+          "passageId": "passage-rc-011",
+          "category": "ela.reading.tone_mood",
+          "difficulty": 1,
+          "type": "mc",
+          "stem": "The author's overall tone in this passage is best described as",
+          "options": [
+            {"label": "A", "text": "skeptical and dismissive"},
+            {"label": "B", "text": "curious and admiring"},
+            {"label": "C", "text": "neutral and detached"},
+            {"label": "D", "text": "humorous and lighthearted"}
+          ],
+          "correctAnswer": "B",
+          "explanation": "Words like 'remarkable,' 'fascinates,' and 'celebrated' convey genuine interest and admiration for the slime mold's abilities, while the passage maintains a scientific but enthusiastic tone throughout.",
+          "commonMistakes": ["C — While the passage is informational, words like 'remarkable' and 'fascinates' show more engagement than neutral detachment.", "A — The author presents the findings positively, not with skepticism."]
+        }
+      ]
+    },
+    {
+      "passageId": "passage-rc-012",
+      "genre": "memoir_personal_narrative",
+      "title": "The Language Between Us",
+      "text": "My grandmother spoke to me in Cantonese, and I answered in English. This was the architecture of our relationship — two languages meeting in the middle of a small kitchen in Sunset Park, Brooklyn, where she rolled out dumpling skins on a flour-dusted table and I sat on a stepstool pretending to do homework.\n\nShe understood more English than she let on. I knew this because she would laugh at jokes on the television before the punchline was translated on the Chinese subtitles, and because she once corrected my spelling of the word \"restaurant\" on a school assignment, tapping the paper with a flour-covered finger. But she refused to speak it. English, she told me once — in Cantonese, of course — was a language for the outside. Cantonese was for family.\n\nI understood more Cantonese than I let on, too. I could follow her stories about growing up in Guangdong, about the boat that brought her to San Francisco in 1962, about the three jobs she worked simultaneously in Chinatown garment factories. But I withheld my fluency the way she withheld hers, out of some unspoken agreement that our languages would remain parallel lines, close but never quite converging.\n\nIt was not until she became ill that I realized what this arrangement had cost us. In the hospital, surrounded by English-speaking doctors and nurses, she became someone I barely recognized — quiet, diminished, nodding at questions I suspected she did not fully understand. I stepped in as translator, and for the first time, I spoke to her entirely in Cantonese. The words came out clumsy and accented, and she smiled at my tones the way she used to smile at my childhood drawings — with love and amusement in equal measure.\n\nIn those final months, we abandoned our old pattern. I spoke Cantonese badly, and she forgave every mangled tone. She spoke fragments of English — \"good morning,\" \"thank you,\" \"I'm okay\" — and I pretended not to notice how much effort each phrase cost her. We had spent years performing a kind of linguistic stubbornness, each of us guarding our own tongue. It took illness to teach us that language is not a wall. It is a door, and we had both been standing on the same side of it all along, too proud to reach for the handle.",
+      "wordCount": 373,
+      "questions": [
+        {
+          "id": "ela-rc-078",
+          "passageId": "passage-rc-012",
+          "category": "ela.reading.main_idea",
+          "difficulty": 2,
+          "type": "mc",
+          "stem": "Which statement best captures the central theme of this passage?",
+          "options": [
+            {"label": "A", "text": "Learning a second language is essential for maintaining family connections across generations."},
+            {"label": "B", "text": "The narrator and her grandmother used language as a barrier that they eventually learned to overcome."},
+            {"label": "C", "text": "Immigrants face significant challenges when navigating English-speaking medical systems."},
+            {"label": "D", "text": "Cantonese is a difficult language for English speakers to learn because of its tonal system."}
+          ],
+          "correctAnswer": "B",
+          "explanation": "The passage traces how the narrator and grandmother each concealed their ability in the other's language, creating an unnecessary divide that they bridged only when illness forced genuine communication. The final metaphor of the door reinforces this theme.",
+          "commonMistakes": ["A — The passage is not about learning a language but about the choice to withhold fluency.", "C — The hospital scene illustrates the larger theme but is not the passage's central focus."]
+        },
+        {
+          "id": "ela-rc-079",
+          "passageId": "passage-rc-012",
+          "category": "ela.reading.inference",
+          "difficulty": 2,
+          "type": "mc",
+          "stem": "Why did the grandmother most likely refuse to speak English at home?",
+          "options": [
+            {"label": "A", "text": "She was unable to speak any English at all."},
+            {"label": "B", "text": "She associated Cantonese with family intimacy and cultural identity."},
+            {"label": "C", "text": "She wanted to force the narrator to become fluent in Cantonese."},
+            {"label": "D", "text": "She was embarrassed by her English accent."}
+          ],
+          "correctAnswer": "B",
+          "explanation": "The grandmother explicitly stated that 'English was a language for the outside' and 'Cantonese was for family,' indicating she saw her native language as tied to family bonds and identity rather than lacking ability in English.",
+          "commonMistakes": ["A — The passage provides clear evidence she understood English well, including correcting spelling.", "C — The passage does not suggest she had a deliberate teaching motive."]
+        },
+        {
+          "id": "ela-rc-080",
+          "passageId": "passage-rc-012",
+          "category": "ela.reading.vocabulary_in_context",
+          "difficulty": 3,
+          "type": "mc",
+          "stem": "In paragraph 3, the phrase \"parallel lines, close but never quite converging\" is used to suggest that",
+          "options": [
+            {"label": "A", "text": "the narrator and grandmother lived in separate homes but visited each other often"},
+            {"label": "B", "text": "their two languages existed side by side without fully meeting"},
+            {"label": "C", "text": "Cantonese and English are structurally similar languages"},
+            {"label": "D", "text": "the narrator was studying geometry alongside language"}
+          ],
+          "correctAnswer": "B",
+          "explanation": "The geometric metaphor of parallel lines describes how both speaker and listener understood the other's language but chose not to use it, keeping their communication close but never fully unified.",
+          "commonMistakes": ["A — The metaphor describes their linguistic relationship, not their living situation.", "C — The passage makes no claims about structural similarities between the languages."]
+        },
+        {
+          "id": "ela-rc-081",
+          "passageId": "passage-rc-012",
+          "category": "ela.reading.best_evidence",
+          "difficulty": 2,
+          "type": "mc",
+          "stem": "Which detail best supports the idea that the grandmother understood English well?",
+          "options": [
+            {"label": "A", "text": "She told stories about growing up in Guangdong province."},
+            {"label": "B", "text": "She worked three jobs simultaneously in Chinatown garment factories."},
+            {"label": "C", "text": "She corrected the narrator's spelling of 'restaurant' on a school assignment."},
+            {"label": "D", "text": "She spoke fragments of English in the hospital during her illness."}
+          ],
+          "correctAnswer": "C",
+          "explanation": "Correcting an English spelling mistake requires strong knowledge of written English, providing the most direct evidence that the grandmother's English comprehension was greater than she typically revealed.",
+          "commonMistakes": ["D — Speaking fragments of English in the hospital shows some ability but is described as effortful, making it weaker evidence of strong comprehension.", "B — Working in garment factories does not directly demonstrate English comprehension."]
+        },
+        {
+          "id": "ela-rc-082",
+          "passageId": "passage-rc-012",
+          "category": "ela.reading.authors_purpose",
+          "difficulty": 3,
+          "type": "mc",
+          "stem": "The author compares her grandmother's reaction to her Cantonese to her reaction to childhood drawings most likely in order to",
+          "options": [
+            {"label": "A", "text": "show that the grandmother was critical of imperfect work"},
+            {"label": "B", "text": "suggest that the narrator's Cantonese was incomprehensible"},
+            {"label": "C", "text": "convey that the grandmother responded with affectionate acceptance despite imperfections"},
+            {"label": "D", "text": "demonstrate that the narrator had always been a poor student"}
+          ],
+          "correctAnswer": "C",
+          "explanation": "The comparison to childhood drawings — received 'with love and amusement in equal measure' — shows the grandmother's gentle, accepting response to the narrator's imperfect Cantonese, emphasizing warmth over judgment.",
+          "commonMistakes": ["A — 'Love and amusement' suggest affection, not criticism.", "B — The narrator says the words were 'clumsy and accented,' not incomprehensible, and the grandmother clearly understood."]
+        },
+        {
+          "id": "ela-rc-083",
+          "passageId": "passage-rc-012",
+          "category": "ela.reading.tone_mood",
+          "difficulty": 1,
+          "type": "mc",
+          "stem": "The overall mood of the passage can best be described as",
+          "options": [
+            {"label": "A", "text": "bitter and resentful"},
+            {"label": "B", "text": "reflective and bittersweet"},
+            {"label": "C", "text": "cheerful and nostalgic"},
+            {"label": "D", "text": "anxious and uncertain"}
+          ],
+          "correctAnswer": "B",
+          "explanation": "The narrator looks back on her relationship with her grandmother with a mix of warmth and regret — appreciating what they eventually shared but aware of what was lost through years of 'linguistic stubbornness.' This combination of fondness and sadness creates a bittersweet mood.",
+          "commonMistakes": ["C — While there are warm moments, the grandmother's illness and the narrator's regret prevent the mood from being simply cheerful.", "A — The narrator expresses regret but not bitterness or resentment toward her grandmother."]
+        },
+        {
+          "id": "ela-rc-084",
+          "passageId": "passage-rc-012",
+          "category": "ela.reading.text_structure",
+          "difficulty": 2,
+          "type": "mc",
+          "stem": "The passage is primarily structured as",
+          "options": [
+            {"label": "A", "text": "a comparison of two different cultures' approaches to language"},
+            {"label": "B", "text": "a chronological narrative that moves from past habits to a turning point and resolution"},
+            {"label": "C", "text": "an argument for bilingual education in immigrant families"},
+            {"label": "D", "text": "a series of unrelated anecdotes about the narrator's childhood"}
+          ],
+          "correctAnswer": "B",
+          "explanation": "The passage moves chronologically from the established pattern of the narrator's childhood (separate languages), through the turning point (the grandmother's illness), to the resolution (both crossing their linguistic boundaries), following a narrative arc.",
+          "commonMistakes": ["A — While two languages are central, the passage is a personal narrative, not a cultural comparison.", "D — The anecdotes are clearly connected, building toward the passage's central theme."]
+        }
+      ]
+    },
+    {
+      "passageId": "passage-rc-013",
+      "genre": "persuasive_argumentative",
+      "title": "The Case for Later School Start Times",
+      "text": "Every weekday morning, millions of American teenagers drag themselves out of bed before dawn to arrive at schools that open as early as 7:15 a.m. They sit through first-period classes in a fog of exhaustion, struggling to absorb information that their sleep-deprived brains are poorly equipped to process. This is not laziness. It is biology, and it is time for school schedules to reflect what science has made overwhelmingly clear: teenagers need more sleep, and they need it later in the morning.\n\nThe evidence is rooted in adolescent neuroscience. During puberty, the brain undergoes a shift in its circadian rhythm — the internal clock that regulates sleep and wakefulness. Melatonin, the hormone that signals sleepiness, is released approximately two hours later in teenagers than in adults or younger children. This means that a typical adolescent does not begin to feel genuinely sleepy until around 11:00 p.m. and is not biologically prepared to wake up until 8:00 a.m. or later. Asking a teenager to be alert at 7:15 a.m. is the neurological equivalent of asking an adult to perform at 5:00 a.m.\n\nCritics of later start times often cite logistical challenges: bus schedules, after-school sports, and working parents who need children out of the house early. These concerns are legitimate but not insurmountable. Districts that have adopted later start times — including Seattle, California's statewide mandate, and numerous schools across Minnesota — have found workable solutions. In Seattle, when high schools shifted their start time from 7:50 to 8:45 a.m., students gained an average of thirty-four additional minutes of sleep per night, and tardiness and absences both declined.\n\nThe costs of inaction are far more troubling than the inconveniences of adjustment. Chronic sleep deprivation in teenagers has been linked to increased rates of depression, anxiety, obesity, and automobile accidents. The Centers for Disease Control and Prevention has called insufficient sleep among adolescents a public health epidemic. When we force teenagers into schedules that contradict their biology, we are not building discipline or character. We are undermining their health, their safety, and their capacity to learn.\n\nSchool schedules were designed around agrarian calendars and adult work patterns, not around the developmental needs of students. It is time to update them. The science is settled, the models exist, and the benefits are proven. The only thing standing in the way is institutional inertia — and our students deserve better than that.",
+      "wordCount": 376,
+      "questions": [
+        {
+          "id": "ela-rc-085",
+          "passageId": "passage-rc-013",
+          "category": "ela.reading.main_idea",
+          "difficulty": 1,
+          "type": "mc",
+          "stem": "What is the author's main argument in this passage?",
+          "options": [
+            {"label": "A", "text": "Teenagers are naturally lazy and need external motivation to wake up early."},
+            {"label": "B", "text": "School start times should be moved later to align with adolescents' biological sleep needs."},
+            {"label": "C", "text": "The American education system should adopt an entirely new calendar based on scientific research."},
+            {"label": "D", "text": "Bus schedules and after-school sports are the primary obstacles to educational reform."}
+          ],
+          "correctAnswer": "B",
+          "explanation": "The passage argues consistently that school start times should be later because adolescent biology requires later sleep and wake times, supporting this with neuroscience, real-world examples, and health data.",
+          "commonMistakes": ["A — The passage explicitly rejects the idea that teenage sleepiness is laziness, calling it 'biology.'", "D — Logistical issues are acknowledged but described as manageable, not as the passage's focus."]
+        },
+        {
+          "id": "ela-rc-086",
+          "passageId": "passage-rc-013",
+          "category": "ela.reading.claim_evidence",
+          "difficulty": 2,
+          "type": "mc",
+          "stem": "The author includes the Seattle example primarily to",
+          "options": [
+            {"label": "A", "text": "prove that all American schools should follow Seattle's exact schedule"},
+            {"label": "B", "text": "demonstrate that later start times produce measurable positive results"},
+            {"label": "C", "text": "argue that Seattle has the best public school system in the country"},
+            {"label": "D", "text": "show that students in Seattle are more disciplined than students elsewhere"}
+          ],
+          "correctAnswer": "B",
+          "explanation": "The Seattle data — thirty-four additional minutes of sleep, reduced tardiness and absences — serves as concrete evidence that shifting start times later leads to measurable improvements, countering the argument that such changes are impractical.",
+          "commonMistakes": ["A — The author uses Seattle as one example among several, not as a universal prescription.", "D — The passage attributes improvements to schedule changes, not student discipline."]
+        },
+        {
+          "id": "ela-rc-087",
+          "passageId": "passage-rc-013",
+          "category": "ela.reading.vocabulary_in_context",
+          "difficulty": 2,
+          "type": "mc",
+          "stem": "As used in the final paragraph, the phrase \"institutional inertia\" most nearly means",
+          "options": [
+            {"label": "A", "text": "the physical exhaustion experienced by school administrators"},
+            {"label": "B", "text": "the tendency of established systems to resist change"},
+            {"label": "C", "text": "a scientific principle related to sleep patterns"},
+            {"label": "D", "text": "the declining quality of American schools"}
+          ],
+          "correctAnswer": "B",
+          "explanation": "In this context, 'institutional inertia' refers to the resistance of school systems to change their long-established schedules, even when evidence supports doing so. The author presents it as the final obstacle.",
+          "commonMistakes": ["A — 'Inertia' here is metaphorical, referring to organizational resistance, not physical tiredness.", "C — While the passage discusses science, this phrase refers to organizational behavior, not a scientific principle."]
+        },
+        {
+          "id": "ela-rc-088",
+          "passageId": "passage-rc-013",
+          "category": "ela.reading.inference",
+          "difficulty": 3,
+          "type": "mc",
+          "stem": "Based on the passage, the author would most likely agree with which of the following statements?",
+          "options": [
+            {"label": "A", "text": "Parents should allow teenagers to set their own bedtimes without any restrictions."},
+            {"label": "B", "text": "Athletic programs are less important than academic performance."},
+            {"label": "C", "text": "Policies affecting young people should be informed by developmental science."},
+            {"label": "D", "text": "Schools should eliminate early morning classes entirely and begin after noon."}
+          ],
+          "correctAnswer": "C",
+          "explanation": "The passage's core argument is that school schedules should be based on adolescent neuroscience rather than tradition or convenience, reflecting a broader principle that policies for young people should follow developmental science.",
+          "commonMistakes": ["D — The author advocates for moderately later start times (around 8:45 a.m.), not afternoon starts.", "A — The passage focuses on school policy, not parental rules about bedtimes."]
+        },
+        {
+          "id": "ela-rc-089",
+          "passageId": "passage-rc-013",
+          "category": "ela.reading.authors_purpose",
+          "difficulty": 1,
+          "type": "mc",
+          "stem": "The author mentions the CDC calling insufficient sleep 'a public health epidemic' most likely in order to",
+          "options": [
+            {"label": "A", "text": "suggest that the CDC should take over school scheduling decisions"},
+            {"label": "B", "text": "add authoritative weight to the argument that the problem is serious"},
+            {"label": "C", "text": "explain the scientific process behind sleep research"},
+            {"label": "D", "text": "shift the blame from schools to public health officials"}
+          ],
+          "correctAnswer": "B",
+          "explanation": "Citing the CDC — a respected national health authority — lends credibility and urgency to the author's claim that teen sleep deprivation is a serious problem requiring action.",
+          "commonMistakes": ["A — The author is not proposing CDC involvement in scheduling but using the CDC's language to emphasize severity.", "D — The passage blames school schedules, not health officials."]
+        },
+        {
+          "id": "ela-rc-090",
+          "passageId": "passage-rc-013",
+          "category": "ela.reading.tone_mood",
+          "difficulty": 2,
+          "type": "mc",
+          "stem": "Which word best describes the author's tone throughout the passage?",
+          "options": [
+            {"label": "A", "text": "impartial"},
+            {"label": "B", "text": "urgent"},
+            {"label": "C", "text": "humorous"},
+            {"label": "D", "text": "nostalgic"}
+          ],
+          "correctAnswer": "B",
+          "explanation": "The author uses strong language ('overwhelming,' 'public health epidemic,' 'our students deserve better') and a direct, persuasive style that conveys urgency throughout the passage.",
+          "commonMistakes": ["A — The author clearly takes a position and advocates for change, which is not impartial.", "C — The passage deals with health and education concerns in a serious manner."]
+        },
+        {
+          "id": "ela-rc-091",
+          "passageId": "passage-rc-013",
+          "category": "ela.reading.text_structure",
+          "difficulty": 3,
+          "type": "mc",
+          "stem": "How does paragraph 3 function within the overall argument?",
+          "options": [
+            {"label": "A", "text": "It introduces the author's main claim for the first time."},
+            {"label": "B", "text": "It acknowledges counterarguments and refutes them with real-world examples."},
+            {"label": "C", "text": "It provides the scientific evidence that forms the basis of the argument."},
+            {"label": "D", "text": "It summarizes the passage's key points and restates the thesis."}
+          ],
+          "correctAnswer": "B",
+          "explanation": "Paragraph 3 addresses the most common objections to later start times (bus schedules, sports, working parents), calls them 'legitimate but not insurmountable,' and provides examples of districts that have successfully made the change — a classic counterargument-and-rebuttal structure.",
+          "commonMistakes": ["C — The scientific evidence is presented in paragraph 2, not paragraph 3.", "A — The main claim is introduced in paragraph 1."]
+        }
+      ]
+    }
+  ]
+}

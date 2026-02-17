@@ -1,0 +1,347 @@
+{
+  "batch": "ela_revising_batch_004",
+  "generated": "2026-02-17",
+  "questionCount": 20,
+  "standalone": [
+    {
+      "id": "ela-re-091",
+      "category": "ela.revising.punctuation.semicolons_in_lists",
+      "difficulty": "easy",
+      "type": "mc",
+      "stem": "Read this sentence.\n\n\"The debate team traveled to Austin, Texas, Portland, Oregon, and Reno, Nevada.\"\n\nWhich revision correctly punctuates the list?",
+      "options": [
+        "The debate team traveled to Austin, Texas; Portland, Oregon; and Reno, Nevada.",
+        "The debate team traveled to Austin Texas, Portland Oregon, and Reno Nevada.",
+        "The debate team traveled to Austin, Texas: Portland, Oregon: and Reno, Nevada.",
+        "No change needed."
+      ],
+      "correctAnswer": 0,
+      "explanation": "When items in a list already contain commas (as with city-state pairs), semicolons must be used to separate the items so readers can distinguish between the internal commas and the list separators.",
+      "commonMistakes": ["Students may think the original sentence is correct because it uses commas throughout.", "Some students confuse colons with semicolons as list separators."]
+    },
+    {
+      "id": "ela-re-092",
+      "category": "ela.revising.punctuation.colon_usage",
+      "difficulty": "easy",
+      "type": "mc",
+      "stem": "Read this sentence.\n\n\"Mara packed everything she needed, a sleeping bag, a flashlight, and a water bottle.\"\n\nWhich edit best corrects the punctuation in this sentence?",
+      "options": [
+        "Change the comma after *needed* to a colon.",
+        "Change the comma after *needed* to a semicolon.",
+        "Add *which included* after the comma.",
+        "No change needed."
+      ],
+      "correctAnswer": 0,
+      "explanation": "A colon is used after an independent clause to introduce a list. 'Mara packed everything she needed' is a complete sentence, so a colon correctly signals that a list follows.",
+      "commonMistakes": ["Students may think a comma is acceptable before a list in all cases.", "Some may prefer option C, which is grammatical but less concise than using a colon."]
+    },
+    {
+      "id": "ela-re-093",
+      "category": "ela.revising.style.conciseness",
+      "difficulty": "easy",
+      "type": "mc",
+      "stem": "Read this sentence.\n\n\"The two candidates each expressed their own individual opinions and personal viewpoints on the subject.\"\n\nWhich revision eliminates the redundancy in this sentence?",
+      "options": [
+        "The two candidates expressed their opinions on the subject.",
+        "The two candidates each expressed their own opinions and personal viewpoints on the subject.",
+        "Each of the two candidates expressed their own individual opinions on the subject.",
+        "The two candidates each expressed individual personal opinions and viewpoints on the subject."
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Opinions' and 'personal viewpoints' mean the same thing, and 'own individual' is redundant. Option A removes the unnecessary repetition while preserving the sentence's meaning.",
+      "commonMistakes": ["Students may choose C thinking only one layer of redundancy needs to be removed.", "Some students are reluctant to cut words, believing longer sentences sound more academic."]
+    },
+    {
+      "id": "ela-re-094",
+      "category": "ela.revising.grammar.parallel_structure",
+      "difficulty": "medium",
+      "type": "mc",
+      "stem": "Read this sentence.\n\n\"The summer program requires participants to complete an application, writing a personal essay, and submit two letters of recommendation.\"\n\nWhich revision corrects the faulty parallelism?",
+      "options": [
+        "The summer program requires participants to complete an application, write a personal essay, and submit two letters of recommendation.",
+        "The summer program requires participants to complete an application, to be writing a personal essay, and submit two letters of recommendation.",
+        "The summer program requires participants completing an application, writing a personal essay, and to submit two letters of recommendation.",
+        "The summer program requires participants to complete an application, writing a personal essay, and to submit two letters of recommendation."
+      ],
+      "correctAnswer": 0,
+      "explanation": "After 'to,' each verb in the series must be in the base (infinitive) form: 'to complete,' 'write,' and 'submit.' Option A maintains parallel structure with three matching infinitives.",
+      "commonMistakes": ["Students may not recognize that 'writing' breaks the infinitive pattern established by 'to complete.'"]
+    },
+    {
+      "id": "ela-re-095",
+      "category": "ela.revising.grammar.verb_tense_consistency",
+      "difficulty": "medium",
+      "type": "mc",
+      "stem": "Read this passage.\n\n\"The archaeologist carefully brushed away the sand. She photographs the artifact from several angles and then placed it in a protective case.\"\n\nWhich edit corrects the error?",
+      "options": [
+        "Change *photographs* to *photographed*.",
+        "Change *placed* to *places*.",
+        "Change *brushed* to *brushes*.",
+        "No change needed."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The passage is written in past tense ('brushed,' 'placed'). The verb 'photographs' incorrectly shifts to present tense. Changing it to 'photographed' maintains consistency.",
+      "commonMistakes": ["Students may try to fix the tense by shifting all verbs to present, but past tense is the dominant tense in this passage."]
+    },
+    {
+      "id": "ela-re-096",
+      "category": "ela.revising.punctuation.dash_vs_parentheses",
+      "difficulty": "medium",
+      "type": "mc",
+      "stem": "Read this sentence.\n\n\"The keynote speaker, a retired astronaut who had orbited Earth 148 times, captivated the audience with her stories.\"\n\nA student wants to give the aside about the speaker more emphasis. Which revision best achieves this?",
+      "options": [
+        "The keynote speaker—a retired astronaut who had orbited Earth 148 times—captivated the audience with her stories.",
+        "The keynote speaker (a retired astronaut who had orbited Earth 148 times) captivated the audience with her stories.",
+        "The keynote speaker; a retired astronaut who had orbited Earth 148 times; captivated the audience with her stories.",
+        "The keynote speaker, a retired astronaut, who had orbited Earth 148 times captivated the audience with her stories."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Em dashes set off parenthetical information with emphasis, drawing the reader's attention to the aside. Parentheses (option B) de-emphasize the information, and commas (the original) are neutral. Semicolons cannot be used this way.",
+      "commonMistakes": ["Students often confuse the effects of dashes and parentheses, not realizing they convey different levels of emphasis.", "Some students may choose B, which is grammatically correct but de-emphasizes rather than emphasizes."]
+    },
+    {
+      "id": "ela-re-097",
+      "category": "ela.revising.grammar.compound_complex_sentences",
+      "difficulty": "medium",
+      "type": "mc",
+      "stem": "Read this sentence.\n\n\"Although the experiment failed the students learned valuable lessons and they decided to redesign their hypothesis.\"\n\nWhich revision correctly punctuates this compound-complex sentence?",
+      "options": [
+        "Although the experiment failed, the students learned valuable lessons, and they decided to redesign their hypothesis.",
+        "Although the experiment failed the students learned valuable lessons, and they decided to redesign their hypothesis.",
+        "Although the experiment failed, the students learned valuable lessons and they decided to redesign their hypothesis.",
+        "Although, the experiment failed, the students learned valuable lessons, and they decided to redesign their hypothesis."
+      ],
+      "correctAnswer": 0,
+      "explanation": "A compound-complex sentence needs a comma after the introductory dependent clause ('Although the experiment failed') and a comma before the coordinating conjunction ('and') that joins the two independent clauses.",
+      "commonMistakes": ["Students may place only one of the two required commas.", "Option D incorrectly places a comma after 'Although,' splitting the subordinating conjunction from its clause."]
+    },
+    {
+      "id": "ela-re-098",
+      "category": "ela.revising.style.integrating_quotations",
+      "difficulty": "medium",
+      "type": "mc",
+      "stem": "Read this sentence.\n\n\"The effects of climate change are widespread. 'Rising sea levels threaten coastal communities around the globe' (Hernandez 2024).\"\n\nWhich revision best integrates the quotation into the student's writing?",
+      "options": [
+        "As Hernandez (2024) warns, \"Rising sea levels threaten coastal communities around the globe.\"",
+        "\"Rising sea levels threaten coastal communities around the globe\" is what Hernandez said in 2024.",
+        "Hernandez, 2024, said that \"Rising sea levels threaten coastal communities around the globe.\"",
+        "No change needed."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Option A uses a signal phrase ('As Hernandez warns') to smoothly introduce the quotation and integrates the citation. This is the standard academic method for incorporating direct quotes into an argument.",
+      "commonMistakes": ["Students may think dropping a quote after a related sentence (the original) counts as proper integration.", "Option B is awkward and informal for academic writing."]
+    },
+    {
+      "id": "ela-re-099",
+      "category": "ela.revising.style.audience_register",
+      "difficulty": "medium",
+      "type": "mc",
+      "stem": "A student is writing a formal research paper about space exploration. Read this sentence from the paper.\n\n\"NASA's new rocket is super awesome and will totally blast off to Mars way faster than anything before.\"\n\nWhich revision is most appropriate for the intended audience and purpose?",
+      "options": [
+        "NASA's new launch vehicle is projected to reach Mars significantly faster than any previous spacecraft.",
+        "NASA's new rocket is really impressive and will get to Mars a lot faster than older rockets.",
+        "NASA made this crazy powerful rocket that's going to zoom to Mars super quick.",
+        "The new NASA rocket, which is awesome, will arrive at Mars faster than before."
+      ],
+      "correctAnswer": 0,
+      "explanation": "A formal research paper requires precise, objective language. Option A replaces slang ('super awesome,' 'totally,' 'way faster') with formal diction ('projected,' 'significantly,' 'launch vehicle') appropriate for an academic audience.",
+      "commonMistakes": ["Students may pick B, which is less informal but still too casual for a research paper.", "Some students may not recognize that 'awesome' is too informal for academic writing."]
+    },
+    {
+      "id": "ela-re-100",
+      "category": "ela.revising.punctuation.colon_usage",
+      "difficulty": "medium",
+      "type": "mc",
+      "stem": "Read this sentence.\n\n\"The detective noticed something unusual: the window had been locked from the inside.\"\n\nWhat is the function of the colon in this sentence?",
+      "options": [
+        "It introduces an explanation of what was unusual.",
+        "It separates two unrelated ideas.",
+        "It introduces a direct quotation.",
+        "It should be replaced with a semicolon."
+      ],
+      "correctAnswer": 0,
+      "explanation": "A colon can follow an independent clause to introduce an explanation, elaboration, or clarification of the idea that precedes it. Here, the clause after the colon explains what was 'unusual.'",
+      "commonMistakes": ["Students sometimes believe colons can only introduce lists.", "Some students confuse the explanatory function of colons with that of semicolons."]
+    },
+    {
+      "id": "ela-re-101",
+      "category": "ela.revising.style.conciseness",
+      "difficulty": "hard",
+      "type": "mc",
+      "stem": "Read this sentence.\n\n\"Due to the fact that the funding was insufficient and inadequate, the construction of the new building was postponed and delayed until a later point in time.\"\n\nWhich revision is the most concise without changing the meaning?",
+      "options": [
+        "Because funding was insufficient, construction of the new building was postponed.",
+        "Due to the fact that funding was insufficient, the construction was delayed until a later point in time.",
+        "Since the funding was insufficient and inadequate, the building construction was postponed and delayed.",
+        "Because the funding was not enough and inadequate, the new building was delayed."
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Due to the fact that' is a wordy substitute for 'because.' 'Insufficient' and 'inadequate' are synonyms, as are 'postponed' and 'delayed.' 'Until a later point in time' is redundant with 'postponed.' Option A eliminates all redundancies.",
+      "commonMistakes": ["Students may remove only one pair of synonyms and leave others.", "Some students think 'due to the fact that' sounds more formal and is therefore preferable."]
+    },
+    {
+      "id": "ela-re-102",
+      "category": "ela.revising.grammar.parallel_structure",
+      "difficulty": "hard",
+      "type": "mc",
+      "stem": "Read this sentence.\n\n\"The grant proposal emphasized the project's potential to reduce waste, that it would create local jobs, and improving public health outcomes.\"\n\nWhich revision corrects the faulty parallelism?",
+      "options": [
+        "The grant proposal emphasized the project's potential to reduce waste, create local jobs, and improve public health outcomes.",
+        "The grant proposal emphasized the project's potential to reduce waste, that it would create local jobs, and to improve public health outcomes.",
+        "The grant proposal emphasized that the project's potential was reducing waste, creating local jobs, and it improved public health outcomes.",
+        "The grant proposal emphasized the project's potential to reduce waste, creating local jobs, and that it would improve public health outcomes."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The phrase 'potential to' sets up a parallel series of infinitives. Each item should follow the same form: 'to reduce,' 'create,' and 'improve.' Option A maintains this consistent structure.",
+      "commonMistakes": ["Students may not recognize that three different grammatical structures (infinitive, noun clause, gerund) are being mixed in the original."]
+    },
+    {
+      "id": "ela-re-103",
+      "category": "ela.revising.grammar.compound_complex_sentences",
+      "difficulty": "easy",
+      "type": "mc",
+      "stem": "Read these two sentences.\n\n\"The power went out during the storm. We used candles to light the room and we played board games until it came back on.\"\n\nWhich revision best combines these into a single compound-complex sentence?",
+      "options": [
+        "When the power went out during the storm, we used candles to light the room, and we played board games until it came back on.",
+        "The power went out during the storm, we used candles to light the room and we played board games until it came back on.",
+        "The power went out during the storm and we used candles to light the room we played board games until it came back on.",
+        "When the power went out during the storm we used candles to light the room and we played board games until it came back on."
+      ],
+      "correctAnswer": 0,
+      "explanation": "A compound-complex sentence contains at least two independent clauses and one dependent clause. Option A creates a dependent clause ('When the power went out during the storm'), followed by two independent clauses joined by 'and,' with proper comma placement.",
+      "commonMistakes": ["Students may choose B, which is a comma splice.", "Option D is missing the comma after the introductory dependent clause."]
+    },
+    {
+      "id": "ela-re-104",
+      "category": "ela.revising.style.audience_register",
+      "difficulty": "hard",
+      "type": "mc",
+      "stem": "A student is writing a letter to the school board requesting funding for a robotics club. Read this excerpt.\n\n\"You guys should definitely give us money for a robotics club because it would be really cool and tons of kids want to join.\"\n\nWhich revision is most appropriate for the audience and purpose?",
+      "options": [
+        "We respectfully request that the board allocate funding for a robotics club, as the program would enhance STEM learning opportunities and has generated significant student interest.",
+        "We think you should give us money for a robotics club because it would be educational and many students are interested.",
+        "The board should fund our robotics club since it's going to be great and lots of people signed up.",
+        "I am writing to ask that you guys consider funding a robotics club because it's a cool idea and kids really want it."
+      ],
+      "correctAnswer": 0,
+      "explanation": "A formal request to a school board requires respectful, professional language. Option A uses appropriate register ('respectfully request,' 'allocate funding,' 'enhance STEM learning opportunities') and provides substantive reasoning rather than vague enthusiasm.",
+      "commonMistakes": ["Students may choose B, which improves the tone slightly but remains too casual for a formal request.", "Some students don't realize 'you guys' is inappropriate for formal address."]
+    }
+  ],
+  "passageBased": [
+    {
+      "passage": {
+        "title": "The Unsung Legacy of Garrett Morgan",
+        "sentences": [
+          "(1) Garrett Morgan, an African American inventor born in 1877, is best known for two innovations that saved countless lives.",
+          "(2) He patented an early version of the gas mask in 1914; the device used a wet sponge to filter smoke and harmful gases from the air.",
+          "(3) Morgan's invention gained national attention in 1916, when he used it to rescue workers trapped in a tunnel beneath Lake Erie that had filled with toxic fumes and smoke and dangerous gases.",
+          "(4) Despite his heroism, many fire departments in the South refused to purchase the device. When they learned the inventor was Black.",
+          "(5) Morgan was also responsible for inventing the three-position traffic signal, it had a \"caution\" position between \"stop\" and \"go\" that gave drivers time to react.",
+          "(6) Before Morgan's design, intersections was chaotic and dangerous, with only two-position signals that switched abruptly.",
+          "(7) He sold the patent to General Electric for $40,000—a substantial sum at the time—and the basic concept behind his signal is still used at every intersection today.",
+          "(8) Morgan once stated \"If I have been able to help save lives, then my work has been worthwhile.\"",
+          "(9) Although Morgan's contributions are not as widely known as those of other inventors, they have had a lasting impact on public safety, and his story serves as a reminder that innovation arises from determination and ingenuity, regardless of the obstacles one faces."
+        ]
+      },
+      "questions": [
+        {
+          "id": "ela-re-105",
+          "category": "ela.revising.style.conciseness",
+          "difficulty": "medium",
+          "type": "mc",
+          "stem": "Which revision of sentence (3) best eliminates the redundancy?",
+          "options": [
+            "Morgan's invention gained national attention in 1916, when he used it to rescue workers trapped in a tunnel beneath Lake Erie that had filled with toxic fumes.",
+            "Morgan's invention gained national attention in 1916, when he used it to rescue workers trapped in a tunnel beneath Lake Erie that had filled with smoke.",
+            "Morgan's invention gained national attention in 1916, when he used it to rescue workers trapped in a tunnel beneath Lake Erie that had filled with toxic fumes and smoke and also dangerous gases that were harmful.",
+            "Morgan's invention gained attention in 1916, when he used it to rescue workers trapped in a tunnel that had filled with toxic fumes and smoke and dangerous gases."
+          ],
+          "correctAnswer": 0,
+          "explanation": "'Toxic fumes,' 'smoke,' and 'dangerous gases' overlap significantly in meaning. 'Toxic fumes' is the most precise and comprehensive term, making 'smoke and dangerous gases' redundant. Option A removes the repetition.",
+          "commonMistakes": ["Students may choose B, but 'smoke' alone is less precise than 'toxic fumes.'", "Some students may think all three terms are needed for emphasis."]
+        },
+        {
+          "id": "ela-re-106",
+          "category": "ela.revising.grammar.sentence_fragment",
+          "difficulty": "medium",
+          "type": "mc",
+          "stem": "Which edit corrects the error in sentence (4)?",
+          "options": [
+            "Change the period after *device* to a comma and lowercase *when*.",
+            "Delete *When* from the second sentence and capitalize *they*.",
+            "Change *When* to *Because* and keep the period.",
+            "No change needed."
+          ],
+          "correctAnswer": 0,
+          "explanation": "'When they learned the inventor was Black' is a dependent clause and cannot stand alone as a sentence. Joining it to the previous independent clause with a comma creates a complete, correctly punctuated sentence.",
+          "commonMistakes": ["Students may choose B, which would create two independent clauses needing a conjunction or semicolon.", "Option C still leaves a sentence fragment."]
+        },
+        {
+          "id": "ela-re-107",
+          "category": "ela.revising.grammar.comma_splice",
+          "difficulty": "hard",
+          "type": "mc",
+          "stem": "Which revision corrects the error in sentence (5)?",
+          "options": [
+            "Morgan was also responsible for inventing the three-position traffic signal, which had a \"caution\" position between \"stop\" and \"go\" that gave drivers time to react.",
+            "Morgan was also responsible for inventing the three-position traffic signal it had a \"caution\" position between \"stop\" and \"go,\" that gave drivers time to react.",
+            "Morgan was also responsible for inventing the three-position traffic signal, it also had a \"caution\" position between \"stop\" and \"go\" that gave drivers time to react.",
+            "No change needed."
+          ],
+          "correctAnswer": 0,
+          "explanation": "Sentence (5) contains a comma splice—two independent clauses joined only by a comma. Option A corrects this by replacing the second independent clause with a relative clause ('which had'), properly subordinating the information.",
+          "commonMistakes": ["Students may not recognize the comma splice because the two clauses are closely related.", "Option C still contains a comma splice with 'it also.'"]
+        },
+        {
+          "id": "ela-re-108",
+          "category": "ela.revising.grammar.subject_verb",
+          "difficulty": "hard",
+          "type": "mc",
+          "stem": "Which edit corrects the error in sentence (6)?",
+          "options": [
+            "Change *was* to *were*.",
+            "Change *was* to *is*.",
+            "Change *switched* to *switch*.",
+            "No change needed."
+          ],
+          "correctAnswer": 0,
+          "explanation": "The subject of the clause is 'intersections,' which is plural. The verb must agree: 'intersections were chaotic and dangerous.'",
+          "commonMistakes": ["Students may be confused by the distance between the subject and verb or misidentify the subject."]
+        },
+        {
+          "id": "ela-re-109",
+          "category": "ela.revising.style.integrating_quotations",
+          "difficulty": "hard",
+          "type": "mc",
+          "stem": "Which revision of sentence (8) best integrates the quotation using standard punctuation?",
+          "options": [
+            "Morgan once stated, \"If I have been able to help save lives, then my work has been worthwhile.\"",
+            "Morgan once stated. \"If I have been able to help save lives, then my work has been worthwhile.\"",
+            "Morgan once stated; \"If I have been able to help save lives, then my work has been worthwhile.\"",
+            "No change needed."
+          ],
+          "correctAnswer": 0,
+          "explanation": "When a signal phrase (such as 'Morgan once stated') introduces a direct quotation, a comma should follow the signal phrase before the opening quotation mark. The original sentence is missing this comma.",
+          "commonMistakes": ["Students may not notice the missing comma after 'stated.'", "Some students may think a colon is required, but a comma is standard after short signal phrases with verbs like 'stated.'"]
+        },
+        {
+          "id": "ela-re-110",
+          "category": "ela.revising.grammar.compound_complex_sentences",
+          "difficulty": "hard",
+          "type": "mc",
+          "stem": "What type of sentence is sentence (9)?",
+          "options": [
+            "Compound-complex: it contains a dependent clause ('Although Morgan's contributions are not as widely known as those of other inventors') and two independent clauses joined by 'and.'",
+            "Simple: it has one subject and one predicate.",
+            "Compound: it contains two independent clauses joined by 'and.'",
+            "Complex: it contains one independent clause and one dependent clause."
+          ],
+          "correctAnswer": 0,
+          "explanation": "Sentence (9) begins with a dependent clause ('Although Morgan's contributions...inventors') and contains two independent clauses ('they have had a lasting impact on public safety' and 'his story serves as a reminder...') joined by 'and.' This combination of dependent and multiple independent clauses makes it compound-complex.",
+          "commonMistakes": ["Students may identify it as complex, overlooking the second independent clause.", "Some students may not recognize the 'Although' clause as dependent."]
+        }
+      ]
+    }
+  ]
+}

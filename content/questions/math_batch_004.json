@@ -1,0 +1,827 @@
+[
+  {
+    "id": "math-151",
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "If 3x − 7 = 20, what is the value of x?",
+    "options": [
+      {"label": "A", "text": "9"},
+      {"label": "B", "text": "7"},
+      {"label": "C", "text": "6"},
+      {"label": "D", "text": "10"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "3x − 7 = 20 → 3x = 27 → x = 9.",
+    "commonMistakes": ["B: divided 20 − 7 by 2", "C: divided 20 by 3 and rounded", "D: added 7 to 20 then divided by 3 incorrectly"]
+  },
+  {
+    "id": "math-152",
+    "section": "math",
+    "category": "math.statistics.mean_median",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "The test scores for five students are 72, 85, 90, 68, and 95. What is the median score?",
+    "options": [
+      {"label": "A", "text": "82"},
+      {"label": "B", "text": "85"},
+      {"label": "C", "text": "90"},
+      {"label": "D", "text": "68"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Ordered: 68, 72, 85, 90, 95. The middle (3rd) value is 85.",
+    "commonMistakes": ["A: computed the mean instead", "C: picked the second-highest value", "D: picked the lowest value"]
+  },
+  {
+    "id": "math-153",
+    "section": "math",
+    "category": "math.geometry.area_algebra",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A rectangular garden has a perimeter of 50 meters. If the length is 5 meters more than the width, what is the area of the garden in square meters?",
+    "options": [
+      {"label": "A", "text": "150"},
+      {"label": "B", "text": "120"},
+      {"label": "C", "text": "144"},
+      {"label": "D", "text": "160"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Let w = width. Length = w + 5. Perimeter: 2(w + w + 5) = 50 → 2w + 5 = 25 → w = 10. Length = 15. Area = 10 × 15 = 150.",
+    "commonMistakes": ["B: used w = 8 by arithmetic error", "C: confused perimeter and area formulas", "D: used w = 10 and l = 16"]
+  },
+  {
+    "id": "math-154",
+    "section": "math",
+    "category": "math.arithmetic.percent_change",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A jacket originally costs $80. It is marked down 25%, then the sale price is marked down an additional 10%. What is the final price?",
+    "options": [
+      {"label": "A", "text": "$52.00"},
+      {"label": "B", "text": "$54.00"},
+      {"label": "C", "text": "$48.00"},
+      {"label": "D", "text": "$50.00"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "First markdown: $80 × 0.75 = $60. Second markdown: $60 × 0.90 = $54.00.",
+    "commonMistakes": ["A: subtracted 25% + 10% = 35% all at once", "C: applied 40% discount", "D: estimated incorrectly"]
+  },
+  {
+    "id": "math-155",
+    "section": "math",
+    "category": "math.geometry.pythagorean",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A ladder leans against a wall. The foot of the ladder is 6 feet from the wall and the ladder is 10 feet long. How high up the wall does the ladder reach?",
+    "options": [
+      {"label": "A", "text": "7 feet"},
+      {"label": "B", "text": "8 feet"},
+      {"label": "C", "text": "9 feet"},
+      {"label": "D", "text": "4 feet"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "By the Pythagorean theorem: h² + 6² = 10² → h² = 100 − 36 = 64 → h = 8.",
+    "commonMistakes": ["A: guessed without computing", "C: computed √(100 − 16)", "D: subtracted 10 − 6"]
+  },
+  {
+    "id": "math-156",
+    "section": "math",
+    "category": "math.probability.basic",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "A bag contains 4 red marbles, 3 blue marbles, and 5 green marbles. If one marble is drawn at random, what is the probability of drawing a blue marble?",
+    "options": [
+      {"label": "A", "text": "1/4"},
+      {"label": "B", "text": "1/3"},
+      {"label": "C", "text": "5/12"},
+      {"label": "D", "text": "1/6"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Total marbles = 4 + 3 + 5 = 12. P(blue) = 3/12 = 1/4.",
+    "commonMistakes": ["B: divided 3 by 9 (non-blue count)", "C: found probability of green", "D: divided 3 by 18"]
+  },
+  {
+    "id": "math-157",
+    "section": "math",
+    "category": "math.arithmetic.rate_distance_time",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Train A leaves City X at 9:00 AM traveling at 60 mph toward City Y. Train B leaves City Y at 10:00 AM traveling at 90 mph toward City X. If the cities are 285 miles apart, at what time do the trains meet?",
+    "options": [
+      {"label": "A", "text": "11:00 AM"},
+      {"label": "B", "text": "11:30 AM"},
+      {"label": "C", "text": "12:00 PM"},
+      {"label": "D", "text": "10:30 AM"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "By 10:00 AM, Train A has traveled 60 miles, leaving 225 miles between them. Combined speed = 150 mph. Time to meet = 225/150 = 1.5 hours after 10:00 AM = 11:30 AM.",
+    "commonMistakes": ["A: ignored Train A's head start", "C: used only one train's speed", "D: forgot Train B starts at 10 AM"]
+  },
+  {
+    "id": "math-158",
+    "section": "math",
+    "category": "math.algebra.exponents",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the value of 2⁵ × 2³?",
+    "options": [
+      {"label": "A", "text": "256"},
+      {"label": "B", "text": "64"},
+      {"label": "C", "text": "128"},
+      {"label": "D", "text": "512"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "2⁵ × 2³ = 2⁸ = 256.",
+    "commonMistakes": ["B: computed 2⁶", "C: computed 2⁷", "D: computed 2⁹"]
+  },
+  {
+    "id": "math-159",
+    "section": "math",
+    "category": "math.geometry.coordinate",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the distance between the points (−2, 3) and (4, −5)?",
+    "options": [
+      {"label": "A", "text": "10"},
+      {"label": "B", "text": "8"},
+      {"label": "C", "text": "14"},
+      {"label": "D", "text": "√52"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "d = √[(4−(−2))² + (−5−3)²] = √[36 + 64] = √100 = 10.",
+    "commonMistakes": ["B: forgot to square a difference", "C: added absolute differences", "D: made arithmetic error"]
+  },
+  {
+    "id": "math-160",
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "The sum of three consecutive odd integers is 111. What is the largest of the three integers?",
+    "options": [
+      {"label": "A", "text": "35"},
+      {"label": "B", "text": "37"},
+      {"label": "C", "text": "39"},
+      {"label": "D", "text": "41"}
+    ],
+    "correctAnswer": "C",
+    "explanation": "Let the integers be n, n+2, n+4. Then 3n + 6 = 111 → n = 35. The largest is 35 + 4 = 39.",
+    "commonMistakes": ["A: gave the smallest integer", "B: gave the middle integer", "D: added 6 instead of 4 to 35"]
+  },
+  {
+    "id": "math-161",
+    "section": "math",
+    "category": "math.geometry.volume",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A cylinder has a radius of 3 cm and a height of 10 cm. What is its volume? (Use π ≈ 3.14)",
+    "options": [
+      {"label": "A", "text": "282.6 cm³"},
+      {"label": "B", "text": "94.2 cm³"},
+      {"label": "C", "text": "188.4 cm³"},
+      {"label": "D", "text": "565.2 cm³"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "V = πr²h = 3.14 × 9 × 10 = 282.6 cm³.",
+    "commonMistakes": ["B: used πrh instead of πr²h", "C: used π(2r)h", "D: used πd²h (doubled radius before squaring)"]
+  },
+  {
+    "id": "math-162",
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "If the ratio of boys to girls in a class is 3:5 and there are 15 boys, how many girls are there?",
+    "options": [
+      {"label": "A", "text": "20"},
+      {"label": "B", "text": "25"},
+      {"label": "C", "text": "30"},
+      {"label": "D", "text": "9"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "3/5 = 15/x → x = 15 × 5/3 = 25.",
+    "commonMistakes": ["A: added 5 to 15", "C: multiplied 15 × 2", "D: multiplied 3 × 3"]
+  },
+  {
+    "id": "math-163",
+    "section": "math",
+    "category": "math.geometry.circles_algebra",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A circle has an area of 64π square inches. A square is inscribed in the circle. What is the area of the square?",
+    "options": [
+      {"label": "A", "text": "64"},
+      {"label": "B", "text": "128"},
+      {"label": "C", "text": "256"},
+      {"label": "D", "text": "100"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Area = πr² = 64π → r = 8. The diameter = 16, which is the diagonal of the inscribed square. If diagonal = 16, then side = 16/√2. Area = side² = 256/2 = 128.",
+    "commonMistakes": ["A: used radius as the side length", "C: used diameter as side length", "D: guessed"]
+  },
+  {
+    "id": "math-164",
+    "section": "math",
+    "category": "math.data_interpretation",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A bar graph shows the number of books read by students in a month: 0 books (5 students), 1 book (8 students), 2 books (12 students), 3 books (7 students), 4 books (3 students). What is the mean number of books read per student?",
+    "options": [
+      {"label": "A", "text": "1.8"},
+      {"label": "B", "text": "2.0"},
+      {"label": "C", "text": "1.9"},
+      {"label": "D", "text": "2.1"}
+    ],
+    "correctAnswer": "C",
+    "explanation": "Total books = 0(5) + 1(8) + 2(12) + 3(7) + 4(3) = 0 + 8 + 24 + 21 + 12 = 65. Total students = 35. Mean = 65/35 ≈ 1.857 ≈ 1.9.",
+    "commonMistakes": ["A: rounded differently", "B: assumed the median equals the mean", "D: computation error"]
+  },
+  {
+    "id": "math-165",
+    "section": "math",
+    "category": "math.algebra.absolute_value",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "How many integer values of x satisfy |2x − 5| < 9?",
+    "options": [
+      {"label": "A", "text": "7"},
+      {"label": "B", "text": "8"},
+      {"label": "C", "text": "9"},
+      {"label": "D", "text": "10"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "|2x − 5| < 9 → −9 < 2x − 5 < 9 → −4 < 2x < 14 → −2 < x < 7. Integers: −1, 0, 1, 2, 3, 4, 5, 6 → 8 values.",
+    "commonMistakes": ["A: included only −1 through 5", "C: included endpoints −2 and 7", "D: solved the inequality incorrectly"]
+  },
+  {
+    "id": "math-166",
+    "section": "math",
+    "category": "math.geometry.transformations",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Triangle ABC has vertices A(1, 2), B(4, 6), and C(7, 2). If the triangle is reflected over the x-axis, what are the new coordinates of B?",
+    "options": [
+      {"label": "A", "text": "(4, −6)"},
+      {"label": "B", "text": "(−4, 6)"},
+      {"label": "C", "text": "(−4, −6)"},
+      {"label": "D", "text": "(4, 6)"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Reflecting over the x-axis negates the y-coordinate: (4, 6) → (4, −6).",
+    "commonMistakes": ["B: reflected over the y-axis", "C: reflected over the origin", "D: no change applied"]
+  },
+  {
+    "id": "math-167",
+    "section": "math",
+    "category": "math.arithmetic.combined_work",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Pipe A fills a tank in 6 hours. Pipe B fills the same tank in 4 hours. Pipe C drains the tank in 12 hours. If all three pipes are open, how long does it take to fill the tank?",
+    "options": [
+      {"label": "A", "text": "3 hours"},
+      {"label": "B", "text": "2 hours"},
+      {"label": "C", "text": "4 hours"},
+      {"label": "D", "text": "2.5 hours"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Combined rate = 1/6 + 1/4 − 1/12 = 2/12 + 3/12 − 1/12 = 4/12 = 1/3. Time = 3 hours.",
+    "commonMistakes": ["B: ignored the drain pipe", "C: added all three rates as filling", "D: arithmetic error with fractions"]
+  },
+  {
+    "id": "math-168",
+    "section": "math",
+    "category": "math.algebra.patterns_sequences",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "In the sequence 5, 11, 23, 47, 95, …, what is the next term?",
+    "options": [
+      {"label": "A", "text": "190"},
+      {"label": "B", "text": "191"},
+      {"label": "C", "text": "143"},
+      {"label": "D", "text": "189"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Each term is doubled plus 1: 5×2+1=11, 11×2+1=23, 23×2+1=47, 47×2+1=95, 95×2+1=191.",
+    "commonMistakes": ["A: just doubled 95", "C: added 48 to 95", "D: doubled and subtracted 1"]
+  },
+  {
+    "id": "math-169",
+    "section": "math",
+    "category": "math.arithmetic.scientific_notation",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Express 0.00042 in scientific notation.",
+    "options": [
+      {"label": "A", "text": "4.2 × 10⁻⁴"},
+      {"label": "B", "text": "4.2 × 10⁻³"},
+      {"label": "C", "text": "42 × 10⁻⁵"},
+      {"label": "D", "text": "4.2 × 10⁴"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "0.00042 = 4.2 × 10⁻⁴ (move decimal 4 places right).",
+    "commonMistakes": ["B: miscounted decimal places", "C: not proper scientific notation", "D: wrong sign on exponent"]
+  },
+  {
+    "id": "math-170",
+    "section": "math",
+    "category": "math.statistics.percent_stats",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "In a class of 40 students, the mean score on a test was 78. The top 10 students had a mean score of 92. What was the mean score of the remaining 30 students?",
+    "options": [
+      {"label": "A", "text": "73.3"},
+      {"label": "B", "text": "72"},
+      {"label": "C", "text": "74"},
+      {"label": "D", "text": "75"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Total for all 40 = 40 × 78 = 3120. Top 10 total = 10 × 92 = 920. Remaining 30 total = 3120 − 920 = 2200. Mean = 2200/30 ≈ 73.3.",
+    "commonMistakes": ["B: subtracted means directly 78 − 6", "C: estimated", "D: divided incorrectly"]
+  },
+  {
+    "id": "math-171",
+    "section": "math",
+    "category": "math.geometry.angles",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Two angles are supplementary. One angle is 30° more than twice the other. What is the larger angle?",
+    "options": [
+      {"label": "A", "text": "130°"},
+      {"label": "B", "text": "120°"},
+      {"label": "C", "text": "140°"},
+      {"label": "D", "text": "110°"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Let the smaller angle = x. Then 2x + 30 + x = 180 → 3x = 150 → x = 50°. Larger = 2(50) + 30 = 130°.",
+    "commonMistakes": ["B: forgot to add 30", "C: used 3x + 30 = 180 but solved wrong", "D: subtracted 30 from the wrong angle"]
+  },
+  {
+    "id": "math-172",
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A store sells pens for $2 each and notebooks for $5 each. Jamie buys a total of 14 items and spends $49. How many pens did Jamie buy?",
+    "options": [
+      {"label": "A", "text": "5"},
+      {"label": "B", "text": "7"},
+      {"label": "C", "text": "9"},
+      {"label": "D", "text": "6"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Let p = pens, n = notebooks. p + n = 14, 2p + 5n = 49. Substituting n = 14 − p: 2p + 5(14 − p) = 49 → 2p + 70 − 5p = 49 → −3p = −21 → p = 7.",
+    "commonMistakes": ["A: computation error in solving", "C: swapped pens and notebooks", "D: tried guess and check incorrectly"]
+  },
+  {
+    "id": "math-173",
+    "section": "math",
+    "category": "math.geometry.area",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A trapezoid has bases of 8 cm and 14 cm and a height of 6 cm. A triangle with a base of 8 cm and a height of 6 cm is cut from it. What is the area of the remaining figure?",
+    "options": [
+      {"label": "A", "text": "42 cm²"},
+      {"label": "B", "text": "66 cm²"},
+      {"label": "C", "text": "48 cm²"},
+      {"label": "D", "text": "54 cm²"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Trapezoid area = ½(8+14)(6) = ½(22)(6) = 66. Triangle area = ½(8)(6) = 24. Remaining = 66 − 24 = 42 cm².",
+    "commonMistakes": ["B: forgot to subtract the triangle", "C: subtracted only half the triangle", "D: used wrong dimensions"]
+  },
+  {
+    "id": "math-174",
+    "section": "math",
+    "category": "math.arithmetic.percent_change",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A population of 2000 increases by 20% the first year and decreases by 15% the second year. What is the population after 2 years?",
+    "options": [
+      {"label": "A", "text": "2040"},
+      {"label": "B", "text": "2100"},
+      {"label": "C", "text": "2000"},
+      {"label": "D", "text": "2050"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "After year 1: 2000 × 1.20 = 2400. After year 2: 2400 × 0.85 = 2040.",
+    "commonMistakes": ["B: added 20% − 15% = 5% net", "C: assumed increases and decreases cancel", "D: arithmetic error"]
+  },
+  {
+    "id": "math-175",
+    "section": "math",
+    "category": "math.geometry.coordinate_slope",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Line m passes through (2, 5) and (6, 13). Line n is perpendicular to line m. What is the slope of line n?",
+    "options": [
+      {"label": "A", "text": "−1/2"},
+      {"label": "B", "text": "2"},
+      {"label": "C", "text": "1/2"},
+      {"label": "D", "text": "−2"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Slope of m = (13−5)/(6−2) = 8/4 = 2. Perpendicular slope = −1/2.",
+    "commonMistakes": ["B: gave the slope of m itself", "C: took reciprocal without negating", "D: negated without reciprocal"]
+  },
+  {
+    "id": "math-176",
+    "section": "math",
+    "category": "math.probability.compound",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A fair coin is flipped 4 times. What is the probability of getting exactly 3 heads?",
+    "options": [
+      {"label": "A", "text": "1/4"},
+      {"label": "B", "text": "3/8"},
+      {"label": "C", "text": "1/8"},
+      {"label": "D", "text": "3/16"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "C(4,3) × (1/2)³ × (1/2)¹ = 4 × 1/16 = 4/16 = 1/4.",
+    "commonMistakes": ["B: used C(4,3)/8", "C: forgot to multiply by C(4,3)", "D: used 3/16 by error"]
+  },
+  {
+    "id": "math-177",
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which of the following is the solution to −3x + 7 > 19?",
+    "options": [
+      {"label": "A", "text": "x < −4"},
+      {"label": "B", "text": "x > −4"},
+      {"label": "C", "text": "x < 4"},
+      {"label": "D", "text": "x > 4"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "−3x + 7 > 19 → −3x > 12 → x < −4 (flip inequality when dividing by negative).",
+    "commonMistakes": ["B: forgot to flip the inequality sign", "C: divided 12 by 3 without the negative", "D: made both errors"]
+  },
+  {
+    "id": "math-178",
+    "section": "math",
+    "category": "math.geometry.circles",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A circular track has a circumference of 440 meters. What is the radius of the track, to the nearest meter? (Use π ≈ 22/7)",
+    "options": [
+      {"label": "A", "text": "70 meters"},
+      {"label": "B", "text": "140 meters"},
+      {"label": "C", "text": "220 meters"},
+      {"label": "D", "text": "35 meters"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "C = 2πr → 440 = 2(22/7)r → 440 = 44r/7 → r = 440 × 7/44 = 70 meters.",
+    "commonMistakes": ["B: found the diameter", "C: divided circumference by 2 only", "D: divided by 4π"]
+  },
+  {
+    "id": "math-179",
+    "section": "math",
+    "category": "math.arithmetic.rate_distance_time",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "A car travels 180 miles in 3 hours. At the same speed, how far will it travel in 5 hours?",
+    "options": [
+      {"label": "A", "text": "300 miles"},
+      {"label": "B", "text": "280 miles"},
+      {"label": "C", "text": "250 miles"},
+      {"label": "D", "text": "360 miles"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Speed = 180/3 = 60 mph. Distance in 5 hours = 60 × 5 = 300 miles.",
+    "commonMistakes": ["B: added 100 to 180", "C: estimated 50 × 5", "D: doubled 180"]
+  },
+  {
+    "id": "math-180",
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "If 2x + y = 13 and x − y = 2, what is the value of 3x + 2y?",
+    "options": [
+      {"label": "A", "text": "23"},
+      {"label": "B", "text": "21"},
+      {"label": "C", "text": "20"},
+      {"label": "D", "text": "25"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Adding the equations: 3x = 15 → x = 5. Then y = 13 − 2(5) = 3. So 3x + 2y = 15 + 6 = 21.",
+    "commonMistakes": ["A: computed 3x + y + x instead", "C: arithmetic error", "D: used wrong system"]
+  },
+  {
+    "id": "math-181",
+    "section": "math",
+    "category": "math.geometry.volume_algebra",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A rectangular box has a volume of 360 cubic inches. Its length is twice its width, and its height is 5 inches. What is the width?",
+    "options": [
+      {"label": "A", "text": "4 inches"},
+      {"label": "B", "text": "6 inches"},
+      {"label": "C", "text": "8 inches"},
+      {"label": "D", "text": "3 inches"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "V = lwh. Let w = width, l = 2w. Then 2w × w × 5 = 360 → 10w² = 360 → w² = 36 → w = 6.",
+    "commonMistakes": ["A: used 3w instead of 2w", "C: forgot the height", "D: cube root error"]
+  },
+  {
+    "id": "math-182",
+    "section": "math",
+    "category": "math.arithmetic.order_of_operations",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the value of 4 + 3 × (8 − 2)²?",
+    "options": [
+      {"label": "A", "text": "112"},
+      {"label": "B", "text": "148"},
+      {"label": "C", "text": "256"},
+      {"label": "D", "text": "1296"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "4 + 3 × (6)² = 4 + 3 × 36 = 4 + 108 = 112.",
+    "commonMistakes": ["B: computed (4+3) × (6)² ÷ something", "C: computed (4+3×6)²", "D: computed (4+3)² × 6²"]
+  },
+  {
+    "id": "math-183",
+    "section": "math",
+    "category": "math.geometry.pythagorean_coordinate",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A right triangle has vertices at (0, 0), (5, 0), and (5, 12). What is the length of the hypotenuse?",
+    "options": [
+      {"label": "A", "text": "13"},
+      {"label": "B", "text": "15"},
+      {"label": "C", "text": "17"},
+      {"label": "D", "text": "11"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "The legs are 5 (along x-axis) and 12 (along y-axis). Hypotenuse = √(25 + 144) = √169 = 13.",
+    "commonMistakes": ["B: added 5 + 12 then subtracted 2", "C: used 8 and 15 triple", "D: subtracted instead of adding under the radical"]
+  },
+  {
+    "id": "math-184",
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A mixture contains water and juice in a ratio of 3:7. If there are 5 liters of the mixture, how many liters of juice are there?",
+    "options": [
+      {"label": "A", "text": "3.5"},
+      {"label": "B", "text": "3"},
+      {"label": "C", "text": "2"},
+      {"label": "D", "text": "1.5"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Juice fraction = 7/10. Juice = 7/10 × 5 = 3.5 liters.",
+    "commonMistakes": ["B: used 3/5", "C: used 2/5", "D: used 3/10 × 5"]
+  },
+  {
+    "id": "math-185",
+    "section": "math",
+    "category": "math.data_interpretation.percent",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A pie chart shows that 30% of a school's 600 students play soccer, 25% play basketball, and the rest play other sports. If 40% of the soccer players also play basketball, how many students play ONLY soccer?",
+    "options": [
+      {"label": "A", "text": "108"},
+      {"label": "B", "text": "180"},
+      {"label": "C", "text": "72"},
+      {"label": "D", "text": "150"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Soccer players = 30% of 600 = 180. Those who also play basketball = 40% of 180 = 72. Only soccer = 180 − 72 = 108.",
+    "commonMistakes": ["B: total soccer players, not only soccer", "C: found the overlap only", "D: subtracted 30 from 180"]
+  },
+  {
+    "id": "math-186",
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the y-intercept of the line 4x − 2y = 10?",
+    "options": [
+      {"label": "A", "text": "−5"},
+      {"label": "B", "text": "5"},
+      {"label": "C", "text": "−2.5"},
+      {"label": "D", "text": "2.5"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Set x = 0: −2y = 10 → y = −5. The y-intercept is −5.",
+    "commonMistakes": ["B: forgot the negative sign", "C: divided 10 by 4", "D: divided 10 by −4"]
+  },
+  {
+    "id": "math-187",
+    "section": "math",
+    "category": "math.geometry.transformations",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Point P(3, −2) is rotated 90° counterclockwise about the origin. What are the coordinates of the image?",
+    "options": [
+      {"label": "A", "text": "(2, 3)"},
+      {"label": "B", "text": "(−2, −3)"},
+      {"label": "C", "text": "(−3, 2)"},
+      {"label": "D", "text": "(2, −3)"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "A 90° counterclockwise rotation maps (x, y) to (−y, x). So (3, −2) → (2, 3).",
+    "commonMistakes": ["B: rotated 180°", "C: rotated 90° clockwise", "D: negated wrong coordinate"]
+  },
+  {
+    "id": "math-188",
+    "section": "math",
+    "category": "math.arithmetic.fractions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the value of 3/4 ÷ 2/5?",
+    "options": [
+      {"label": "A", "text": "15/8"},
+      {"label": "B", "text": "3/10"},
+      {"label": "C", "text": "6/20"},
+      {"label": "D", "text": "8/15"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "3/4 ÷ 2/5 = 3/4 × 5/2 = 15/8.",
+    "commonMistakes": ["B: multiplied instead of dividing", "C: simplified B incorrectly", "D: flipped the wrong fraction"]
+  },
+  {
+    "id": "math-189",
+    "section": "math",
+    "category": "math.algebra.exponents_geometry",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "The side length of a cube is 3ⁿ cm. If the volume of the cube is 729 cm³, what is the value of n?",
+    "options": [
+      {"label": "A", "text": "1"},
+      {"label": "B", "text": "2"},
+      {"label": "C", "text": "3"},
+      {"label": "D", "text": "6"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Volume = (3ⁿ)³ = 3³ⁿ = 729 = 3⁶. So 3n = 6 → n = 2.",
+    "commonMistakes": ["A: thought 3¹ = cube root of 729", "C: thought n = 3 because 3³ = 27", "D: set n = 6 without dividing by 3"]
+  },
+  {
+    "id": "math-190",
+    "section": "math",
+    "category": "math.statistics.range",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "The ages of 7 family members are: 5, 12, 18, 25, 33, 47, 72. What is the range of the ages?",
+    "options": [
+      {"label": "A", "text": "67"},
+      {"label": "B", "text": "72"},
+      {"label": "C", "text": "60"},
+      {"label": "D", "text": "47"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Range = maximum − minimum = 72 − 5 = 67.",
+    "commonMistakes": ["B: chose the max value", "C: subtracted wrong pair", "D: chose the second-largest"]
+  },
+  {
+    "id": "math-191",
+    "section": "math",
+    "category": "math.geometry.area_percent",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A square has a side length of 10 cm. If each side is increased by 20%, by what percent does the area increase?",
+    "options": [
+      {"label": "A", "text": "20%"},
+      {"label": "B", "text": "40%"},
+      {"label": "C", "text": "44%"},
+      {"label": "D", "text": "50%"}
+    ],
+    "correctAnswer": "C",
+    "explanation": "New side = 12 cm. Original area = 100. New area = 144. Percent increase = (144 − 100)/100 = 44%.",
+    "commonMistakes": ["A: same percent as side increase", "B: doubled the side increase percent", "D: estimated"]
+  },
+  {
+    "id": "math-192",
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Five years ago, Tom was three times as old as his daughter. Now the sum of their ages is 50. How old is Tom now?",
+    "options": [
+      {"label": "A", "text": "35"},
+      {"label": "B", "text": "40"},
+      {"label": "C", "text": "30"},
+      {"label": "D", "text": "38"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Let daughter's current age = d, Tom's = t. t + d = 50. Five years ago: t − 5 = 3(d − 5) → t − 5 = 3d − 15 → t = 3d − 10. Substituting: 3d − 10 + d = 50 → 4d = 60 → d = 15, t = 35.",
+    "commonMistakes": ["B: set up equation without the '5 years ago' shift", "C: found twice the daughter's age", "D: arithmetic error"]
+  },
+  {
+    "id": "math-193",
+    "section": "math",
+    "category": "math.geometry.coordinate_midpoint",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "If M(4, 7) is the midpoint of segment AB, and A = (1, 3), what are the coordinates of B?",
+    "options": [
+      {"label": "A", "text": "(7, 11)"},
+      {"label": "B", "text": "(2.5, 5)"},
+      {"label": "C", "text": "(5, 10)"},
+      {"label": "D", "text": "(3, 4)"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Midpoint formula: (1 + x)/2 = 4 → x = 7. (3 + y)/2 = 7 → y = 11. B = (7, 11).",
+    "commonMistakes": ["B: found the midpoint of A and M", "C: added 4 to each coordinate of A", "D: subtracted instead of solving"]
+  },
+  {
+    "id": "math-194",
+    "section": "math",
+    "category": "math.arithmetic.percent",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A shirt is on sale for $36 after a 25% discount. What was the original price?",
+    "options": [
+      {"label": "A", "text": "$45"},
+      {"label": "B", "text": "$48"},
+      {"label": "C", "text": "$44"},
+      {"label": "D", "text": "$42"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Sale price = 75% of original. 0.75 × P = 36 → P = 36/0.75 = $48.",
+    "commonMistakes": ["A: added 25% of 36 to 36", "C: added $8 by estimation", "D: added $6"]
+  },
+  {
+    "id": "math-195",
+    "section": "math",
+    "category": "math.algebra.patterns_sequences",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "The first four terms of a sequence are 2, 6, 18, 54. What is the sum of the first 6 terms?",
+    "options": [
+      {"label": "A", "text": "728"},
+      {"label": "B", "text": "486"},
+      {"label": "C", "text": "726"},
+      {"label": "D", "text": "364"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Geometric sequence with r = 3. Terms: 2, 6, 18, 54, 162, 486. Sum = 2 + 6 + 18 + 54 + 162 + 486 = 728.",
+    "commonMistakes": ["B: gave the 6th term only", "C: off by 2", "D: used the formula for r = 2"]
+  },
+  {
+    "id": "math-196",
+    "section": "math",
+    "category": "math.geometry.angles_algebra",
+    "difficulty": 2,
+    "type": "grid_in",
+    "stem": "Two complementary angles have measures (3x + 5)° and (2x)°. What is the value of x?",
+    "options": [],
+    "correctAnswer": "17",
+    "explanation": "Complementary angles sum to 90°. 3x + 5 + 2x = 90 → 5x = 85 → x = 17.",
+    "commonMistakes": ["Forgot that complementary means 90° (not 180°)", "Set equal to 180"]
+  },
+  {
+    "id": "math-197",
+    "section": "math",
+    "category": "math.arithmetic.percent_change",
+    "difficulty": 2,
+    "type": "grid_in",
+    "stem": "A stock price goes from $40 to $52. What is the percent increase?",
+    "options": [],
+    "correctAnswer": "30",
+    "explanation": "Increase = 52 − 40 = 12. Percent increase = 12/40 × 100 = 30%.",
+    "commonMistakes": ["Used 52 as the base instead of 40", "Computed 12/52"]
+  },
+  {
+    "id": "math-198",
+    "section": "math",
+    "category": "math.algebra.absolute_value",
+    "difficulty": 3,
+    "type": "grid_in",
+    "stem": "What is the sum of all values of x that satisfy |3x − 12| = 18?",
+    "options": [],
+    "correctAnswer": "8",
+    "explanation": "Case 1: 3x − 12 = 18 → x = 10. Case 2: 3x − 12 = −18 → x = −2. Sum = 10 + (−2) = 8.",
+    "commonMistakes": ["Found only one solution", "Made sign error in Case 2"]
+  },
+  {
+    "id": "math-199",
+    "section": "math",
+    "category": "math.geometry.area",
+    "difficulty": 2,
+    "type": "grid_in",
+    "stem": "A triangle has vertices at (0, 0), (8, 0), and (4, 6). What is the area of the triangle?",
+    "options": [],
+    "correctAnswer": "24",
+    "explanation": "Base along x-axis = 8, height = 6 (y-coordinate of third point). Area = ½ × 8 × 6 = 24.",
+    "commonMistakes": ["Forgot the ½ factor", "Used distance formula unnecessarily"]
+  },
+  {
+    "id": "math-200",
+    "section": "math",
+    "category": "math.arithmetic.combined_work",
+    "difficulty": 3,
+    "type": "grid_in",
+    "stem": "Alex can paint a room in 8 hours and Ben can paint the same room in 12 hours. If they work together, how many hours will it take them to paint the room? Express your answer as a mixed number (e.g., 4 4/5).",
+    "options": [],
+    "correctAnswer": "4 4/5",
+    "explanation": "Combined rate = 1/8 + 1/12 = 3/24 + 2/24 = 5/24. Time = 24/5 = 4 4/5 hours.",
+    "commonMistakes": ["Averaged the times to get 10", "Added the times to get 20"]
+  }
+]

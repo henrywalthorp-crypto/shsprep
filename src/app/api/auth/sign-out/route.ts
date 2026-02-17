@@ -1,0 +1,8 @@
+// TODO: POST - Sign out, clear session cookies
+
+import { NextRequest, NextResponse } from 'next/server'
+
+export async function POST(request: NextRequest) {
+  // TODO: Implement
+  return NextResponse.json({ error: 'Not implemented' }, { status: 501 })
+}

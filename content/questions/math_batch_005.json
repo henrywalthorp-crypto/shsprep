@@ -1,0 +1,752 @@
+[
+  {
+    "id": "math-201",
+    "category": "math.number_theory.primes",
+    "difficulty": 1,
+    "type": "mc",
+    "stem": "How many prime numbers are between 20 and 40?",
+    "options": ["3", "4", "5", "6"],
+    "correctAnswer": "4",
+    "explanation": "The prime numbers between 20 and 40 are 23, 29, 31, and 37. That gives us 4 primes.",
+    "commonMistakes": [
+      "Including 21 or 33 (divisible by 3)",
+      "Including 25 (divisible by 5)",
+      "Forgetting 37"
+    ]
+  },
+  {
+    "id": "math-202",
+    "category": "math.number_theory.divisibility",
+    "difficulty": 1,
+    "type": "mc",
+    "stem": "Which of the following numbers is divisible by both 4 and 6?",
+    "options": ["18", "24", "28", "32"],
+    "correctAnswer": "24",
+    "explanation": "A number divisible by both 4 and 6 must be divisible by their LCM, which is 12. Of the choices, only 24 is divisible by 12 (24 ÷ 12 = 2).",
+    "commonMistakes": [
+      "Choosing 18 (divisible by 6 but not 4)",
+      "Choosing 28 (divisible by 4 but not 6)",
+      "Multiplying 4 × 6 = 24 without understanding LCM"
+    ]
+  },
+  {
+    "id": "math-203",
+    "category": "math.number_theory.gcf_lcm",
+    "difficulty": 1,
+    "type": "mc",
+    "stem": "What is the greatest common factor (GCF) of 36 and 48?",
+    "options": ["6", "8", "12", "24"],
+    "correctAnswer": "12",
+    "explanation": "36 = 2² × 3² and 48 = 2⁴ × 3. The GCF uses the lowest power of each shared prime: 2² × 3 = 12.",
+    "commonMistakes": [
+      "Finding LCM instead of GCF (144)",
+      "Choosing 6 (a common factor but not the greatest)",
+      "Choosing 24 (a factor of 48 but not 36)"
+    ]
+  },
+  {
+    "id": "math-204",
+    "category": "math.measurement.unit_conversion",
+    "difficulty": 1,
+    "type": "mc",
+    "stem": "A recipe calls for 3 quarts of water. How many cups is this? (1 quart = 4 cups)",
+    "options": ["7", "8", "12", "16"],
+    "correctAnswer": "12",
+    "explanation": "3 quarts × 4 cups per quart = 12 cups.",
+    "commonMistakes": [
+      "Adding instead of multiplying (3 + 4 = 7)",
+      "Using 2 cups per quart instead of 4",
+      "Confusing quarts with gallons"
+    ]
+  },
+  {
+    "id": "math-205",
+    "category": "math.scientific_notation",
+    "difficulty": 1,
+    "type": "mc",
+    "stem": "Which of the following is 0.00045 written in scientific notation?",
+    "options": ["4.5 × 10⁻⁴", "4.5 × 10⁻³", "45 × 10⁻⁵", "0.45 × 10⁻³"],
+    "correctAnswer": "4.5 × 10⁻⁴",
+    "explanation": "Move the decimal 4 places to the right to get 4.5. Since we moved right, the exponent is negative: 4.5 × 10⁻⁴.",
+    "commonMistakes": [
+      "Miscounting decimal places (choosing 10⁻³)",
+      "Not putting the number between 1 and 10 (45 × 10⁻⁵)",
+      "Confusing positive and negative exponents"
+    ]
+  },
+  {
+    "id": "math-206",
+    "category": "math.algebra.inequalities",
+    "difficulty": 1,
+    "type": "mc",
+    "stem": "Which value of x satisfies the inequality 3x + 5 > 20?",
+    "options": ["4", "5", "6", "15"],
+    "correctAnswer": "6",
+    "explanation": "Solve: 3x + 5 > 20 → 3x > 15 → x > 5. Of the choices, only 6 is greater than 5.",
+    "commonMistakes": [
+      "Choosing 5 (x must be strictly greater than 5)",
+      "Choosing 15 (solving 3x > 20 − 5 but forgetting to divide)",
+      "Choosing 4 (arithmetic error)"
+    ]
+  },
+  {
+    "id": "math-207",
+    "category": "math.proportional_reasoning",
+    "difficulty": 1,
+    "type": "mc",
+    "stem": "If 5 pencils cost $1.75, how much do 8 pencils cost at the same rate?",
+    "options": ["$2.40", "$2.80", "$3.15", "$3.50"],
+    "correctAnswer": "$2.80",
+    "explanation": "Unit price = $1.75 ÷ 5 = $0.35 per pencil. Cost of 8 = 8 × $0.35 = $2.80.",
+    "commonMistakes": [
+      "Dividing incorrectly ($1.75 ÷ 5 ≠ $0.25)",
+      "Multiplying $1.75 × 8 ÷ 4 instead of ÷ 5",
+      "Adding $1.75 + $1.75 = $3.50 for doubling approach"
+    ]
+  },
+  {
+    "id": "math-208",
+    "category": "math.functions.tables",
+    "difficulty": 1,
+    "type": "mc",
+    "stem": "The table shows a function rule. If the input is 1 → 5, 2 → 8, 3 → 11, 4 → 14, what is the output when the input is 7?",
+    "options": ["20", "23", "26", "29"],
+    "correctAnswer": "23",
+    "explanation": "The pattern increases by 3 each time. The rule is output = 3n + 2. When n = 7: 3(7) + 2 = 23.",
+    "commonMistakes": [
+      "Continuing to add 3 from 14 but miscounting steps",
+      "Using output = 3n (getting 21)",
+      "Using output = 3n + 5 from misidentifying the pattern"
+    ]
+  },
+  {
+    "id": "math-209",
+    "category": "math.sets.venn_diagrams",
+    "difficulty": 1,
+    "type": "mc",
+    "stem": "In a class of 30 students, 18 play basketball and 15 play soccer. If 8 play both sports, how many students play neither sport?",
+    "options": ["3", "5", "7", "10"],
+    "correctAnswer": "5",
+    "explanation": "Students playing at least one sport = 18 + 15 − 8 = 25. Neither = 30 − 25 = 5.",
+    "commonMistakes": [
+      "Forgetting to subtract the overlap (18 + 15 = 33)",
+      "Subtracting overlap twice",
+      "Thinking 8 is the answer for 'neither'"
+    ]
+  },
+  {
+    "id": "math-210",
+    "category": "math.measurement.unit_conversion",
+    "difficulty": 1,
+    "type": "mc",
+    "stem": "A car travels at 60 miles per hour. How many miles does it travel in 45 minutes?",
+    "options": ["40", "45", "50", "55"],
+    "correctAnswer": "45",
+    "explanation": "45 minutes = 45/60 = 3/4 of an hour. Distance = 60 × 3/4 = 45 miles.",
+    "commonMistakes": [
+      "Dividing 60 by 45",
+      "Using 45 minutes as 0.45 hours instead of 0.75",
+      "Multiplying 60 × 45 without converting"
+    ]
+  },
+  {
+    "id": "math-211",
+    "category": "math.algebra.systems",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "If x + y = 13 and x − y = 5, what is the value of x?",
+    "options": ["4", "8", "9", "10"],
+    "correctAnswer": "9",
+    "explanation": "Add the two equations: (x + y) + (x − y) = 13 + 5 → 2x = 18 → x = 9.",
+    "commonMistakes": [
+      "Finding y instead of x (y = 4)",
+      "Subtracting equations instead of adding",
+      "Dividing 13 by 2 and 5 by 2 separately"
+    ]
+  },
+  {
+    "id": "math-212",
+    "category": "math.algebra.systems",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "A store sells notebooks for $3 each and pens for $2 each. Maria buys a total of 10 items and spends $24. How many notebooks did she buy?",
+    "options": ["2", "4", "6", "8"],
+    "correctAnswer": "4",
+    "explanation": "Let n = notebooks, p = pens. n + p = 10 and 3n + 2p = 24. From the first equation, p = 10 − n. Substituting: 3n + 2(10 − n) = 24 → 3n + 20 − 2n = 24 → n = 4.",
+    "commonMistakes": [
+      "Setting up 3n + 2p = 10 (swapping equations)",
+      "Finding pens (6) instead of notebooks",
+      "Guessing without solving the system"
+    ]
+  },
+  {
+    "id": "math-213",
+    "category": "math.number_theory.gcf_lcm",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "What is the least common multiple (LCM) of 12 and 18?",
+    "options": ["6", "36", "72", "216"],
+    "correctAnswer": "36",
+    "explanation": "12 = 2² × 3 and 18 = 2 × 3². LCM uses the highest power of each prime: 2² × 3² = 4 × 9 = 36.",
+    "commonMistakes": [
+      "Finding GCF instead of LCM (6)",
+      "Multiplying 12 × 18 = 216",
+      "Choosing 72 (a common multiple but not the least)"
+    ]
+  },
+  {
+    "id": "math-214",
+    "category": "math.number_theory.divisibility",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "A number is divisible by 9 if the sum of its digits is divisible by 9. Which of the following is divisible by 9?",
+    "options": ["2,345", "3,457", "4,518", "5,239"],
+    "correctAnswer": "4,518",
+    "explanation": "Sum of digits of 4,518: 4 + 5 + 1 + 8 = 18, which is divisible by 9. Check others: 2,345 → 14, 3,457 → 19, 5,239 → 19. None of those are divisible by 9.",
+    "commonMistakes": [
+      "Checking only if even or divisible by 3",
+      "Adding digits incorrectly",
+      "Confusing the divisibility rule for 9 with the rule for 3"
+    ]
+  },
+  {
+    "id": "math-215",
+    "category": "math.algebra.inequalities",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "Solve for x: −2x + 7 ≥ 13",
+    "options": ["x ≤ −3", "x ≥ −3", "x ≤ 3", "x ≥ 3"],
+    "correctAnswer": "x ≤ −3",
+    "explanation": "−2x + 7 ≥ 13 → −2x ≥ 6 → x ≤ −3. Remember: dividing by a negative number flips the inequality sign.",
+    "commonMistakes": [
+      "Forgetting to flip the inequality when dividing by negative",
+      "Getting x ≥ −3 (forgot to flip)",
+      "Subtracting 7 incorrectly"
+    ]
+  },
+  {
+    "id": "math-216",
+    "category": "math.geometry.3d.surface_area",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "What is the surface area of a rectangular prism with length 5 cm, width 3 cm, and height 4 cm?",
+    "options": ["60 cm²", "80 cm²", "94 cm²", "120 cm²"],
+    "correctAnswer": "94 cm²",
+    "explanation": "SA = 2(lw + lh + wh) = 2(5×3 + 5×4 + 3×4) = 2(15 + 20 + 12) = 2(47) = 94 cm².",
+    "commonMistakes": [
+      "Finding volume instead (60 cm³)",
+      "Forgetting to multiply by 2",
+      "Missing one pair of faces"
+    ]
+  },
+  {
+    "id": "math-217",
+    "category": "math.scientific_notation",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "What is the result of (3 × 10⁴) × (2 × 10³) expressed in scientific notation?",
+    "options": ["6 × 10⁷", "6 × 10¹²", "5 × 10⁷", "6 × 10⁸"],
+    "correctAnswer": "6 × 10⁷",
+    "explanation": "Multiply coefficients: 3 × 2 = 6. Add exponents: 10⁴ × 10³ = 10⁷. Result: 6 × 10⁷.",
+    "commonMistakes": [
+      "Multiplying exponents instead of adding (10¹²)",
+      "Adding coefficients instead of multiplying",
+      "Miscounting the exponent"
+    ]
+  },
+  {
+    "id": "math-218",
+    "category": "math.proportional_reasoning",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "A map has a scale of 1 inch = 15 miles. Two cities are 4.5 inches apart on the map. What is the actual distance between them?",
+    "options": ["45 miles", "60 miles", "67.5 miles", "75 miles"],
+    "correctAnswer": "67.5 miles",
+    "explanation": "4.5 inches × 15 miles/inch = 67.5 miles.",
+    "commonMistakes": [
+      "Dividing instead of multiplying (4.5 ÷ 15)",
+      "Rounding 4.5 to 4 or 5",
+      "Using 10 miles per inch"
+    ]
+  },
+  {
+    "id": "math-219",
+    "category": "math.functions.tables",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "A function table shows: x = −1 → y = 5, x = 0 → y = 3, x = 1 → y = 1, x = 2 → y = −1. Which equation represents this function?",
+    "options": ["y = 2x + 3", "y = −2x + 3", "y = −x + 4", "y = x + 4"],
+    "correctAnswer": "y = −2x + 3",
+    "explanation": "The slope is (1 − 3)/(1 − 0) = −2. The y-intercept (when x = 0) is 3. So y = −2x + 3. Verify: x = −1 → −2(−1) + 3 = 5 ✓",
+    "commonMistakes": [
+      "Getting the sign of the slope wrong",
+      "Using the wrong y-intercept",
+      "Choosing y = −x + 4 (wrong slope)"
+    ]
+  },
+  {
+    "id": "math-220",
+    "category": "math.sets.venn_diagrams",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "In a survey of 50 students, 28 like pizza, 22 like tacos, and 10 like both. How many students like pizza but NOT tacos?",
+    "options": ["12", "18", "22", "28"],
+    "correctAnswer": "18",
+    "explanation": "Students who like pizza only = total pizza − both = 28 − 10 = 18.",
+    "commonMistakes": [
+      "Reporting 28 (all pizza, including overlap)",
+      "Subtracting from 50 instead of from 28",
+      "Finding tacos only (12) instead of pizza only"
+    ]
+  },
+  {
+    "id": "math-221",
+    "category": "math.number_theory.primes",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "What is the prime factorization of 180?",
+    "options": ["2² × 3² × 5", "2 × 3 × 5 × 6", "2² × 5 × 9", "2³ × 3 × 5"],
+    "correctAnswer": "2² × 3² × 5",
+    "explanation": "180 = 2 × 90 = 2 × 2 × 45 = 2² × 9 × 5 = 2² × 3² × 5.",
+    "commonMistakes": [
+      "Including non-prime factors like 6 or 9",
+      "Missing a factor of 2 or 3",
+      "Not fully breaking down composite factors"
+    ]
+  },
+  {
+    "id": "math-222",
+    "category": "math.geometry.3d.surface_area",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "A cube has a surface area of 150 cm². What is the length of one edge?",
+    "options": ["5 cm", "6 cm", "10 cm", "25 cm"],
+    "correctAnswer": "5 cm",
+    "explanation": "A cube has 6 faces. Area of one face = 150 ÷ 6 = 25 cm². Edge length = √25 = 5 cm.",
+    "commonMistakes": [
+      "Dividing by 4 instead of 6",
+      "Forgetting to take the square root (answering 25)",
+      "Dividing 150 by 2 instead of 6"
+    ]
+  },
+  {
+    "id": "math-223",
+    "category": "math.measurement.unit_conversion",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "A rectangular garden measures 6 feet by 9 feet. What is its area in square yards? (1 yard = 3 feet)",
+    "options": ["2", "5", "6", "18"],
+    "correctAnswer": "6",
+    "explanation": "Convert dimensions: 6 ft = 2 yd, 9 ft = 3 yd. Area = 2 × 3 = 6 square yards. Or: 54 sq ft ÷ 9 = 6 sq yd.",
+    "commonMistakes": [
+      "Dividing by 3 instead of 9 for square units (getting 18)",
+      "Not converting both dimensions",
+      "Dividing 54 by 3 instead of 9"
+    ]
+  },
+  {
+    "id": "math-224",
+    "category": "math.algebra.inequalities",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "Which graph represents the solution to 2x − 3 < 7?",
+    "options": [
+      "Open circle at 5, shaded left",
+      "Closed circle at 5, shaded left",
+      "Open circle at 5, shaded right",
+      "Closed circle at 2, shaded right"
+    ],
+    "correctAnswer": "Open circle at 5, shaded left",
+    "explanation": "2x − 3 < 7 → 2x < 10 → x < 5. Since it's strictly less than (not ≤), use an open circle at 5, shading to the left.",
+    "commonMistakes": [
+      "Using a closed circle (the inequality is strict, not ≤)",
+      "Shading right instead of left",
+      "Solving incorrectly and placing circle at 2"
+    ]
+  },
+  {
+    "id": "math-225",
+    "category": "math.proportional_reasoning",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "A machine produces 84 widgets in 12 minutes. At this rate, how many widgets will it produce in 45 minutes?",
+    "options": ["252", "294", "315", "378"],
+    "correctAnswer": "315",
+    "explanation": "Rate = 84 ÷ 12 = 7 widgets per minute. In 45 minutes: 7 × 45 = 315 widgets.",
+    "commonMistakes": [
+      "Dividing 84 by 45",
+      "Using 84 × 45 ÷ 10 instead of ÷ 12",
+      "Computing 84 × 3 = 252 (only tripling for 36 min)"
+    ]
+  },
+  {
+    "id": "math-226",
+    "category": "math.scientific_notation",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "The distance from Earth to the Sun is approximately 9.3 × 10⁷ miles. The distance from Earth to Mars at closest approach is about 3.4 × 10⁷ miles. How much farther is the Sun than Mars?",
+    "options": ["5.9 × 10⁷ miles", "5.9 × 10⁰ miles", "12.7 × 10⁷ miles", "6.3 × 10⁷ miles"],
+    "correctAnswer": "5.9 × 10⁷ miles",
+    "explanation": "Since both have the same power of 10: (9.3 − 3.4) × 10⁷ = 5.9 × 10⁷ miles.",
+    "commonMistakes": [
+      "Subtracting exponents instead of coefficients",
+      "Adding instead of subtracting",
+      "Getting confused when powers differ"
+    ]
+  },
+  {
+    "id": "math-227",
+    "category": "math.algebra.systems",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "At a bakery, 3 muffins and 2 cookies cost $13, and 1 muffin and 4 cookies cost $11. What is the cost of one cookie?",
+    "options": ["$1.50", "$2.00", "$2.50", "$3.00"],
+    "correctAnswer": "$2.00",
+    "explanation": "3m + 2c = 13 and m + 4c = 11. Multiply the second by 3: 3m + 12c = 33. Subtract the first equation: 10c = 20 → c = $2.00.",
+    "commonMistakes": [
+      "Finding the muffin price instead of cookie",
+      "Setting up equations incorrectly",
+      "Arithmetic errors in substitution"
+    ]
+  },
+  {
+    "id": "math-228",
+    "category": "math.number_theory.divisibility",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "What is the remainder when 257 is divided by 6?",
+    "options": ["1", "2", "3", "5"],
+    "correctAnswer": "5",
+    "explanation": "257 ÷ 6 = 42 remainder 5, since 42 × 6 = 252 and 257 − 252 = 5.",
+    "commonMistakes": [
+      "Computing 257 ÷ 6 as exactly 42.8 and converting wrong",
+      "Getting remainder 1 from a calculation error",
+      "Confusing quotient with remainder"
+    ]
+  },
+  {
+    "id": "math-229",
+    "category": "math.functions.tables",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "The table shows: x = 0 → y = 1, x = 1 → y = 3, x = 2 → y = 9, x = 3 → y = 27. What is the value of y when x = 5?",
+    "options": ["81", "125", "243", "729"],
+    "correctAnswer": "243",
+    "explanation": "The pattern is y = 3ˣ. When x = 5: y = 3⁵ = 243.",
+    "commonMistakes": [
+      "Thinking the pattern is linear (adding a constant)",
+      "Computing 3 × 5 = 15",
+      "Getting 3⁵ wrong (forgetting 3⁴ = 81, so 3⁵ = 243)"
+    ]
+  },
+  {
+    "id": "math-230",
+    "category": "math.sets.venn_diagrams",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "In a group of 40 students, 25 study French, 20 study Spanish, and every student studies at least one language. How many students study both?",
+    "options": ["5", "10", "15", "20"],
+    "correctAnswer": "5",
+    "explanation": "Since everyone studies at least one: French + Spanish − Both = Total → 25 + 20 − Both = 40 → Both = 5.",
+    "commonMistakes": [
+      "Subtracting 25 − 20 = 5 for the wrong reason",
+      "Thinking no one studies both since 25 + 20 = 45 > 40",
+      "Setting up the inclusion-exclusion formula incorrectly"
+    ]
+  },
+  {
+    "id": "math-231",
+    "category": "math.geometry.3d.cross_sections",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "A plane cuts through a cylinder parallel to its base. What shape is the cross-section?",
+    "options": ["Rectangle", "Circle", "Ellipse", "Triangle"],
+    "correctAnswer": "Circle",
+    "explanation": "When a plane cuts a cylinder parallel to the base, the cross-section is the same shape as the base — a circle.",
+    "commonMistakes": [
+      "Choosing rectangle (that's a vertical cut)",
+      "Choosing ellipse (that's an angled cut, not parallel)",
+      "Confusing cylinders with cones"
+    ]
+  },
+  {
+    "id": "math-232",
+    "category": "math.proportional_reasoning",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "If 3/4 of a number is 36, what is 5/6 of the same number?",
+    "options": ["30", "40", "42", "48"],
+    "correctAnswer": "40",
+    "explanation": "3/4 of the number = 36, so the number = 36 × 4/3 = 48. Then 5/6 of 48 = 48 × 5/6 = 40.",
+    "commonMistakes": [
+      "Finding the number but then reporting it as the answer (48)",
+      "Computing 36 × 5/6 directly without finding the number first",
+      "Arithmetic error in 48 × 5/6"
+    ]
+  },
+  {
+    "id": "math-233",
+    "category": "math.number_theory.gcf_lcm",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "Two buses leave the station at the same time. Bus A returns every 15 minutes and Bus B returns every 20 minutes. After how many minutes will both buses be at the station again at the same time?",
+    "options": ["30", "35", "60", "300"],
+    "correctAnswer": "60",
+    "explanation": "Find the LCM of 15 and 20. 15 = 3 × 5, 20 = 2² × 5. LCM = 2² × 3 × 5 = 60 minutes.",
+    "commonMistakes": [
+      "Multiplying 15 × 20 = 300",
+      "Adding 15 + 20 = 35",
+      "Finding GCF (5) instead of LCM"
+    ]
+  },
+  {
+    "id": "math-234",
+    "category": "math.measurement.unit_conversion",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "A package weighs 2.5 kilograms. Approximately how many pounds is this? (1 kg ≈ 2.2 lb)",
+    "options": ["4.7 lb", "5.0 lb", "5.5 lb", "6.0 lb"],
+    "correctAnswer": "5.5 lb",
+    "explanation": "2.5 kg × 2.2 lb/kg = 5.5 lb.",
+    "commonMistakes": [
+      "Dividing instead of multiplying (2.5 ÷ 2.2)",
+      "Rounding 2.2 to 2 (getting 5.0)",
+      "Using wrong conversion factor"
+    ]
+  },
+  {
+    "id": "math-235",
+    "category": "math.algebra.systems",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "The sum of two numbers is 50 and their difference is 14. What is the smaller number?",
+    "options": ["16", "18", "22", "32"],
+    "correctAnswer": "18",
+    "explanation": "Let the numbers be a and b where a > b. a + b = 50 and a − b = 14. Adding: 2a = 64 → a = 32. Then b = 50 − 32 = 18.",
+    "commonMistakes": [
+      "Finding the larger number (32) instead of the smaller",
+      "Subtracting the equations incorrectly",
+      "Dividing 50 by 2 and 14 by 2 separately"
+    ]
+  },
+  {
+    "id": "math-236",
+    "category": "math.geometry.3d.surface_area",
+    "difficulty": 3,
+    "type": "mc",
+    "stem": "A cylinder has a radius of 4 cm and a height of 10 cm. What is its total surface area? (Use π ≈ 3.14)",
+    "options": ["301.44 cm²", "351.68 cm²", "401.92 cm²", "502.40 cm²"],
+    "correctAnswer": "351.68 cm²",
+    "explanation": "SA = 2πr² + 2πrh = 2π(4)² + 2π(4)(10) = 32π + 80π = 112π ≈ 112 × 3.14 = 351.68 cm².",
+    "commonMistakes": [
+      "Forgetting the two circular bases (only computing lateral area 80π)",
+      "Using diameter instead of radius",
+      "Computing πr² instead of 2πr² for the bases"
+    ]
+  },
+  {
+    "id": "math-237",
+    "category": "math.number_theory.primes",
+    "difficulty": 3,
+    "type": "mc",
+    "stem": "The product of two consecutive prime numbers is 143. What is the sum of these two primes?",
+    "options": ["22", "24", "26", "28"],
+    "correctAnswer": "24",
+    "explanation": "143 = 11 × 13. Both 11 and 13 are consecutive primes. Their sum is 11 + 13 = 24.",
+    "commonMistakes": [
+      "Trying 7 × 21 (21 is not prime)",
+      "Thinking consecutive means differ by 1 (like 12 and 13)",
+      "Factor errors"
+    ]
+  },
+  {
+    "id": "math-238",
+    "category": "math.algebra.inequalities",
+    "difficulty": 3,
+    "type": "mc",
+    "stem": "How many integers satisfy the inequality −3 < 2x + 1 ≤ 9?",
+    "options": ["4", "5", "6", "7"],
+    "correctAnswer": "6",
+    "explanation": "Solve: −3 < 2x + 1 ≤ 9 → −4 < 2x ≤ 8 → −2 < x ≤ 4. Integers: −1, 0, 1, 2, 3, 4. That's 6 integers.",
+    "commonMistakes": [
+      "Including −2 (the inequality is strict on the left)",
+      "Excluding 4 (the inequality includes ≤ on the right)",
+      "Miscounting the integers in the range"
+    ]
+  },
+  {
+    "id": "math-239",
+    "category": "math.scientific_notation",
+    "difficulty": 3,
+    "type": "mc",
+    "stem": "A bacteria population doubles every hour. If there are 5 × 10³ bacteria at noon, how many will there be at 8 PM? Express in scientific notation.",
+    "options": ["4 × 10⁵", "1.28 × 10⁶", "4 × 10⁶", "5.12 × 10⁶"],
+    "correctAnswer": "1.28 × 10⁶",
+    "explanation": "8 hours of doubling: 5 × 10³ × 2⁸ = 5,000 × 256 = 1,280,000 = 1.28 × 10⁶.",
+    "commonMistakes": [
+      "Using 2⁸ = 128 instead of 256",
+      "Multiplying exponent by 2 instead of multiplying by 2⁸",
+      "Forgetting to convert back to proper scientific notation"
+    ]
+  },
+  {
+    "id": "math-240",
+    "category": "math.algebra.systems",
+    "difficulty": 3,
+    "type": "mc",
+    "stem": "A parking lot has motorcycles (2 wheels) and cars (4 wheels). There are 40 vehicles and 120 wheels total. How many motorcycles are in the lot?",
+    "options": ["10", "15", "20", "25"],
+    "correctAnswer": "20",
+    "explanation": "Let m = motorcycles, c = cars. m + c = 40 and 2m + 4c = 120. From the first: c = 40 − m. Substitute: 2m + 4(40 − m) = 120 → 2m + 160 − 4m = 120 → −2m = −40 → m = 20.",
+    "commonMistakes": [
+      "Finding cars (20) — in this case both equal 20",
+      "Setting up wheel equation as 4m + 2c (swapping)",
+      "Arithmetic errors in substitution"
+    ]
+  },
+  {
+    "id": "math-241",
+    "category": "math.geometry.3d.cross_sections",
+    "difficulty": 3,
+    "type": "mc",
+    "stem": "A cone with a circular base is cut by a plane that passes through the apex and is perpendicular to the base. What shape is the cross-section?",
+    "options": ["Circle", "Ellipse", "Triangle", "Parabola"],
+    "correctAnswer": "Triangle",
+    "explanation": "A plane through the apex of a cone perpendicular to the base creates a triangular cross-section (an isosceles triangle if the cut passes through the center).",
+    "commonMistakes": [
+      "Choosing circle (that's a cut parallel to the base)",
+      "Choosing ellipse (that's an angled cut not through apex)",
+      "Confusing cross-sections of different 3D shapes"
+    ]
+  },
+  {
+    "id": "math-242",
+    "category": "math.sets.venn_diagrams",
+    "difficulty": 3,
+    "type": "mc",
+    "stem": "In a school, 60 students were surveyed. 35 take Art, 30 take Music, 25 take Drama, 15 take both Art and Music, 10 take both Art and Drama, 12 take both Music and Drama, and 5 take all three. How many take at least one of the three subjects?",
+    "options": ["48", "53", "58", "60"],
+    "correctAnswer": "58",
+    "explanation": "By inclusion-exclusion: |A ∪ M ∪ D| = 35 + 30 + 25 − 15 − 10 − 12 + 5 = 58.",
+    "commonMistakes": [
+      "Forgetting to add back the triple overlap",
+      "Double-subtracting pairwise overlaps",
+      "Simply adding all three sets"
+    ]
+  },
+  {
+    "id": "math-243",
+    "category": "math.number_theory.gcf_lcm",
+    "difficulty": 3,
+    "type": "mc",
+    "stem": "The GCF of two numbers is 8 and their LCM is 96. If one number is 32, what is the other number?",
+    "options": ["12", "16", "24", "48"],
+    "correctAnswer": "24",
+    "explanation": "For any two numbers a and b: a × b = GCF × LCM. So 32 × b = 8 × 96 = 768. Therefore b = 768 ÷ 32 = 24.",
+    "commonMistakes": [
+      "Dividing LCM by GCF (96 ÷ 8 = 12)",
+      "Dividing 96 by 32",
+      "Not knowing the GCF × LCM = product relationship"
+    ]
+  },
+  {
+    "id": "math-244",
+    "category": "math.proportional_reasoning",
+    "difficulty": 3,
+    "type": "mc",
+    "stem": "A recipe for 8 servings requires 2/3 cup of sugar. How much sugar is needed for 20 servings?",
+    "options": ["1 cup", "1⅓ cups", "1⅔ cups", "2 cups"],
+    "correctAnswer": "1⅔ cups",
+    "explanation": "Set up proportion: (2/3)/8 = x/20. Cross multiply: 8x = 20 × 2/3 = 40/3. So x = 40/24 = 5/3 = 1⅔ cups.",
+    "commonMistakes": [
+      "Multiplying 2/3 × 20 without dividing by 8",
+      "Setting up the proportion incorrectly",
+      "Converting fractions incorrectly"
+    ]
+  },
+  {
+    "id": "math-245",
+    "category": "math.geometry.3d.surface_area",
+    "difficulty": 3,
+    "type": "mc",
+    "stem": "Two identical cubes, each with edge length 3 cm, are glued together along one face. What is the surface area of the resulting rectangular prism?",
+    "options": ["72 cm²", "90 cm²", "108 cm²", "126 cm²"],
+    "correctAnswer": "90 cm²",
+    "explanation": "The combined shape is a 3 × 3 × 6 rectangular prism. SA = 2(3×3 + 3×6 + 3×6) = 2(9 + 18 + 18) = 2(45) = 90 cm². Alternatively: two cubes have 2 × 6 × 9 = 108, minus the 2 joined faces: 108 − 2(9) = 90.",
+    "commonMistakes": [
+      "Computing 2 × 54 = 108 (not subtracting joined faces)",
+      "Only subtracting one face instead of two",
+      "Using wrong dimensions for the combined shape"
+    ]
+  },
+  {
+    "id": "math-246",
+    "category": "math.number_theory.divisibility",
+    "difficulty": 3,
+    "type": "grid-in",
+    "stem": "What is the smallest positive integer that is divisible by both 12 and 18 and is also a perfect square?",
+    "correctAnswer": "36",
+    "explanation": "LCM(12, 18) = 36. Check if 36 is a perfect square: √36 = 6 ✓. So 36 is the smallest such number.",
+    "commonMistakes": [
+      "Finding LCM but not checking if it's a perfect square",
+      "Trying 144 (also works but not the smallest)",
+      "Confusing LCM with product (216)"
+    ]
+  },
+  {
+    "id": "math-247",
+    "category": "math.algebra.systems",
+    "difficulty": 3,
+    "type": "grid-in",
+    "stem": "If 2x + 3y = 19 and 4x − y = 3, what is the value of x + y?",
+    "correctAnswer": "7",
+    "explanation": "From 4x − y = 3: y = 4x − 3. Substitute into first: 2x + 3(4x − 3) = 19 → 2x + 12x − 9 = 19 → 14x = 28 → x = 2. Then y = 4(2) − 3 = 5. So x + y = 7.",
+    "commonMistakes": [
+      "Finding x or y alone instead of x + y",
+      "Sign errors in substitution",
+      "Solving the system incorrectly"
+    ]
+  },
+  {
+    "id": "math-248",
+    "category": "math.functions.tables",
+    "difficulty": 3,
+    "type": "grid-in",
+    "stem": "A function is defined by f(x) = 2x² − 3x + 1. What is f(4)?",
+    "correctAnswer": "21",
+    "explanation": "f(4) = 2(4)² − 3(4) + 1 = 2(16) − 12 + 1 = 32 − 12 + 1 = 21.",
+    "commonMistakes": [
+      "Computing (2×4)² instead of 2×(4²)",
+      "Forgetting order of operations",
+      "Sign error with −3(4)"
+    ]
+  },
+  {
+    "id": "math-249",
+    "category": "math.proportional_reasoning",
+    "difficulty": 3,
+    "type": "grid-in",
+    "stem": "A car uses 5 gallons of gas to travel 140 miles. How many gallons will it need to travel 392 miles?",
+    "correctAnswer": "14",
+    "explanation": "Rate = 140 ÷ 5 = 28 miles per gallon. Gallons needed = 392 ÷ 28 = 14.",
+    "commonMistakes": [
+      "Dividing 392 by 5 instead of finding the rate first",
+      "Computing miles per gallon incorrectly",
+      "Setting up the proportion upside down"
+    ]
+  },
+  {
+    "id": "math-250",
+    "category": "math.scientific_notation",
+    "difficulty": 3,
+    "type": "grid-in",
+    "stem": "If 8 × 10⁵ is divided by 2.5 × 10², what is the result? (Enter as a whole number.)",
+    "correctAnswer": "3200",
+    "explanation": "(8 × 10⁵) ÷ (2.5 × 10²) = (8 ÷ 2.5) × 10⁵⁻² = 3.2 × 10³ = 3,200.",
+    "commonMistakes": [
+      "Subtracting exponents wrong (10⁷ or 10³)",
+      "Dividing 8 by 2.5 incorrectly",
+      "Multiplying instead of dividing"
+    ]
+  }
+]

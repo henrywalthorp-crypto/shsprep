@@ -1,0 +1,262 @@
+{
+  "batch": "ela_reading_batch_005",
+  "generated": "2026-02-17",
+  "passages": [
+    {
+      "passageId": "passage-ela-rc-092",
+      "genre": "social_studies_civics",
+      "title": "The Quiet Power of Jury Duty",
+      "text": "Most Americans dread the pale envelope from the county courthouse. Jury duty, they grumble, is an inconvenience—a disruption to work schedules, childcare arrangements, and personal plans. Yet this civic obligation, established in the Sixth and Seventh Amendments to the Constitution, represents one of the most direct ways ordinary citizens shape the justice system.\n\nThe right to a trial by jury was not an afterthought. English colonists carried memories of the Star Chamber, a secretive royal court that tried defendants without juries and often without fairness. When the framers drafted the Bill of Rights, they insisted that both criminal and civil cases could be heard by panels of everyday people rather than government-appointed judges alone. The jury box, in their view, was a checkpoint against tyranny.\n\nIn practice, the system works like this: eligible adults are randomly selected from voter-registration rolls, driver's-license databases, or tax records. Those who are called report to a courthouse, where attorneys for each side question them during a process called voir dire. Prospective jurors who show obvious bias or conflict of interest are dismissed; the rest are seated. Once a trial begins, jurors hear evidence, deliberate in private, and render a verdict that can alter lives.\n\nCritics argue that the modern jury system is flawed. Juror pay—often as low as fifteen dollars per day—creates a financial hardship that falls disproportionately on hourly workers. Some scholars contend that complex cases involving forensic accounting or biotechnology exceed the understanding of untrained citizens. Others point to studies showing that implicit biases related to race, class, and appearance can influence verdicts despite judges' instructions to remain impartial.\n\nDefenders counter that these problems call for reform, not abolition. Raising juror compensation, providing clearer expert testimony, and diversifying jury pools are achievable steps. Moreover, they argue, the alternative—leaving all decisions to professional judges—concentrates power in ways the founders explicitly feared.\n\nUltimately, jury duty asks citizens to do something remarkable: set aside personal comfort and render judgment on behalf of their community. It is slow, imperfect, and sometimes tedious. It is also, as one legal historian noted, 'democracy in its most granular form.' Whether that phrase inspires pride or a sigh may depend on how recently one received that pale envelope.",
+      "wordCount": 352,
+      "questions": [
+        {
+          "id": "ela-rc-092",
+          "passageId": "passage-ela-rc-092",
+          "category": "ela.reading.main_idea",
+          "difficulty": 1,
+          "type": "mc",
+          "stem": "Which of the following best expresses the main idea of the passage?",
+          "options": [
+            "A. Jury duty is an outdated practice that should be replaced by professional judges.",
+            "B. Although often viewed as a burden, jury duty is a vital democratic institution worth preserving and improving.",
+            "C. The American jury system was copied directly from English courts without significant changes.",
+            "D. Most citizens enjoy serving on juries because it gives them power over legal outcomes."
+          ],
+          "correctAnswer": "B",
+          "explanation": "The passage acknowledges complaints about jury duty but consistently argues that it is a meaningful democratic practice. The final paragraphs show that defenders call for reform rather than abolition, and the closing lines frame jury duty as 'democracy in its most granular form.'",
+          "commonMistakes": ["A is contradicted by the passage's defense of the system.", "D is unsupported; the passage opens by noting that most people dread jury duty."]
+        },
+        {
+          "id": "ela-rc-093",
+          "passageId": "passage-ela-rc-092",
+          "category": "ela.reading.vocabulary_in_context",
+          "difficulty": 2,
+          "type": "mc",
+          "stem": "As used in paragraph 2, the word 'checkpoint' most nearly means —",
+          "options": [
+            "A. a place where travelers are stopped and inspected",
+            "B. a safeguard that limits the abuse of authority",
+            "C. a physical barrier preventing entry",
+            "D. a military post along a border"
+          ],
+          "correctAnswer": "B",
+          "explanation": "In context, the framers viewed the jury box as a 'checkpoint against tyranny,' meaning a safeguard or control mechanism that prevents the government from exercising unchecked power. The word is used figuratively, not in its literal travel or military sense.",
+          "commonMistakes": ["A and D reflect literal meanings that do not fit the context of limiting governmental power."]
+        },
+        {
+          "id": "ela-rc-094",
+          "passageId": "passage-ela-rc-092",
+          "category": "ela.reading.inference",
+          "difficulty": 2,
+          "type": "mc",
+          "stem": "Based on the passage, which of the following can most reasonably be inferred about the Star Chamber?",
+          "options": [
+            "A. It was a court admired by the American colonists for its efficiency.",
+            "B. It used juries composed of randomly selected English citizens.",
+            "C. Its proceedings were considered unjust and motivated the framers to protect jury rights.",
+            "D. It was established after the American Revolution as an alternative to juries."
+          ],
+          "correctAnswer": "C",
+          "explanation": "The passage states the Star Chamber was 'secretive,' tried defendants 'without juries and often without fairness,' and that colonists 'carried memories' of it when insisting on jury rights. This implies it was viewed as unjust and directly influenced the constitutional protections.",
+          "commonMistakes": ["A contradicts the negative description.", "D is chronologically impossible since the Star Chamber was English and predated the Revolution."]
+        },
+        {
+          "id": "ela-rc-095",
+          "passageId": "passage-ela-rc-092",
+          "category": "ela.reading.claim_evidence",
+          "difficulty": 3,
+          "type": "mc",
+          "stem": "Which claim made by critics of the jury system is supported with a specific detail in the passage?",
+          "options": [
+            "A. Juries are too large to deliberate effectively.",
+            "B. Juror compensation is so low that it creates financial hardship for hourly workers.",
+            "C. Judges are more qualified than jurors to handle all types of cases.",
+            "D. The jury selection process takes too long and wastes taxpayer money."
+          ],
+          "correctAnswer": "B",
+          "explanation": "The passage specifically states that juror pay is 'often as low as fifteen dollars per day' and that this 'creates a financial hardship that falls disproportionately on hourly workers.' This is a concrete detail supporting the critics' claim.",
+          "commonMistakes": ["C is a related idea but the passage frames it narrowly around complex cases, not all cases, and does not provide a specific supporting detail the way option B does."]
+        },
+        {
+          "id": "ela-rc-096",
+          "passageId": "passage-ela-rc-092",
+          "category": "ela.reading.authors_purpose",
+          "difficulty": 2,
+          "type": "mc",
+          "stem": "The author most likely includes the description of the voir dire process in order to —",
+          "options": [
+            "A. persuade readers that the jury selection process is unfair",
+            "B. explain how the system attempts to seat unbiased jurors",
+            "C. argue that attorneys have too much control over trial outcomes",
+            "D. show that most people are excluded from serving on juries"
+          ],
+          "correctAnswer": "B",
+          "explanation": "The author describes voir dire neutrally, explaining that attorneys question prospective jurors and dismiss those who show 'obvious bias or conflict of interest.' The purpose is informational—showing the mechanism designed to produce fair juries.",
+          "commonMistakes": ["A and C assign a critical tone that is not present in the paragraph describing voir dire."]
+        },
+        {
+          "id": "ela-rc-097",
+          "passageId": "passage-ela-rc-092",
+          "category": "ela.reading.text_structure",
+          "difficulty": 2,
+          "type": "mc",
+          "stem": "How is the passage primarily organized?",
+          "options": [
+            "A. A series of personal anecdotes arranged in chronological order",
+            "B. A problem is presented and a single solution is argued throughout",
+            "C. Background and context are provided, followed by opposing viewpoints and a concluding reflection",
+            "D. A scientific hypothesis is tested through multiple experiments"
+          ],
+          "correctAnswer": "C",
+          "explanation": "The passage begins with context about public attitudes and historical background, then presents critics' concerns and defenders' counterarguments, and closes with a reflective statement. This matches option C.",
+          "commonMistakes": ["B is too narrow; the passage presents multiple perspectives rather than arguing for a single solution."]
+        },
+        {
+          "id": "ela-rc-098",
+          "passageId": "passage-ela-rc-092",
+          "category": "ela.reading.tone_mood",
+          "difficulty": 3,
+          "type": "mc",
+          "stem": "Which word best describes the author's tone in the final paragraph?",
+          "options": [
+            "A. dismissive",
+            "B. reflective",
+            "C. outraged",
+            "D. sarcastic"
+          ],
+          "correctAnswer": "B",
+          "explanation": "The final paragraph weighs both the ideal ('democracy in its most granular form') and the reality ('slow, imperfect, and sometimes tedious') with a measured, thoughtful quality. The closing line gently acknowledges mixed feelings without anger or mockery, making 'reflective' the best fit.",
+          "commonMistakes": ["D may be tempting because of the wry last sentence, but the overall tone is more thoughtful than mocking."]
+        }
+      ]
+    },
+    {
+      "passageId": "passage-ela-rc-099",
+      "genre": "literary_fiction_coming_of_age",
+      "title": "The Height of the Fence",
+      "text": "The summer Marisol turned thirteen, the chain-link fence between her yard and Mr. Gustafson's seemed to shrink. She had always thought of it as enormous—an impassable wall separating her world of bicycles and popsicle-stained fingers from his silent kingdom of rose bushes and birdbaths. But now, standing on the balls of her feet, she could see clear over the top rail, and the roses looked less like forbidden treasure and more like plants that needed watering.\n\nMr. Gustafson had lived alone for as long as anyone on Delancey Street could remember. Neighborhood legend held that he had once been a jazz musician, though no one had heard him play. He communicated mainly through frowns aimed at children who kicked soccer balls too close to his fence and through the occasional nod at Mrs. Pak when she brought him soup in winter.\n\nMarisol's mother had always warned her to leave the old man alone. 'He likes his quiet,' she would say, as though quiet were something solid, something you could wrap in tissue paper and place on a shelf. Marisol had obeyed, mostly, until the Wednesday afternoon she spotted the garden hose running unattended across his front walk, water pooling near the porch steps. She watched for ten minutes, waiting for him to appear. When he didn't, she climbed the fence.\n\nThe door was open a crack. She called out twice before stepping inside. The living room smelled like old newspapers and coffee. Mr. Gustafson sat in a recliner near the window, his left foot wrapped in a beige bandage, a cane propped against the armrest. He looked at her the way a cat regards a new piece of furniture—warily, with the faintest curiosity.\n\n'Your hose is on,' she said.\n\n'I know,' he replied. 'Can't walk to turn it off.'\n\nShe turned off the hose, then came back and stood in the doorway, unsure whether to leave. On a shelf behind him sat a brass trumpet, dull with tarnish but unmistakable. He followed her gaze.\n\n'Haven't touched it in twelve years,' he said, as if answering a question she hadn't asked.\n\nMarisol came back the next day, and the day after that. She weeded the rose beds. She carried groceries. She asked questions he mostly didn't answer. But one evening, as she was leaving, she heard a sound through the screen door—thin, uncertain, like a voice remembering how to speak. A single note from a trumpet, held until it filled the yard and drifted over the fence that no longer seemed to separate anything at all.",
+      "wordCount": 420,
+      "questions": [
+        {
+          "id": "ela-rc-099",
+          "passageId": "passage-ela-rc-099",
+          "category": "ela.reading.main_idea",
+          "difficulty": 2,
+          "type": "mc",
+          "stem": "Which of the following best states the theme of the passage?",
+          "options": [
+            "A. Elderly people should not be left to live alone without supervision.",
+            "B. Growing up involves seeing familiar boundaries in new ways and reaching across them.",
+            "C. Music has the power to heal all emotional wounds.",
+            "D. Children are better at solving problems than adults."
+          ],
+          "correctAnswer": "B",
+          "explanation": "The passage traces Marisol's shift from viewing the fence as an 'impassable wall' to something that 'no longer seemed to separate anything at all.' Her physical growth parallels her emotional growth as she crosses a social boundary to connect with Mr. Gustafson. This aligns with option B.",
+          "commonMistakes": ["C is too broad; the trumpet appears only at the end and the passage is about connection, not music as a cure."]
+        },
+        {
+          "id": "ela-rc-100",
+          "passageId": "passage-ela-rc-099",
+          "category": "ela.reading.vocabulary_in_context",
+          "difficulty": 1,
+          "type": "mc",
+          "stem": "As used in paragraph 4, the word 'warily' most nearly means —",
+          "options": [
+            "A. angrily",
+            "B. cautiously",
+            "C. eagerly",
+            "D. sadly"
+          ],
+          "correctAnswer": "B",
+          "explanation": "Mr. Gustafson looks at Marisol 'the way a cat regards a new piece of furniture—warily, with the faintest curiosity.' The simile conveys careful, guarded observation, which matches 'cautiously.'",
+          "commonMistakes": ["A is too strong; the comparison to a curious cat suggests caution, not anger."]
+        },
+        {
+          "id": "ela-rc-101",
+          "passageId": "passage-ela-rc-099",
+          "category": "ela.reading.inference",
+          "difficulty": 2,
+          "type": "mc",
+          "stem": "What can the reader most reasonably infer about why Mr. Gustafson stopped playing the trumpet?",
+          "options": [
+            "A. He lost the trumpet and only recently found it again.",
+            "B. His neighbors complained about the noise.",
+            "C. An emotional or personal loss led him to withdraw from music and from others.",
+            "D. He was told by a doctor that playing would damage his lungs."
+          ],
+          "correctAnswer": "C",
+          "explanation": "The passage establishes that Mr. Gustafson lives alone, communicates minimally, and has not touched the trumpet in twelve years. He plays a tentative note only after Marisol's companionship. Together these details suggest he withdrew from music due to personal loss or isolation, and her connection reawakened something in him.",
+          "commonMistakes": ["A is contradicted by the trumpet being visible on a shelf.", "D has no textual support."]
+        },
+        {
+          "id": "ela-rc-102",
+          "passageId": "passage-ela-rc-099",
+          "category": "ela.reading.best_evidence",
+          "difficulty": 3,
+          "type": "mc",
+          "stem": "Which detail from the passage best supports the idea that Marisol is maturing?",
+          "options": [
+            "A. She had always thought of the fence as enormous—an impassable wall.",
+            "B. She could see clear over the top rail, and the roses looked less like forbidden treasure and more like plants that needed watering.",
+            "C. Neighborhood legend held that he had once been a jazz musician.",
+            "D. The living room smelled like old newspapers and coffee."
+          ],
+          "correctAnswer": "B",
+          "explanation": "This sentence captures both Marisol's physical growth (seeing over the fence) and her shift in perspective (roses becoming ordinary plants rather than 'forbidden treasure'). The change from a childlike, romanticized view to a practical one is a direct marker of maturation.",
+          "commonMistakes": ["A describes her earlier, childlike perception, which is the contrast point, not the evidence of growth itself."]
+        },
+        {
+          "id": "ela-rc-103",
+          "passageId": "passage-ela-rc-099",
+          "category": "ela.reading.authors_purpose",
+          "difficulty": 2,
+          "type": "mc",
+          "stem": "The author most likely compares quiet to something you could 'wrap in tissue paper and place on a shelf' in order to —",
+          "options": [
+            "A. show that Marisol's mother collects fragile objects",
+            "B. suggest that Marisol's mother treats Mr. Gustafson's privacy as something precious and delicate",
+            "C. indicate that the house is cluttered with wrapped items",
+            "D. demonstrate that Marisol does not understand figurative language"
+          ],
+          "correctAnswer": "B",
+          "explanation": "The simile treats quiet as a fragile, valuable object, revealing the mother's attitude that Mr. Gustafson's solitude should be respected and carefully preserved. It characterizes the mother's protectiveness of his boundaries.",
+          "commonMistakes": ["A takes the simile literally rather than recognizing its figurative meaning."]
+        },
+        {
+          "id": "ela-rc-104",
+          "passageId": "passage-ela-rc-099",
+          "category": "ela.reading.text_structure",
+          "difficulty": 2,
+          "type": "mc",
+          "stem": "The fence in the passage primarily serves as —",
+          "options": [
+            "A. a symbol of the barriers between people that can be overcome through compassion",
+            "B. a plot device that creates physical danger for Marisol",
+            "C. evidence that the neighborhood is poorly maintained",
+            "D. a reminder that Mr. Gustafson is wealthier than Marisol's family"
+          ],
+          "correctAnswer": "A",
+          "explanation": "The fence evolves from an 'impassable wall' to something that 'no longer seemed to separate anything at all,' mirroring the emotional distance that closes between Marisol and Mr. Gustafson. It functions as a symbol of interpersonal barriers.",
+          "commonMistakes": ["B is unsupported; climbing the fence is described without any sense of danger."]
+        },
+        {
+          "id": "ela-rc-105",
+          "passageId": "passage-ela-rc-099",
+          "category": "ela.reading.tone_mood",
+          "difficulty": 3,
+          "type": "mc",
+          "stem": "Which words best describe the mood of the passage's final sentence?",
+          "options": [
+            "A. tense and suspenseful",
+            "B. hopeful and tender",
+            "C. humorous and lighthearted",
+            "D. bitter and regretful"
+          ],
+          "correctAnswer": "B",
+          "explanation": "The final sentence describes a single trumpet note that is 'thin, uncertain, like a voice remembering how to speak,' which fills the yard and drifts over a fence that no longer separates. The imagery conveys a fragile but genuine moment of reconnection, creating a mood that is both hopeful and tender.",
+          "commonMistakes": ["A is incorrect; the tension of the story has already resolved by this point, and the imagery is warm rather than suspenseful."]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,516 @@
+[
+  {
+    "id": "math-251",
+    "category": "math.percent-applications",
+    "difficulty": 1,
+    "type": "mc",
+    "stem": "A jacket originally costs $80. It is on sale for 25% off. What is the sale price?",
+    "options": ["$55", "$60", "$65", "$20"],
+    "correctAnswer": "B",
+    "explanation": "25% of $80 = 0.25 × 80 = $20 discount. Sale price = $80 − $20 = $60.",
+    "commonMistakes": [
+      "Reporting the discount amount ($20) instead of the sale price",
+      "Computing 25% incorrectly as $25 and getting $55"
+    ]
+  },
+  {
+    "id": "math-252",
+    "category": "math.ratio-proportion",
+    "difficulty": 1,
+    "type": "mc",
+    "stem": "A recipe calls for 3 cups of flour and 2 cups of sugar. If you use 9 cups of flour, how many cups of sugar do you need?",
+    "options": ["4", "5", "6", "8"],
+    "correctAnswer": "C",
+    "explanation": "The ratio flour:sugar = 3:2. Scale factor = 9 ÷ 3 = 3. Sugar = 2 × 3 = 6 cups.",
+    "commonMistakes": [
+      "Adding 6 to 2 instead of multiplying",
+      "Using the wrong ratio direction"
+    ]
+  },
+  {
+    "id": "math-253",
+    "category": "math.sequences-patterns",
+    "difficulty": 1,
+    "type": "mc",
+    "stem": "What is the next term in the sequence 4, 10, 16, 22, 28, …?",
+    "options": ["32", "34", "36", "30"],
+    "correctAnswer": "B",
+    "explanation": "The common difference is 6. The next term is 28 + 6 = 34.",
+    "commonMistakes": [
+      "Using a common difference of 4 instead of 6",
+      "Miscounting and adding only 2"
+    ]
+  },
+  {
+    "id": "math-254",
+    "category": "math.word-problems",
+    "difficulty": 1,
+    "type": "mc",
+    "stem": "Marcus has 48 stickers. He gives 1/4 of them to his sister and 1/3 of them to his friend. How many stickers does Marcus have left?",
+    "options": ["20", "24", "28", "16"],
+    "correctAnswer": "A",
+    "explanation": "Sister gets 48 × 1/4 = 12. Friend gets 48 × 1/3 = 16. Marcus keeps 48 − 12 − 16 = 20.",
+    "commonMistakes": [
+      "Taking 1/3 of the remaining after giving 1/4 away, instead of 1/3 of the original 48",
+      "Adding the fractions incorrectly as 1/4 + 1/3 = 2/7"
+    ]
+  },
+  {
+    "id": "math-255",
+    "category": "math.algebraic-modeling",
+    "difficulty": 1,
+    "type": "mc",
+    "stem": "A parking garage charges $5 for the first hour and $3 for each additional hour. Which expression represents the total cost for h hours of parking, where h ≥ 1?",
+    "options": ["5 + 3h", "5 + 3(h − 1)", "3 + 5h", "8h"],
+    "correctAnswer": "B",
+    "explanation": "$5 covers the first hour. The remaining (h − 1) hours cost $3 each, giving 5 + 3(h − 1).",
+    "commonMistakes": [
+      "Charging $3 for all h hours instead of (h − 1) additional hours",
+      "Combining 5 + 3 = 8 and multiplying by h"
+    ]
+  },
+  {
+    "id": "math-256",
+    "category": "math.geometry.composite",
+    "difficulty": 1,
+    "type": "mc",
+    "stem": "A rectangular garden is 12 feet long and 8 feet wide. A walkway 1 foot wide surrounds the garden on all sides. What is the area of the walkway alone?",
+    "options": ["44 sq ft", "40 sq ft", "48 sq ft", "52 sq ft"],
+    "correctAnswer": "A",
+    "explanation": "Outer rectangle: (12 + 2) × (8 + 2) = 14 × 10 = 140 sq ft. Garden: 12 × 8 = 96 sq ft. Walkway = 140 − 96 = 44 sq ft.",
+    "commonMistakes": [
+      "Adding only 1 to each dimension instead of 2 (both sides)",
+      "Computing perimeter instead of area difference"
+    ]
+  },
+  {
+    "id": "math-257",
+    "category": "math.data-interpretation",
+    "difficulty": 1,
+    "type": "mc",
+    "stem": "A student scored 78, 85, 90, 72, and 95 on five tests. What is the mean score?",
+    "options": ["82", "84", "85", "86"],
+    "correctAnswer": "B",
+    "explanation": "Sum = 78 + 85 + 90 + 72 + 95 = 420. Mean = 420 ÷ 5 = 84.",
+    "commonMistakes": [
+      "Finding the median (85) instead of the mean",
+      "Dividing by 4 instead of 5"
+    ]
+  },
+  {
+    "id": "math-258",
+    "category": "math.percent-applications",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "Samira buys a meal that costs $45. She must pay 8% sales tax and then leaves a 20% tip on the pre-tax amount. What is her total spending?",
+    "options": ["$57.00", "$57.60", "$58.60", "$57.80"],
+    "correctAnswer": "B",
+    "explanation": "Tax = 0.08 × 45 = $3.60. Tip = 0.20 × 45 = $9.00. Total = 45 + 3.60 + 9.00 = $57.60.",
+    "commonMistakes": [
+      "Computing the tip on the after-tax amount instead of pre-tax",
+      "Forgetting to add the original meal cost"
+    ]
+  },
+  {
+    "id": "math-259",
+    "category": "math.percent-applications",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "A store marks up a product by 40% over its wholesale cost and then offers a 25% discount to customers. If the wholesale cost is $60, what does a customer pay?",
+    "options": ["$63.00", "$69.00", "$54.00", "$72.00"],
+    "correctAnswer": "A",
+    "explanation": "Markup: 60 × 1.40 = $84. Discount: 84 × 0.75 = $63.",
+    "commonMistakes": [
+      "Subtracting 25% from 40% to get a net 15% markup ($69)",
+      "Applying the discount to the wholesale price instead of the marked-up price"
+    ]
+  },
+  {
+    "id": "math-260",
+    "category": "math.ratio-proportion",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "On a map, 2 centimeters represents 15 kilometers. Two cities are 54 kilometers apart. How far apart are they on the map?",
+    "options": ["6.2 cm", "7.0 cm", "7.2 cm", "8.0 cm"],
+    "correctAnswer": "C",
+    "explanation": "2 cm / 15 km = x cm / 54 km → x = (2 × 54) / 15 = 108 / 15 = 7.2 cm.",
+    "commonMistakes": [
+      "Dividing 54 by 2 first and then by 15",
+      "Setting up the proportion upside down"
+    ]
+  },
+  {
+    "id": "math-261",
+    "category": "math.word-problems",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "Two trains leave the same station at the same time, traveling in opposite directions. One travels at 60 mph and the other at 80 mph. After how many hours will they be 210 miles apart?",
+    "options": ["1.5 hours", "2 hours", "2.5 hours", "3 hours"],
+    "correctAnswer": "A",
+    "explanation": "Combined speed = 60 + 80 = 140 mph. Time = 210 / 140 = 1.5 hours.",
+    "commonMistakes": [
+      "Dividing the distance by only one train's speed",
+      "Subtracting the speeds instead of adding them"
+    ]
+  },
+  {
+    "id": "math-262",
+    "category": "math.algebraic-modeling",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "A gym charges a one-time enrollment fee of $60 and a monthly fee of $30. A second gym charges no enrollment fee but $45 per month. After how many months will the total cost be the same at both gyms?",
+    "options": ["2 months", "3 months", "4 months", "5 months"],
+    "correctAnswer": "C",
+    "explanation": "60 + 30m = 45m → 60 = 15m → m = 4.",
+    "commonMistakes": [
+      "Setting up the equation incorrectly",
+      "Dividing 60 by 30 or 45 instead of by the difference (15)"
+    ]
+  },
+  {
+    "id": "math-263",
+    "category": "math.absolute-value",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "What are all values of x that satisfy |2x − 5| = 9?",
+    "options": ["x = 7 or x = −2", "x = 7 or x = 2", "x = −7 or x = 2", "x = 7 only"],
+    "correctAnswer": "A",
+    "explanation": "Case 1: 2x − 5 = 9 → x = 7. Case 2: 2x − 5 = −9 → x = −2.",
+    "commonMistakes": [
+      "Only solving one case of the absolute value equation",
+      "Getting the sign wrong in the second case"
+    ]
+  },
+  {
+    "id": "math-264",
+    "category": "math.sequences-patterns",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "The first term of a sequence is 3 and each subsequent term is found by doubling the previous term and subtracting 1. What is the 5th term?",
+    "options": ["33", "31", "35", "29"],
+    "correctAnswer": "A",
+    "explanation": "a₁=3, a₂=5, a₃=9, a₄=17, a₅=33.",
+    "commonMistakes": [
+      "Forgetting to subtract 1 at each step",
+      "Finding the 4th term (17) instead of the 5th"
+    ]
+  },
+  {
+    "id": "math-265",
+    "category": "math.geometry.composite",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "A figure is made by attaching a semicircle to one end of a rectangle. The rectangle is 10 cm long and 6 cm wide, and the semicircle's diameter equals the width. What is the total area? (Use π ≈ 3.14)",
+    "options": ["74.13 sq cm", "78.42 sq cm", "88.26 sq cm", "65.72 sq cm"],
+    "correctAnswer": "A",
+    "explanation": "Rectangle area = 10 × 6 = 60. Semicircle: radius = 3, area = π(3)²/2 ≈ 14.13. Total ≈ 74.13 sq cm.",
+    "commonMistakes": [
+      "Using the full width (6) as the radius instead of half (3)",
+      "Computing a full circle area instead of a semicircle"
+    ]
+  },
+  {
+    "id": "math-266",
+    "category": "math.data-interpretation",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "A bar graph shows book sales: Jan = 120, Feb = 95, Mar = 140, Apr = 145. What is the percent increase from February to April, to the nearest tenth?",
+    "options": ["about 52.6%", "about 50.0%", "about 34.5%", "about 47.4%"],
+    "correctAnswer": "A",
+    "explanation": "Increase = 145 − 95 = 50. Percent increase = (50/95) × 100 ≈ 52.6%.",
+    "commonMistakes": [
+      "Dividing by April's value (145) instead of February's (95)",
+      "Computing the increase from January instead of February"
+    ]
+  },
+  {
+    "id": "math-267",
+    "category": "math.word-problems",
+    "difficulty": 3,
+    "type": "mc",
+    "stem": "A pool can be filled by Pipe A in 6 hours and by Pipe B in 4 hours. If both pipes are opened at the same time, how long does it take to fill the pool?",
+    "options": ["2 hours", "2 hours 12 min", "2 hours 24 min", "3 hours"],
+    "correctAnswer": "C",
+    "explanation": "Combined rate = 1/6 + 1/4 = 5/12 pool/hr. Time = 12/5 = 2.4 hours = 2 hours 24 minutes.",
+    "commonMistakes": [
+      "Averaging 6 and 4 to get 5 hours",
+      "Adding the times to get 10 hours"
+    ]
+  },
+  {
+    "id": "math-268",
+    "category": "math.percent-applications",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "After a 15% discount, a laptop costs $629. What was the original price?",
+    "options": ["$720.00", "$740.00", "$723.35", "$680.00"],
+    "correctAnswer": "B",
+    "explanation": "0.85P = 629 → P = 629/0.85 = $740.",
+    "commonMistakes": [
+      "Adding 15% to $629 (629 × 1.15 = $723.35) instead of dividing by 0.85",
+      "Computing 15% of 629 and adding it"
+    ]
+  },
+  {
+    "id": "math-269",
+    "category": "math.ratio-proportion",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "In a class, the ratio of boys to girls is 5:3. If there are 40 students total, how many more boys are there than girls?",
+    "options": ["8", "10", "12", "15"],
+    "correctAnswer": "B",
+    "explanation": "Total parts = 8. Each part = 5. Boys = 25, Girls = 15. Difference = 10.",
+    "commonMistakes": [
+      "Giving the number of boys or girls instead of the difference",
+      "Using 5/3 of 40 instead of dividing into parts"
+    ]
+  },
+  {
+    "id": "math-270",
+    "category": "math.algebraic-modeling",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "The sum of three consecutive odd integers is 87. What is the largest of the three?",
+    "options": ["27", "29", "31", "33"],
+    "correctAnswer": "C",
+    "explanation": "Let the integers be n, n+2, n+4. 3n + 6 = 87 → n = 27. Largest = 31.",
+    "commonMistakes": [
+      "Using consecutive integers (n, n+1, n+2) instead of odd",
+      "Giving the middle value (29) instead of the largest"
+    ]
+  },
+  {
+    "id": "math-271",
+    "category": "math.geometry.shaded-region",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "A square has side length 8 cm. A circle is inscribed in the square. What is the area of the region between the square and the circle? (Use π ≈ 3.14)",
+    "options": ["13.76 sq cm", "14.72 sq cm", "13.44 sq cm", "11.52 sq cm"],
+    "correctAnswer": "A",
+    "explanation": "Square area = 64. Circle radius = 4, area = 16π ≈ 50.24. Shaded = 64 − 50.24 = 13.76 sq cm.",
+    "commonMistakes": [
+      "Using diameter (8) as the radius",
+      "Subtracting the square from the circle"
+    ]
+  },
+  {
+    "id": "math-272",
+    "category": "math.absolute-value",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "Which inequality represents all solutions to |x + 3| < 7?",
+    "options": ["−10 < x < 4", "−4 < x < 10", "x < 4 or x > −10", "−10 < x < 10"],
+    "correctAnswer": "A",
+    "explanation": "|x + 3| < 7 → −7 < x + 3 < 7 → −10 < x < 4.",
+    "commonMistakes": [
+      "Forgetting to subtract 3 from both sides",
+      "Writing the answer as a union instead of an intersection"
+    ]
+  },
+  {
+    "id": "math-273",
+    "category": "math.word-problems",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "A phone plan costs $35/month for 5 GB of data and $8 for each additional GB. If Derek's bill was $67, how many total GB did he use?",
+    "options": ["8 GB", "9 GB", "4 GB", "7 GB"],
+    "correctAnswer": "B",
+    "explanation": "Extra charges = 67 − 35 = $32. Additional GB = 32/8 = 4. Total = 5 + 4 = 9 GB.",
+    "commonMistakes": [
+      "Reporting only additional GB (4) instead of total (9)",
+      "Dividing the total bill by 8"
+    ]
+  },
+  {
+    "id": "math-274",
+    "category": "math.data-interpretation",
+    "difficulty": 2,
+    "type": "mc",
+    "stem": "A store's daily revenue: Mon $450, Tue $380, Wed $520, Thu $490, Fri $710. What is the median daily revenue?",
+    "options": ["$490", "$510", "$520", "$450"],
+    "correctAnswer": "A",
+    "explanation": "Ordered: 380, 450, 490, 520, 710. Median = $490.",
+    "commonMistakes": [
+      "Computing the mean instead of the median",
+      "Not reordering before finding the middle value"
+    ]
+  },
+  {
+    "id": "math-275",
+    "category": "math.sequences-patterns",
+    "difficulty": 3,
+    "type": "mc",
+    "stem": "In a dot pattern, the number of dots in each figure is 2, 6, 12, 20, 30, … How many dots are in the 8th figure?",
+    "options": ["56", "72", "64", "68"],
+    "correctAnswer": "B",
+    "explanation": "The nth figure has n(n+1) dots. 8th figure: 8 × 9 = 72.",
+    "commonMistakes": [
+      "Extending differences linearly instead of recognizing the quadratic pattern",
+      "Computing the 7th term instead of the 8th"
+    ]
+  },
+  {
+    "id": "math-276",
+    "category": "math.percent-applications",
+    "difficulty": 3,
+    "type": "mc",
+    "stem": "A store increases a product's price by 20%, then increases it again by 10%. Finally, it offers a 15% discount. If the original price was $200, what is the final price?",
+    "options": ["$224.40", "$230.00", "$219.60", "$226.00"],
+    "correctAnswer": "A",
+    "explanation": "200 × 1.20 = $240. 240 × 1.10 = $264. 264 × 0.85 = $224.40.",
+    "commonMistakes": [
+      "Adding percentages (20+10−15=15%) to get 200 × 1.15 = $230",
+      "Applying all changes to the original $200 separately"
+    ]
+  },
+  {
+    "id": "math-277",
+    "category": "math.word-problems",
+    "difficulty": 3,
+    "type": "mc",
+    "stem": "A merchant mixes 10 pounds of cashews at $9/lb with some pounds of peanuts at $4/lb. The mixture sells at $6/lb. How many pounds of peanuts are needed?",
+    "options": ["12", "15", "18", "10"],
+    "correctAnswer": "B",
+    "explanation": "10(9) + 4p = 6(10 + p) → 90 + 4p = 60 + 6p → 30 = 2p → p = 15.",
+    "commonMistakes": [
+      "Forgetting to include total weight on the right side of the equation",
+      "Averaging $9 and $4 and assuming equal parts"
+    ]
+  },
+  {
+    "id": "math-278",
+    "category": "math.geometry.composite",
+    "difficulty": 3,
+    "type": "mc",
+    "stem": "An L-shaped room is formed by removing a 3 ft × 4 ft rectangle from the corner of a 10 ft × 8 ft rectangle. What is the area of the L-shaped room?",
+    "options": ["68 sq ft", "76 sq ft", "72 sq ft", "80 sq ft"],
+    "correctAnswer": "A",
+    "explanation": "Full rectangle = 10 × 8 = 80. Removed = 3 × 4 = 12. L-shape = 80 − 12 = 68 sq ft.",
+    "commonMistakes": [
+      "Forgetting to subtract the removed portion",
+      "Subtracting perimeter values instead of area"
+    ]
+  },
+  {
+    "id": "math-279",
+    "category": "math.absolute-value",
+    "difficulty": 3,
+    "type": "mc",
+    "stem": "How many integer solutions does |3x − 2| ≤ 10 have?",
+    "options": ["6", "7", "8", "5"],
+    "correctAnswer": "B",
+    "explanation": "−10 ≤ 3x − 2 ≤ 10 → −8 ≤ 3x ≤ 12 → −8/3 ≤ x ≤ 4. Since −8/3 ≈ −2.67, integers are: −2, −1, 0, 1, 2, 3, 4 → 7.",
+    "commonMistakes": [
+      "Including −3 as a solution",
+      "Miscounting the integers in the range"
+    ]
+  },
+  {
+    "id": "math-280",
+    "category": "math.algebraic-modeling",
+    "difficulty": 3,
+    "type": "mc",
+    "stem": "A rectangular box has a length 3 more than its width and a height of 5 inches. If the volume is 200 cubic inches, what is the width?",
+    "options": ["4 in", "5 in", "7 in", "8 in"],
+    "correctAnswer": "B",
+    "explanation": "5w(w + 3) = 200 → w² + 3w = 40 → w² + 3w − 40 = 0 → (w + 8)(w − 5) = 0 → w = 5.",
+    "commonMistakes": [
+      "Forgetting to divide by height before solving",
+      "Accepting the negative root w = −8"
+    ]
+  },
+  {
+    "id": "math-281",
+    "category": "math.data-interpretation",
+    "difficulty": 3,
+    "type": "mc",
+    "stem": "A circle graph shows a budget: Housing 35%, Food 20%, Transport 15%, Savings 10%, Other 20%. Monthly income is $4,800. If Housing is reduced to 30% and that money goes to Savings, what percent goes to Savings now?",
+    "options": ["12%", "15%", "13%", "14%"],
+    "correctAnswer": "B",
+    "explanation": "Housing drops by 5 percentage points, all redirected to Savings. New Savings = 10% + 5% = 15%.",
+    "commonMistakes": [
+      "Computing dollar amounts instead of recognizing the percentage shift directly",
+      "Thinking the 5% is 5% of Housing rather than 5% of total income"
+    ]
+  },
+  {
+    "id": "math-282",
+    "category": "math.word-problems",
+    "difficulty": 3,
+    "type": "mc",
+    "stem": "Two cyclists start from the same point. One rides north at 12 mph and the other rides east at 16 mph. After 2 hours, how far apart are they?",
+    "options": ["40 miles", "56 miles", "28 miles", "20 miles"],
+    "correctAnswer": "A",
+    "explanation": "North: 24 mi. East: 32 mi. Distance = √(24² + 32²) = √1600 = 40 miles.",
+    "commonMistakes": [
+      "Adding distances (24 + 32 = 56) instead of using Pythagorean theorem",
+      "Forgetting to multiply speed by time"
+    ]
+  },
+  {
+    "id": "math-283",
+    "category": "math.ratio-proportion",
+    "difficulty": 3,
+    "type": "mc",
+    "stem": "A paint mixture uses red, blue, and white in the ratio 3:5:2. If you need 4.5 liters of red paint, how many total liters of paint will the mixture be?",
+    "options": ["15 liters", "12 liters", "13.5 liters", "16.5 liters"],
+    "correctAnswer": "A",
+    "explanation": "Red = 3 parts = 4.5 L → 1 part = 1.5 L. Total = 10 parts = 15 liters.",
+    "commonMistakes": [
+      "Dividing 4.5 by 10 instead of by 3",
+      "Computing only blue and white without adding red"
+    ]
+  },
+  {
+    "id": "math-284",
+    "category": "math.percent-applications",
+    "difficulty": 2,
+    "type": "grid-in",
+    "stem": "A shirt is marked at $75. It is discounted by 20%, and then 8% sales tax is applied to the discounted price. What is the final price in dollars?",
+    "correctAnswer": "64.80",
+    "explanation": "Discounted: 75 × 0.80 = $60. Tax: 60 × 0.08 = $4.80. Final = $64.80.",
+    "commonMistakes": [
+      "Applying tax before the discount",
+      "Combining 20% and 8% as a net 12% reduction"
+    ]
+  },
+  {
+    "id": "math-285",
+    "category": "math.ratio-proportion",
+    "difficulty": 2,
+    "type": "grid-in",
+    "stem": "The ratio of cats to dogs at a shelter is 7:4. If there are 132 cats and dogs combined, how many cats are there?",
+    "correctAnswer": "84",
+    "explanation": "Total parts = 11. Each part = 132/11 = 12. Cats = 7 × 12 = 84.",
+    "commonMistakes": [
+      "Dividing 132 by 7 instead of by 11",
+      "Finding the number of dogs instead"
+    ]
+  },
+  {
+    "id": "math-286",
+    "category": "math.sequences-patterns",
+    "difficulty": 3,
+    "type": "grid-in",
+    "stem": "In an arithmetic sequence, the 3rd term is 11 and the 9th term is 35. What is the 15th term?",
+    "correctAnswer": "59",
+    "explanation": "d = (35 − 11)/(9 − 3) = 24/6 = 4. 15th term = 35 + (15 − 9) × 4 = 35 + 24 = 59.",
+    "commonMistakes": [
+      "Using the wrong number of gaps between terms",
+      "Computing d = 24/9 instead of 24/6"
+    ]
+  },
+  {
+    "id": "math-287",
+    "category": "math.word-problems",
+    "difficulty": 3,
+    "type": "grid-in",
+    "stem": "A tank is 1/3 full. After adding 40 gallons, it becomes 5/6 full. What is the total capacity of the tank, in gallons?",
+    "correctAnswer": "80",
+    "explanation": "(1/3)C + 40 = (5/6)C → 40 = (5/6 − 2/6)C = (1/2)C → C = 80.",
+    "commonMistakes": [
+      "Subtracting fractions incorrectly (5/6 − 1/3 = 4/3)",
+      "Setting up the equation without the variable"
+    ]
+  }
+]

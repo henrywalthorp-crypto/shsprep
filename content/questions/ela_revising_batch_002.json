@@ -1,0 +1,572 @@
+[
+  {
+    "id": "ela-re-031",
+    "section": "ela",
+    "category": "ela.revising.grammar.dangling_modifiers",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read this sentence. Which edit should be made to correct the sentence?\n\n\"Walking through the park after sunset, the streetlights flickered on one by one.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "Walking through the park after sunset, I noticed the streetlights flickering on one by one."},
+      {"label": "B", "text": "Walking through the park after sunset, the streetlights were flickering on one by one."},
+      {"label": "C", "text": "The streetlights flickered on one by one, walking through the park after sunset."},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "The participial phrase 'Walking through the park after sunset' dangles because 'streetlights' cannot walk. Option A supplies the correct subject ('I') immediately after the modifying phrase.",
+    "commonMistakes": ["B: still has streetlights as the subject of walking", "C: moving the phrase to the end doesn't fix the dangling modifier", "D: the sentence contains a dangling modifier error"]
+  },
+  {
+    "id": "ela-re-032",
+    "section": "ela",
+    "category": "ela.revising.grammar.dangling_modifiers",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Read this sentence. Which edit should be made to correct the sentence?\n\n\"Having been stored in the attic for decades, the historian was thrilled to discover the original manuscript.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "Having been stored in the attic for decades, the original manuscript thrilled the historian who discovered it."},
+      {"label": "B", "text": "The historian, having been stored in the attic for decades, was thrilled to discover the original manuscript."},
+      {"label": "C", "text": "Having been stored in the attic for decades, the historian's discovery of the original manuscript was thrilling."},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "The participial phrase describes the manuscript, not the historian. Option A correctly places 'manuscript' as the subject immediately after the modifier.",
+    "commonMistakes": ["B: still implies the historian was stored in the attic", "C: 'discovery' cannot be stored in an attic either", "D: the modifier clearly dangles"]
+  },
+  {
+    "id": "ela-re-033",
+    "section": "ela",
+    "category": "ela.revising.grammar.parallelism",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read this sentence. Which edit should be made to correct the sentence?\n\n\"The new policy requires employees to submit timesheets weekly, attending all training sessions, and that they maintain updated certifications.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "Change \"attending\" to \"to attend\" and \"that they maintain\" to \"to maintain\""},
+      {"label": "B", "text": "Change \"to submit\" to \"submitting\" and \"that they maintain\" to \"maintaining\""},
+      {"label": "C", "text": "Change \"that they maintain\" to \"maintaining\""},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "The sentence uses 'requires employees to submit,' establishing an infinitive pattern. All items in the series must match: 'to submit,' 'to attend,' and 'to maintain.'",
+    "commonMistakes": ["B: while internally consistent, gerunds don't match 'requires employees to...'", "C: fixes only one of two parallelism errors", "D: the sentence has inconsistent parallel structure"]
+  },
+  {
+    "id": "ela-re-034",
+    "section": "ela",
+    "category": "ela.revising.grammar.parallelism",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Read this sentence. Which version best improves clarity and parallel structure?\n\n\"The candidate promised not only to lower taxes but also that she would create thousands of new jobs and improving infrastructure.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "The candidate promised not only to lower taxes but also to create thousands of new jobs and to improve infrastructure."},
+      {"label": "B", "text": "The candidate promised not only lowering taxes but also creating thousands of new jobs and improving infrastructure."},
+      {"label": "C", "text": "The candidate not only promised to lower taxes but also that she would create thousands of new jobs and improve infrastructure."},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Not only...but also' requires parallel elements. Option A maintains consistent infinitive structure throughout: 'to lower,' 'to create,' and 'to improve.'",
+    "commonMistakes": ["B: gerund form works but changes meaning slightly by removing 'promised'", "C: 'not only promised...but also that she would' is still not parallel", "D: the original has broken parallelism"]
+  },
+  {
+    "id": "ela-re-035",
+    "section": "ela",
+    "category": "ela.revising.grammar.subjunctive_mood",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Read this sentence. Which edit should be made to correct the sentence?\n\n\"The school board recommended that the principal considers extending the lunch period by ten minutes.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "Change \"considers\" to \"consider\""},
+      {"label": "B", "text": "Change \"considers\" to \"considered\""},
+      {"label": "C", "text": "Change \"recommended\" to \"recommends\""},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "After verbs of recommendation, demand, or suggestion, the subjunctive mood requires the base form of the verb. 'Recommended that the principal consider' is correct.",
+    "commonMistakes": ["B: past tense is not the subjunctive form needed here", "C: changing the main verb tense doesn't fix the subjunctive error", "D: 'considers' violates subjunctive mood rules"]
+  },
+  {
+    "id": "ela-re-036",
+    "section": "ela",
+    "category": "ela.revising.grammar.subjunctive_mood",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Read this sentence. Which edit should be made to correct the sentence?\n\n\"If the experiment was conducted under controlled conditions, the results would have been more reliable.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "Change \"was\" to \"were\""},
+      {"label": "B", "text": "Change \"would have been\" to \"will be\""},
+      {"label": "C", "text": "Change \"was\" to \"has been\""},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "In a contrary-to-fact conditional ('if' clause describing something hypothetical or untrue), the subjunctive 'were' is required regardless of the subject: 'If the experiment were conducted.'",
+    "commonMistakes": ["B: 'will be' changes the sentence to a future conditional, altering the meaning", "C: 'has been' is present perfect and doesn't fit the hypothetical structure", "D: the subjunctive 'were' is needed"]
+  },
+  {
+    "id": "ela-re-037",
+    "section": "ela",
+    "category": "ela.revising.grammar.semicolon_colon",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Read this sentence. Which edit should be made to correct the sentence?\n\n\"The camping trip required several essential items; a tent, sleeping bags, a portable stove, and a first-aid kit.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "Change the semicolon to a colon"},
+      {"label": "B", "text": "Change the semicolon to a comma"},
+      {"label": "C", "text": "Change the semicolon to a dash"},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "A colon is used after an independent clause to introduce a list. A semicolon joins two independent clauses—what follows the punctuation here is a list, not an independent clause.",
+    "commonMistakes": ["B: a comma would create a run-on with the list", "C: a dash could work informally but a colon is the standard choice for introducing a list", "D: the semicolon is incorrect before a list"]
+  },
+  {
+    "id": "ela-re-038",
+    "section": "ela",
+    "category": "ela.revising.grammar.semicolon_colon",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read this sentence. Which edit should be made to correct the sentence?\n\n\"The researchers faced a critical decision, they could publish preliminary findings now or wait another year for more comprehensive data.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "Change the comma to a semicolon"},
+      {"label": "B", "text": "Change the comma to a colon"},
+      {"label": "C", "text": "Change the comma to a period"},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "B",
+    "explanation": "The second clause explains or elaborates on the 'critical decision' mentioned in the first clause. A colon is ideal for this explanatory relationship. A semicolon would also be grammatically acceptable, but the colon better signals that the second clause defines the decision.",
+    "commonMistakes": ["A: a semicolon is grammatically correct but doesn't signal the explanatory relationship as clearly", "C: a period would work but loses the close logical connection", "D: the comma creates a comma splice"]
+  },
+  {
+    "id": "ela-re-039",
+    "section": "ela",
+    "category": "ela.revising.grammar.restrictive_nonrestrictive",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read this sentence. Which edit should be made to correct the sentence?\n\n\"Students, who did not complete the assignment, will receive a zero for that grade.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "Remove both commas"},
+      {"label": "B", "text": "Change \"who\" to \"that\""},
+      {"label": "C", "text": "Remove the comma after \"Students\" only"},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "The clause 'who did not complete the assignment' is restrictive—it identifies which students will receive a zero, not all students. Restrictive clauses should not be set off by commas.",
+    "commonMistakes": ["B: 'that' can replace 'who' in restrictive clauses but the commas still need to be removed", "C: removing only one comma creates an inconsistent punctuation error", "D: the commas incorrectly make this a nonrestrictive clause, implying all students will receive a zero"]
+  },
+  {
+    "id": "ela-re-040",
+    "section": "ela",
+    "category": "ela.revising.grammar.restrictive_nonrestrictive",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Read this sentence. Which edit should be made to correct the sentence?\n\n\"The Great Wall of China which stretches over 13,000 miles is visible in certain satellite images.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "Add commas before \"which\" and after \"miles\""},
+      {"label": "B", "text": "Change \"which\" to \"that\""},
+      {"label": "C", "text": "Add a comma before \"which\" only"},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Since there is only one Great Wall of China, the clause 'which stretches over 13,000 miles' is nonrestrictive (extra information, not essential for identification). Nonrestrictive clauses must be set off by commas on both sides.",
+    "commonMistakes": ["B: 'that' introduces restrictive clauses, but this information is nonrestrictive", "C: nonrestrictive clauses require commas on both sides", "D: the sentence is missing necessary commas"]
+  },
+  {
+    "id": "ela-re-041",
+    "section": "ela",
+    "category": "ela.revising.grammar.wordiness",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Read this sentence. Which version best improves clarity and concision?\n\n\"Due to the fact that the weather was bad, the outdoor concert was canceled and called off.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "Because of the bad weather, the outdoor concert was canceled and called off."},
+      {"label": "B", "text": "Because the weather was bad, the outdoor concert was canceled."},
+      {"label": "C", "text": "Due to the fact that the weather was bad, the outdoor concert was canceled."},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "B",
+    "explanation": "'Due to the fact that' is wordy and should be replaced with 'because.' Additionally, 'canceled and called off' is redundant. Option B fixes both issues.",
+    "commonMistakes": ["A: fixes the wordiness of 'due to the fact that' but keeps the redundancy", "C: removes the redundancy but keeps the wordy phrase", "D: the sentence has both wordiness and redundancy issues"]
+  },
+  {
+    "id": "ela-re-042",
+    "section": "ela",
+    "category": "ela.revising.grammar.wordiness",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read this sentence. Which version best improves clarity and concision?\n\n\"At this point in time, scientists are currently in the process of developing new methods that are innovative for the purpose of recycling electronic waste.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "Currently, scientists are developing innovative methods for recycling electronic waste."},
+      {"label": "B", "text": "At this point in time, scientists are developing innovative new methods for recycling electronic waste."},
+      {"label": "C", "text": "Scientists are currently in the process of developing innovative methods for recycling electronic waste."},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "The original contains multiple wordy phrases: 'at this point in time' (currently), 'in the process of developing' (developing), 'methods that are innovative' (innovative methods), and 'for the purpose of' (for). Option A eliminates all redundancy.",
+    "commonMistakes": ["B: still uses 'at this point in time' and 'innovative new' is redundant", "C: still uses 'in the process of'", "D: the sentence is severely wordy"]
+  },
+  {
+    "id": "ela-re-043",
+    "section": "ela",
+    "category": "ela.revising.grammar.word_choice",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read this sentence from a formal research paper. Which word should replace the underlined word to best maintain the appropriate tone?\n\n\"The study's findings totally contradict the hypothesis proposed by earlier researchers.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "fundamentally"},
+      {"label": "B", "text": "really"},
+      {"label": "C", "text": "super"},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Totally' is informal and inappropriate for a research paper. 'Fundamentally' conveys the same meaning of thoroughness while maintaining an academic tone.",
+    "commonMistakes": ["B: 'really' is also informal", "C: 'super' is even more casual", "D: 'totally' is too informal for academic writing"]
+  },
+  {
+    "id": "ela-re-044",
+    "section": "ela",
+    "category": "ela.revising.grammar.word_choice",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Read this sentence from a persuasive essay. Which revision best maintains a formal, persuasive tone?\n\n\"The city council's refusal to fund public transportation is dumb and shows they don't care about people who can't drive.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "The city council's refusal to fund public transportation is shortsighted and demonstrates a disregard for residents who lack access to personal vehicles."},
+      {"label": "B", "text": "The city council's refusal to fund public transportation is stupid and shows they are ignoring people who can't drive."},
+      {"label": "C", "text": "The city council's refusal to fund public transportation is bad and shows they don't care about non-drivers."},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Dumb' and 'don't care' are too informal for a persuasive essay. Option A uses precise, formal language ('shortsighted,' 'demonstrates a disregard,' 'residents who lack access') that strengthens the argument.",
+    "commonMistakes": ["B: 'stupid' is equally informal and weakens credibility", "C: 'bad' is vague and still too informal", "D: the tone is inappropriate for a persuasive essay"]
+  },
+  {
+    "id": "ela-re-045",
+    "section": "ela",
+    "category": "ela.revising.grammar.transitions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read this passage. Which transition best fills the blank?\n\n\"The researchers expected the new fertilizer to significantly increase crop yields. ________, the treated fields produced 15 percent less grain than the control group.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "Furthermore"},
+      {"label": "B", "text": "In other words"},
+      {"label": "C", "text": "On the contrary"},
+      {"label": "D", "text": "Similarly"}
+    ],
+    "correctAnswer": "C",
+    "explanation": "The second sentence directly contradicts the expectation in the first. 'On the contrary' signals this reversal. 'Furthermore' adds information, 'in other words' restates, and 'similarly' shows likeness—none fit the contrast.",
+    "commonMistakes": ["A: 'furthermore' implies addition, not contrast", "B: 'in other words' restates, but the second sentence contradicts the first", "D: 'similarly' implies agreement, the opposite of what's needed"]
+  },
+  {
+    "id": "ela-re-046",
+    "section": "ela",
+    "category": "ela.revising.grammar.transitions",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Read this passage. Which transition best fills the blank?\n\n\"Early astronomers relied solely on naked-eye observations to map the night sky. ________, the invention of the telescope in the early 1600s did not immediately render traditional observational methods obsolete; rather, it complemented and refined them over several decades.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "As a result"},
+      {"label": "B", "text": "Notably"},
+      {"label": "C", "text": "In contrast"},
+      {"label": "D", "text": "For example"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "'Notably' introduces a significant or perhaps surprising detail that adds nuance to the first statement. The second sentence doesn't contrast with or result from the first—it adds a noteworthy clarification about the transition between methods.",
+    "commonMistakes": ["A: the telescope wasn't a result of naked-eye observation in the way 'as a result' implies", "C: the second sentence isn't a direct contrast; it discusses continuity", "D: the second sentence isn't an example of the first"]
+  },
+  {
+    "id": "ela-re-047",
+    "section": "ela",
+    "category": "ela.revising.grammar.dangling_modifiers",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Read this sentence. Which edit should be made to correct the sentence?\n\n\"After finishing the exam, the classroom was empty within minutes.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "After finishing the exam, the students left the classroom within minutes."},
+      {"label": "B", "text": "After the exam was finishing, the classroom was empty within minutes."},
+      {"label": "C", "text": "The classroom was empty within minutes, after finishing the exam."},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "'After finishing the exam' is a dangling modifier because the classroom didn't finish the exam. Option A supplies 'students' as the logical subject.",
+    "commonMistakes": ["B: 'was finishing' is awkward and still doesn't clarify who finished", "C: moving the phrase doesn't fix the dangling modifier", "D: the modifier dangles"]
+  },
+  {
+    "id": "ela-re-048",
+    "section": "ela",
+    "category": "ela.revising.grammar.semicolon_colon",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Read this sentence. Which version uses punctuation most correctly?\n\n\"The orchestra performed three pieces: Beethoven's Fifth Symphony, a lively, energetic work, Debussy's Clair de Lune, a dreamy, impressionistic piece, and Stravinsky's The Rite of Spring, a bold, revolutionary composition.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "Use semicolons to separate the three items: \"Beethoven's Fifth Symphony, a lively, energetic work; Debussy's Clair de Lune, a dreamy, impressionistic piece; and Stravinsky's The Rite of Spring, a bold, revolutionary composition.\""},
+      {"label": "B", "text": "Remove the descriptions and keep commas: \"Beethoven's Fifth Symphony, Debussy's Clair de Lune, and Stravinsky's The Rite of Spring.\""},
+      {"label": "C", "text": "Replace the colon with a dash"},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "When list items contain internal commas, semicolons should separate the items to avoid confusion. Option A correctly uses semicolons as 'super-commas' in a complex list.",
+    "commonMistakes": ["B: while grammatically correct, it removes meaningful content unnecessarily", "C: changing the colon doesn't address the comma confusion within the list", "D: the series is confusing because internal commas blend with list-separating commas"]
+  },
+  {
+    "id": "ela-re-049",
+    "section": "ela",
+    "category": "ela.revising.grammar.wordiness",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Read this sentence. Which version best improves clarity and concision?\n\n\"The reason why the bridge collapsed is because the foundation was weakened by years of erosion.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "The bridge collapsed because the foundation was weakened by years of erosion."},
+      {"label": "B", "text": "The reason the bridge collapsed is that the foundation was weakened by years of erosion."},
+      {"label": "C", "text": "The reason why the bridge collapsed is because of the foundation being weakened by years of erosion."},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "'The reason why...is because' is a redundant construction. Option A states the cause directly and concisely using 'because.'",
+    "commonMistakes": ["B: grammatically improved but still unnecessarily wordy", "C: adds even more wordiness", "D: the sentence contains a common redundancy error"]
+  },
+  {
+    "id": "ela-re-050",
+    "section": "ela",
+    "category": "ela.revising.grammar.parallelism",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Read this sentence. Which edit should be made to correct the sentence?\n\n\"The coach told the players to stretch before the game, hydrate frequently, and that they should get enough sleep the night before.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "Change \"that they should get\" to \"to get\""},
+      {"label": "B", "text": "Change \"to stretch\" to \"stretching\" and \"hydrate\" to \"hydrating\""},
+      {"label": "C", "text": "Change \"hydrate\" to \"to hydrate\""},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "The pattern established is 'to stretch,' 'hydrate' (implied 'to'), so the third item should follow: 'to get' (or just 'get'). 'That they should get' breaks the parallel infinitive structure.",
+    "commonMistakes": ["B: changes the pattern unnecessarily when only the third item is wrong", "C: 'hydrate' already implies 'to' from the first item", "D: the third item breaks parallelism"]
+  },
+  {
+    "id": "ela-re-051",
+    "section": "ela",
+    "category": "ela.revising.passage",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read this passage about a school debate club. Which sentence should be removed because it is irrelevant to the passage?\n\n(1) The Lincoln High School Debate Club had spent months preparing for the regional tournament. (2) Their coach, Ms. Alvarez, had organized practice sessions every Tuesday and Thursday after school. (3) Ms. Alvarez had previously taught at Jefferson Middle School for six years before joining Lincoln High. (4) Each team member was assigned a different aspect of the topic to research thoroughly. (5) Marcus and Priya focused on economic arguments, while Jalen and Sofia tackled the ethical dimensions. (6) The team also held mock debates against volunteer teachers to simulate the pressure of competition. (7) By the week before the tournament, every member could argue both sides of the resolution with confidence.",
+    "stimulus": null,
+    "passageId": "debate-club",
+    "options": [
+      {"label": "A", "text": "Sentence 2"},
+      {"label": "B", "text": "Sentence 3"},
+      {"label": "C", "text": "Sentence 5"},
+      {"label": "D", "text": "Sentence 6"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Sentence 3 provides background about Ms. Alvarez's previous employment, which is irrelevant to the topic of the debate club preparing for the tournament.",
+    "commonMistakes": ["A: Sentence 2 establishes the practice schedule, relevant to preparation", "C: Sentence 5 details the team's research division, directly relevant", "D: Sentence 6 describes mock debates, a key preparation strategy"]
+  },
+  {
+    "id": "ela-re-052",
+    "section": "ela",
+    "category": "ela.revising.passage",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read this passage about a school debate club.\n\n(1) The Lincoln High School Debate Club had spent months preparing for the regional tournament. (2) Their coach, Ms. Alvarez, had organized practice sessions every Tuesday and Thursday after school. (3) Each team member was assigned a different aspect of the topic to research thoroughly. (4) Marcus and Priya focused on economic arguments, while Jalen and Sofia tackled the ethical dimensions. (5) The team also held mock debates against volunteer teachers to simulate the pressure of competition. (6) By the week before the tournament, every member could argue both sides of the resolution with confidence. (7) ________, not every practice session went smoothly; disagreements about strategy sometimes led to heated arguments that Ms. Alvarez had to mediate.\n\nWhich transition best completes sentence 7?",
+    "stimulus": null,
+    "passageId": "debate-club",
+    "options": [
+      {"label": "A", "text": "Moreover"},
+      {"label": "B", "text": "Of course"},
+      {"label": "C", "text": "As a result"},
+      {"label": "D", "text": "For instance"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "'Of course' introduces a concessive or expected qualifier—after describing the team's success, sentence 7 acknowledges difficulties. This 'to be sure' function fits naturally. 'Moreover' would add to success, 'as a result' implies causation, and 'for instance' introduces examples.",
+    "commonMistakes": ["A: 'moreover' would continue the positive tone rather than introduce a complication", "C: the disagreements aren't a result of their confidence", "D: sentence 7 doesn't exemplify sentence 6"]
+  },
+  {
+    "id": "ela-re-053",
+    "section": "ela",
+    "category": "ela.revising.passage",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Read this passage about a school debate club.\n\n(1) The Lincoln High School Debate Club had spent months preparing for the regional tournament. (2) Their coach, Ms. Alvarez, had organized practice sessions every Tuesday and Thursday after school. (3) Each team member was assigned a different aspect of the topic to research thoroughly. (4) Marcus and Priya focused on economic arguments, while Jalen and Sofia tackled the ethical dimensions. (5) The team also held mock debates against volunteer teachers to simulate the pressure of competition. (6) By the week before the tournament, every member could argue both sides of the resolution with confidence.\n\nWhich revision of sentence 5 best maintains the passage's formal, informative tone while adding specific detail?",
+    "stimulus": null,
+    "passageId": "debate-club",
+    "options": [
+      {"label": "A", "text": "They did some practice debates with teachers, which was fun and helpful for everyone involved."},
+      {"label": "B", "text": "To replicate tournament conditions, the team conducted timed practice rounds against faculty volunteers who posed as opposing debaters."},
+      {"label": "C", "text": "The team basically just practiced debating against some teachers to get ready."},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Option B adds specific detail ('timed practice rounds,' 'faculty volunteers who posed as opposing debaters') while maintaining the formal tone consistent with the rest of the passage.",
+    "commonMistakes": ["A: 'fun and helpful' is vague and too informal", "C: 'basically just' and 'some teachers' are too casual", "D: while acceptable, the question asks for the best revision"]
+  },
+  {
+    "id": "ela-re-054",
+    "section": "ela",
+    "category": "ela.revising.passage",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Read this passage about a school debate club.\n\n(1) The Lincoln High School Debate Club had spent months preparing for the regional tournament. (2) Their coach, Ms. Alvarez, had organized practice sessions every Tuesday and Thursday after school. (3) Each team member was assigned a different aspect of the topic to research thoroughly. (4) Marcus and Priya focused on economic arguments, while Jalen and Sofia tackled the ethical dimensions. (5) The team also held mock debates against volunteer teachers to simulate the pressure of competition. (6) By the week before the tournament, every member could argue both sides of the resolution with confidence.\n\nWhere should this sentence be placed to improve the logical flow of the passage?\n\n\"To ensure comprehensive preparation, Ms. Alvarez also required each debater to compile a binder of counterarguments to their own positions.\"",
+    "stimulus": null,
+    "passageId": "debate-club",
+    "options": [
+      {"label": "A", "text": "After sentence 1"},
+      {"label": "B", "text": "After sentence 4"},
+      {"label": "C", "text": "After sentence 6"},
+      {"label": "D", "text": "After sentence 2"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "The new sentence discusses preparing counterarguments, which logically follows sentence 4's description of the research assignments. It also sets up sentence 5's mock debates and sentence 6's mention of arguing both sides.",
+    "commonMistakes": ["A: too early—the research assignments haven't been introduced yet", "C: after sentence 6 would be anticlimactic since the passage has already reached its conclusion", "D: after sentence 2 discusses scheduling, not research specifics"]
+  },
+  {
+    "id": "ela-re-055",
+    "section": "ela",
+    "category": "ela.revising.passage",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read this passage about a school debate club.\n\n(1) The Lincoln High School Debate Club had spent months preparing for the regional tournament. (2) Their coach, Ms. Alvarez, had organized practice sessions every Tuesday and Thursday after school. (3) Each team member was assigned a different aspect of the topic to research thoroughly. (4) Marcus and Priya focused on economic arguments, while Jalen and Sofia tackled the ethical dimensions. (5) The team also held mock debates against volunteer teachers to simulate the pressure of competition. (6) By the week before the tournament, every member could argue both sides of the resolution with confidence.\n\nWhich revision of sentence 1 provides a more engaging opening?",
+    "stimulus": null,
+    "passageId": "debate-club",
+    "options": [
+      {"label": "A", "text": "For months, the eight members of Lincoln High School's Debate Club had been working toward a single goal: winning the regional tournament."},
+      {"label": "B", "text": "The debate club was getting ready for a big tournament."},
+      {"label": "C", "text": "Lincoln High School had a debate club, and they were preparing for a tournament in the region."},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Option A adds specificity ('eight members,' 'single goal'), uses a colon for dramatic effect, and creates a compelling hook. B is vague and informal. C is flat and wordy.",
+    "commonMistakes": ["B: too vague and informal for the passage's tone", "C: wordy and lacks energy", "D: while the original is acceptable, A is notably stronger"]
+  },
+  {
+    "id": "ela-re-056",
+    "section": "ela",
+    "category": "ela.revising.passage",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Read this passage about the history of public libraries. Which sentence should be removed because it is irrelevant to the passage?\n\n(1) Public libraries as we know them today emerged in the mid-nineteenth century, when cities began establishing free lending institutions open to all residents. (2) Before this period, access to books was largely restricted to the wealthy and to members of private subscription libraries. (3) The Gutenberg printing press, invented around 1440, revolutionized the production of books across Europe. (4) In 1854, the Boston Public Library became one of the first major publicly funded libraries in the United States. (5) Its founding was driven by the belief that a democratic society required an educated citizenry with access to knowledge. (6) Other cities soon followed Boston's example, and by 1900, hundreds of public libraries had opened across the country. (7) The philanthropist Andrew Carnegie accelerated this movement by funding the construction of over 1,600 library buildings.",
+    "stimulus": null,
+    "passageId": "public-libraries",
+    "options": [
+      {"label": "A", "text": "Sentence 2"},
+      {"label": "B", "text": "Sentence 3"},
+      {"label": "C", "text": "Sentence 5"},
+      {"label": "D", "text": "Sentence 7"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Sentence 3 discusses the Gutenberg printing press from the 1400s, which, while related to books, is not relevant to the passage's focus on the development of public libraries in the 1800s.",
+    "commonMistakes": ["A: Sentence 2 provides important context about pre-library book access", "C: Sentence 5 explains the philosophy behind public libraries", "D: Sentence 7 describes Carnegie's significant role in library expansion"]
+  },
+  {
+    "id": "ela-re-057",
+    "section": "ela",
+    "category": "ela.revising.passage",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read this passage about the history of public libraries.\n\n(1) Public libraries as we know them today emerged in the mid-nineteenth century, when cities began establishing free lending institutions open to all residents. (2) Before this period, access to books was largely restricted to the wealthy and to members of private subscription libraries. (3) In 1854, the Boston Public Library became one of the first major publicly funded libraries in the United States. (4) Its founding was driven by the belief that a democratic society required an educated citizenry with access to knowledge. (5) Other cities soon followed Boston's example, and by 1900, hundreds of public libraries had opened across the country. (6) ________, the philanthropist Andrew Carnegie accelerated this movement by funding the construction of over 1,600 library buildings. (7) Carnegie's contributions transformed the American library landscape, making free access to books a reality for millions of people.\n\nWhich transition best completes sentence 6?",
+    "stimulus": null,
+    "passageId": "public-libraries",
+    "options": [
+      {"label": "A", "text": "Nevertheless"},
+      {"label": "B", "text": "Meanwhile"},
+      {"label": "C", "text": "In particular"},
+      {"label": "D", "text": "On the other hand"}
+    ],
+    "correctAnswer": "C",
+    "explanation": "'In particular' narrows from the general trend in sentence 5 (hundreds of libraries opening) to a specific, notable contributor (Carnegie). The other options suggest contrast or simultaneity, which don't fit the relationship.",
+    "commonMistakes": ["A: 'nevertheless' implies contrast with the growth trend", "B: 'meanwhile' suggests a separate, simultaneous event", "D: 'on the other hand' implies opposition"]
+  },
+  {
+    "id": "ela-re-058",
+    "section": "ela",
+    "category": "ela.revising.passage",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Read this passage about the history of public libraries.\n\n(1) Public libraries as we know them today emerged in the mid-nineteenth century, when cities began establishing free lending institutions open to all residents. (2) Before this period, access to books was largely restricted to the wealthy and to members of private subscription libraries. (3) In 1854, the Boston Public Library became one of the first major publicly funded libraries in the United States. (4) Its founding was driven by the belief that a democratic society required an educated citizenry with access to knowledge. (5) Other cities soon followed Boston's example, and by 1900, hundreds of public libraries had opened across the country. (6) The philanthropist Andrew Carnegie accelerated this movement by funding the construction of over 1,600 library buildings. (7) Carnegie's contributions transformed the American library landscape, making free access to books a reality for millions of people.\n\nWhich sentence would best follow sentence 7 to provide an effective conclusion?",
+    "stimulus": null,
+    "passageId": "public-libraries",
+    "options": [
+      {"label": "A", "text": "Carnegie was born in Scotland in 1835 and immigrated to the United States as a child."},
+      {"label": "B", "text": "Today, public libraries continue to evolve, offering digital resources, community programs, and free internet access that reflect the same democratic ideals that inspired their founding."},
+      {"label": "C", "text": "Many people enjoy visiting libraries on weekends to read books and magazines."},
+      {"label": "D", "text": "The Dewey Decimal System, developed in 1876, remains one of the most widely used library classification systems in the world."}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Option B effectively concludes the passage by connecting the historical narrative to the present day and circling back to the 'democratic ideals' theme introduced in sentence 4.",
+    "commonMistakes": ["A: introduces new biographical details about Carnegie rather than concluding", "C: too informal and doesn't connect to the passage's themes", "D: introduces a new topic (classification systems) unrelated to the passage's focus"]
+  },
+  {
+    "id": "ela-re-059",
+    "section": "ela",
+    "category": "ela.revising.passage",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Read this passage about the history of public libraries.\n\n(1) Public libraries as we know them today emerged in the mid-nineteenth century, when cities began establishing free lending institutions open to all residents. (2) Before this period, access to books was largely restricted to the wealthy and to members of private subscription libraries. (3) In 1854, the Boston Public Library became one of the first major publicly funded libraries in the United States. (4) Its founding was driven by the belief that a democratic society required an educated citizenry with access to knowledge. (5) Other cities soon followed Boston's example, and by 1900, hundreds of public libraries had opened across the country. (6) The philanthropist Andrew Carnegie accelerated this movement by funding the construction of over 1,600 library buildings.\n\nWhich revision of sentence 2 best adds supporting detail while maintaining the passage's tone?",
+    "stimulus": null,
+    "passageId": "public-libraries",
+    "options": [
+      {"label": "A", "text": "Before this period, only rich people could read books, which was unfair to everyone else."},
+      {"label": "B", "text": "Before this period, access to books was largely restricted to the wealthy, to university scholars, and to members of private subscription libraries that charged annual fees most working families could not afford."},
+      {"label": "C", "text": "Before this, books were hard to get."},
+      {"label": "D", "text": "No change is needed."}
+    ],
+    "correctAnswer": "B",
+    "explanation": "Option B adds specific, relevant detail ('university scholars,' 'annual fees most working families could not afford') while maintaining the passage's formal, informative tone and reinforcing the theme of access inequality.",
+    "commonMistakes": ["A: 'rich people' and 'unfair' are too informal and simplistic", "C: far too brief and loses important information", "D: while acceptable, B is a stronger revision"]
+  },
+  {
+    "id": "ela-re-060",
+    "section": "ela",
+    "category": "ela.revising.grammar.transitions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Read this passage. Which transition best fills the blank?\n\n\"Regular exercise strengthens the heart and improves circulation. ________, it has been shown to reduce symptoms of anxiety and depression.\"",
+    "stimulus": null,
+    "passageId": null,
+    "options": [
+      {"label": "A", "text": "However"},
+      {"label": "B", "text": "Additionally"},
+      {"label": "C", "text": "Instead"},
+      {"label": "D", "text": "Nevertheless"}
+    ],
+    "correctAnswer": "B",
+    "explanation": "The second sentence adds another benefit of exercise (mental health) to the physical benefits in the first sentence. 'Additionally' signals this additive relationship.",
+    "commonMistakes": ["A: 'however' implies contrast, but both sentences describe benefits", "C: 'instead' implies replacement, which doesn't fit", "D: 'nevertheless' implies contrast or concession"]
+  }
+]
