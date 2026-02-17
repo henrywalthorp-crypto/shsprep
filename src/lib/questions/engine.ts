@@ -333,7 +333,7 @@ export function generateExamQuestionSet(availableQuestions: Question[]): string[
     if (result.length < count) {
       const usedIds = new Set(result.map((q) => q.id))
       const remaining = pool.filter((q) => !usedIds.has(q.id))
-      for (let i = result.length - 1; i > 0; i--) {
+      for (let i = remaining.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1))
         ;[remaining[i], remaining[j]] = [remaining[j], remaining[i]]
       }

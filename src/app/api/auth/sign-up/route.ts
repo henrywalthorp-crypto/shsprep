@@ -1,8 +1,18 @@
 import { createServerClient } from '@/lib/supabase/server'
 import { NextRequest, NextResponse } from 'next/server'
+import { rateLimit } from '@/lib/rate-limit'
 
 export async function POST(request: NextRequest) {
   try {
+    const ip = request.headers.get('x-forwarded-for')?.split(',')[0]?.trim() || 'unknown'
+    const { success, remaining } = rateLimit(ip, 5, 60000)
+    if (!success) {
+      return NextResponse.json(
+        { error: 'Too many sign-up attempts. Please try again later.' },
+        { status: 429, headers: { 'X-RateLimit-Remaining': String(remaining) } }
+      )
+    }
+
     const { email, password, firstName, lastName, role } = await request.json()
 
     if (!email || !password) {
