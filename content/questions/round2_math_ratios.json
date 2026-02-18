@@ -1,0 +1,2516 @@
+[
+  {
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Ratio of cats:dogs is 2:5. If there are 12 cats, how many dogs?",
+    "options": [
+      {
+        "label": "A",
+        "text": "30"
+      },
+      {
+        "label": "B",
+        "text": "32"
+      },
+      {
+        "label": "C",
+        "text": "12"
+      },
+      {
+        "label": "D",
+        "text": "42"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Scale factor = 12/2 = 6. Dogs = 5×6 = 30",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead of multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Found total instead of just dogs"
+      }
+    ],
+    "skills": [
+      "ratios-proportions"
+    ],
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Ratio of cats:dogs is 8:7. If there are 16 cats, how many dogs?",
+    "options": [
+      {
+        "label": "A",
+        "text": "14"
+      },
+      {
+        "label": "B",
+        "text": "22"
+      },
+      {
+        "label": "C",
+        "text": "16"
+      },
+      {
+        "label": "D",
+        "text": "30"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Scale factor = 16/8 = 2. Dogs = 7×2 = 14",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead of multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Found total instead of just dogs"
+      }
+    ],
+    "skills": [
+      "ratios-proportions"
+    ],
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Ratio of cats:dogs is 3:3. If there are 6 cats, how many dogs?",
+    "options": [
+      {
+        "label": "A",
+        "text": "6"
+      },
+      {
+        "label": "B",
+        "text": "9"
+      },
+      {
+        "label": "C",
+        "text": "6"
+      },
+      {
+        "label": "D",
+        "text": "12"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Scale factor = 6/3 = 2. Dogs = 3×2 = 6",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead of multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Found total instead of just dogs"
+      }
+    ],
+    "skills": [
+      "ratios-proportions"
+    ],
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Ratio of cats:dogs is 2:7. If there are 12 cats, how many dogs?",
+    "options": [
+      {
+        "label": "A",
+        "text": "42"
+      },
+      {
+        "label": "B",
+        "text": "44"
+      },
+      {
+        "label": "C",
+        "text": "12"
+      },
+      {
+        "label": "D",
+        "text": "54"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Scale factor = 12/2 = 6. Dogs = 7×6 = 42",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead of multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Found total instead of just dogs"
+      }
+    ],
+    "skills": [
+      "ratios-proportions"
+    ],
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Ratio of cats:dogs is 4:4. If there are 24 cats, how many dogs?",
+    "options": [
+      {
+        "label": "A",
+        "text": "24"
+      },
+      {
+        "label": "B",
+        "text": "28"
+      },
+      {
+        "label": "C",
+        "text": "24"
+      },
+      {
+        "label": "D",
+        "text": "48"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Scale factor = 24/4 = 6. Dogs = 4×6 = 24",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead of multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Found total instead of just dogs"
+      }
+    ],
+    "skills": [
+      "ratios-proportions"
+    ],
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Ratio of cats:dogs is 5:4. If there are 25 cats, how many dogs?",
+    "options": [
+      {
+        "label": "A",
+        "text": "20"
+      },
+      {
+        "label": "B",
+        "text": "25"
+      },
+      {
+        "label": "C",
+        "text": "25"
+      },
+      {
+        "label": "D",
+        "text": "45"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Scale factor = 25/5 = 5. Dogs = 4×5 = 20",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead of multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Found total instead of just dogs"
+      }
+    ],
+    "skills": [
+      "ratios-proportions"
+    ],
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Ratio of cats:dogs is 8:8. If there are 48 cats, how many dogs?",
+    "options": [
+      {
+        "label": "A",
+        "text": "48"
+      },
+      {
+        "label": "B",
+        "text": "56"
+      },
+      {
+        "label": "C",
+        "text": "48"
+      },
+      {
+        "label": "D",
+        "text": "96"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Scale factor = 48/8 = 6. Dogs = 8×6 = 48",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead of multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Found total instead of just dogs"
+      }
+    ],
+    "skills": [
+      "ratios-proportions"
+    ],
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Ratio of cats:dogs is 7:8. If there are 21 cats, how many dogs?",
+    "options": [
+      {
+        "label": "A",
+        "text": "24"
+      },
+      {
+        "label": "B",
+        "text": "31"
+      },
+      {
+        "label": "C",
+        "text": "21"
+      },
+      {
+        "label": "D",
+        "text": "45"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Scale factor = 21/7 = 3. Dogs = 8×3 = 24",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead of multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Found total instead of just dogs"
+      }
+    ],
+    "skills": [
+      "ratios-proportions"
+    ],
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Ratio of cats:dogs is 4:8. If there are 12 cats, how many dogs?",
+    "options": [
+      {
+        "label": "A",
+        "text": "24"
+      },
+      {
+        "label": "B",
+        "text": "28"
+      },
+      {
+        "label": "C",
+        "text": "12"
+      },
+      {
+        "label": "D",
+        "text": "36"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Scale factor = 12/4 = 3. Dogs = 8×3 = 24",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead of multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Found total instead of just dogs"
+      }
+    ],
+    "skills": [
+      "ratios-proportions"
+    ],
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Ratio of cats:dogs is 2:7. If there are 6 cats, how many dogs?",
+    "options": [
+      {
+        "label": "A",
+        "text": "21"
+      },
+      {
+        "label": "B",
+        "text": "23"
+      },
+      {
+        "label": "C",
+        "text": "6"
+      },
+      {
+        "label": "D",
+        "text": "27"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Scale factor = 6/2 = 3. Dogs = 7×3 = 21",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead of multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Found total instead of just dogs"
+      }
+    ],
+    "skills": [
+      "ratios-proportions"
+    ],
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Ratio of cats:dogs is 4:4. If there are 20 cats, how many dogs?",
+    "options": [
+      {
+        "label": "A",
+        "text": "20"
+      },
+      {
+        "label": "B",
+        "text": "24"
+      },
+      {
+        "label": "C",
+        "text": "20"
+      },
+      {
+        "label": "D",
+        "text": "40"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Scale factor = 20/4 = 5. Dogs = 4×5 = 20",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead of multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Found total instead of just dogs"
+      }
+    ],
+    "skills": [
+      "ratios-proportions"
+    ],
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Ratio of cats:dogs is 6:7. If there are 24 cats, how many dogs?",
+    "options": [
+      {
+        "label": "A",
+        "text": "28"
+      },
+      {
+        "label": "B",
+        "text": "34"
+      },
+      {
+        "label": "C",
+        "text": "24"
+      },
+      {
+        "label": "D",
+        "text": "52"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Scale factor = 24/6 = 4. Dogs = 7×4 = 28",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead of multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Found total instead of just dogs"
+      }
+    ],
+    "skills": [
+      "ratios-proportions"
+    ],
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Ratio of cats:dogs is 6:4. If there are 18 cats, how many dogs?",
+    "options": [
+      {
+        "label": "A",
+        "text": "12"
+      },
+      {
+        "label": "B",
+        "text": "18"
+      },
+      {
+        "label": "C",
+        "text": "18"
+      },
+      {
+        "label": "D",
+        "text": "30"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Scale factor = 18/6 = 3. Dogs = 4×3 = 12",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead of multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Found total instead of just dogs"
+      }
+    ],
+    "skills": [
+      "ratios-proportions"
+    ],
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Ratio of cats:dogs is 8:4. If there are 40 cats, how many dogs?",
+    "options": [
+      {
+        "label": "A",
+        "text": "20"
+      },
+      {
+        "label": "B",
+        "text": "28"
+      },
+      {
+        "label": "C",
+        "text": "40"
+      },
+      {
+        "label": "D",
+        "text": "60"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Scale factor = 40/8 = 5. Dogs = 4×5 = 20",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead of multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Found total instead of just dogs"
+      }
+    ],
+    "skills": [
+      "ratios-proportions"
+    ],
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Ratio of cats:dogs is 7:6. If there are 28 cats, how many dogs?",
+    "options": [
+      {
+        "label": "A",
+        "text": "24"
+      },
+      {
+        "label": "B",
+        "text": "31"
+      },
+      {
+        "label": "C",
+        "text": "28"
+      },
+      {
+        "label": "D",
+        "text": "52"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Scale factor = 28/7 = 4. Dogs = 6×4 = 24",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead of multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Found total instead of just dogs"
+      }
+    ],
+    "skills": [
+      "ratios-proportions"
+    ],
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Ratio of cats:dogs is 4:5. If there are 24 cats, how many dogs?",
+    "options": [
+      {
+        "label": "A",
+        "text": "30"
+      },
+      {
+        "label": "B",
+        "text": "34"
+      },
+      {
+        "label": "C",
+        "text": "24"
+      },
+      {
+        "label": "D",
+        "text": "54"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Scale factor = 24/4 = 6. Dogs = 5×6 = 30",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead of multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Found total instead of just dogs"
+      }
+    ],
+    "skills": [
+      "ratios-proportions"
+    ],
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Ratio of cats:dogs is 4:2. If there are 12 cats, how many dogs?",
+    "options": [
+      {
+        "label": "A",
+        "text": "6"
+      },
+      {
+        "label": "B",
+        "text": "10"
+      },
+      {
+        "label": "C",
+        "text": "12"
+      },
+      {
+        "label": "D",
+        "text": "18"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Scale factor = 12/4 = 3. Dogs = 2×3 = 6",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead of multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Found total instead of just dogs"
+      }
+    ],
+    "skills": [
+      "ratios-proportions"
+    ],
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Ratio of cats:dogs is 4:8. If there are 12 cats, how many dogs? (variant 1)",
+    "options": [
+      {
+        "label": "A",
+        "text": "24"
+      },
+      {
+        "label": "B",
+        "text": "28"
+      },
+      {
+        "label": "C",
+        "text": "12"
+      },
+      {
+        "label": "D",
+        "text": "36"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Scale factor = 12/4 = 3. Dogs = 8×3 = 24",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead of multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Found total instead of just dogs"
+      }
+    ],
+    "skills": [
+      "ratios-proportions"
+    ],
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Ratio of cats:dogs is 7:5. If there are 14 cats, how many dogs?",
+    "options": [
+      {
+        "label": "A",
+        "text": "10"
+      },
+      {
+        "label": "B",
+        "text": "17"
+      },
+      {
+        "label": "C",
+        "text": "14"
+      },
+      {
+        "label": "D",
+        "text": "24"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Scale factor = 14/7 = 2. Dogs = 5×2 = 10",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead of multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Found total instead of just dogs"
+      }
+    ],
+    "skills": [
+      "ratios-proportions"
+    ],
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Ratio of cats:dogs is 2:2. If there are 4 cats, how many dogs?",
+    "options": [
+      {
+        "label": "A",
+        "text": "4"
+      },
+      {
+        "label": "B",
+        "text": "6"
+      },
+      {
+        "label": "C",
+        "text": "4"
+      },
+      {
+        "label": "D",
+        "text": "8"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Scale factor = 4/2 = 2. Dogs = 2×2 = 4",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead of multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Found total instead of just dogs"
+      }
+    ],
+    "skills": [
+      "ratios-proportions"
+    ],
+    "tags": [
+      "ratios"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.percent_change",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Price increases from $102 by 44%. New price?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$147"
+      },
+      {
+        "label": "B",
+        "text": "$146"
+      },
+      {
+        "label": "C",
+        "text": "$45"
+      },
+      {
+        "label": "D",
+        "text": "$102"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "44% of $102 = $45. New = $102 + $45 = $147",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Subtracted percentage directly"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave change amount not final price"
+      }
+    ],
+    "skills": [
+      "percent-change"
+    ],
+    "tags": [
+      "percentages"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.percent_change",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Price decreases from $24 by 16%. New price?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$20"
+      },
+      {
+        "label": "B",
+        "text": "$8"
+      },
+      {
+        "label": "C",
+        "text": "$4"
+      },
+      {
+        "label": "D",
+        "text": "$24"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "16% of $24 = $4. New = $24 - $4 = $20",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Subtracted percentage directly"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave change amount not final price"
+      }
+    ],
+    "skills": [
+      "percent-change"
+    ],
+    "tags": [
+      "percentages"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.percent_change",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Price increases from $63 by 40%. New price?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$88"
+      },
+      {
+        "label": "B",
+        "text": "$103"
+      },
+      {
+        "label": "C",
+        "text": "$25"
+      },
+      {
+        "label": "D",
+        "text": "$63"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "40% of $63 = $25. New = $63 + $25 = $88",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Subtracted percentage directly"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave change amount not final price"
+      }
+    ],
+    "skills": [
+      "percent-change"
+    ],
+    "tags": [
+      "percentages"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.percent_change",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Price decreases from $157 by 38%. New price?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$97"
+      },
+      {
+        "label": "B",
+        "text": "$119"
+      },
+      {
+        "label": "C",
+        "text": "$60"
+      },
+      {
+        "label": "D",
+        "text": "$157"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "38% of $157 = $60. New = $157 - $60 = $97",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Subtracted percentage directly"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave change amount not final price"
+      }
+    ],
+    "skills": [
+      "percent-change"
+    ],
+    "tags": [
+      "percentages"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.percent_change",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Price increases from $155 by 40%. New price?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$217"
+      },
+      {
+        "label": "B",
+        "text": "$195"
+      },
+      {
+        "label": "C",
+        "text": "$62"
+      },
+      {
+        "label": "D",
+        "text": "$155"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "40% of $155 = $62. New = $155 + $62 = $217",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Subtracted percentage directly"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave change amount not final price"
+      }
+    ],
+    "skills": [
+      "percent-change"
+    ],
+    "tags": [
+      "percentages"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.percent_change",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Price decreases from $138 by 19%. New price?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$112"
+      },
+      {
+        "label": "B",
+        "text": "$119"
+      },
+      {
+        "label": "C",
+        "text": "$26"
+      },
+      {
+        "label": "D",
+        "text": "$138"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "19% of $138 = $26. New = $138 - $26 = $112",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Subtracted percentage directly"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave change amount not final price"
+      }
+    ],
+    "skills": [
+      "percent-change"
+    ],
+    "tags": [
+      "percentages"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.percent_change",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Price increases from $141 by 44%. New price?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$203"
+      },
+      {
+        "label": "B",
+        "text": "$185"
+      },
+      {
+        "label": "C",
+        "text": "$62"
+      },
+      {
+        "label": "D",
+        "text": "$141"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "44% of $141 = $62. New = $141 + $62 = $203",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Subtracted percentage directly"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave change amount not final price"
+      }
+    ],
+    "skills": [
+      "percent-change"
+    ],
+    "tags": [
+      "percentages"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.percent_change",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Price decreases from $130 by 25%. New price?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$97"
+      },
+      {
+        "label": "B",
+        "text": "$105"
+      },
+      {
+        "label": "C",
+        "text": "$33"
+      },
+      {
+        "label": "D",
+        "text": "$130"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "25% of $130 = $33. New = $130 - $33 = $97",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Subtracted percentage directly"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave change amount not final price"
+      }
+    ],
+    "skills": [
+      "percent-change"
+    ],
+    "tags": [
+      "percentages"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.percent_change",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Price increases from $88 by 35%. New price?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$119"
+      },
+      {
+        "label": "B",
+        "text": "$123"
+      },
+      {
+        "label": "C",
+        "text": "$31"
+      },
+      {
+        "label": "D",
+        "text": "$88"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "35% of $88 = $31. New = $88 + $31 = $119",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Subtracted percentage directly"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave change amount not final price"
+      }
+    ],
+    "skills": [
+      "percent-change"
+    ],
+    "tags": [
+      "percentages"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.percent_change",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Price decreases from $108 by 32%. New price?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$73"
+      },
+      {
+        "label": "B",
+        "text": "$76"
+      },
+      {
+        "label": "C",
+        "text": "$35"
+      },
+      {
+        "label": "D",
+        "text": "$108"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "32% of $108 = $35. New = $108 - $35 = $73",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Subtracted percentage directly"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave change amount not final price"
+      }
+    ],
+    "skills": [
+      "percent-change"
+    ],
+    "tags": [
+      "percentages"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.percent_change",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Price increases from $169 by 39%. New price?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$235"
+      },
+      {
+        "label": "B",
+        "text": "$208"
+      },
+      {
+        "label": "C",
+        "text": "$66"
+      },
+      {
+        "label": "D",
+        "text": "$169"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "39% of $169 = $66. New = $169 + $66 = $235",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Subtracted percentage directly"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave change amount not final price"
+      }
+    ],
+    "skills": [
+      "percent-change"
+    ],
+    "tags": [
+      "percentages"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.percent_change",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Price decreases from $86 by 50%. New price?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$43"
+      },
+      {
+        "label": "B",
+        "text": "$36"
+      },
+      {
+        "label": "C",
+        "text": "$43"
+      },
+      {
+        "label": "D",
+        "text": "$86"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "50% of $86 = $43. New = $86 - $43 = $43",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Subtracted percentage directly"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave change amount not final price"
+      }
+    ],
+    "skills": [
+      "percent-change"
+    ],
+    "tags": [
+      "percentages"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.percent_change",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Price increases from $133 by 39%. New price?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$185"
+      },
+      {
+        "label": "B",
+        "text": "$172"
+      },
+      {
+        "label": "C",
+        "text": "$52"
+      },
+      {
+        "label": "D",
+        "text": "$133"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "39% of $133 = $52. New = $133 + $52 = $185",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Subtracted percentage directly"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave change amount not final price"
+      }
+    ],
+    "skills": [
+      "percent-change"
+    ],
+    "tags": [
+      "percentages"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.percent_change",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Price decreases from $111 by 13%. New price?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$97"
+      },
+      {
+        "label": "B",
+        "text": "$98"
+      },
+      {
+        "label": "C",
+        "text": "$14"
+      },
+      {
+        "label": "D",
+        "text": "$111"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "13% of $111 = $14. New = $111 - $14 = $97",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Subtracted percentage directly"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave change amount not final price"
+      }
+    ],
+    "skills": [
+      "percent-change"
+    ],
+    "tags": [
+      "percentages"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.percent_change",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Price increases from $110 by 30%. New price?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$143"
+      },
+      {
+        "label": "B",
+        "text": "$140"
+      },
+      {
+        "label": "C",
+        "text": "$33"
+      },
+      {
+        "label": "D",
+        "text": "$110"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "30% of $110 = $33. New = $110 + $33 = $143",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Subtracted percentage directly"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave change amount not final price"
+      }
+    ],
+    "skills": [
+      "percent-change"
+    ],
+    "tags": [
+      "percentages"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.percent_change",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Price decreases from $31 by 29%. New price?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$22"
+      },
+      {
+        "label": "B",
+        "text": "$2"
+      },
+      {
+        "label": "C",
+        "text": "$9"
+      },
+      {
+        "label": "D",
+        "text": "$31"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "29% of $31 = $9. New = $31 - $9 = $22",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Subtracted percentage directly"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave change amount not final price"
+      }
+    ],
+    "skills": [
+      "percent-change"
+    ],
+    "tags": [
+      "percentages"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.percent_change",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Price increases from $178 by 17%. New price?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$208"
+      },
+      {
+        "label": "B",
+        "text": "$195"
+      },
+      {
+        "label": "C",
+        "text": "$30"
+      },
+      {
+        "label": "D",
+        "text": "$178"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "17% of $178 = $30. New = $178 + $30 = $208",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Subtracted percentage directly"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave change amount not final price"
+      }
+    ],
+    "skills": [
+      "percent-change"
+    ],
+    "tags": [
+      "percentages"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.percent_change",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Price decreases from $29 by 45%. New price?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$16"
+      },
+      {
+        "label": "B",
+        "text": "$-16"
+      },
+      {
+        "label": "C",
+        "text": "$13"
+      },
+      {
+        "label": "D",
+        "text": "$29"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "45% of $29 = $13. New = $29 - $13 = $16",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Subtracted percentage directly"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave change amount not final price"
+      }
+    ],
+    "skills": [
+      "percent-change"
+    ],
+    "tags": [
+      "percentages"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.proportional_reasoning",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "If someone completes 12 pages in 3 hours, how many in 14 hours?",
+    "options": [
+      {
+        "label": "A",
+        "text": "56"
+      },
+      {
+        "label": "B",
+        "text": "60"
+      },
+      {
+        "label": "C",
+        "text": "26"
+      },
+      {
+        "label": "D",
+        "text": "52"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rate = 12/3 = 4/hr. In 14h: 4×14 = 56",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added extra unit"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "proportional-reasoning"
+    ],
+    "tags": [
+      "ratios",
+      "proportions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.proportional_reasoning",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "If someone completes 32 miles in 4 hours, how many in 10 hours?",
+    "options": [
+      {
+        "label": "A",
+        "text": "80"
+      },
+      {
+        "label": "B",
+        "text": "88"
+      },
+      {
+        "label": "C",
+        "text": "42"
+      },
+      {
+        "label": "D",
+        "text": "72"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rate = 32/4 = 8/hr. In 10h: 8×10 = 80",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added extra unit"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "proportional-reasoning"
+    ],
+    "tags": [
+      "ratios",
+      "proportions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.proportional_reasoning",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "If someone completes 4 problems in 2 hours, how many in 14 hours?",
+    "options": [
+      {
+        "label": "A",
+        "text": "28"
+      },
+      {
+        "label": "B",
+        "text": "30"
+      },
+      {
+        "label": "C",
+        "text": "18"
+      },
+      {
+        "label": "D",
+        "text": "26"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rate = 4/2 = 2/hr. In 14h: 2×14 = 28",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added extra unit"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "proportional-reasoning"
+    ],
+    "tags": [
+      "ratios",
+      "proportions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.proportional_reasoning",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "If someone completes 9 laps in 3 hours, how many in 10 hours?",
+    "options": [
+      {
+        "label": "A",
+        "text": "30"
+      },
+      {
+        "label": "B",
+        "text": "33"
+      },
+      {
+        "label": "C",
+        "text": "19"
+      },
+      {
+        "label": "D",
+        "text": "27"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rate = 9/3 = 3/hr. In 10h: 3×10 = 30",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added extra unit"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "proportional-reasoning"
+    ],
+    "tags": [
+      "ratios",
+      "proportions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.proportional_reasoning",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "If someone completes 48 cookies in 6 hours, how many in 10 hours?",
+    "options": [
+      {
+        "label": "A",
+        "text": "80"
+      },
+      {
+        "label": "B",
+        "text": "88"
+      },
+      {
+        "label": "C",
+        "text": "58"
+      },
+      {
+        "label": "D",
+        "text": "72"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rate = 48/6 = 8/hr. In 10h: 8×10 = 80",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added extra unit"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "proportional-reasoning"
+    ],
+    "tags": [
+      "ratios",
+      "proportions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.proportional_reasoning",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "If someone completes 10 boxes in 2 hours, how many in 10 hours?",
+    "options": [
+      {
+        "label": "A",
+        "text": "50"
+      },
+      {
+        "label": "B",
+        "text": "55"
+      },
+      {
+        "label": "C",
+        "text": "20"
+      },
+      {
+        "label": "D",
+        "text": "45"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rate = 10/2 = 5/hr. In 10h: 5×10 = 50",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added extra unit"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "proportional-reasoning"
+    ],
+    "tags": [
+      "ratios",
+      "proportions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.proportional_reasoning",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "If someone completes 40 widgets in 5 hours, how many in 14 hours?",
+    "options": [
+      {
+        "label": "A",
+        "text": "112"
+      },
+      {
+        "label": "B",
+        "text": "120"
+      },
+      {
+        "label": "C",
+        "text": "54"
+      },
+      {
+        "label": "D",
+        "text": "104"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rate = 40/5 = 8/hr. In 14h: 8×14 = 112",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added extra unit"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "proportional-reasoning"
+    ],
+    "tags": [
+      "ratios",
+      "proportions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.proportional_reasoning",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "If someone completes 18 songs in 2 hours, how many in 12 hours?",
+    "options": [
+      {
+        "label": "A",
+        "text": "108"
+      },
+      {
+        "label": "B",
+        "text": "117"
+      },
+      {
+        "label": "C",
+        "text": "30"
+      },
+      {
+        "label": "D",
+        "text": "99"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rate = 18/2 = 9/hr. In 12h: 9×12 = 108",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added extra unit"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "proportional-reasoning"
+    ],
+    "tags": [
+      "ratios",
+      "proportions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.proportional_reasoning",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "If someone completes 14 chapters in 2 hours, how many in 7 hours?",
+    "options": [
+      {
+        "label": "A",
+        "text": "49"
+      },
+      {
+        "label": "B",
+        "text": "56"
+      },
+      {
+        "label": "C",
+        "text": "21"
+      },
+      {
+        "label": "D",
+        "text": "42"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rate = 14/2 = 7/hr. In 7h: 7×7 = 49",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added extra unit"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "proportional-reasoning"
+    ],
+    "tags": [
+      "ratios",
+      "proportions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.proportional_reasoning",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "If someone completes 6 levels in 3 hours, how many in 15 hours?",
+    "options": [
+      {
+        "label": "A",
+        "text": "30"
+      },
+      {
+        "label": "B",
+        "text": "32"
+      },
+      {
+        "label": "C",
+        "text": "21"
+      },
+      {
+        "label": "D",
+        "text": "28"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rate = 6/3 = 2/hr. In 15h: 2×15 = 30",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added extra unit"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "proportional-reasoning"
+    ],
+    "tags": [
+      "ratios",
+      "proportions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.proportional_reasoning",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "If someone completes 48 rows in 6 hours, how many in 15 hours?",
+    "options": [
+      {
+        "label": "A",
+        "text": "120"
+      },
+      {
+        "label": "B",
+        "text": "128"
+      },
+      {
+        "label": "C",
+        "text": "63"
+      },
+      {
+        "label": "D",
+        "text": "112"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rate = 48/6 = 8/hr. In 15h: 8×15 = 120",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added extra unit"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "proportional-reasoning"
+    ],
+    "tags": [
+      "ratios",
+      "proportions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.proportional_reasoning",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "If someone completes 8 tasks in 2 hours, how many in 11 hours?",
+    "options": [
+      {
+        "label": "A",
+        "text": "44"
+      },
+      {
+        "label": "B",
+        "text": "48"
+      },
+      {
+        "label": "C",
+        "text": "19"
+      },
+      {
+        "label": "D",
+        "text": "40"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rate = 8/2 = 4/hr. In 11h: 4×11 = 44",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added extra unit"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "proportional-reasoning"
+    ],
+    "tags": [
+      "ratios",
+      "proportions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.proportional_reasoning",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "If someone completes 16 orders in 4 hours, how many in 8 hours?",
+    "options": [
+      {
+        "label": "A",
+        "text": "32"
+      },
+      {
+        "label": "B",
+        "text": "36"
+      },
+      {
+        "label": "C",
+        "text": "24"
+      },
+      {
+        "label": "D",
+        "text": "28"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rate = 16/4 = 4/hr. In 8h: 4×8 = 32",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added extra unit"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "proportional-reasoning"
+    ],
+    "tags": [
+      "ratios",
+      "proportions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.proportional_reasoning",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "If someone completes 15 reports in 3 hours, how many in 9 hours?",
+    "options": [
+      {
+        "label": "A",
+        "text": "45"
+      },
+      {
+        "label": "B",
+        "text": "50"
+      },
+      {
+        "label": "C",
+        "text": "24"
+      },
+      {
+        "label": "D",
+        "text": "40"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rate = 15/3 = 5/hr. In 9h: 5×9 = 45",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added extra unit"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "proportional-reasoning"
+    ],
+    "tags": [
+      "ratios",
+      "proportions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.proportional_reasoning",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "If someone completes 8 paintings in 4 hours, how many in 8 hours?",
+    "options": [
+      {
+        "label": "A",
+        "text": "16"
+      },
+      {
+        "label": "B",
+        "text": "18"
+      },
+      {
+        "label": "C",
+        "text": "16"
+      },
+      {
+        "label": "D",
+        "text": "14"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rate = 8/4 = 2/hr. In 8h: 2×8 = 16",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added extra unit"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "proportional-reasoning"
+    ],
+    "tags": [
+      "ratios",
+      "proportions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.proportional_reasoning",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "If someone completes 60 sketches in 6 hours, how many in 10 hours?",
+    "options": [
+      {
+        "label": "A",
+        "text": "100"
+      },
+      {
+        "label": "B",
+        "text": "110"
+      },
+      {
+        "label": "C",
+        "text": "70"
+      },
+      {
+        "label": "D",
+        "text": "90"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rate = 60/6 = 10/hr. In 10h: 10×10 = 100",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added extra unit"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "proportional-reasoning"
+    ],
+    "tags": [
+      "ratios",
+      "proportions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.proportional_reasoning",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "If someone completes 40 emails in 4 hours, how many in 10 hours?",
+    "options": [
+      {
+        "label": "A",
+        "text": "100"
+      },
+      {
+        "label": "B",
+        "text": "110"
+      },
+      {
+        "label": "C",
+        "text": "50"
+      },
+      {
+        "label": "D",
+        "text": "90"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rate = 40/4 = 10/hr. In 10h: 10×10 = 100",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added extra unit"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "proportional-reasoning"
+    ],
+    "tags": [
+      "ratios",
+      "proportions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.proportional_reasoning",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "If someone completes 40 letters in 4 hours, how many in 14 hours?",
+    "options": [
+      {
+        "label": "A",
+        "text": "140"
+      },
+      {
+        "label": "B",
+        "text": "150"
+      },
+      {
+        "label": "C",
+        "text": "54"
+      },
+      {
+        "label": "D",
+        "text": "130"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rate = 40/4 = 10/hr. In 14h: 10×14 = 140",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added extra unit"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "proportional-reasoning"
+    ],
+    "tags": [
+      "ratios",
+      "proportions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.proportional_reasoning",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "If someone completes 15 puzzles in 3 hours, how many in 13 hours?",
+    "options": [
+      {
+        "label": "A",
+        "text": "65"
+      },
+      {
+        "label": "B",
+        "text": "70"
+      },
+      {
+        "label": "C",
+        "text": "28"
+      },
+      {
+        "label": "D",
+        "text": "60"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rate = 15/3 = 5/hr. In 13h: 5×13 = 65",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added extra unit"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "proportional-reasoning"
+    ],
+    "tags": [
+      "ratios",
+      "proportions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.proportional_reasoning",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "If someone completes 20 models in 2 hours, how many in 13 hours?",
+    "options": [
+      {
+        "label": "A",
+        "text": "130"
+      },
+      {
+        "label": "B",
+        "text": "140"
+      },
+      {
+        "label": "C",
+        "text": "33"
+      },
+      {
+        "label": "D",
+        "text": "120"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rate = 20/2 = 10/hr. In 13h: 10×13 = 130",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added extra unit"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "proportional-reasoning"
+    ],
+    "tags": [
+      "ratios",
+      "proportions"
+    ]
+  }
+]

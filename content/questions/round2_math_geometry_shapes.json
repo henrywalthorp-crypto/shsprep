@@ -1,0 +1,1938 @@
+[
+  {
+    "section": "math",
+    "category": "math.geometry.angles",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the supplement of 119°?",
+    "options": [
+      {
+        "label": "A",
+        "text": "61°"
+      },
+      {
+        "label": "B",
+        "text": "29°"
+      },
+      {
+        "label": "C",
+        "text": "119°"
+      },
+      {
+        "label": "D",
+        "text": "241°"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Supplementary = 180° - 119° = 61°",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found complement instead"
+      },
+      {
+        "label": "C",
+        "explanation": "Subtracted from 360"
+      }
+    ],
+    "skills": [
+      "angle-relationships"
+    ],
+    "tags": [
+      "geometry",
+      "angles"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.angles",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the supplement of 139°?",
+    "options": [
+      {
+        "label": "A",
+        "text": "41°"
+      },
+      {
+        "label": "B",
+        "text": "49°"
+      },
+      {
+        "label": "C",
+        "text": "139°"
+      },
+      {
+        "label": "D",
+        "text": "221°"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Supplementary = 180° - 139° = 41°",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found complement instead"
+      },
+      {
+        "label": "C",
+        "explanation": "Subtracted from 360"
+      }
+    ],
+    "skills": [
+      "angle-relationships"
+    ],
+    "tags": [
+      "geometry",
+      "angles"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.angles",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the supplement of 71°?",
+    "options": [
+      {
+        "label": "A",
+        "text": "109°"
+      },
+      {
+        "label": "B",
+        "text": "19°"
+      },
+      {
+        "label": "C",
+        "text": "71°"
+      },
+      {
+        "label": "D",
+        "text": "289°"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Supplementary = 180° - 71° = 109°",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found complement instead"
+      },
+      {
+        "label": "C",
+        "explanation": "Subtracted from 360"
+      }
+    ],
+    "skills": [
+      "angle-relationships"
+    ],
+    "tags": [
+      "geometry",
+      "angles"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.angles",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the supplement of 43°?",
+    "options": [
+      {
+        "label": "A",
+        "text": "137°"
+      },
+      {
+        "label": "B",
+        "text": "47°"
+      },
+      {
+        "label": "C",
+        "text": "43°"
+      },
+      {
+        "label": "D",
+        "text": "317°"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Supplementary = 180° - 43° = 137°",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found complement instead"
+      },
+      {
+        "label": "C",
+        "explanation": "Subtracted from 360"
+      }
+    ],
+    "skills": [
+      "angle-relationships"
+    ],
+    "tags": [
+      "geometry",
+      "angles"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.angles",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the supplement of 129°?",
+    "options": [
+      {
+        "label": "A",
+        "text": "51°"
+      },
+      {
+        "label": "B",
+        "text": "39°"
+      },
+      {
+        "label": "C",
+        "text": "129°"
+      },
+      {
+        "label": "D",
+        "text": "231°"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Supplementary = 180° - 129° = 51°",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found complement instead"
+      },
+      {
+        "label": "C",
+        "explanation": "Subtracted from 360"
+      }
+    ],
+    "skills": [
+      "angle-relationships"
+    ],
+    "tags": [
+      "geometry",
+      "angles"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.angles",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the supplement of 45°?",
+    "options": [
+      {
+        "label": "A",
+        "text": "135°"
+      },
+      {
+        "label": "B",
+        "text": "45°"
+      },
+      {
+        "label": "C",
+        "text": "45°"
+      },
+      {
+        "label": "D",
+        "text": "315°"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Supplementary = 180° - 45° = 135°",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found complement instead"
+      },
+      {
+        "label": "C",
+        "explanation": "Subtracted from 360"
+      }
+    ],
+    "skills": [
+      "angle-relationships"
+    ],
+    "tags": [
+      "geometry",
+      "angles"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.angles",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the supplement of 59°?",
+    "options": [
+      {
+        "label": "A",
+        "text": "121°"
+      },
+      {
+        "label": "B",
+        "text": "31°"
+      },
+      {
+        "label": "C",
+        "text": "59°"
+      },
+      {
+        "label": "D",
+        "text": "301°"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Supplementary = 180° - 59° = 121°",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found complement instead"
+      },
+      {
+        "label": "C",
+        "explanation": "Subtracted from 360"
+      }
+    ],
+    "skills": [
+      "angle-relationships"
+    ],
+    "tags": [
+      "geometry",
+      "angles"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.triangles",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Triangle has angles 58° and 41°. Find the third.",
+    "options": [
+      {
+        "label": "A",
+        "text": "81°"
+      },
+      {
+        "label": "B",
+        "text": "122°"
+      },
+      {
+        "label": "C",
+        "text": "99°"
+      },
+      {
+        "label": "D",
+        "text": "261°"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "180 - 58 - 41 = 81°",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Only subtracted one angle"
+      },
+      {
+        "label": "C",
+        "explanation": "Used 360 instead of 180"
+      }
+    ],
+    "skills": [
+      "triangle-angle-sum"
+    ],
+    "tags": [
+      "geometry",
+      "triangles"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.triangles",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Triangle has angles 53° and 78°. Find the third.",
+    "options": [
+      {
+        "label": "A",
+        "text": "49°"
+      },
+      {
+        "label": "B",
+        "text": "127°"
+      },
+      {
+        "label": "C",
+        "text": "131°"
+      },
+      {
+        "label": "D",
+        "text": "229°"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "180 - 53 - 78 = 49°",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Only subtracted one angle"
+      },
+      {
+        "label": "C",
+        "explanation": "Used 360 instead of 180"
+      }
+    ],
+    "skills": [
+      "triangle-angle-sum"
+    ],
+    "tags": [
+      "geometry",
+      "triangles"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.triangles",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Triangle has angles 61° and 71°. Find the third.",
+    "options": [
+      {
+        "label": "A",
+        "text": "48°"
+      },
+      {
+        "label": "B",
+        "text": "119°"
+      },
+      {
+        "label": "C",
+        "text": "132°"
+      },
+      {
+        "label": "D",
+        "text": "228°"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "180 - 61 - 71 = 48°",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Only subtracted one angle"
+      },
+      {
+        "label": "C",
+        "explanation": "Used 360 instead of 180"
+      }
+    ],
+    "skills": [
+      "triangle-angle-sum"
+    ],
+    "tags": [
+      "geometry",
+      "triangles"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.triangles",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Triangle has angles 57° and 78°. Find the third.",
+    "options": [
+      {
+        "label": "A",
+        "text": "45°"
+      },
+      {
+        "label": "B",
+        "text": "123°"
+      },
+      {
+        "label": "C",
+        "text": "135°"
+      },
+      {
+        "label": "D",
+        "text": "225°"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "180 - 57 - 78 = 45°",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Only subtracted one angle"
+      },
+      {
+        "label": "C",
+        "explanation": "Used 360 instead of 180"
+      }
+    ],
+    "skills": [
+      "triangle-angle-sum"
+    ],
+    "tags": [
+      "geometry",
+      "triangles"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.triangles",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Triangle has angles 54° and 33°. Find the third.",
+    "options": [
+      {
+        "label": "A",
+        "text": "93°"
+      },
+      {
+        "label": "B",
+        "text": "126°"
+      },
+      {
+        "label": "C",
+        "text": "87°"
+      },
+      {
+        "label": "D",
+        "text": "273°"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "180 - 54 - 33 = 93°",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Only subtracted one angle"
+      },
+      {
+        "label": "C",
+        "explanation": "Used 360 instead of 180"
+      }
+    ],
+    "skills": [
+      "triangle-angle-sum"
+    ],
+    "tags": [
+      "geometry",
+      "triangles"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.triangles",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Triangle has angles 31° and 75°. Find the third.",
+    "options": [
+      {
+        "label": "A",
+        "text": "74°"
+      },
+      {
+        "label": "B",
+        "text": "149°"
+      },
+      {
+        "label": "C",
+        "text": "106°"
+      },
+      {
+        "label": "D",
+        "text": "254°"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "180 - 31 - 75 = 74°",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Only subtracted one angle"
+      },
+      {
+        "label": "C",
+        "explanation": "Used 360 instead of 180"
+      }
+    ],
+    "skills": [
+      "triangle-angle-sum"
+    ],
+    "tags": [
+      "geometry",
+      "triangles"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.triangles",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Triangle has angles 59° and 63°. Find the third.",
+    "options": [
+      {
+        "label": "A",
+        "text": "58°"
+      },
+      {
+        "label": "B",
+        "text": "121°"
+      },
+      {
+        "label": "C",
+        "text": "122°"
+      },
+      {
+        "label": "D",
+        "text": "238°"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "180 - 59 - 63 = 58°",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Only subtracted one angle"
+      },
+      {
+        "label": "C",
+        "explanation": "Used 360 instead of 180"
+      }
+    ],
+    "skills": [
+      "triangle-angle-sum"
+    ],
+    "tags": [
+      "geometry",
+      "triangles"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.area",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Triangle: base=9, height=8. Area?",
+    "options": [
+      {
+        "label": "A",
+        "text": "36 sq units"
+      },
+      {
+        "label": "B",
+        "text": "72 sq units"
+      },
+      {
+        "label": "C",
+        "text": "45 sq units"
+      },
+      {
+        "label": "D",
+        "text": "17 sq units"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "½×9×8 = 36",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot to halve"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "area-calculation"
+    ],
+    "tags": [
+      "geometry",
+      "area"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.area",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Rectangle: 14×4. Area?",
+    "options": [
+      {
+        "label": "A",
+        "text": "56 sq units"
+      },
+      {
+        "label": "B",
+        "text": "36 sq units"
+      },
+      {
+        "label": "C",
+        "text": "70 sq units"
+      },
+      {
+        "label": "D",
+        "text": "18 sq units"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "14×4 = 56",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found perimeter"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "area-calculation"
+    ],
+    "tags": [
+      "geometry",
+      "area"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.area",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Triangle: base=15, height=11. Area?",
+    "options": [
+      {
+        "label": "A",
+        "text": "82.5 sq units"
+      },
+      {
+        "label": "B",
+        "text": "165 sq units"
+      },
+      {
+        "label": "C",
+        "text": "97.5 sq units"
+      },
+      {
+        "label": "D",
+        "text": "26 sq units"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "½×15×11 = 82.5",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot to halve"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "area-calculation"
+    ],
+    "tags": [
+      "geometry",
+      "area"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.area",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Rectangle: 11×3. Area?",
+    "options": [
+      {
+        "label": "A",
+        "text": "33 sq units"
+      },
+      {
+        "label": "B",
+        "text": "28 sq units"
+      },
+      {
+        "label": "C",
+        "text": "44 sq units"
+      },
+      {
+        "label": "D",
+        "text": "14 sq units"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "11×3 = 33",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found perimeter"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "area-calculation"
+    ],
+    "tags": [
+      "geometry",
+      "area"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.area",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Triangle: base=9, height=4. Area?",
+    "options": [
+      {
+        "label": "A",
+        "text": "18 sq units"
+      },
+      {
+        "label": "B",
+        "text": "36 sq units"
+      },
+      {
+        "label": "C",
+        "text": "27 sq units"
+      },
+      {
+        "label": "D",
+        "text": "13 sq units"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "½×9×4 = 18",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot to halve"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "area-calculation"
+    ],
+    "tags": [
+      "geometry",
+      "area"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.area",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Rectangle: 7×5. Area?",
+    "options": [
+      {
+        "label": "A",
+        "text": "35 sq units"
+      },
+      {
+        "label": "B",
+        "text": "24 sq units"
+      },
+      {
+        "label": "C",
+        "text": "42 sq units"
+      },
+      {
+        "label": "D",
+        "text": "12 sq units"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "7×5 = 35",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found perimeter"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "area-calculation"
+    ],
+    "tags": [
+      "geometry",
+      "area"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.area",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Triangle: base=4, height=10. Area?",
+    "options": [
+      {
+        "label": "A",
+        "text": "20 sq units"
+      },
+      {
+        "label": "B",
+        "text": "40 sq units"
+      },
+      {
+        "label": "C",
+        "text": "24 sq units"
+      },
+      {
+        "label": "D",
+        "text": "14 sq units"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "½×4×10 = 20",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot to halve"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "area-calculation"
+    ],
+    "tags": [
+      "geometry",
+      "area"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.area",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Rectangle: 5×9. Area?",
+    "options": [
+      {
+        "label": "A",
+        "text": "45 sq units"
+      },
+      {
+        "label": "B",
+        "text": "28 sq units"
+      },
+      {
+        "label": "C",
+        "text": "50 sq units"
+      },
+      {
+        "label": "D",
+        "text": "14 sq units"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "5×9 = 45",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found perimeter"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "area-calculation"
+    ],
+    "tags": [
+      "geometry",
+      "area"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.circles",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Area of circle, r=8? (π≈3.14)",
+    "options": [
+      {
+        "label": "A",
+        "text": "200.96"
+      },
+      {
+        "label": "B",
+        "text": "50.24"
+      },
+      {
+        "label": "C",
+        "text": "25.12"
+      },
+      {
+        "label": "D",
+        "text": "64"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "πr²=3.14×8²=200.96",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found circumference"
+      },
+      {
+        "label": "C",
+        "explanation": "Used πr instead"
+      }
+    ],
+    "skills": [
+      "circle-formulas"
+    ],
+    "tags": [
+      "geometry",
+      "circles"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.circles",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Circumference, r=2? (π≈3.14)",
+    "options": [
+      {
+        "label": "A",
+        "text": "12.56"
+      },
+      {
+        "label": "B",
+        "text": "12.56"
+      },
+      {
+        "label": "C",
+        "text": "6.28"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2πr=2×3.14×2=12.56",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found area"
+      },
+      {
+        "label": "C",
+        "explanation": "Used πr instead"
+      }
+    ],
+    "skills": [
+      "circle-formulas"
+    ],
+    "tags": [
+      "geometry",
+      "circles"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.circles",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Area of circle, r=4? (π≈3.14)",
+    "options": [
+      {
+        "label": "A",
+        "text": "50.24"
+      },
+      {
+        "label": "B",
+        "text": "25.12"
+      },
+      {
+        "label": "C",
+        "text": "12.56"
+      },
+      {
+        "label": "D",
+        "text": "16"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "πr²=3.14×4²=50.24",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found circumference"
+      },
+      {
+        "label": "C",
+        "explanation": "Used πr instead"
+      }
+    ],
+    "skills": [
+      "circle-formulas"
+    ],
+    "tags": [
+      "geometry",
+      "circles"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.circles",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Circumference, r=5? (π≈3.14)",
+    "options": [
+      {
+        "label": "A",
+        "text": "31.40"
+      },
+      {
+        "label": "B",
+        "text": "78.50"
+      },
+      {
+        "label": "C",
+        "text": "15.70"
+      },
+      {
+        "label": "D",
+        "text": "25"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2πr=2×3.14×5=31.40",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found area"
+      },
+      {
+        "label": "C",
+        "explanation": "Used πr instead"
+      }
+    ],
+    "skills": [
+      "circle-formulas"
+    ],
+    "tags": [
+      "geometry",
+      "circles"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.circles",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Area of circle, r=4? (π≈3.14) (variant 1)",
+    "options": [
+      {
+        "label": "A",
+        "text": "50.24"
+      },
+      {
+        "label": "B",
+        "text": "25.12"
+      },
+      {
+        "label": "C",
+        "text": "12.56"
+      },
+      {
+        "label": "D",
+        "text": "16"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "πr²=3.14×4²=50.24",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found circumference"
+      },
+      {
+        "label": "C",
+        "explanation": "Used πr instead"
+      }
+    ],
+    "skills": [
+      "circle-formulas"
+    ],
+    "tags": [
+      "geometry",
+      "circles"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.circles",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Circumference, r=2? (π≈3.14) (variant 1)",
+    "options": [
+      {
+        "label": "A",
+        "text": "12.56"
+      },
+      {
+        "label": "B",
+        "text": "12.56"
+      },
+      {
+        "label": "C",
+        "text": "6.28"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2πr=2×3.14×2=12.56",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found area"
+      },
+      {
+        "label": "C",
+        "explanation": "Used πr instead"
+      }
+    ],
+    "skills": [
+      "circle-formulas"
+    ],
+    "tags": [
+      "geometry",
+      "circles"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.circles",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Area of circle, r=2? (π≈3.14)",
+    "options": [
+      {
+        "label": "A",
+        "text": "12.56"
+      },
+      {
+        "label": "B",
+        "text": "12.56"
+      },
+      {
+        "label": "C",
+        "text": "6.28"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "πr²=3.14×2²=12.56",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found circumference"
+      },
+      {
+        "label": "C",
+        "explanation": "Used πr instead"
+      }
+    ],
+    "skills": [
+      "circle-formulas"
+    ],
+    "tags": [
+      "geometry",
+      "circles"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.circles",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Circumference, r=5? (π≈3.14) (variant 1)",
+    "options": [
+      {
+        "label": "A",
+        "text": "31.40"
+      },
+      {
+        "label": "B",
+        "text": "78.50"
+      },
+      {
+        "label": "C",
+        "text": "15.70"
+      },
+      {
+        "label": "D",
+        "text": "25"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2πr=2×3.14×5=31.40",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found area"
+      },
+      {
+        "label": "C",
+        "explanation": "Used πr instead"
+      }
+    ],
+    "skills": [
+      "circle-formulas"
+    ],
+    "tags": [
+      "geometry",
+      "circles"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.pythagorean_theorem",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Right triangle legs 3 and 4. Hypotenuse?",
+    "options": [
+      {
+        "label": "A",
+        "text": "5"
+      },
+      {
+        "label": "B",
+        "text": "7"
+      },
+      {
+        "label": "C",
+        "text": "6"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "√(3²+4²) = √25 = 5",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added legs"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error"
+      }
+    ],
+    "skills": [
+      "pythagorean-theorem"
+    ],
+    "tags": [
+      "geometry",
+      "pythagorean"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.pythagorean_theorem",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Right triangle legs 5 and 12. Hypotenuse?",
+    "options": [
+      {
+        "label": "A",
+        "text": "13"
+      },
+      {
+        "label": "B",
+        "text": "17"
+      },
+      {
+        "label": "C",
+        "text": "14"
+      },
+      {
+        "label": "D",
+        "text": "12"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "√(5²+12²) = √169 = 13",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added legs"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error"
+      }
+    ],
+    "skills": [
+      "pythagorean-theorem"
+    ],
+    "tags": [
+      "geometry",
+      "pythagorean"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.pythagorean_theorem",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Right triangle legs 8 and 15. Hypotenuse?",
+    "options": [
+      {
+        "label": "A",
+        "text": "17"
+      },
+      {
+        "label": "B",
+        "text": "23"
+      },
+      {
+        "label": "C",
+        "text": "18"
+      },
+      {
+        "label": "D",
+        "text": "16"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "√(8²+15²) = √289 = 17",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added legs"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error"
+      }
+    ],
+    "skills": [
+      "pythagorean-theorem"
+    ],
+    "tags": [
+      "geometry",
+      "pythagorean"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.pythagorean_theorem",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Right triangle legs 7 and 24. Hypotenuse?",
+    "options": [
+      {
+        "label": "A",
+        "text": "25"
+      },
+      {
+        "label": "B",
+        "text": "31"
+      },
+      {
+        "label": "C",
+        "text": "26"
+      },
+      {
+        "label": "D",
+        "text": "24"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "√(7²+24²) = √625 = 25",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added legs"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error"
+      }
+    ],
+    "skills": [
+      "pythagorean-theorem"
+    ],
+    "tags": [
+      "geometry",
+      "pythagorean"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.pythagorean_theorem",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Right triangle legs 6 and 8. Hypotenuse?",
+    "options": [
+      {
+        "label": "A",
+        "text": "10"
+      },
+      {
+        "label": "B",
+        "text": "14"
+      },
+      {
+        "label": "C",
+        "text": "11"
+      },
+      {
+        "label": "D",
+        "text": "9"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "√(6²+8²) = √100 = 10",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added legs"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error"
+      }
+    ],
+    "skills": [
+      "pythagorean-theorem"
+    ],
+    "tags": [
+      "geometry",
+      "pythagorean"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.pythagorean_theorem",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Right triangle legs 9 and 12. Hypotenuse?",
+    "options": [
+      {
+        "label": "A",
+        "text": "15"
+      },
+      {
+        "label": "B",
+        "text": "21"
+      },
+      {
+        "label": "C",
+        "text": "16"
+      },
+      {
+        "label": "D",
+        "text": "14"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "√(9²+12²) = √225 = 15",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added legs"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error"
+      }
+    ],
+    "skills": [
+      "pythagorean-theorem"
+    ],
+    "tags": [
+      "geometry",
+      "pythagorean"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.composite",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Rectangle 8×8 with 2×3 corner removed. Area?",
+    "options": [
+      {
+        "label": "A",
+        "text": "58"
+      },
+      {
+        "label": "B",
+        "text": "64"
+      },
+      {
+        "label": "C",
+        "text": "6"
+      },
+      {
+        "label": "D",
+        "text": "70"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "64 - 6 = 58",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot to subtract cutout"
+      },
+      {
+        "label": "C",
+        "explanation": "Only found cutout area"
+      }
+    ],
+    "skills": [
+      "composite-shapes"
+    ],
+    "tags": [
+      "geometry",
+      "composite"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.composite",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Rectangle 14×6 with 2×3 corner removed. Area?",
+    "options": [
+      {
+        "label": "A",
+        "text": "78"
+      },
+      {
+        "label": "B",
+        "text": "84"
+      },
+      {
+        "label": "C",
+        "text": "6"
+      },
+      {
+        "label": "D",
+        "text": "90"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "84 - 6 = 78",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot to subtract cutout"
+      },
+      {
+        "label": "C",
+        "explanation": "Only found cutout area"
+      }
+    ],
+    "skills": [
+      "composite-shapes"
+    ],
+    "tags": [
+      "geometry",
+      "composite"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.composite",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Rectangle 13×7 with 3×3 corner removed. Area?",
+    "options": [
+      {
+        "label": "A",
+        "text": "82"
+      },
+      {
+        "label": "B",
+        "text": "91"
+      },
+      {
+        "label": "C",
+        "text": "9"
+      },
+      {
+        "label": "D",
+        "text": "100"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "91 - 9 = 82",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot to subtract cutout"
+      },
+      {
+        "label": "C",
+        "explanation": "Only found cutout area"
+      }
+    ],
+    "skills": [
+      "composite-shapes"
+    ],
+    "tags": [
+      "geometry",
+      "composite"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.composite",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Rectangle 10×6 with 3×2 corner removed. Area?",
+    "options": [
+      {
+        "label": "A",
+        "text": "54"
+      },
+      {
+        "label": "B",
+        "text": "60"
+      },
+      {
+        "label": "C",
+        "text": "6"
+      },
+      {
+        "label": "D",
+        "text": "66"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "60 - 6 = 54",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot to subtract cutout"
+      },
+      {
+        "label": "C",
+        "explanation": "Only found cutout area"
+      }
+    ],
+    "skills": [
+      "composite-shapes"
+    ],
+    "tags": [
+      "geometry",
+      "composite"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.perimeter_area",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Perimeter of rectangle 6×8?",
+    "options": [
+      {
+        "label": "A",
+        "text": "28"
+      },
+      {
+        "label": "B",
+        "text": "48"
+      },
+      {
+        "label": "C",
+        "text": "14"
+      },
+      {
+        "label": "D",
+        "text": "24"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "P = 2(6+8) = 28",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found area instead"
+      },
+      {
+        "label": "C",
+        "explanation": "Only added once without doubling"
+      }
+    ],
+    "skills": [
+      "perimeter"
+    ],
+    "tags": [
+      "geometry",
+      "perimeter"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.perimeter_area",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Perimeter of rectangle 15×5?",
+    "options": [
+      {
+        "label": "A",
+        "text": "40"
+      },
+      {
+        "label": "B",
+        "text": "75"
+      },
+      {
+        "label": "C",
+        "text": "20"
+      },
+      {
+        "label": "D",
+        "text": "60"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "P = 2(15+5) = 40",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found area instead"
+      },
+      {
+        "label": "C",
+        "explanation": "Only added once without doubling"
+      }
+    ],
+    "skills": [
+      "perimeter"
+    ],
+    "tags": [
+      "geometry",
+      "perimeter"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.perimeter_area",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Perimeter of rectangle 5×10?",
+    "options": [
+      {
+        "label": "A",
+        "text": "30"
+      },
+      {
+        "label": "B",
+        "text": "50"
+      },
+      {
+        "label": "C",
+        "text": "15"
+      },
+      {
+        "label": "D",
+        "text": "20"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "P = 2(5+10) = 30",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found area instead"
+      },
+      {
+        "label": "C",
+        "explanation": "Only added once without doubling"
+      }
+    ],
+    "skills": [
+      "perimeter"
+    ],
+    "tags": [
+      "geometry",
+      "perimeter"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.perimeter_area",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Perimeter of rectangle 10×8?",
+    "options": [
+      {
+        "label": "A",
+        "text": "36"
+      },
+      {
+        "label": "B",
+        "text": "80"
+      },
+      {
+        "label": "C",
+        "text": "18"
+      },
+      {
+        "label": "D",
+        "text": "40"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "P = 2(10+8) = 36",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found area instead"
+      },
+      {
+        "label": "C",
+        "explanation": "Only added once without doubling"
+      }
+    ],
+    "skills": [
+      "perimeter"
+    ],
+    "tags": [
+      "geometry",
+      "perimeter"
+    ]
+  }
+]

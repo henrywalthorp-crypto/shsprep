@@ -1,0 +1,2913 @@
+[
+  {
+    "section": "ela",
+    "category": "ela.reading.figurative_language",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What literary device is used in \"the waves crashed against the rocks with the fury of a caged animal\"?",
+    "stimulus": "The sunset painted the sky in shades of amber and crimson, as if the heavens themselves were on fire. Elena stood at the edge of the cliff, her hair whipping in the wind like dark ribbons. Below, the waves crashed against the rocks with the fury of a caged animal. She had come here every evening since her mother's passing, drawn by some invisible thread to this place where earth met sky met sea. The lighthouse behind her cast its steady beam across the water—patient, reliable, unchanging—everything her world no longer was. \"I miss you,\" she whispered, and the wind carried her words out to sea, mixing them with the salt spray until they became part of the ocean itself.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simile"
+      },
+      {
+        "label": "B",
+        "text": "Metaphor"
+      },
+      {
+        "label": "C",
+        "text": "Personification"
+      },
+      {
+        "label": "D",
+        "text": "Alliteration"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The comparison uses \"with the fury of\" (like) to compare waves to a caged animal.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified device"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal interpretation"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.tone_mood",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the overall tone of this passage?",
+    "stimulus": "The sunset painted the sky in shades of amber and crimson, as if the heavens themselves were on fire. Elena stood at the edge of the cliff, her hair whipping in the wind like dark ribbons. Below, the waves crashed against the rocks with the fury of a caged animal. She had come here every evening since her mother's passing, drawn by some invisible thread to this place where earth met sky met sea. The lighthouse behind her cast its steady beam across the water—patient, reliable, unchanging—everything her world no longer was. \"I miss you,\" she whispered, and the wind carried her words out to sea, mixing them with the salt spray until they became part of the ocean itself.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Melancholic and reflective"
+      },
+      {
+        "label": "B",
+        "text": "Angry and bitter"
+      },
+      {
+        "label": "C",
+        "text": "Joyful and celebratory"
+      },
+      {
+        "label": "D",
+        "text": "Suspenseful and tense"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Grief, repeated visits, and the quiet whisper create a melancholic, reflective mood.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified device"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal interpretation"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.figurative_language",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What does the lighthouse most likely symbolize?",
+    "stimulus": "The sunset painted the sky in shades of amber and crimson, as if the heavens themselves were on fire. Elena stood at the edge of the cliff, her hair whipping in the wind like dark ribbons. Below, the waves crashed against the rocks with the fury of a caged animal. She had come here every evening since her mother's passing, drawn by some invisible thread to this place where earth met sky met sea. The lighthouse behind her cast its steady beam across the water—patient, reliable, unchanging—everything her world no longer was. \"I miss you,\" she whispered, and the wind carried her words out to sea, mixing them with the salt spray until they became part of the ocean itself.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Stability and constancy in a changed world"
+      },
+      {
+        "label": "B",
+        "text": "Danger and warning"
+      },
+      {
+        "label": "C",
+        "text": "Elena's mother"
+      },
+      {
+        "label": "D",
+        "text": "The power of nature"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The lighthouse is described as \"patient, reliable, unchanging\"—contrasting Elena's disrupted life.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified device"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal interpretation"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.figurative_language",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What does \"navigating the sea of backpacks\" represent?",
+    "stimulus": "James kept his head down in the hallway, navigating the sea of backpacks and conversation with practiced invisibility. He had perfected the art of being unremarkable: gray clothes, neutral expression, always moving at exactly the speed of the crowd. It had taken him years to learn that in middle school, the safest place was the middle—not too smart, not too loud, not too anything. But in Ms. Rivera's creative writing class, something shifted. She had asked them to write about a moment that changed them, and James found himself writing about the night his father left. The words came like water from a broken dam, unstoppable and surprising even to himself. When Ms. Rivera asked if anyone wanted to share, James's hand rose before his brain could stop it.",
+    "options": [
+      {
+        "label": "A",
+        "text": "A metaphor comparing the crowded hallway to an ocean"
+      },
+      {
+        "label": "B",
+        "text": "An actual sea"
+      },
+      {
+        "label": "C",
+        "text": "A simile comparing students to fish"
+      },
+      {
+        "label": "D",
+        "text": "Hyperbole about too many backpacks"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "\"Sea of backpacks\" is a metaphor — direct comparison without \"like\" or \"as.\"",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified device"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal interpretation"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.plot_character",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "How does James change over the course of the passage?",
+    "stimulus": "James kept his head down in the hallway, navigating the sea of backpacks and conversation with practiced invisibility. He had perfected the art of being unremarkable: gray clothes, neutral expression, always moving at exactly the speed of the crowd. It had taken him years to learn that in middle school, the safest place was the middle—not too smart, not too loud, not too anything. But in Ms. Rivera's creative writing class, something shifted. She had asked them to write about a moment that changed them, and James found himself writing about the night his father left. The words came like water from a broken dam, unstoppable and surprising even to himself. When Ms. Rivera asked if anyone wanted to share, James's hand rose before his brain could stop it.",
+    "options": [
+      {
+        "label": "A",
+        "text": "He moves from deliberate invisibility to unexpected vulnerability and self-expression."
+      },
+      {
+        "label": "B",
+        "text": "He becomes more popular."
+      },
+      {
+        "label": "C",
+        "text": "He gets in trouble."
+      },
+      {
+        "label": "D",
+        "text": "He decides to leave school."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "He goes from hiding to voluntarily sharing deeply personal writing.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified device"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal interpretation"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.figurative_language",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What does \"the words came like water from a broken dam\" suggest?",
+    "stimulus": "James kept his head down in the hallway, navigating the sea of backpacks and conversation with practiced invisibility. He had perfected the art of being unremarkable: gray clothes, neutral expression, always moving at exactly the speed of the crowd. It had taken him years to learn that in middle school, the safest place was the middle—not too smart, not too loud, not too anything. But in Ms. Rivera's creative writing class, something shifted. She had asked them to write about a moment that changed them, and James found himself writing about the night his father left. The words came like water from a broken dam, unstoppable and surprising even to himself. When Ms. Rivera asked if anyone wanted to share, James's hand rose before his brain could stop it.",
+    "options": [
+      {
+        "label": "A",
+        "text": "His suppressed emotions finally found an outlet and poured out uncontrollably."
+      },
+      {
+        "label": "B",
+        "text": "He was writing about water."
+      },
+      {
+        "label": "C",
+        "text": "His writing was messy."
+      },
+      {
+        "label": "D",
+        "text": "He didn't like writing."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The simile compares long-held emotions to water pressure released suddenly.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified device"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal interpretation"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.tone_mood",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the tone of the final sentence?",
+    "stimulus": "James kept his head down in the hallway, navigating the sea of backpacks and conversation with practiced invisibility. He had perfected the art of being unremarkable: gray clothes, neutral expression, always moving at exactly the speed of the crowd. It had taken him years to learn that in middle school, the safest place was the middle—not too smart, not too loud, not too anything. But in Ms. Rivera's creative writing class, something shifted. She had asked them to write about a moment that changed them, and James found himself writing about the night his father left. The words came like water from a broken dam, unstoppable and surprising even to himself. When Ms. Rivera asked if anyone wanted to share, James's hand rose before his brain could stop it.",
+    "options": [
+      {
+        "label": "A",
+        "text": "A mix of surprise and courage"
+      },
+      {
+        "label": "B",
+        "text": "Anger and frustration"
+      },
+      {
+        "label": "C",
+        "text": "Boredom and indifference"
+      },
+      {
+        "label": "D",
+        "text": "Fear and panic"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "\"Before his brain could stop it\" shows his action surprised even himself—impulsive bravery.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified device"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal interpretation"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.figurative_language",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What literary device is \"The old house crouched... like a tired watchman\"?",
+    "stimulus": "The old house crouched at the end of Maple Street like a tired watchman, its windows dark and hollow. Ivy had claimed the east wall entirely, and the porch sagged in the middle like a frown. Neighbors walked past quickly, crossing to the other side of the street. Children dared each other to touch the gate but never went further. Inside, however, the house kept its secrets well. Behind the peeling wallpaper, someone had painted a mural of a garden in full bloom—roses, sunflowers, butterflies frozen mid-flight. In the attic, boxes of love letters tied with silk ribbon sat beside a violin that, despite years of neglect, still held its tune. The house was not haunted by ghosts but by the memory of a life fully lived.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simile with personification"
+      },
+      {
+        "label": "B",
+        "text": "Onomatopoeia"
+      },
+      {
+        "label": "C",
+        "text": "Hyperbole"
+      },
+      {
+        "label": "D",
+        "text": "Alliteration"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "\"Crouched\" personifies the house, and \"like a tired watchman\" makes it a simile.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified device"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal interpretation"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.tone_mood",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the mood shift in this passage?",
+    "stimulus": "The old house crouched at the end of Maple Street like a tired watchman, its windows dark and hollow. Ivy had claimed the east wall entirely, and the porch sagged in the middle like a frown. Neighbors walked past quickly, crossing to the other side of the street. Children dared each other to touch the gate but never went further. Inside, however, the house kept its secrets well. Behind the peeling wallpaper, someone had painted a mural of a garden in full bloom—roses, sunflowers, butterflies frozen mid-flight. In the attic, boxes of love letters tied with silk ribbon sat beside a violin that, despite years of neglect, still held its tune. The house was not haunted by ghosts but by the memory of a life fully lived.",
+    "options": [
+      {
+        "label": "A",
+        "text": "From eerie and foreboding to warm and nostalgic"
+      },
+      {
+        "label": "B",
+        "text": "From happy to sad"
+      },
+      {
+        "label": "C",
+        "text": "From calm to terrifying"
+      },
+      {
+        "label": "D",
+        "text": "From boring to exciting"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The exterior is dark/hollow; the interior reveals beauty and love.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified device"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal interpretation"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.figurative_language",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What does \"the house was not haunted by ghosts but by the memory of a life fully lived\" mean?",
+    "stimulus": "The old house crouched at the end of Maple Street like a tired watchman, its windows dark and hollow. Ivy had claimed the east wall entirely, and the porch sagged in the middle like a frown. Neighbors walked past quickly, crossing to the other side of the street. Children dared each other to touch the gate but never went further. Inside, however, the house kept its secrets well. Behind the peeling wallpaper, someone had painted a mural of a garden in full bloom—roses, sunflowers, butterflies frozen mid-flight. In the attic, boxes of love letters tied with silk ribbon sat beside a violin that, despite years of neglect, still held its tune. The house was not haunted by ghosts but by the memory of a life fully lived.",
+    "options": [
+      {
+        "label": "A",
+        "text": "The house holds traces of a rich, meaningful past rather than supernatural presence."
+      },
+      {
+        "label": "B",
+        "text": "There are no ghosts in the house."
+      },
+      {
+        "label": "C",
+        "text": "Someone still lives there."
+      },
+      {
+        "label": "D",
+        "text": "The house should be demolished."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The contrast between \"ghosts\" and \"memory of a life fully lived\" reframes \"haunted\" as filled with meaningful history.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified device"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal interpretation"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.vocabulary_in_context",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What does \"North Star\" mean in this context?",
+    "stimulus": "Dr. Chen stared at the equation on the whiteboard, her marker hovering in midair. The solution was elegant—almost too elegant. She had been working on this problem for eleven years, through two universities, one divorce, and countless sleepless nights. Her graduate students had come and gone, each contributing a small piece. Now, standing alone in the lab at 2 a.m., she could see how all the pieces fit together. She should have felt triumphant. Instead, she felt something closer to grief. The problem had been her constant companion, her North Star. Solving it meant losing the thing that had defined her for over a decade. She capped the marker and sat down heavily. Tomorrow she would celebrate. Tonight, she would mourn.",
+    "options": [
+      {
+        "label": "A",
+        "text": "A guiding purpose that gave direction to her life and work"
+      },
+      {
+        "label": "B",
+        "text": "A literal star she observed"
+      },
+      {
+        "label": "C",
+        "text": "Her university's name"
+      },
+      {
+        "label": "D",
+        "text": "A type of equation"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "\"North Star\" metaphorically represents guidance and constant direction.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified device"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal interpretation"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.plot_character",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which best describes Dr. Chen's emotional complexity?",
+    "stimulus": "Dr. Chen stared at the equation on the whiteboard, her marker hovering in midair. The solution was elegant—almost too elegant. She had been working on this problem for eleven years, through two universities, one divorce, and countless sleepless nights. Her graduate students had come and gone, each contributing a small piece. Now, standing alone in the lab at 2 a.m., she could see how all the pieces fit together. She should have felt triumphant. Instead, she felt something closer to grief. The problem had been her constant companion, her North Star. Solving it meant losing the thing that had defined her for over a decade. She capped the marker and sat down heavily. Tomorrow she would celebrate. Tonight, she would mourn.",
+    "options": [
+      {
+        "label": "A",
+        "text": "She feels both accomplishment and loss simultaneously."
+      },
+      {
+        "label": "B",
+        "text": "She is purely happy."
+      },
+      {
+        "label": "C",
+        "text": "She is angry at her students."
+      },
+      {
+        "label": "D",
+        "text": "She regrets her career choice."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "She recognizes triumph but grieves losing her defining purpose.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified device"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal interpretation"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.tone_mood",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the tone of the final two sentences?",
+    "stimulus": "Dr. Chen stared at the equation on the whiteboard, her marker hovering in midair. The solution was elegant—almost too elegant. She had been working on this problem for eleven years, through two universities, one divorce, and countless sleepless nights. Her graduate students had come and gone, each contributing a small piece. Now, standing alone in the lab at 2 a.m., she could see how all the pieces fit together. She should have felt triumphant. Instead, she felt something closer to grief. The problem had been her constant companion, her North Star. Solving it meant losing the thing that had defined her for over a decade. She capped the marker and sat down heavily. Tomorrow she would celebrate. Tonight, she would mourn.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bittersweet and contemplative"
+      },
+      {
+        "label": "B",
+        "text": "Angry and resentful"
+      },
+      {
+        "label": "C",
+        "text": "Excited and energetic"
+      },
+      {
+        "label": "D",
+        "text": "Confused and uncertain"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "\"Celebrate\" vs. \"mourn\" captures the bittersweet nature of her achievement.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified device"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal interpretation"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.figurative_language",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What literary device is \"the memory was warm... like holding a cup of tea\"?",
+    "stimulus": "The snow blanketed the town in silence, muffling footsteps and conversations alike. Mrs. Patterson watched from her window as children built a snowman in the park, their laughter the only sound that dared to break through the white quiet. She pressed her hand against the cold glass. Somewhere inside her, a memory stirred—herself at that age, in that same park, reaching up to place a carrot nose on a snowman while her father steadied her. The memory was warm, impossibly warm, like holding a cup of tea on a winter morning.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simile"
+      },
+      {
+        "label": "B",
+        "text": "Metaphor"
+      },
+      {
+        "label": "C",
+        "text": "Personification"
+      },
+      {
+        "label": "D",
+        "text": "Irony"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "\"Like\" signals a simile comparing the warmth of memory to tea.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified literary element"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal reading"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.figurative_language",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What extended metaphor structures this passage?",
+    "stimulus": "The courtroom was a theater, and every person in it played a role. The judge sat high on her bench like a queen on a throne, dispensing justice with measured words. The lawyers performed for the jury, their voices rising and falling with practiced emotion. Even the defendant wore his innocence like a costume, carefully buttoned and pressed. Only the victim's mother, sitting in the back row, seemed real. Her pain needed no script.",
+    "options": [
+      {
+        "label": "A",
+        "text": "The courtroom as a theater/performance"
+      },
+      {
+        "label": "B",
+        "text": "Justice as a scale"
+      },
+      {
+        "label": "C",
+        "text": "Law as a game"
+      },
+      {
+        "label": "D",
+        "text": "The courtroom as a school"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Theater, roles, performed, costume, and script all extend the metaphor.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified literary element"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal reading"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.tone_mood",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the mood of this passage?",
+    "stimulus": "Autumn arrived like an uninvited guest, stripping the trees bare and scattering leaves across lawns with careless abandon. The garden that had bloomed so proudly in June now stood skeletal, its flowers reduced to brittle stems. Yet there was beauty in the decay—the way the light filtered golden through the remaining leaves, the satisfying crunch of frost-covered grass underfoot, the sharp clarity of the air that made everything seem more vivid, more real.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Wistful yet appreciative of beauty in change"
+      },
+      {
+        "label": "B",
+        "text": "Purely depressing"
+      },
+      {
+        "label": "C",
+        "text": "Excited and joyful"
+      },
+      {
+        "label": "D",
+        "text": "Angry and resentful"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "While noting decay, the passage finds beauty—creating a wistful, appreciative tone.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified literary element"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal reading"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.vocabulary_in_context",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What does \"tasted like love\" mean in context?",
+    "stimulus": "When I was young, my grandmother's kitchen was the center of the universe. Every surface held a jar or a bowl, ingredients for something always in progress. The air was thick with cumin and garlic, and the radio played scratchy boleros that my grandmother sang along to, never quite hitting the right notes but never caring. I would sit on the counter, my legs swinging, watching her hands move with the confidence of someone who had made this meal a thousand times. \"Taste,\" she would say, holding out a wooden spoon. Everything she made tasted like love—which, I realize now, is not a flavor but a feeling.",
+    "options": [
+      {
+        "label": "A",
+        "text": "The food evoked feelings of warmth, care, and belonging"
+      },
+      {
+        "label": "B",
+        "text": "Love has a specific taste"
+      },
+      {
+        "label": "C",
+        "text": "The food was very sweet"
+      },
+      {
+        "label": "D",
+        "text": "The grandmother was a professional chef"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The narrator explains it's \"not a flavor but a feeling\"—connecting food to emotional warmth.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified literary element"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal reading"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.plot_character",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "How would you describe Marcus as a character?",
+    "stimulus": "Marcus didn't speak for the first three weeks at his new school. Teachers mistook his silence for shyness or defiance, but it was neither. He was listening. He was mapping the social terrain the way a surveyor maps land before building—noting the fault lines between groups, the unspoken rules, the power dynamics that shifted between classes and lunch periods. By the fourth week, when he finally spoke, he knew exactly who to befriend and who to avoid. His first words in English class were a joke that made even the teacher laugh. No one suspected it had been rehearsed.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Strategic and observant, carefully calculating his social approach"
+      },
+      {
+        "label": "B",
+        "text": "Shy and fearful"
+      },
+      {
+        "label": "C",
+        "text": "Defiant and rebellious"
+      },
+      {
+        "label": "D",
+        "text": "Naturally funny and carefree"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "His deliberate observation, mapping, and rehearsed joke reveal strategic intelligence.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified literary element"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal reading"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.figurative_language",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What literary device does the narrator use by commenting on the day?",
+    "stimulus": "The letter arrived on a Tuesday, which seemed wrong somehow. Life-changing news should arrive on a more significant day—a Monday, perhaps, to start a new chapter, or a Friday, to give you the weekend to absorb it. But Tuesday it was, sandwiched between junk mail and a water bill, as if the universe wanted to remind her that the extraordinary and the ordinary share the same mailbox.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Irony—the contrast between the mundane day and life-changing content"
+      },
+      {
+        "label": "B",
+        "text": "Foreshadowing"
+      },
+      {
+        "label": "C",
+        "text": "Flashback"
+      },
+      {
+        "label": "D",
+        "text": "Onomatopoeia"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The unexpected ordinariness of Tuesday for momentous news creates situational irony.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified literary element"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal reading"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.figurative_language",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What does the dusty trophy symbolize?",
+    "stimulus": "The championship trophy sat on Coach Williams's desk, collecting dust. He never polished it, never moved it to the display case in the hallway where the principal wanted it. Instead, he kept it next to a framed photograph of his team—not the championship team, but the team from two years before, the one that went 2-8. \"That team taught me more about coaching than any trophy ever could,\" he told anyone who asked. In the photo, the players were laughing, arms around each other's shoulders, mud-streaked and grinning despite having just lost their season finale by thirty points.",
+    "options": [
+      {
+        "label": "A",
+        "text": "That winning matters less to Coach Williams than growth and connection"
+      },
+      {
+        "label": "B",
+        "text": "That he is a bad housekeeper"
+      },
+      {
+        "label": "C",
+        "text": "That the championship was undeserved"
+      },
+      {
+        "label": "D",
+        "text": "That trophies are worthless"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Neglecting the trophy while cherishing the losing team's photo shows his values.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified literary element"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal reading"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.tone_mood",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What effect does the author create by describing everyone stopping?",
+    "stimulus": "\"The test results are in,\" Dr. Okafor said, and the room held its breath. Not literally, of course—rooms don't breathe. But in that moment, every person in the waiting area stopped whatever they were doing. The man with the newspaper froze mid-page-turn. The woman knitting let her needles rest. Even the fish in the aquarium seemed to pause. Sarah gripped the armrest of her chair so tightly her knuckles went white.",
+    "options": [
+      {
+        "label": "A",
+        "text": "It heightens the tension and significance of the moment"
+      },
+      {
+        "label": "B",
+        "text": "It shows the room is boring"
+      },
+      {
+        "label": "C",
+        "text": "It describes a power outage"
+      },
+      {
+        "label": "D",
+        "text": "It shows people are rude for eavesdropping"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The frozen moment technique amplifies the dramatic tension of awaiting results.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified literary element"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal reading"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.figurative_language",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What extended metaphor organizes this passage?",
+    "stimulus": "Grandmother used to say that stories were like seeds—you plant them in someone's mind and you never know what will grow. She herself had been planted with stories by her own grandmother, tales of the old country that grew into the roots of her identity. Now she planted them in me, and I could feel them taking hold, sprouting into questions and curiosities that reached toward the light. Some stories grew into trees that sheltered me. Others grew thorns that pricked at comfortable assumptions. All of them grew.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Stories as seeds/plants that grow in the mind"
+      },
+      {
+        "label": "B",
+        "text": "Grandmother as a farmer"
+      },
+      {
+        "label": "C",
+        "text": "Identity as a tree"
+      },
+      {
+        "label": "D",
+        "text": "Questions as light"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Seeds, plant, grow, roots, sprouting, trees, thorns—all extend the seed metaphor.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified literary element"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal reading"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.figurative_language",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What does the bird most likely symbolize?",
+    "stimulus": "The battlefield was quiet now, the kind of quiet that follows thunder. Smoke rose from the earth in thin columns, like prayers ascending. A single bird—how had it survived?—perched on a broken fence post and began to sing. Its song was absurdly beautiful, each note a small defiance against the destruction below. Private Torres, the youngest in his unit, listened from behind a shattered wall. He didn't know the name of the bird or the name of its song. But he knew, with a certainty that surprised him, that as long as something could still sing, not everything was lost.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hope and resilience persisting even amid devastation"
+      },
+      {
+        "label": "B",
+        "text": "The enemy approaching"
+      },
+      {
+        "label": "C",
+        "text": "Torres's childhood"
+      },
+      {
+        "label": "D",
+        "text": "The futility of war"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A bird singing after battle, called \"a small defiance,\" represents hope and resilience.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified literary element"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal reading"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.plot_character",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What does the passage suggest about the power of specific feedback?",
+    "stimulus": "Ms. Rodriguez handed back the essays with a single word written at the top of each one. \"Brave,\" said Keisha's. \"Precise,\" said David's. \"Growing,\" said Tyler's. She never gave letter grades on personal essays. \"A letter can't capture what you put into this,\" she explained. \"Words can.\" The students studied their words with more attention than they'd ever given a grade. Keisha traced the letters of \"Brave\" with her finger, wondering what Ms. Rodriguez had seen in her essay that she hadn't seen herself.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Personalized words can be more meaningful and motivating than generic grades."
+      },
+      {
+        "label": "B",
+        "text": "Teachers should never give grades."
+      },
+      {
+        "label": "C",
+        "text": "Students don't care about feedback."
+      },
+      {
+        "label": "D",
+        "text": "Writing essays is pointless."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Students' deep engagement with their individual words shows feedback's motivational power.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified literary element"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal reading"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.figurative_language",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What does \"her fingers moving across the keys like they were having a private conversation\" suggest?",
+    "stimulus": "The jazz club was underground in every sense—below street level and below the radar of the mainstream music scene. The walls sweated with condensation from packed bodies, and the air tasted of cigarette smoke and possibility. On the small stage, a woman with silver hair sat at the piano, her fingers moving across the keys like they were having a private conversation. She didn't play to the audience; she played to the music itself. The notes climbed and tumbled and sometimes fell into silences so complete they felt like part of the melody. Nobody moved. Nobody wanted to break the spell.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Her playing was intimate and intuitive, as if the music arose naturally from within her"
+      },
+      {
+        "label": "B",
+        "text": "She was talking to someone while playing"
+      },
+      {
+        "label": "C",
+        "text": "She was playing quietly"
+      },
+      {
+        "label": "D",
+        "text": "She was a beginner at piano"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The \"private conversation\" simile suggests deep, intuitive connection between player and instrument.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified literary element"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal reading"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.figurative_language",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What does \"symphony of chaos\" suggest?",
+    "stimulus": "The library was Nadia's sanctuary. While the apartment she shared with four siblings was a symphony of chaos—television blaring, babies crying, doors slamming—the library offered something she craved: silence thick enough to think in. She would find the same table in the back corner, spread her books like a fortress wall around her, and disappear into worlds where she could be anyone. The librarian, Mrs. Chen, seemed to understand without being told. She would place new books on Nadia's table like offerings, always choosing perfectly.",
+    "options": [
+      {
+        "label": "A",
+        "text": "The apartment is overwhelmingly noisy, with many competing sounds"
+      },
+      {
+        "label": "B",
+        "text": "The family plays music together"
+      },
+      {
+        "label": "C",
+        "text": "The apartment is organized"
+      },
+      {
+        "label": "D",
+        "text": "Nadia likes music"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "\"Symphony\" implies many sounds; \"chaos\" makes it overwhelming, creating an oxymoronic metaphor.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified literary element"
+      },
+      {
+        "label": "C",
+        "explanation": "Surface-level reading"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.figurative_language",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What literary device is \"memorizing their geography before the tremors redrew the map\"?",
+    "stimulus": "Papa's hands told the story of his life better than any biography could. They were mapped with scars from the factory—thin white lines from metal edges, a missing fingertip from the press that malfunctioned in '93. But they were also the hands that had built my treehouse, board by careful board. The hands that held my mother's face when he told her she was beautiful. The hands that shook slightly now, as Parkinson's began its slow theft. I held them often these days, memorizing their geography before the tremors redrew the map entirely.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Extended metaphor comparing hands to a landscape/map"
+      },
+      {
+        "label": "B",
+        "text": "Simile"
+      },
+      {
+        "label": "C",
+        "text": "Hyperbole"
+      },
+      {
+        "label": "D",
+        "text": "Onomatopoeia"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "\"Geography\" and \"redrew the map\" continue the metaphor of hands as a landscape.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified literary element"
+      },
+      {
+        "label": "C",
+        "explanation": "Surface-level reading"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.plot_character",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What does this passage reveal about the team's character?",
+    "stimulus": "The debate team's bus broke down thirty miles from the tournament. While the coach called for help, the team of eight sat on the roadside and did what they did best—they argued. About whether to hitchhike (too dangerous), walk (too far), or call parents (too embarrassing). Finally, sophomore Maya suggested they use the time to practice. \"We're going to be late anyway,\" she reasoned. \"Might as well be prepared.\" By the time the replacement bus arrived two hours later, the team had run through every case twice. They arrived at the tournament disheveled and exhausted. They won first place.",
+    "options": [
+      {
+        "label": "A",
+        "text": "They are resilient and can turn setbacks into opportunities."
+      },
+      {
+        "label": "B",
+        "text": "They are disorganized and unprepared."
+      },
+      {
+        "label": "C",
+        "text": "They always have bus problems."
+      },
+      {
+        "label": "D",
+        "text": "Maya is the only good debater."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Practicing during a breakdown and then winning shows resilience and determination.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified literary element"
+      },
+      {
+        "label": "C",
+        "explanation": "Surface-level reading"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.figurative_language",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the central literary technique in this passage?",
+    "stimulus": "Time moves differently in a hospital. Minutes stretch into hours in the waiting room, each tick of the clock a small cruelty. But inside the operating room, time contracts—surgeons speak of hours-long procedures that feel like minutes, their focus so complete that the outside world ceases to exist. For the family waiting, time is an enemy. For the surgeon, it is a tool. And for the patient, lying in the strange twilight of anesthesia, time simply stops, a bookmark placed between one chapter of life and the next.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Personification and metaphor of time experienced differently by each person"
+      },
+      {
+        "label": "B",
+        "text": "Flashback"
+      },
+      {
+        "label": "C",
+        "text": "Foreshadowing"
+      },
+      {
+        "label": "D",
+        "text": "Dialogue"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Time is personified (enemy, tool) and metaphorically described (bookmark) from multiple perspectives.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified literary element"
+      },
+      {
+        "label": "C",
+        "explanation": "Surface-level reading"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.plot_character",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What theme does this passage explore?",
+    "stimulus": "Ava's voice was a chameleon. In the principal's office, it was smooth and measured, each word chosen like a chess move. At home with her mother, it softened into something warmer, rounder, peppered with inside jokes and half-finished sentences that didn't need endings. With her friends, it was rapid-fire and loud, a machine gun of slang and laughter. And late at night, writing in her journal, her voice became something else entirely—raw, uncertain, asking questions she would never speak aloud. She sometimes wondered which voice was really hers. The answer, she suspected, was all of them.",
+    "options": [
+      {
+        "label": "A",
+        "text": "The complexity of identity and how people adapt to different contexts"
+      },
+      {
+        "label": "B",
+        "text": "Ava is dishonest with everyone"
+      },
+      {
+        "label": "C",
+        "text": "People should always speak the same way"
+      },
+      {
+        "label": "D",
+        "text": "Journals are important for self-expression"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The multiple voices show identity as multifaceted, with the conclusion embracing all versions.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified literary element"
+      },
+      {
+        "label": "C",
+        "explanation": "Surface-level reading"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.tone_mood",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What tone does the author use?",
+    "stimulus": "The first snow of winter always caught the city off guard, despite happening every year without fail. Buses slid sideways, pedestrians windmilled their arms on icy sidewalks, and television anchors reported the weather with the breathless urgency of a natural disaster. By the third snowfall, the city had remembered itself—salt trucks running on schedule, commuters in sensible boots, children building snow forts with architectural ambition. The transformation was predictable but somehow still satisfying, like rereading a favorite book and finding the ending just as good as you remembered.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Gently humorous and affectionate"
+      },
+      {
+        "label": "B",
+        "text": "Critical and mocking"
+      },
+      {
+        "label": "C",
+        "text": "Somber and serious"
+      },
+      {
+        "label": "D",
+        "text": "Anxious and worried"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Playful descriptions (windmilled arms, breathless urgency) show warm humor, not criticism.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified literary element"
+      },
+      {
+        "label": "C",
+        "explanation": "Surface-level reading"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.figurative_language",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What extended metaphor structures this passage? (variant 1)",
+    "stimulus": "The garden was my mother's autobiography, written in flowers instead of words. The roses along the fence were her childhood—her own mother had grown the same variety in Puerto Rico. The lavender by the front walk was her college years; her roommate had given her the first cutting. The sunflowers, tall and defiant in the back corner, appeared the year my father left—\"because we needed something that only looked up,\" she explained. And the small herb garden by the kitchen door? \"That's now,\" she said simply. \"Practical. Nourishing. Close to home.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The garden as an autobiography/life story"
+      },
+      {
+        "label": "B",
+        "text": "Flowers as a recipe"
+      },
+      {
+        "label": "C",
+        "text": "The mother as a gardener only"
+      },
+      {
+        "label": "D",
+        "text": "Puerto Rico as a paradise"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Each plant represents a life period, extending the metaphor of garden-as-autobiography.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified literary element"
+      },
+      {
+        "label": "C",
+        "explanation": "Surface-level reading"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.figurative_language",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What literary device is \"her laughter was music, filling every corner of the room\"?",
+    "stimulus": "Sarah's grandmother was the kind of person who made a room brighter just by entering it. Her laughter was music, filling every corner of the room and making strangers smile without knowing why. She told stories in a voice that rose and fell like ocean waves, pulling listeners in and carrying them away to places they'd never been. Even her silences had warmth—she could say more with a raised eyebrow than most people said in paragraphs. When she passed away last spring, the house didn't just feel empty. It felt muted, as if someone had turned down the volume on the world.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Metaphor"
+      },
+      {
+        "label": "B",
+        "text": "Simile"
+      },
+      {
+        "label": "C",
+        "text": "Hyperbole"
+      },
+      {
+        "label": "D",
+        "text": "Onomatopoeia"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Directly equating laughter to music without \"like\" or \"as\" makes it a metaphor.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "No \"like\" or \"as\" present"
+      },
+      {
+        "label": "C",
+        "explanation": "Not an exaggeration—it's a comparison"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "figurative-language"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.tone_mood",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the tone of this passage?",
+    "stimulus": "The forest had gone quiet in the way that forests do when something is wrong. No birdsong, no rustle of small animals in the underbrush—just the creak of branches overhead and the sound of Elara's own breathing, too loud in the stillness. The path she had followed for an hour had narrowed to almost nothing, and the trees pressed close on either side, their bark dark and slick with moss. Somewhere ahead, a branch snapped. Elara stopped. The silence that followed was deeper than before, heavy with the weight of unseen things watching from the shadows. She had the sudden, irrational certainty that the forest did not want her here.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ominous and foreboding"
+      },
+      {
+        "label": "B",
+        "text": "Cheerful and lighthearted"
+      },
+      {
+        "label": "C",
+        "text": "Neutral and objective"
+      },
+      {
+        "label": "D",
+        "text": "Angry and confrontational"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Dark imagery, silence, and the sense of something wrong create an ominous mood.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "The imagery is dark and unsettling"
+      },
+      {
+        "label": "C",
+        "explanation": "The passage conveys strong emotion through description"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "tone-mood"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.vocabulary_in_context",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What does \"threadbare\" most likely mean in this context?",
+    "stimulus": "The apartment told the story of a life lived frugally but fully. The furniture was threadbare—the armchair's fabric worn smooth where countless evenings had been spent reading, the rug faded along the path between the kitchen and the living room. Photographs in mismatched frames crowded every surface: graduations, weddings, birthdays spanning decades. The bookshelves sagged under the weight of a lifetime of reading. Everything was old, everything was used, and everything was kept because it meant something.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Worn thin and showing signs of long use"
+      },
+      {
+        "label": "B",
+        "text": "Brand new and expensive"
+      },
+      {
+        "label": "C",
+        "text": "Colorful and decorative"
+      },
+      {
+        "label": "D",
+        "text": "Thick and warm"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The context of old furniture and faded photos suggests \"threadbare\" means worn from use.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Contradicted by context clues"
+      },
+      {
+        "label": "C",
+        "explanation": "Not supported by surrounding description"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "vocabulary"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.plot_character",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "How does the protagonist change by the end of this passage?",
+    "stimulus": "Zoe's hands trembled as she approached the microphone. Three hundred faces stared back at her from the auditorium seats—some bored, some curious, a few openly smirking. She had never spoken in front of more than five people, and those five had been her family, who were contractually obligated to be supportive. Her speech was about climate change. She had memorized every word, but now they jumbled together in her head like a dropped deck of cards. She opened her mouth. Nothing came out. Someone in the back row coughed. Zoe closed her eyes and thought about the melting glaciers she'd read about—real ice, real water, real consequences. She opened her eyes. \"Our planet is speaking to us,\" she said, and her voice didn't shake at all. \"The question is whether we're listening.\" By the time she finished, the auditorium was quiet—not bored-quiet, but listening-quiet. She walked off stage knowing, for the first time, that she belonged here.",
+    "options": [
+      {
+        "label": "A",
+        "text": "She moves from fear and self-doubt to confidence and self-acceptance."
+      },
+      {
+        "label": "B",
+        "text": "She becomes more afraid."
+      },
+      {
+        "label": "C",
+        "text": "She gives up on her goal."
+      },
+      {
+        "label": "D",
+        "text": "She doesn't change at all."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The progression from trembling hands to \"she belonged here\" shows growing confidence.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Her final actions contradict increased fear"
+      },
+      {
+        "label": "C",
+        "explanation": "She accomplishes what she set out to do"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "character-development"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.figurative_language",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What does \"his words were a knife, cutting through the comfortable silence\" represent?",
+    "stimulus": "They had been sitting on the porch for twenty minutes without speaking, and it was the best twenty minutes of Caleb's day. The crickets chirped, the swing creaked gently, and the stars were doing what stars do—being impossibly far away and impossibly beautiful at the same time. Then his father cleared his throat, and Caleb knew. He always knew. \"Your mother and I have decided—\" his father began, and his words were a knife, cutting through the comfortable silence and leaving something ragged in its place. Caleb kept his eyes on the stars. They, at least, hadn't changed.",
+    "options": [
+      {
+        "label": "A",
+        "text": "His words were harsh and disruptive, breaking a peaceful moment."
+      },
+      {
+        "label": "B",
+        "text": "He was holding a knife."
+      },
+      {
+        "label": "C",
+        "text": "He spoke quietly."
+      },
+      {
+        "label": "D",
+        "text": "The silence was uncomfortable."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The metaphor compares words to a knife to show their sharp, disruptive effect.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Literal reading—it's figurative"
+      },
+      {
+        "label": "C",
+        "explanation": "The silence is described as comfortable"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "figurative-language"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.tone_mood",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What mood does this passage create?",
+    "stimulus": "The closet was smaller than Alia remembered. Or maybe she was bigger now—twelve years old and folded into a space meant for coats and umbrellas, her knees pressed against the door, her back against the wall. She could hear the footsteps in the hallway, slow and deliberate. Not her mother's quick, purposeful stride or her brother's careless thudding. These footsteps belonged to someone who was looking. Alia held her breath and counted her heartbeats: one, two, three, four. The footsteps stopped outside the closet door. A shadow broke the line of light at the bottom. Alia's heart was at forty-seven when the shadow moved on. She didn't exhale until sixty.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tense and claustrophobic"
+      },
+      {
+        "label": "B",
+        "text": "Peaceful and serene"
+      },
+      {
+        "label": "C",
+        "text": "Excited and energetic"
+      },
+      {
+        "label": "D",
+        "text": "Bored and listless"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The cramped space, counting heartbeats, and waiting create tension and claustrophobia.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Every detail adds to unease"
+      },
+      {
+        "label": "C",
+        "explanation": "The stillness is anxious, not calm"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "tone-mood"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.figurative_language",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What type of figurative language is \"time crawled like a wounded animal\"?",
+    "stimulus": "The waiting room of the emergency department existed outside of normal time. Here, minutes stretched and sagged, each one heavy with worry and fluorescent light. For David, sitting in the hard plastic chair with his daughter's blood still on his shirt, time crawled like a wounded animal. Every time the double doors swung open, his heart lurched. Every announcement over the intercom sent electricity through his veins. The television mounted in the corner played a cooking show at low volume—someone was making risotto, stirring slowly, as if the world outside this room still functioned normally. David stared at it without seeing. His entire universe had narrowed to the width of those double doors and whatever news would eventually walk through them.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simile"
+      },
+      {
+        "label": "B",
+        "text": "Metaphor"
+      },
+      {
+        "label": "C",
+        "text": "Personification"
+      },
+      {
+        "label": "D",
+        "text": "Alliteration"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "\"Like\" signals a simile comparing the passage of time to a wounded animal's slow movement.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Uses \"like\"—simile not metaphor"
+      },
+      {
+        "label": "C",
+        "explanation": "Comparing time to an animal, not giving it human qualities"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "figurative-language"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.vocabulary_in_context",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What does \"kindling\" mean as used in this passage?",
+    "stimulus": "Before he discovered the library, Jerome's anger had no direction—it was a wildfire burning everything equally. But Mrs. Torres, the librarian, handed him a book one Tuesday afternoon, almost carelessly, as if it weren't the most important thing that would happen to him all year. \"Try this,\" she said. It was James Baldwin's \"The Fire Next Time.\" Jerome read it in one sitting, then read it again. Baldwin's words were kindling of a different kind—they didn't start fires, they focused them. They gave Jerome's anger a shape, a language, a history. Within months, Jerome had read every Baldwin book in the library. Then he moved on to Langston Hughes, then Toni Morrison, then bell hooks. His anger didn't disappear. It became something sharper, more useful—a tool instead of a weapon.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Material used to start a fire; here metaphorically meaning the spark that ignited his passion"
+      },
+      {
+        "label": "B",
+        "text": "Being kind to others"
+      },
+      {
+        "label": "C",
+        "text": "Small pieces of wood only"
+      },
+      {
+        "label": "D",
+        "text": "Preventing a fire"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "In context, the books and ideas served as \"kindling\" that started his intellectual passion.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not the meaning in this context"
+      },
+      {
+        "label": "C",
+        "explanation": "\"Kindling\" here is figurative, not just literal"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "vocabulary"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.plot_character",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "What does this passage reveal about the father?",
+    "stimulus": "My father was not a man of words. In twenty years, I never once heard him say \"I love you\"—not to me, not to my mother, not to anyone. Words, for him, were functional things: \"Pass the salt.\" \"Time for school.\" \"Drive safe.\" But every morning of my childhood, I woke to the smell of breakfast—eggs and toast, exactly the way each of us liked them, because he had memorized our preferences without ever asking. He drove forty minutes to my soccer games and stood alone on the sideline, never cheering but never looking away. When I got accepted to college, he didn't say he was proud. He went to the garage and built me a desk for my dorm room. I found a note inside the drawer, in his careful handwriting: \"Study hard.\" It was the longest letter he ever wrote me, and I have kept it for fifteen years.",
+    "options": [
+      {
+        "label": "A",
+        "text": "He struggles to express love verbally but shows it through actions."
+      },
+      {
+        "label": "B",
+        "text": "He doesn't love his children."
+      },
+      {
+        "label": "C",
+        "text": "He is very emotional and expressive."
+      },
+      {
+        "label": "D",
+        "text": "He is absent from his children's lives."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Waking early, making breakfast, and the struggle with words show love through actions.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "His actions contradict this"
+      },
+      {
+        "label": "C",
+        "explanation": "He's reserved, not openly emotional"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "character-development"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.figurative_language",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What literary device is the phrase \"hope is the thing with feathers\"?",
+    "stimulus": "Maya had always loved Emily Dickinson's line: \"Hope is the thing with feathers that perches in the soul.\" On her worst days—and there had been many lately—she would close her eyes and try to feel it, that small flutter in her chest that meant tomorrow might be different. Some days the bird was silent, wings folded tight, barely breathing. Other days it sang so loudly she could almost convince herself that everything would be okay. Today, sitting in the hospital room while machines beeped their steady rhythms and her mother slept, the bird was quiet but present. Not singing, not soaring, but there—perched on some invisible branch inside her, refusing to leave.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Metaphor (comparing hope to a bird)"
+      },
+      {
+        "label": "B",
+        "text": "Simile"
+      },
+      {
+        "label": "C",
+        "text": "Onomatopoeia"
+      },
+      {
+        "label": "D",
+        "text": "Hyperbole"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Emily Dickinson directly equates hope with a feathered creature—a metaphor.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "No \"like\" or \"as\"—it's a metaphor"
+      },
+      {
+        "label": "C",
+        "explanation": "No sound words present"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "figurative-language"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.tone_mood",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the overall tone of this passage?",
+    "stimulus": "Summer at Grandma's house was measured in popsicle stains and firefly jars. We ran barefoot through grass that needed cutting, and nobody worried about tetanus or screen time or college applications. The world was the backyard, and the backyard was infinite. Grandma would call us in for dinner at a time that seemed determined not by clocks but by the angle of the sun, and we'd eat corn on the cob with butter dripping down our chins, competing to see who could eat the fastest. After dinner, we caught fireflies and kept them in Mason jars with holes poked in the lids, watching them blink their cold green light like tiny, confused stars. We always let them go before bed. \"Everything deserves to be free,\" Grandma said. She sold the house last year. I drove past it on the way to somewhere else and almost didn't recognize it. The grass was cut. The fireflies, I imagine, had found somewhere else to be confused.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nostalgic with underlying sadness"
+      },
+      {
+        "label": "B",
+        "text": "Purely joyful"
+      },
+      {
+        "label": "C",
+        "text": "Angry and resentful"
+      },
+      {
+        "label": "D",
+        "text": "Indifferent and detached"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Looking back fondly at memories that can't be recaptured creates bittersweet nostalgia.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "The awareness of loss tempers any pure joy"
+      },
+      {
+        "label": "C",
+        "explanation": "The passage shows deep emotional engagement"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "tone-mood"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.figurative_language",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the effect of personifying the city in this passage?",
+    "stimulus": "New York welcomed Priya the way it welcomes everyone—with noise, indifference, and an overwhelm that feels, if you squint, like excitement. The subway breathed her underground and exhaled her at the wrong stop, and the buildings leaned over her like curious giants. The city didn't care about her—that was its gift. For the first time in her life, she was anonymous, invisible, free to be whoever she wanted without a single person who knew her old self. The city opened its arms and said nothing, because it had seen a million versions of her story. She walked sixty blocks that first night, lost and exhilarated, and the city walked with her, never sleeping, never judging, lighting her path with neon and streetlamp and the glow of a thousand windows where a thousand lives were happening simultaneously.",
+    "options": [
+      {
+        "label": "A",
+        "text": "It makes the city feel alive and responsive to the character's emotions."
+      },
+      {
+        "label": "B",
+        "text": "It makes the passage confusing."
+      },
+      {
+        "label": "C",
+        "text": "It suggests the city is dangerous."
+      },
+      {
+        "label": "D",
+        "text": "It has no effect."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Giving the city human qualities creates an emotional connection between character and setting.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "The personification enhances understanding"
+      },
+      {
+        "label": "C",
+        "explanation": "The city is described as welcoming, not threatening"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "figurative-language"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.plot_character",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What internal conflict does the narrator face?",
+    "stimulus": "The scholarship letter sat on the kitchen counter for a week. Full ride. Four years. A thousand miles away. My mother didn't mention it, which was her way of saying everything. She kneaded bread dough with the same hands that had kneaded it for thirty years, in the same bakery her mother had opened, in the same town where five generations of our family had lived and worked and died. I was the first to finish high school. I was supposed to be the first to go to college. But I was also the only one who knew how to fix the oven when it ran too hot, the only one who understood the sourdough starter, the only one my mother could lean on now that my father was gone. \"You should go,\" she said one morning, still kneading. \"You should go and not feel guilty.\" But I heard what she didn't say—the pause before \"go,\" the breath that caught—and I felt guilty anyway.",
+    "options": [
+      {
+        "label": "A",
+        "text": "The tension between pursuing personal ambition and family obligation"
+      },
+      {
+        "label": "B",
+        "text": "Choosing between two colleges"
+      },
+      {
+        "label": "C",
+        "text": "Deciding what to eat"
+      },
+      {
+        "label": "D",
+        "text": "Whether to exercise"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The pull between the scholarship and helping the family business shows ambition vs. duty.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "The conflict is deeper than a simple choice"
+      },
+      {
+        "label": "C",
+        "explanation": "Not addressed in the passage"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "character-development"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.vocabulary_in_context",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What does \"sanctuary\" mean as used here?",
+    "stimulus": "The garden behind the apartment building was, by any objective measure, not much to look at—a few raised beds made from reclaimed wood, some herbs that had survived more through stubbornness than care, and a single rosebush that bloomed defiantly every June. But for Mrs. Okafor, it was a sanctuary. When the walls of her apartment felt too close and the noise of the city too loud, she would step outside with her watering can and her thoughts, and somehow both the plants and her mind would settle. She talked to the rosebush sometimes—not because she believed it could hear, but because saying things out loud to something alive felt different than saying them to an empty room.",
+    "options": [
+      {
+        "label": "A",
+        "text": "A safe place of refuge and peace"
+      },
+      {
+        "label": "B",
+        "text": "A church"
+      },
+      {
+        "label": "C",
+        "text": "A zoo"
+      },
+      {
+        "label": "D",
+        "text": "A bedroom"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "In context, the garden serves as a place of emotional safety and escape from stress.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "While sanctuaries can be churches, here it's figurative"
+      },
+      {
+        "label": "C",
+        "explanation": "Not a literal definition used here"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "vocabulary"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.tone_mood",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What tone shift occurs in this passage?",
+    "stimulus": "Marcus was the funny one. Everyone said so. He was the guy who turned a boring Tuesday lunch into a comedy show, who could make even Mr. Peterson—the most humorless math teacher in the history of education—crack a smile during a lesson on quadratic equations. His timing was impeccable, his impressions were uncanny, and his ability to find the absurd in the ordinary was a genuine talent. What nobody knew, because Marcus was very, very good at his job, was that the comedy was a wall. On the other side of that wall lived a boy who hadn't slept through the night in months, who cried in the shower because it was the only place loud enough to cover the sound, and who had Googled \"therapists near me\" seventeen times without ever making a call. \"You're always so happy,\" his friends said. Marcus smiled his famous smile. \"Yeah,\" he said. \"I'm great.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "From playful humor to genuine vulnerability"
+      },
+      {
+        "label": "B",
+        "text": "From sadness to anger"
+      },
+      {
+        "label": "C",
+        "text": "From excitement to boredom"
+      },
+      {
+        "label": "D",
+        "text": "No tone shift occurs"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage moves from jokes and laughter to the admission about not being okay.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Both emotions are present, not just the first"
+      },
+      {
+        "label": "C",
+        "explanation": "The shift is clearly marked"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "tone-mood"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.figurative_language",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What does the \"wall\" metaphor in this passage represent?",
+    "stimulus": "Marcus was the funny one. Everyone said so. He was the guy who turned a boring Tuesday lunch into a comedy show, who could make even Mr. Peterson—the most humorless math teacher in the history of education—crack a smile during a lesson on quadratic equations. His timing was impeccable, his impressions were uncanny, and his ability to find the absurd in the ordinary was a genuine talent. What nobody knew, because Marcus was very, very good at his job, was that the comedy was a wall. On the other side of that wall lived a boy who hadn't slept through the night in months, who cried in the shower because it was the only place loud enough to cover the sound, and who had Googled \"therapists near me\" seventeen times without ever making a call. \"You're always so happy,\" his friends said. Marcus smiled his famous smile. \"Yeah,\" he said. \"I'm great.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The humor Marcus uses to hide his pain from others"
+      },
+      {
+        "label": "B",
+        "text": "A physical wall in his house"
+      },
+      {
+        "label": "C",
+        "text": "His school building"
+      },
+      {
+        "label": "D",
+        "text": "His friendship group"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The wall is explicitly described as the comedy that conceals his true emotional state.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "The passage makes clear it's figurative"
+      },
+      {
+        "label": "C",
+        "explanation": "It separates his public and private selves"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "figurative-language"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.plot_character",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What does this passage reveal about Coach Kim?",
+    "stimulus": "Coach Kim had to choose a team captain, and everyone assumed it would be Destiny. Destiny was the most talented player on the team—everyone knew it, including Destiny herself. She could hit three-pointers with her eyes closed and dribble through double teams like they weren't there. But Coach Kim chose Aaliyah instead. Aaliyah, who had been cut from the team as a freshman and tried out again as a sophomore. Aaliyah, who stayed after every practice to shoot free throws until the custodian turned off the lights. Aaliyah, who wasn't the best player on the team but made everyone around her better. \"Talent is a gift,\" Coach Kim told the team. \"Work ethic is a choice. I'd rather follow someone who chose to be here than someone who was born here.\" Destiny was furious. By the end of the season, she understood.",
+    "options": [
+      {
+        "label": "A",
+        "text": "She values effort and growth over natural talent."
+      },
+      {
+        "label": "B",
+        "text": "She only cares about winning."
+      },
+      {
+        "label": "C",
+        "text": "She is unfair to talented players."
+      },
+      {
+        "label": "D",
+        "text": "She doesn't know much about basketball."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Choosing the hardest worker over the most talented shows her values.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "She recognizes talent but prioritizes effort"
+      },
+      {
+        "label": "C",
+        "explanation": "Her decision shows deep basketball understanding"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "character-development"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.figurative_language",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What does \"the silence between them was a living thing\" mean?",
+    "stimulus": "After the argument, the silence between them was a living thing. It sat at the dinner table in the empty chair, it walked between them in the hallway, it lay in the bed at night, taking up more space than either of them. They moved around it carefully, the way you move around a piece of furniture in the dark, afraid of bumping into something that would hurt. Elena wanted to speak first but couldn't find words large enough for what needed saying. Miguel wanted to apologize but worried that words would make it worse. So the silence grew, fed by all the things they didn't say, until it was larger than the apartment, larger than both of them, a third presence in a two-person home.",
+    "options": [
+      {
+        "label": "A",
+        "text": "The unspoken tension was so palpable and significant it felt like a physical presence."
+      },
+      {
+        "label": "B",
+        "text": "Something was literally alive in the room."
+      },
+      {
+        "label": "C",
+        "text": "They were both very quiet people."
+      },
+      {
+        "label": "D",
+        "text": "The room had good soundproofing."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Personifying silence as \"living\" emphasizes how powerfully present and uncomfortable it was.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "The passage is figurative"
+      },
+      {
+        "label": "C",
+        "explanation": "Their silence is weighted with meaning"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "figurative-language"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.tone_mood",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What mood does this passage create?",
+    "stimulus": "The first time I saw the aurora borealis, I forgot how to breathe. Green light rippled across the sky like silk curtains blown by an invisible wind. Then purple arrived, then pink, then a white so bright it looked like the sky had cracked open to reveal something luminous behind it. I stood in a field in Iceland, seventeen years old, my neck bent back so far it ached, and I understood for the first time what the word \"sublime\" meant—not just beautiful, but beautiful in a way that makes you feel small and enormous at the same time. The lights danced for three hours. I didn't move for any of them. When they finally faded, I sat down in the frozen grass and cried, not from sadness but from the overwhelming sensation of having been shown something I didn't know the world could do.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Awe and wonder at the natural world"
+      },
+      {
+        "label": "B",
+        "text": "Boredom and indifference"
+      },
+      {
+        "label": "C",
+        "text": "Anxiety and fear"
+      },
+      {
+        "label": "D",
+        "text": "Sadness and grief"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The vivid descriptions of natural beauty and the narrator's emotional response create wonder.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "The narrator is deeply engaged, not bored"
+      },
+      {
+        "label": "C",
+        "explanation": "The experience is positive, not frightening"
+      }
+    ],
+    "skills": [
+      "literary-analysis"
+    ],
+    "tags": [
+      "literary",
+      "tone-mood"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.figurative_language",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What literary device is \"the alarm clock screamed\"?",
+    "stimulus": "The clock made a noise but not literally screaming",
+    "options": [
+      {
+        "label": "A",
+        "text": "Personification"
+      },
+      {
+        "label": "B",
+        "text": "Simile"
+      },
+      {
+        "label": "C",
+        "text": "Metaphor"
+      },
+      {
+        "label": "D",
+        "text": "Alliteration"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Giving a clock the human action of screaming is personification.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by the passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.tone_mood",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the tone of this passage?",
+    "stimulus": "She overcomes every setback",
+    "options": [
+      {
+        "label": "A",
+        "text": "Determined and defiant"
+      },
+      {
+        "label": "B",
+        "text": "Defeated and hopeless"
+      },
+      {
+        "label": "C",
+        "text": "Cheerful and carefree"
+      },
+      {
+        "label": "D",
+        "text": "Confused and uncertain"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The repetition of \"kept going\" and overcoming obstacles create a tone of determination.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by the passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.vocabulary_in_context",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What does \"uncharted\" mean in this context?",
+    "stimulus": "Figurative meaning, not literal",
+    "options": [
+      {
+        "label": "A",
+        "text": "Unknown and unexplored territory"
+      },
+      {
+        "label": "B",
+        "text": "A map without markings"
+      },
+      {
+        "label": "C",
+        "text": "A canceled subscription"
+      },
+      {
+        "label": "D",
+        "text": "A music chart"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "In context of starting a new life phase, \"uncharted\" means entering unknown territory.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by the passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.plot_character",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What does this passage reveal about the narrator's growth?",
+    "stimulus": "The passage shows recognition of imperfection",
+    "options": [
+      {
+        "label": "A",
+        "text": "The narrator has learned to see their parent as a complex human being, not just a parent."
+      },
+      {
+        "label": "B",
+        "text": "The narrator still sees their parent as perfect."
+      },
+      {
+        "label": "C",
+        "text": "The narrator has given up on the relationship."
+      },
+      {
+        "label": "D",
+        "text": "The narrator is becoming more like their parent."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Seeing the father's vulnerabilities and history shows evolving, mature perspective.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by the passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.figurative_language",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "What extended metaphor is used throughout this passage?",
+    "stimulus": "No road imagery is used",
+    "options": [
+      {
+        "label": "A",
+        "text": "Life as a book with chapters, pages, and stories"
+      },
+      {
+        "label": "B",
+        "text": "Life as a journey on a road"
+      },
+      {
+        "label": "C",
+        "text": "Life as a game"
+      },
+      {
+        "label": "D",
+        "text": "Life as a river"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Chapters, pages, dog-eared, and spine all extend the book metaphor.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by the passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.tone_mood",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What mood does this opening create?",
+    "stimulus": "All imagery is warm and safe",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cozy and intimate"
+      },
+      {
+        "label": "B",
+        "text": "Terrifying and dark"
+      },
+      {
+        "label": "C",
+        "text": "Formal and academic"
+      },
+      {
+        "label": "D",
+        "text": "Tense and suspenseful"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Warm blanket, cocoa, rain, and fireside imagery create a cozy, intimate atmosphere.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by the passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.figurative_language",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What does \"she wore her confidence like armor\" mean?",
+    "stimulus": "Figurative, not literal",
+    "options": [
+      {
+        "label": "A",
+        "text": "She used her confident demeanor to protect herself from vulnerability or criticism."
+      },
+      {
+        "label": "B",
+        "text": "She wore metal clothing."
+      },
+      {
+        "label": "C",
+        "text": "She was very strong physically."
+      },
+      {
+        "label": "D",
+        "text": "She never felt afraid."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The simile compares confidence to armor, suggesting it's a protective layer, not natural.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by the passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.vocabulary_in_context",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What does \"gravity\" mean in the phrase \"the gravity of the situation\"?",
+    "stimulus": "Not the physics concept here",
+    "options": [
+      {
+        "label": "A",
+        "text": "Seriousness and importance"
+      },
+      {
+        "label": "B",
+        "text": "Gravitational force"
+      },
+      {
+        "label": "C",
+        "text": "Weight or heaviness"
+      },
+      {
+        "label": "D",
+        "text": "Sadness"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "In context, \"gravity\" means the serious, weighty nature of what is happening.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by the passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.plot_character",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What motivates the character's actions in this passage?",
+    "stimulus": "No commercial motive is present",
+    "options": [
+      {
+        "label": "A",
+        "text": "A desire to honor her grandmother's memory and preserve family traditions."
+      },
+      {
+        "label": "B",
+        "text": "She wants to make money."
+      },
+      {
+        "label": "C",
+        "text": "She is bored with nothing else to do."
+      },
+      {
+        "label": "D",
+        "text": "Her parents forced her."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Learning the recipe from memory and the emotional connection to her grandmother show motivation by love and legacy.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by the passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.figurative_language",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "What does the repeated imagery of water represent in this passage?",
+    "stimulus": "The water is metaphorical",
+    "options": [
+      {
+        "label": "A",
+        "text": "The overwhelming and uncontrollable nature of grief"
+      },
+      {
+        "label": "B",
+        "text": "The character lives near the ocean."
+      },
+      {
+        "label": "C",
+        "text": "Water represents happiness."
+      },
+      {
+        "label": "D",
+        "text": "The character is thirsty."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Waves, drowning, and flooding as descriptions of grief create a sustained water metaphor.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by the passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.tone_mood",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "How does the author create a sense of urgency in this passage?",
+    "stimulus": "Sentences are deliberately short and punchy",
+    "options": [
+      {
+        "label": "A",
+        "text": "Through short sentences, present tense, and a ticking clock."
+      },
+      {
+        "label": "B",
+        "text": "Through long, descriptive paragraphs."
+      },
+      {
+        "label": "C",
+        "text": "Through calm, measured language."
+      },
+      {
+        "label": "D",
+        "text": "Through flashbacks."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Staccato rhythm, time references, and present tense create immediacy and urgency.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by the passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.plot_character",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "What does this passage suggest about the nature of leadership?",
+    "stimulus": "She actively involves others",
+    "options": [
+      {
+        "label": "A",
+        "text": "Effective leadership involves listening and empowering others rather than commanding."
+      },
+      {
+        "label": "B",
+        "text": "Leaders must always make decisions alone."
+      },
+      {
+        "label": "C",
+        "text": "Leadership requires being the loudest voice."
+      },
+      {
+        "label": "D",
+        "text": "Good leaders never show weakness."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The captain's approach of listening, asking questions, and sharing credit demonstrates empowering leadership.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by the passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.figurative_language",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What literary device is \"the branches whispered secrets to each other\"?",
+    "stimulus": "No \"like\" or \"as\"—not a simile",
+    "options": [
+      {
+        "label": "A",
+        "text": "Personification"
+      },
+      {
+        "label": "B",
+        "text": "Simile"
+      },
+      {
+        "label": "C",
+        "text": "Hyperbole"
+      },
+      {
+        "label": "D",
+        "text": "Alliteration"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Giving branches the human ability to whisper and share secrets is personification.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by the passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.tone_mood",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the predominant tone of this passage?",
+    "stimulus": "The narrator is sincere, not sarcastic",
+    "options": [
+      {
+        "label": "A",
+        "text": "Reflective and philosophical"
+      },
+      {
+        "label": "B",
+        "text": "Sarcastic and mocking"
+      },
+      {
+        "label": "C",
+        "text": "Panicked and anxious"
+      },
+      {
+        "label": "D",
+        "text": "Festive and celebratory"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The questions about identity and the thoughtful observations create a reflective, philosophical tone.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by the passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading"
+    ]
+  }
+]

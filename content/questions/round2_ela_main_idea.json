@@ -1,0 +1,2855 @@
+[
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the main idea of this passage?",
+    "stimulus": "In recent years, urban gardens have transformed vacant lots in cities across America into thriving green spaces. These gardens serve multiple purposes: they provide fresh produce to neighborhoods that lack grocery stores, they create gathering spaces for communities, and they help reduce the urban heat island effect by replacing concrete with vegetation. Studies from the University of Pennsylvania found that neighborhoods with community gardens experienced a 20% decrease in crime rates and a measurable increase in property values. Perhaps most importantly, these gardens give city residents a sense of ownership and pride in their neighborhoods. Volunteers of all ages work side by side, building relationships that cross generational and cultural divides. What began as a grassroots movement has now gained support from city governments, with many municipalities offering tax incentives for property owners who convert unused lots into garden spaces.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Urban gardens provide multiple benefits to city communities."
+      },
+      {
+        "label": "B",
+        "text": "Urban gardens are mainly used to grow food."
+      },
+      {
+        "label": "C",
+        "text": "Crime rates have decreased in all cities."
+      },
+      {
+        "label": "D",
+        "text": "City governments created community gardens."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage discusses several benefits: food, community, environment, crime reduction.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong scope of main idea"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the author's primary purpose?",
+    "stimulus": "In recent years, urban gardens have transformed vacant lots in cities across America into thriving green spaces. These gardens serve multiple purposes: they provide fresh produce to neighborhoods that lack grocery stores, they create gathering spaces for communities, and they help reduce the urban heat island effect by replacing concrete with vegetation. Studies from the University of Pennsylvania found that neighborhoods with community gardens experienced a 20% decrease in crime rates and a measurable increase in property values. Perhaps most importantly, these gardens give city residents a sense of ownership and pride in their neighborhoods. Volunteers of all ages work side by side, building relationships that cross generational and cultural divides. What began as a grassroots movement has now gained support from city governments, with many municipalities offering tax incentives for property owners who convert unused lots into garden spaces.",
+    "options": [
+      {
+        "label": "A",
+        "text": "To inform readers about the benefits of urban gardens"
+      },
+      {
+        "label": "B",
+        "text": "To persuade readers to start gardening"
+      },
+      {
+        "label": "C",
+        "text": "To criticize cities for having vacant lots"
+      },
+      {
+        "label": "D",
+        "text": "To compare urban and rural farming"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The author presents information about multiple benefits without explicitly arguing for action.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong scope of main idea"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "How is this passage primarily organized?",
+    "stimulus": "In recent years, urban gardens have transformed vacant lots in cities across America into thriving green spaces. These gardens serve multiple purposes: they provide fresh produce to neighborhoods that lack grocery stores, they create gathering spaces for communities, and they help reduce the urban heat island effect by replacing concrete with vegetation. Studies from the University of Pennsylvania found that neighborhoods with community gardens experienced a 20% decrease in crime rates and a measurable increase in property values. Perhaps most importantly, these gardens give city residents a sense of ownership and pride in their neighborhoods. Volunteers of all ages work side by side, building relationships that cross generational and cultural divides. What began as a grassroots movement has now gained support from city governments, with many municipalities offering tax incentives for property owners who convert unused lots into garden spaces.",
+    "options": [
+      {
+        "label": "A",
+        "text": "A central claim supported by multiple examples and evidence"
+      },
+      {
+        "label": "B",
+        "text": "Chronological order of events"
+      },
+      {
+        "label": "C",
+        "text": "Compare and contrast of two gardens"
+      },
+      {
+        "label": "D",
+        "text": "Problem followed by a single solution"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage states gardens are beneficial then gives several supporting examples.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong scope of main idea"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the central idea of this passage?",
+    "stimulus": "The octopus is widely regarded as one of the most intelligent invertebrates on Earth. With approximately 500 million neurons—comparable to a dog—the octopus demonstrates remarkable problem-solving abilities. In laboratory settings, octopuses have been observed unscrewing jar lids to access food, navigating complex mazes, and even using tools such as coconut shells for shelter. Their intelligence extends to social learning: an octopus can learn to perform a task simply by watching another octopus complete it. What makes octopus intelligence particularly fascinating is that it evolved independently from mammalian intelligence. While humans and other vertebrates centralized their neural processing in the brain, two-thirds of an octopus's neurons reside in its arms, meaning each arm can taste, touch, and even \"think\" somewhat independently. This distributed nervous system represents a fundamentally different approach to intelligence, challenging our assumptions about what it means to be smart.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Octopuses possess a unique and impressive form of intelligence."
+      },
+      {
+        "label": "B",
+        "text": "Octopuses are smarter than dogs."
+      },
+      {
+        "label": "C",
+        "text": "The octopus brain is identical to a human brain."
+      },
+      {
+        "label": "D",
+        "text": "Scientists have trained octopuses to perform tricks."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage focuses on the remarkable and unique nature of octopus intelligence.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong scope of main idea"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the author's purpose in mentioning the distributed nervous system?",
+    "stimulus": "The octopus is widely regarded as one of the most intelligent invertebrates on Earth. With approximately 500 million neurons—comparable to a dog—the octopus demonstrates remarkable problem-solving abilities. In laboratory settings, octopuses have been observed unscrewing jar lids to access food, navigating complex mazes, and even using tools such as coconut shells for shelter. Their intelligence extends to social learning: an octopus can learn to perform a task simply by watching another octopus complete it. What makes octopus intelligence particularly fascinating is that it evolved independently from mammalian intelligence. While humans and other vertebrates centralized their neural processing in the brain, two-thirds of an octopus's neurons reside in its arms, meaning each arm can taste, touch, and even \"think\" somewhat independently. This distributed nervous system represents a fundamentally different approach to intelligence, challenging our assumptions about what it means to be smart.",
+    "options": [
+      {
+        "label": "A",
+        "text": "To show how octopus intelligence differs fundamentally from mammalian intelligence"
+      },
+      {
+        "label": "B",
+        "text": "To prove octopuses are more intelligent than mammals"
+      },
+      {
+        "label": "C",
+        "text": "To explain why octopuses have eight arms"
+      },
+      {
+        "label": "D",
+        "text": "To describe octopus anatomy in detail"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The distributed system illustrates a different evolutionary approach to intelligence.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong scope of main idea"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which text structure best describes this passage?",
+    "stimulus": "The octopus is widely regarded as one of the most intelligent invertebrates on Earth. With approximately 500 million neurons—comparable to a dog—the octopus demonstrates remarkable problem-solving abilities. In laboratory settings, octopuses have been observed unscrewing jar lids to access food, navigating complex mazes, and even using tools such as coconut shells for shelter. Their intelligence extends to social learning: an octopus can learn to perform a task simply by watching another octopus complete it. What makes octopus intelligence particularly fascinating is that it evolved independently from mammalian intelligence. While humans and other vertebrates centralized their neural processing in the brain, two-thirds of an octopus's neurons reside in its arms, meaning each arm can taste, touch, and even \"think\" somewhat independently. This distributed nervous system represents a fundamentally different approach to intelligence, challenging our assumptions about what it means to be smart.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Description with supporting details and examples"
+      },
+      {
+        "label": "B",
+        "text": "Cause and effect"
+      },
+      {
+        "label": "C",
+        "text": "Problem and solution"
+      },
+      {
+        "label": "D",
+        "text": "Sequential/chronological"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage describes octopus intelligence using examples and comparisons.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong scope of main idea"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the main idea of this passage? (variant 1)",
+    "stimulus": "When the Dust Bowl struck the American Great Plains in the 1930s, it was not simply a natural disaster—it was a catastrophe amplified by human decisions. For decades, farmers had plowed millions of acres of native grassland to plant wheat, driven by high prices during World War I and the belief that \"rain follows the plow.\" The deep-rooted prairie grasses that had held the topsoil in place for thousands of years were replaced by shallow-rooted crops. When a severe drought hit in 1931, the exposed soil had nothing to anchor it. Massive dust storms, called \"black blizzards,\" swept across the plains, burying homes and livestock. An estimated 2.5 million people fled the region, becoming environmental refugees. The Dust Bowl forced a fundamental rethinking of American agricultural practices and led to the creation of the Soil Conservation Service, which promoted techniques like crop rotation and contour plowing to prevent future soil erosion.",
+    "options": [
+      {
+        "label": "A",
+        "text": "The Dust Bowl was worsened by poor farming practices and led to major agricultural reform."
+      },
+      {
+        "label": "B",
+        "text": "The Dust Bowl was caused only by drought."
+      },
+      {
+        "label": "C",
+        "text": "Wheat farming was profitable during WWI."
+      },
+      {
+        "label": "D",
+        "text": "The Soil Conservation Service solved all farming problems."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage traces how human decisions worsened the disaster and the reforms that followed.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong scope of main idea"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the author's primary purpose? (variant 1)",
+    "stimulus": "When the Dust Bowl struck the American Great Plains in the 1930s, it was not simply a natural disaster—it was a catastrophe amplified by human decisions. For decades, farmers had plowed millions of acres of native grassland to plant wheat, driven by high prices during World War I and the belief that \"rain follows the plow.\" The deep-rooted prairie grasses that had held the topsoil in place for thousands of years were replaced by shallow-rooted crops. When a severe drought hit in 1931, the exposed soil had nothing to anchor it. Massive dust storms, called \"black blizzards,\" swept across the plains, burying homes and livestock. An estimated 2.5 million people fled the region, becoming environmental refugees. The Dust Bowl forced a fundamental rethinking of American agricultural practices and led to the creation of the Soil Conservation Service, which promoted techniques like crop rotation and contour plowing to prevent future soil erosion.",
+    "options": [
+      {
+        "label": "A",
+        "text": "To explain the causes and consequences of the Dust Bowl"
+      },
+      {
+        "label": "B",
+        "text": "To argue against modern farming"
+      },
+      {
+        "label": "C",
+        "text": "To entertain with dramatic stories"
+      },
+      {
+        "label": "D",
+        "text": "To compare the 1930s to today"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The author provides an informative account of causes, effects, and outcomes.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong scope of main idea"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "How is this passage organized?",
+    "stimulus": "When the Dust Bowl struck the American Great Plains in the 1930s, it was not simply a natural disaster—it was a catastrophe amplified by human decisions. For decades, farmers had plowed millions of acres of native grassland to plant wheat, driven by high prices during World War I and the belief that \"rain follows the plow.\" The deep-rooted prairie grasses that had held the topsoil in place for thousands of years were replaced by shallow-rooted crops. When a severe drought hit in 1931, the exposed soil had nothing to anchor it. Massive dust storms, called \"black blizzards,\" swept across the plains, burying homes and livestock. An estimated 2.5 million people fled the region, becoming environmental refugees. The Dust Bowl forced a fundamental rethinking of American agricultural practices and led to the creation of the Soil Conservation Service, which promoted techniques like crop rotation and contour plowing to prevent future soil erosion.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cause and effect with chronological elements"
+      },
+      {
+        "label": "B",
+        "text": "Compare and contrast"
+      },
+      {
+        "label": "C",
+        "text": "Problem and solution only"
+      },
+      {
+        "label": "D",
+        "text": "Description with no clear pattern"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage shows causes (farming practices + drought), effects (dust storms, migration), and the response.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong scope of main idea"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the main idea?",
+    "stimulus": "Sleep deprivation among teenagers has reached epidemic proportions, and the consequences extend far beyond feeling drowsy in class. Research from the National Sleep Foundation shows that adolescents need 8 to 10 hours of sleep per night, yet the average American teenager gets only 7 hours. The biological explanation lies in a shift in circadian rhythms during puberty: the brain begins releasing melatonin later in the evening, making it physically difficult for teens to fall asleep before 11 p.m. Despite this biological reality, most high schools in the United States start before 8:00 a.m. The resulting sleep deficit has been linked to increased rates of depression, anxiety, obesity, and poor academic performance. Schools that have shifted to later start times—such as those in Seattle, which moved from 7:50 to 8:45 a.m.—have reported significant improvements in attendance, grades, and student well-being. These findings have prompted the American Academy of Pediatrics to recommend that no middle or high school start before 8:30 a.m.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Teen sleep deprivation is a serious problem that could be improved by later school start times."
+      },
+      {
+        "label": "B",
+        "text": "Teenagers are lazy and sleep too much."
+      },
+      {
+        "label": "C",
+        "text": "All schools should start at 8:45."
+      },
+      {
+        "label": "D",
+        "text": "Melatonin is the only cause of teen sleep problems."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage links biological needs, current school schedules, and evidence for change.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong scope of main idea"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the purpose of mentioning Seattle schools?",
+    "stimulus": "Sleep deprivation among teenagers has reached epidemic proportions, and the consequences extend far beyond feeling drowsy in class. Research from the National Sleep Foundation shows that adolescents need 8 to 10 hours of sleep per night, yet the average American teenager gets only 7 hours. The biological explanation lies in a shift in circadian rhythms during puberty: the brain begins releasing melatonin later in the evening, making it physically difficult for teens to fall asleep before 11 p.m. Despite this biological reality, most high schools in the United States start before 8:00 a.m. The resulting sleep deficit has been linked to increased rates of depression, anxiety, obesity, and poor academic performance. Schools that have shifted to later start times—such as those in Seattle, which moved from 7:50 to 8:45 a.m.—have reported significant improvements in attendance, grades, and student well-being. These findings have prompted the American Academy of Pediatrics to recommend that no middle or high school start before 8:30 a.m.",
+    "options": [
+      {
+        "label": "A",
+        "text": "To provide evidence that later start times improve student outcomes"
+      },
+      {
+        "label": "B",
+        "text": "To show Seattle has the best schools"
+      },
+      {
+        "label": "C",
+        "text": "To criticize other cities for not changing"
+      },
+      {
+        "label": "D",
+        "text": "To explain how melatonin works"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Seattle serves as a concrete example supporting the argument for later start times.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong scope of main idea"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the central argument of this passage?",
+    "stimulus": "The ancient Silk Road was not a single road but a vast network of trade routes connecting China to the Mediterranean world. For over 1,500 years, merchants, monks, soldiers, and scholars traveled these routes, carrying silk, spices, precious metals, and ideas across thousands of miles of desert, mountain, and steppe. The exchange was never one-directional: while Chinese silk flowed westward, Roman glassware, Indian spices, and Persian silverwork traveled eastward. Perhaps more significant than the physical goods were the intangible exchanges. Buddhism spread from India to China along the Silk Road. Mathematical concepts, including the numeral system we use today, traveled from India through the Islamic world to Europe. Medical knowledge, agricultural techniques, and artistic styles were shared and transformed as they passed from culture to culture. The Silk Road demonstrates that globalization is not a modern phenomenon—human societies have been interconnected for millennia.",
+    "options": [
+      {
+        "label": "A",
+        "text": "The Silk Road facilitated cultural and intellectual exchange, showing globalization is ancient."
+      },
+      {
+        "label": "B",
+        "text": "The Silk Road was mainly used for trading silk."
+      },
+      {
+        "label": "C",
+        "text": "China was the most important Silk Road civilization."
+      },
+      {
+        "label": "D",
+        "text": "The Silk Road was a single road from China to Rome."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage emphasizes both material and intangible exchanges and concludes that globalization is not new.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong scope of main idea"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "How does the author organize the passage?",
+    "stimulus": "The ancient Silk Road was not a single road but a vast network of trade routes connecting China to the Mediterranean world. For over 1,500 years, merchants, monks, soldiers, and scholars traveled these routes, carrying silk, spices, precious metals, and ideas across thousands of miles of desert, mountain, and steppe. The exchange was never one-directional: while Chinese silk flowed westward, Roman glassware, Indian spices, and Persian silverwork traveled eastward. Perhaps more significant than the physical goods were the intangible exchanges. Buddhism spread from India to China along the Silk Road. Mathematical concepts, including the numeral system we use today, traveled from India through the Islamic world to Europe. Medical knowledge, agricultural techniques, and artistic styles were shared and transformed as they passed from culture to culture. The Silk Road demonstrates that globalization is not a modern phenomenon—human societies have been interconnected for millennia.",
+    "options": [
+      {
+        "label": "A",
+        "text": "From physical goods to intangible exchanges, building toward a larger conclusion"
+      },
+      {
+        "label": "B",
+        "text": "Strictly chronological"
+      },
+      {
+        "label": "C",
+        "text": "Compare and contrast of two cultures"
+      },
+      {
+        "label": "D",
+        "text": "Problem and solution"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage moves from concrete trade to abstract ideas, then to a broad conclusion.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong scope of main idea"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the main idea? (variant 1)",
+    "stimulus": "Coral reefs, often called the \"rainforests of the sea,\" support approximately 25% of all marine species despite covering less than 1% of the ocean floor. These underwater ecosystems are built by tiny animals called coral polyps, which secrete calcium carbonate to form hard structures over hundreds of years. The relationship between coral polyps and microscopic algae called zooxanthellae is the foundation of reef health: the algae live within coral tissue, providing up to 90% of the coral's energy through photosynthesis, while the coral provides shelter and nutrients. When ocean temperatures rise even 1-2 degrees Celsius above normal, corals expel their zooxanthellae in a process called bleaching, turning white and becoming vulnerable to disease and death. Since 1998, three major global bleaching events have affected reefs worldwide. Scientists estimate that 50% of the world's coral reefs have already been lost, and without significant action to reduce carbon emissions, 90% could disappear by 2050.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Coral reefs are vital ecosystems threatened by rising ocean temperatures."
+      },
+      {
+        "label": "B",
+        "text": "Coral reefs cover most of the ocean."
+      },
+      {
+        "label": "C",
+        "text": "Zooxanthellae are the most important ocean species."
+      },
+      {
+        "label": "D",
+        "text": "All coral reefs will be gone by 2030."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage describes reef importance and the threat of bleaching from warming.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong scope of main idea"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the author's purpose?",
+    "stimulus": "Coral reefs, often called the \"rainforests of the sea,\" support approximately 25% of all marine species despite covering less than 1% of the ocean floor. These underwater ecosystems are built by tiny animals called coral polyps, which secrete calcium carbonate to form hard structures over hundreds of years. The relationship between coral polyps and microscopic algae called zooxanthellae is the foundation of reef health: the algae live within coral tissue, providing up to 90% of the coral's energy through photosynthesis, while the coral provides shelter and nutrients. When ocean temperatures rise even 1-2 degrees Celsius above normal, corals expel their zooxanthellae in a process called bleaching, turning white and becoming vulnerable to disease and death. Since 1998, three major global bleaching events have affected reefs worldwide. Scientists estimate that 50% of the world's coral reefs have already been lost, and without significant action to reduce carbon emissions, 90% could disappear by 2050.",
+    "options": [
+      {
+        "label": "A",
+        "text": "To explain coral reef ecology and warn about the threat of climate change"
+      },
+      {
+        "label": "B",
+        "text": "To describe how to build artificial reefs"
+      },
+      {
+        "label": "C",
+        "text": "To compare reefs to rainforests in detail"
+      },
+      {
+        "label": "D",
+        "text": "To argue that marine species are unimportant"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage educates about reefs and highlights the urgency of the climate threat.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong scope of main idea"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What text structure is used to describe coral bleaching?",
+    "stimulus": "Coral reefs, often called the \"rainforests of the sea,\" support approximately 25% of all marine species despite covering less than 1% of the ocean floor. These underwater ecosystems are built by tiny animals called coral polyps, which secrete calcium carbonate to form hard structures over hundreds of years. The relationship between coral polyps and microscopic algae called zooxanthellae is the foundation of reef health: the algae live within coral tissue, providing up to 90% of the coral's energy through photosynthesis, while the coral provides shelter and nutrients. When ocean temperatures rise even 1-2 degrees Celsius above normal, corals expel their zooxanthellae in a process called bleaching, turning white and becoming vulnerable to disease and death. Since 1998, three major global bleaching events have affected reefs worldwide. Scientists estimate that 50% of the world's coral reefs have already been lost, and without significant action to reduce carbon emissions, 90% could disappear by 2050.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cause and effect"
+      },
+      {
+        "label": "B",
+        "text": "Compare and contrast"
+      },
+      {
+        "label": "C",
+        "text": "Chronological order"
+      },
+      {
+        "label": "D",
+        "text": "Problem and solution"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rising temperatures (cause) lead to bleaching and potential death (effect).",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong scope of main idea"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the main idea? (variant 2)",
+    "stimulus": "In 1928, Alexander Fleming returned from vacation to find mold growing on a bacterial culture plate he had left in his laboratory. Rather than discarding the contaminated sample, Fleming noticed something remarkable: the bacteria surrounding the mold had died. The mold, Penicillium notatum, was producing a substance that killed bacteria. Fleming named this substance penicillin, but he lacked the resources to develop it into a usable medicine. It would take more than a decade before Howard Florey and Ernst Boris Chain at Oxford University found a way to mass-produce penicillin. Their work came just in time: by 1944, enough penicillin was available to treat Allied soldiers wounded on D-Day. The discovery of penicillin ushered in the age of antibiotics, transforming medicine and saving an estimated 200 million lives since its introduction. Today, however, the overuse of antibiotics has led to antibiotic-resistant bacteria, posing one of the greatest threats to modern public health.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Penicillin's accidental discovery revolutionized medicine but now faces the challenge of resistance."
+      },
+      {
+        "label": "B",
+        "text": "Fleming intentionally created penicillin."
+      },
+      {
+        "label": "C",
+        "text": "Antibiotics have no side effects."
+      },
+      {
+        "label": "D",
+        "text": "Penicillin was only used in World War II."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage covers discovery, development, impact, and current challenges.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong scope of main idea"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the author's purpose in the final sentence?",
+    "stimulus": "In 1928, Alexander Fleming returned from vacation to find mold growing on a bacterial culture plate he had left in his laboratory. Rather than discarding the contaminated sample, Fleming noticed something remarkable: the bacteria surrounding the mold had died. The mold, Penicillium notatum, was producing a substance that killed bacteria. Fleming named this substance penicillin, but he lacked the resources to develop it into a usable medicine. It would take more than a decade before Howard Florey and Ernst Boris Chain at Oxford University found a way to mass-produce penicillin. Their work came just in time: by 1944, enough penicillin was available to treat Allied soldiers wounded on D-Day. The discovery of penicillin ushered in the age of antibiotics, transforming medicine and saving an estimated 200 million lives since its introduction. Today, however, the overuse of antibiotics has led to antibiotic-resistant bacteria, posing one of the greatest threats to modern public health.",
+    "options": [
+      {
+        "label": "A",
+        "text": "To highlight a modern consequence that complicates the success story"
+      },
+      {
+        "label": "B",
+        "text": "To argue we should stop using antibiotics"
+      },
+      {
+        "label": "C",
+        "text": "To praise Fleming's work"
+      },
+      {
+        "label": "D",
+        "text": "To describe how antibiotics work"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The ending introduces a complication, showing the story is not entirely positive.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong scope of main idea"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the main idea? (variant 3)",
+    "stimulus": "The concept of emotional intelligence, popularized by psychologist Daniel Goleman in the 1990s, refers to the ability to recognize, understand, and manage one's own emotions while also being attuned to the emotions of others. Unlike traditional IQ, which measures cognitive abilities like reasoning and memory, emotional intelligence encompasses skills such as empathy, self-awareness, impulse control, and social competence. Research has consistently shown that emotional intelligence is a stronger predictor of success in the workplace than IQ alone. Leaders with high emotional intelligence create more positive work environments, resolve conflicts more effectively, and inspire greater loyalty from their teams. Schools have begun incorporating social-emotional learning (SEL) programs into their curricula, teaching students to identify their feelings, manage stress, and communicate effectively. Studies of these programs show improvements not only in student behavior and mental health but also in academic achievement, suggesting that emotional skills support cognitive growth.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Emotional intelligence is a crucial skill that impacts success in work and school."
+      },
+      {
+        "label": "B",
+        "text": "IQ is not important."
+      },
+      {
+        "label": "C",
+        "text": "Daniel Goleman invented emotions."
+      },
+      {
+        "label": "D",
+        "text": "Schools should eliminate academic subjects."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage explains EI, its workplace impact, and school applications.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong scope of main idea"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "How is this passage structured?",
+    "stimulus": "The concept of emotional intelligence, popularized by psychologist Daniel Goleman in the 1990s, refers to the ability to recognize, understand, and manage one's own emotions while also being attuned to the emotions of others. Unlike traditional IQ, which measures cognitive abilities like reasoning and memory, emotional intelligence encompasses skills such as empathy, self-awareness, impulse control, and social competence. Research has consistently shown that emotional intelligence is a stronger predictor of success in the workplace than IQ alone. Leaders with high emotional intelligence create more positive work environments, resolve conflicts more effectively, and inspire greater loyalty from their teams. Schools have begun incorporating social-emotional learning (SEL) programs into their curricula, teaching students to identify their feelings, manage stress, and communicate effectively. Studies of these programs show improvements not only in student behavior and mental health but also in academic achievement, suggesting that emotional skills support cognitive growth.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Definition, evidence of importance, and real-world applications"
+      },
+      {
+        "label": "B",
+        "text": "Chronological narrative"
+      },
+      {
+        "label": "C",
+        "text": "Compare and contrast only"
+      },
+      {
+        "label": "D",
+        "text": "Cause and effect only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage defines EI, shows evidence, then discusses school implementation.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong scope of main idea"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the main idea? (variant 4)",
+    "stimulus": "Every winter, millions of monarch butterflies complete one of nature's most extraordinary migrations, traveling up to 3,000 miles from Canada and the northern United States to the oyamel fir forests of central Mexico. No single butterfly completes the entire round trip; instead, it takes multiple generations to travel north in spring, with each generation living only a few weeks. The final generation of summer, however, enters a state called reproductive diapause, living up to eight months to make the long journey south. Scientists are still unraveling how monarchs navigate with such precision, but evidence suggests they use a combination of the sun's position, Earth's magnetic field, and an internal circadian clock. Unfortunately, monarch populations have declined by approximately 80% over the past two decades due to habitat loss, pesticide use, and climate change. Conservation efforts now focus on planting milkweed—the only plant on which monarchs lay their eggs—along migration corridors.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Monarch butterflies undertake an extraordinary migration that is now threatened."
+      },
+      {
+        "label": "B",
+        "text": "All butterflies migrate to Mexico."
+      },
+      {
+        "label": "C",
+        "text": "Monarchs live for eight months."
+      },
+      {
+        "label": "D",
+        "text": "Milkweed is endangered."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage describes the migration phenomenon and the threats it faces.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong scope of main idea"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the author's purpose? (variant 1)",
+    "stimulus": "Every winter, millions of monarch butterflies complete one of nature's most extraordinary migrations, traveling up to 3,000 miles from Canada and the northern United States to the oyamel fir forests of central Mexico. No single butterfly completes the entire round trip; instead, it takes multiple generations to travel north in spring, with each generation living only a few weeks. The final generation of summer, however, enters a state called reproductive diapause, living up to eight months to make the long journey south. Scientists are still unraveling how monarchs navigate with such precision, but evidence suggests they use a combination of the sun's position, Earth's magnetic field, and an internal circadian clock. Unfortunately, monarch populations have declined by approximately 80% over the past two decades due to habitat loss, pesticide use, and climate change. Conservation efforts now focus on planting milkweed—the only plant on which monarchs lay their eggs—along migration corridors.",
+    "options": [
+      {
+        "label": "A",
+        "text": "To explain the monarch migration and raise awareness of declining populations"
+      },
+      {
+        "label": "B",
+        "text": "To convince readers to plant milkweed"
+      },
+      {
+        "label": "C",
+        "text": "To compare monarchs to other butterflies"
+      },
+      {
+        "label": "D",
+        "text": "To describe Mexico's forests"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The author informs about the migration and its threats.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong scope of main idea"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the main idea? (variant 5)",
+    "stimulus": "The Great Pacific Garbage Patch is a massive collection of marine debris in the North Pacific Ocean. Contrary to popular imagination, it is not a solid island of trash but rather a diffuse soup of microplastics spread across an area twice the size of Texas. These tiny plastic fragments, many smaller than a grain of rice, are ingested by marine life at every level of the food chain, from plankton to whales. Recent studies have found microplastics in human blood, raising concerns about potential health effects. While cleanup efforts like The Ocean Cleanup project have made headlines, scientists emphasize that preventing plastic from entering the ocean in the first place is far more effective than trying to remove it afterward. This has led to growing support for policies banning single-use plastics and investing in biodegradable alternatives.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ocean plastic pollution is a diffuse, serious problem requiring prevention over cleanup."
+      },
+      {
+        "label": "B",
+        "text": "The garbage patch is a solid island."
+      },
+      {
+        "label": "C",
+        "text": "Cleanup projects have solved the problem."
+      },
+      {
+        "label": "D",
+        "text": "Microplastics only affect fish."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage corrects misconceptions and argues for prevention.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Too narrow interpretation"
+      },
+      {
+        "label": "C",
+        "explanation": "Contradicts passage content"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the central idea?",
+    "stimulus": "Jazz music emerged in the early 20th century from the African American communities of New Orleans, blending elements of blues, ragtime, and African rhythmic traditions. What distinguished jazz from earlier musical forms was its emphasis on improvisation—musicians were expected not merely to play written notes but to spontaneously create new melodies and harmonies in real time. This improvisational spirit reflected the broader cultural values of individual expression and collective collaboration. As jazz spread northward during the Great Migration, it evolved into numerous subgenres: swing in the 1930s, bebop in the 1940s, cool jazz in the 1950s, and free jazz in the 1960s. Each evolution reflected changing social conditions and artistic ambitions. Today, jazz is recognized worldwide as one of America's greatest cultural contributions, influencing genres from rock to hip-hop.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Jazz evolved from African American traditions through improvisation and continues to influence music today."
+      },
+      {
+        "label": "B",
+        "text": "Jazz was only popular in New Orleans."
+      },
+      {
+        "label": "C",
+        "text": "Swing was the most important jazz subgenre."
+      },
+      {
+        "label": "D",
+        "text": "Jazz has no influence on modern music."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage traces jazz from origins through evolution to modern influence.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Too narrow interpretation"
+      },
+      {
+        "label": "C",
+        "explanation": "Contradicts passage content"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the main idea? (variant 6)",
+    "stimulus": "Water scarcity affects more than 2 billion people worldwide, and climate change is expected to worsen the crisis significantly. While much attention focuses on drought-stricken regions like sub-Saharan Africa, water stress is also increasing in developed nations. California has experienced repeated severe droughts, and cities like Cape Town, South Africa, came dangerously close to \"Day Zero\"—the day when municipal water supplies would run dry. Solutions range from high-tech desalination plants to ancient techniques like rainwater harvesting. Israel has become a world leader in water efficiency, recycling nearly 90% of its wastewater for agricultural use and pioneering drip irrigation technology. Experts agree that addressing water scarcity requires both technological innovation and changes in consumption patterns, as agriculture alone accounts for 70% of global freshwater use.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Water scarcity is a growing global crisis requiring both technology and behavior change."
+      },
+      {
+        "label": "B",
+        "text": "Only Africa faces water scarcity."
+      },
+      {
+        "label": "C",
+        "text": "Desalination has solved the water crisis."
+      },
+      {
+        "label": "D",
+        "text": "Agriculture uses very little water."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage describes the scope of the problem and the range of solutions needed.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Too narrow interpretation"
+      },
+      {
+        "label": "C",
+        "explanation": "Contradicts passage content"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the main idea? (variant 7)",
+    "stimulus": "The human microbiome—the trillions of bacteria, viruses, and fungi living in and on our bodies—has emerged as one of the most exciting frontiers in medical research. Far from being mere passengers, these microorganisms play essential roles in digestion, immune function, and even mental health. The gut-brain axis, a communication network between intestinal bacteria and the brain, has been linked to conditions ranging from depression to autism. Studies of identical twins with different health outcomes suggest that the microbiome may explain why genetics alone cannot predict disease. Researchers are now exploring fecal microbiota transplants, probiotics, and dietary interventions to treat conditions from inflammatory bowel disease to allergies. While the science is still young, the microbiome represents a paradigm shift in how we understand human health.",
+    "options": [
+      {
+        "label": "A",
+        "text": "The human microbiome plays crucial roles in health and is reshaping medical understanding."
+      },
+      {
+        "label": "B",
+        "text": "All bacteria are harmful."
+      },
+      {
+        "label": "C",
+        "text": "The microbiome only affects digestion."
+      },
+      {
+        "label": "D",
+        "text": "Fecal transplants cure all diseases."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage describes the microbiome's wide-ranging importance and research potential.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Too narrow interpretation"
+      },
+      {
+        "label": "C",
+        "explanation": "Contradicts passage content"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the main idea? (variant 8)",
+    "stimulus": "Artificial intelligence is transforming education in ways both promising and concerning. Adaptive learning platforms use AI to personalize instruction, adjusting the difficulty and pace of material based on each student's performance. Early studies suggest these tools can be particularly effective for students who struggle in traditional classroom settings, providing patient, individualized practice. However, critics warn that over-reliance on AI could diminish the human connections that are central to effective teaching. Teachers provide mentorship, emotional support, and the kind of nuanced feedback that algorithms cannot replicate. There are also concerns about data privacy, as AI systems collect vast amounts of information about student behavior and performance. The challenge for educators and policymakers is to harness AI's potential while preserving the irreplaceable elements of human teaching.",
+    "options": [
+      {
+        "label": "A",
+        "text": "AI in education offers benefits but must be balanced with human teaching."
+      },
+      {
+        "label": "B",
+        "text": "AI should replace all teachers."
+      },
+      {
+        "label": "C",
+        "text": "AI has no role in education."
+      },
+      {
+        "label": "D",
+        "text": "Data privacy is not a concern."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage presents both benefits and concerns, arguing for balance.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Too narrow interpretation"
+      },
+      {
+        "label": "C",
+        "explanation": "Contradicts passage content"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the author's purpose? (variant 2)",
+    "stimulus": "The discovery of exoplanets—planets orbiting stars beyond our solar system—has revolutionized astronomy. Since the first confirmed detection in 1995, over 5,000 exoplanets have been identified using methods such as the transit technique, which detects tiny dips in starlight as a planet passes in front of its star. The James Webb Space Telescope, launched in 2021, can analyze the atmospheres of these distant worlds, searching for chemical signatures like water vapor and methane that might indicate habitability. Some of the most exciting discoveries involve planets in the \"habitable zone\"—the region around a star where temperatures could allow liquid water to exist. While finding life on another planet remains the ultimate goal, even confirming the presence of basic organic molecules would profoundly change humanity's understanding of its place in the universe.",
+    "options": [
+      {
+        "label": "A",
+        "text": "To explain how exoplanet discovery is advancing the search for life beyond Earth"
+      },
+      {
+        "label": "B",
+        "text": "To argue that alien life definitely exists"
+      },
+      {
+        "label": "C",
+        "text": "To describe how telescopes are built"
+      },
+      {
+        "label": "D",
+        "text": "To compare our solar system to others"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage informs about exoplanet detection and its implications for finding life.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Too narrow interpretation"
+      },
+      {
+        "label": "C",
+        "explanation": "Contradicts passage content"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "How is this passage organized? (variant 1)",
+    "stimulus": "Fast fashion—the rapid production of inexpensive clothing that mimics current trends—has transformed the global apparel industry. Brands like Zara and H&M can move a design from concept to store shelf in as little as two weeks, compared to the traditional fashion cycle of six months. While this has made trendy clothing accessible to consumers at all income levels, the environmental and social costs are staggering. The fashion industry is responsible for 10% of global carbon emissions and is the second-largest consumer of water worldwide. Garment workers in developing countries often work in dangerous conditions for wages below the poverty line. A growing \"slow fashion\" movement encourages consumers to buy fewer, higher-quality pieces, repair clothing instead of discarding it, and support brands committed to ethical production practices.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Description of the industry, its negative impacts, and an alternative approach"
+      },
+      {
+        "label": "B",
+        "text": "Chronological history of fashion"
+      },
+      {
+        "label": "C",
+        "text": "Compare and contrast of two brands"
+      },
+      {
+        "label": "D",
+        "text": "Step-by-step process of making clothing"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage describes fast fashion, its costs, then presents slow fashion as an alternative.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Too narrow interpretation"
+      },
+      {
+        "label": "C",
+        "explanation": "Contradicts passage content"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the main idea? (variant 9)",
+    "stimulus": "The placebo effect—when patients improve after receiving an inactive treatment they believe is real medicine—has long puzzled researchers. Recent neuroscience studies have revealed that placebos can trigger genuine physiological changes: the brain releases endorphins and dopamine in response to the expectation of relief, producing measurable reductions in pain, inflammation, and anxiety. Remarkably, studies have shown that placebos can work even when patients know they are receiving a placebo, a phenomenon called \"open-label placebo.\" This has led some researchers to argue that the placebo effect is not about deception but about the therapeutic power of the patient-doctor relationship, the ritual of taking medicine, and the brain's capacity for self-healing. Understanding the placebo effect could lead to treatments that harness the body's natural healing mechanisms alongside conventional medicine.",
+    "options": [
+      {
+        "label": "A",
+        "text": "The placebo effect involves real physiological changes and could enhance medical treatment."
+      },
+      {
+        "label": "B",
+        "text": "Placebos are just sugar pills with no effect."
+      },
+      {
+        "label": "C",
+        "text": "Doctors should only use placebos."
+      },
+      {
+        "label": "D",
+        "text": "The placebo effect only works through deception."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage explains that placebos trigger real changes and have therapeutic potential.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Too narrow interpretation"
+      },
+      {
+        "label": "C",
+        "explanation": "Contradicts passage content"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the author's purpose? (variant 3)",
+    "stimulus": "Indigenous fire management practices, used for thousands of years by Aboriginal Australians, Native Americans, and other indigenous peoples, are gaining recognition as a powerful tool for preventing catastrophic wildfires. These \"cultural burns\" or \"prescribed burns\" involve deliberately setting small, controlled fires during cooler months to reduce the buildup of dry vegetation that fuels massive blazes. Unlike the fire suppression policies that dominated Western land management for over a century, indigenous burning works with fire rather than against it, maintaining ecosystem health while reducing wildfire risk. In California, collaborations between fire agencies and tribal communities have shown promising results, with culturally burned areas experiencing significantly less damage during subsequent wildfires. As climate change increases the frequency and intensity of wildfires worldwide, many experts argue that incorporating traditional ecological knowledge into modern fire management is not just wise—it's essential.",
+    "options": [
+      {
+        "label": "A",
+        "text": "To advocate for integrating indigenous fire management into modern wildfire prevention"
+      },
+      {
+        "label": "B",
+        "text": "To describe how all wildfires start"
+      },
+      {
+        "label": "C",
+        "text": "To criticize all Western land management"
+      },
+      {
+        "label": "D",
+        "text": "To explain Aboriginal Australian culture"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage argues that indigenous burning practices are effective and should be adopted more widely.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Too narrow interpretation"
+      },
+      {
+        "label": "C",
+        "explanation": "Contradicts passage content"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the main idea? (variant 10)",
+    "stimulus": "Neuroplasticity—the brain's ability to reorganize itself by forming new neural connections—has overturned centuries of scientific belief that the adult brain is fixed and unchangeable. Research now shows that the brain continues to adapt throughout life in response to learning, experience, and even injury. Stroke patients who were once told they would never recover lost functions have regained abilities through intensive rehabilitation that exploits neuroplasticity. London taxi drivers, who must memorize the city's complex street layout, have been found to have enlarged hippocampi—the brain region associated with spatial memory. Musicians who practice for years develop thicker cortical areas related to motor control and hearing. These findings have profound implications for education, therapy, and our understanding of human potential, suggesting that with the right stimulation and practice, the brain can continue growing and changing at any age.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Neuroplasticity shows the brain can change and grow throughout life."
+      },
+      {
+        "label": "B",
+        "text": "Only children's brains can change."
+      },
+      {
+        "label": "C",
+        "text": "London taxi drivers are smarter than others."
+      },
+      {
+        "label": "D",
+        "text": "Stroke patients cannot recover."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage describes evidence that the brain adapts throughout life with significant implications.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Too narrow interpretation"
+      },
+      {
+        "label": "C",
+        "explanation": "Contradicts passage content"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "How is this passage structured? (variant 1)",
+    "stimulus": "Scientists have long debated whether nature or nurture plays a greater role in shaping human behavior. Twin studies provide compelling evidence for the influence of genetics: identical twins raised apart often share remarkable similarities in personality, preferences, and even career choices. However, environmental factors clearly matter too. Children raised in stimulating environments with access to books and educational opportunities tend to score higher on cognitive tests than those from deprived backgrounds. Most researchers now agree that the nature-versus-nurture debate presents a false dichotomy. Genes and environment interact in complex ways, with genes influencing how individuals respond to their environments and environments activating or suppressing genetic tendencies.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Presents two sides of a debate then offers a synthesis"
+      },
+      {
+        "label": "B",
+        "text": "Problem and solution"
+      },
+      {
+        "label": "C",
+        "text": "Chronological"
+      },
+      {
+        "label": "D",
+        "text": "Cause and effect only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage presents nature, then nurture, then synthesizes both.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified structure"
+      },
+      {
+        "label": "C",
+        "explanation": "Too specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "text-structure"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What text structure does the author use?",
+    "stimulus": "The Amazon rainforest produces roughly 20% of the world's oxygen and contains 10% of all known species. However, deforestation has accelerated dramatically, with satellite data showing an area the size of a football field cleared every minute. The causes are primarily economic: cattle ranching, soy farming, and logging generate billions in revenue. Indigenous communities who have served as the forest's most effective guardians for millennia are being displaced. International pressure has led to some protective policies, but enforcement remains inconsistent. Scientists warn that the Amazon is approaching a \"tipping point\" beyond which the forest could transform into savanna, with catastrophic consequences for global climate patterns.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Description of the problem with causes, stakeholders, and potential consequences"
+      },
+      {
+        "label": "B",
+        "text": "Compare and contrast"
+      },
+      {
+        "label": "C",
+        "text": "Sequential instructions"
+      },
+      {
+        "label": "D",
+        "text": "Question and answer"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage describes a complex problem including causes, affected groups, and warnings.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified structure"
+      },
+      {
+        "label": "C",
+        "explanation": "Too specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "text-structure"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the author's purpose? (variant 4)",
+    "stimulus": "Before the invention of the printing press around 1440, books in Europe were copied by hand, primarily by monks in monasteries. A single book could take months to produce, making them extraordinarily expensive and accessible only to the wealthy and the clergy. Johannes Gutenberg's movable type press changed everything. By 1500, an estimated 20 million volumes had been printed across Europe. Literacy rates began to climb as books became affordable. The Protestant Reformation was fueled in part by the mass distribution of Martin Luther's writings. Scientific knowledge spread faster than ever before, contributing to the Renaissance and eventually the Scientific Revolution. The printing press did not merely change how information was distributed—it fundamentally transformed European society, economy, and intellectual life.",
+    "options": [
+      {
+        "label": "A",
+        "text": "To explain how the printing press transformed European civilization"
+      },
+      {
+        "label": "B",
+        "text": "To describe how books are made"
+      },
+      {
+        "label": "C",
+        "text": "To argue that monks were inefficient"
+      },
+      {
+        "label": "D",
+        "text": "To compare Gutenberg to modern printers"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage traces the printing press's wide-ranging transformative effects.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified structure"
+      },
+      {
+        "label": "C",
+        "explanation": "Too specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "text-structure"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the main idea? (variant 11)",
+    "stimulus": "Space debris—defunct satellites, spent rocket stages, and fragments from collisions—poses an increasingly serious threat to space operations. NASA currently tracks over 27,000 pieces of orbital debris larger than 10 centimeters, but millions of smaller fragments also orbit Earth at speeds exceeding 17,000 miles per hour. At such velocities, even a paint fleck can damage a spacecraft window. The problem is self-reinforcing: collisions create more debris, which increases the probability of further collisions—a scenario known as the Kessler Syndrome. If left unchecked, cascading collisions could eventually render certain orbits unusable, threatening the satellites that provide GPS, weather forecasting, and telecommunications. Space agencies are now testing debris removal technologies, including nets, harpoons, and lasers, while also developing guidelines for responsible satellite disposal.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Space debris is a growing threat that could make key orbits unusable without intervention."
+      },
+      {
+        "label": "B",
+        "text": "NASA has solved the debris problem."
+      },
+      {
+        "label": "C",
+        "text": "Only large debris is dangerous."
+      },
+      {
+        "label": "D",
+        "text": "Satellites are no longer needed."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage describes the debris problem, Kessler Syndrome, and efforts to address it.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified structure"
+      },
+      {
+        "label": "C",
+        "explanation": "Too specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "text-structure"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "How does the author present the topic?",
+    "stimulus": "The concept of universal basic income (UBI)—providing every citizen with a regular, unconditional cash payment—has moved from academic thought experiment to serious policy discussion. Finland, Kenya, and several U.S. cities have conducted pilot programs with encouraging results: recipients generally do not stop working, as critics feared, but instead use the funds to invest in education, start small businesses, or provide better care for their families. Proponents argue that UBI could address rising inequality and provide a safety net as automation eliminates traditional jobs. Opponents counter that the cost would be prohibitive and that it could reduce motivation to work. As AI continues to reshape the job market, the debate over UBI is likely to intensify.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Balanced presentation of arguments for and against UBI"
+      },
+      {
+        "label": "B",
+        "text": "Entirely in favor of UBI"
+      },
+      {
+        "label": "C",
+        "text": "Entirely against UBI"
+      },
+      {
+        "label": "D",
+        "text": "Historical narrative only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage presents both proponents' and opponents' views fairly.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misidentified structure"
+      },
+      {
+        "label": "C",
+        "explanation": "Too specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea",
+      "text-structure"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the main idea of this passage?",
+    "stimulus": "Vertical farming—growing crops in stacked layers inside controlled environments—is gaining traction as a solution to the challenges of feeding growing urban populations. These indoor farms use LED lighting, hydroponics, and climate control to produce crops year-round, regardless of weather or season. A single vertical farm can produce the same yield as 30 acres of traditional farmland while using 95% less water. Because the farms can be built in warehouses within cities, transportation costs and carbon emissions from shipping produce are dramatically reduced. Companies like AeroFarms and Plenty have attracted billions in investment, and cities from Singapore to Newark are integrating vertical farms into their food infrastructure. Critics note the high energy costs of LED lighting, but advances in renewable energy and LED efficiency are steadily closing this gap.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Vertical farming offers a sustainable solution to urban food production challenges."
+      },
+      {
+        "label": "B",
+        "text": "Vertical farms are too expensive to operate."
+      },
+      {
+        "label": "C",
+        "text": "Only lettuce can be grown vertically."
+      },
+      {
+        "label": "D",
+        "text": "Traditional farming is obsolete."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage discusses multiple advantages of vertical farming for cities.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Too narrow—cost is mentioned but not the focus"
+      },
+      {
+        "label": "C",
+        "explanation": "Unsupported by the passage"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the author's primary purpose?",
+    "stimulus": "Music therapy has emerged as a promising complementary treatment for patients with neurological conditions such as Parkinson's disease, stroke recovery, and traumatic brain injury. Research from Johns Hopkins University shows that rhythmic auditory stimulation—essentially, moving to a steady beat—can help Parkinson's patients improve their gait and reduce freezing episodes. For stroke survivors, singing therapy has helped patients who lost the ability to speak regain language function by engaging different neural pathways. The mechanism appears related to neuroplasticity: music activates multiple brain regions simultaneously, creating alternative neural networks that can compensate for damaged areas. While music therapy is not a replacement for conventional treatment, its low cost, accessibility, and lack of side effects make it an attractive addition to rehabilitation programs.",
+    "options": [
+      {
+        "label": "A",
+        "text": "To explain how music therapy benefits patients with neurological conditions"
+      },
+      {
+        "label": "B",
+        "text": "To argue that music should replace traditional medicine"
+      },
+      {
+        "label": "C",
+        "text": "To describe how to become a music therapist"
+      },
+      {
+        "label": "D",
+        "text": "To compare different genres of music"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage informs about research findings on music therapy for neurological patients.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Too extreme—passage doesn't advocate replacement"
+      },
+      {
+        "label": "C",
+        "explanation": "Not addressed in the passage"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "authors-purpose"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "How is this passage organized?",
+    "stimulus": "Food waste is one of the world's most pressing yet solvable environmental problems. Roughly one-third of all food produced globally is lost or wasted, contributing to 8-10% of greenhouse gas emissions. Technology is increasingly being deployed to combat this waste at every stage of the supply chain. AI-powered systems from companies like Afresh help grocery stores predict demand more accurately, reducing over-ordering. Apps like Too Good To Go connect consumers with restaurants and bakeries selling surplus food at discounted prices. At the farm level, imperfect produce that was once discarded is now being sold through services like Misfits Market and Imperfect Foods. Even food that cannot be saved for human consumption is being converted to animal feed or composted using industrial-scale systems. Despite these innovations, experts emphasize that technology alone cannot solve the problem—cultural attitudes about food, particularly in wealthy nations where abundance is taken for granted, must also change.",
+    "options": [
+      {
+        "label": "A",
+        "text": "A historical problem followed by technological solutions and their limitations"
+      },
+      {
+        "label": "B",
+        "text": "Chronological narrative"
+      },
+      {
+        "label": "C",
+        "text": "Compare and contrast of two technologies"
+      },
+      {
+        "label": "D",
+        "text": "Persuasive argument with counterarguments"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage presents the problem (food waste), solutions (technology), and acknowledges limitations.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not purely chronological"
+      },
+      {
+        "label": "C",
+        "explanation": "Only two items aren't compared systematically"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "text-structure"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "What is the central idea of this passage?",
+    "stimulus": "Bees pollinate approximately 75% of the fruits, nuts, and vegetables grown in the United States, making them indispensable to agriculture. Yet bee populations have been declining at alarming rates. Colony Collapse Disorder, first identified in 2006, has caused beekeepers to lose an average of 30-40% of their hives each winter. Scientists attribute the decline to a combination of factors: pesticides (particularly neonicotinoids), habitat loss, parasites like the Varroa mite, and climate change disrupting flowering patterns. The economic impact is staggering—pollination services provided by bees are valued at over $15 billion annually in the U.S. alone. Communities and governments are responding with pollinator-friendly initiatives, including planting wildflower corridors, restricting certain pesticides, and supporting research into bee health. Without these efforts, experts warn, the consequences for global food security could be severe.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bees are essential pollinators whose decline threatens global food security."
+      },
+      {
+        "label": "B",
+        "text": "Honey production is declining worldwide."
+      },
+      {
+        "label": "C",
+        "text": "Pesticides should be completely banned."
+      },
+      {
+        "label": "D",
+        "text": "Only honeybees pollinate crops."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage focuses on bees' role in pollination and the consequences of their decline.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Honey is mentioned but not the main focus"
+      },
+      {
+        "label": "C",
+        "explanation": "The passage discusses multiple causes, not just pesticides"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "What is the main idea?",
+    "stimulus": "Writing was invented independently at least three times in human history—in Mesopotamia around 3400 BCE, in China around 1200 BCE, and in Mesoamerica around 600 BCE. In each case, the initial motivation was practical rather than literary. Mesopotamian cuneiform began as a system for tracking grain stores and tax payments. Chinese oracle bone script was used for divination—posing questions to ancestors and recording their answers. Mayan glyphs recorded royal lineages, astronomical observations, and calendar calculations. Only over centuries did these practical systems evolve to express the full range of human thought, from epic poetry to legal codes to personal letters. The parallel development of writing across unconnected civilizations suggests something fundamental about human cognitive development: when societies reach a certain level of complexity, the need to record and communicate information becomes irresistible.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ancient civilizations independently developed writing systems to meet practical needs."
+      },
+      {
+        "label": "B",
+        "text": "All writing came from Mesopotamia."
+      },
+      {
+        "label": "C",
+        "text": "Writing was invented for poetry."
+      },
+      {
+        "label": "D",
+        "text": "Hieroglyphics are the oldest writing."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage shows multiple civilizations creating writing independently for practical purposes.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "The passage explicitly states independent development"
+      },
+      {
+        "label": "C",
+        "explanation": "Not stated in the passage"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "What is the author's purpose?",
+    "stimulus": "Breaking a habit feels impossibly hard because, neurologically, it is. When we repeat a behavior—checking our phone, reaching for a snack, biting our nails—the brain creates and strengthens neural pathways that automate the action. Over time, the behavior moves from the prefrontal cortex (conscious decision-making) to the basal ganglia (automatic behavior), requiring less and less conscious effort to trigger. This is why willpower alone often fails: you're essentially fighting your own brain's efficiency. Research by psychologist Wendy Wood at the University of Southern California suggests that the most effective strategy is not to resist the old habit but to replace it. By identifying the cue that triggers the habitual behavior and substituting a new response that provides a similar reward, individuals can gradually overwrite the old neural pathway. Studies show that it takes an average of 66 days—not the commonly cited 21—for a new behavior to become automatic.",
+    "options": [
+      {
+        "label": "A",
+        "text": "To explain the psychological science behind why habits are hard to break and how to change them"
+      },
+      {
+        "label": "B",
+        "text": "To promote a specific self-help program"
+      },
+      {
+        "label": "C",
+        "text": "To argue that habits are impossible to change"
+      },
+      {
+        "label": "D",
+        "text": "To compare good and bad habits"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage explains the neurological basis of habits and evidence-based strategies for change.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "No program is promoted"
+      },
+      {
+        "label": "C",
+        "explanation": "The passage explicitly discusses how to change habits"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "authors-purpose"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "What text structure is primarily used?",
+    "stimulus": "Language acquisition researchers have long debated two fundamentally different approaches to learning a second language. Traditional classroom instruction emphasizes grammar rules, vocabulary memorization, and structured exercises. Students learn to conjugate verbs, identify parts of speech, and translate between languages. This approach produces learners who understand the rules of a language but often struggle to use it spontaneously in conversation. Immersion-based approaches, by contrast, prioritize communication over correctness. Students are surrounded by the target language and encouraged to speak from day one, even if their grammar is imperfect. Research shows that immersion learners develop conversational fluency faster and retain language skills longer, but they may develop persistent grammatical errors that are difficult to correct later. Most modern language programs now blend both approaches, using structured instruction to build a foundation while incorporating immersive activities to develop practical communication skills.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Compare and contrast between two approaches to language learning"
+      },
+      {
+        "label": "B",
+        "text": "Chronological order"
+      },
+      {
+        "label": "C",
+        "text": "Problem and solution"
+      },
+      {
+        "label": "D",
+        "text": "Cause and effect"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage systematically compares traditional classroom learning with immersion approaches.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Events aren't ordered by time"
+      },
+      {
+        "label": "C",
+        "explanation": "The passage compares methods rather than solving a specific problem"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "text-structure"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the central argument?",
+    "stimulus": "The modern public library bears little resemblance to the hushed, book-lined institutions of popular imagination. Today's libraries serve as community technology centers, providing free internet access and computer literacy classes to residents who lack home connectivity. They function as warming centers during winter storms and cooling centers during heat waves. Librarians help patrons navigate government benefit applications, job searches, and citizenship paperwork. Many libraries now offer tool lending programs, seed libraries, recording studios, and 3D printing labs. In cities facing opioid crises, some libraries have trained staff in naloxone administration and partnered with social service agencies to connect patrons with treatment. Critics who question the relevance of libraries in the digital age miss the fundamental point: libraries have always been about providing free access to resources and information. The resources have simply expanded beyond books.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Public libraries have evolved into essential community hubs that serve far more than readers."
+      },
+      {
+        "label": "B",
+        "text": "Libraries are becoming obsolete due to the internet."
+      },
+      {
+        "label": "C",
+        "text": "Libraries should only contain books."
+      },
+      {
+        "label": "D",
+        "text": "Librarians are social workers."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage describes libraries' expanded roles as community centers, tech hubs, and social services.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Directly contradicted by the passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow—books are one of many services discussed"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "What is the main idea?",
+    "stimulus": "For most of human history, the night sky was a source of wonder, navigation, and storytelling. Today, more than 80% of the world's population lives under light-polluted skies, and a third of humanity can no longer see the Milky Way. The consequences extend far beyond lost stargazing. Artificial light at night disrupts the circadian rhythms of countless species: sea turtle hatchlings, guided by moonlight, crawl toward brightly lit roads instead of the ocean. Migratory birds, confused by city lights, crash into illuminated buildings by the millions each year. In humans, exposure to artificial light at night suppresses melatonin production, which has been linked to increased rates of insomnia, obesity, and certain cancers. Astronomers, meanwhile, must build observatories in increasingly remote locations to escape the glow. Solutions exist—shielded fixtures, warm-colored LEDs, and smart lighting that dims when not needed—but implementation requires awareness that most people don't yet have.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Light pollution has widespread negative effects on ecosystems, health, and scientific observation."
+      },
+      {
+        "label": "B",
+        "text": "Cities use too much electricity."
+      },
+      {
+        "label": "C",
+        "text": "Stargazing is a popular hobby."
+      },
+      {
+        "label": "D",
+        "text": "LEDs have solved all lighting problems."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage covers ecological, health, and scientific consequences of light pollution.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Electricity use is a cause, not the main idea"
+      },
+      {
+        "label": "C",
+        "explanation": "Not the focus of the passage"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "What is the author's purpose in this passage?",
+    "stimulus": "The tongue map—that familiar diagram showing sweet at the tip, salty on the sides, sour further back, and bitter at the rear—is one of the most enduring myths in science education. First introduced through a misinterpretation of a German research paper in 1901, the map suggests that different areas of the tongue detect different tastes. In reality, all taste buds can detect all five basic tastes: sweet, sour, salty, bitter, and umami (a savory taste identified by Japanese chemist Kikunae Ikeda in 1908). What we experience as \"flavor\" is actually a complex integration of taste, smell, texture, temperature, and even sound. Research shows that up to 80% of what we perceive as taste actually comes from our sense of smell, which is why food seems bland when you have a cold. Individual sensitivity varies enormously: some people, called \"supertasters,\" have significantly more taste buds than average, making bitter flavors particularly intense.",
+    "options": [
+      {
+        "label": "A",
+        "text": "To explain the science of taste and challenge common misconceptions about it"
+      },
+      {
+        "label": "B",
+        "text": "To teach readers how to cook"
+      },
+      {
+        "label": "C",
+        "text": "To rank the five tastes"
+      },
+      {
+        "label": "D",
+        "text": "To argue that some people have better taste"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage corrects the tongue-map myth and explains modern understanding of taste.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Cooking is not discussed"
+      },
+      {
+        "label": "C",
+        "explanation": "No ranking is provided"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "authors-purpose"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "How is this passage primarily organized?",
+    "stimulus": "On April 26, 1986, a safety test at the Chernobyl Nuclear Power Plant in Ukraine went catastrophically wrong, causing the worst nuclear disaster in history. The explosion released 400 times more radiation than the Hiroshima bomb, contaminating an area spanning thousands of square miles across Ukraine, Belarus, and Russia. The immediate human toll was devastating: 31 workers and firefighters died within months from acute radiation syndrome. In the years that followed, thyroid cancer rates among children in affected areas increased dramatically, and an estimated 350,000 people were permanently relocated from the exclusion zone. The environmental effects were equally profound: forests turned red and died, livestock developed mutations, and the radioactive contamination entered the food chain through soil and water. Paradoxically, the exclusion zone has since become an unintentional wildlife sanctuary, with populations of wolves, wild horses, and even European bison thriving in the absence of human activity.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cause and effect, showing how one event triggered a chain of consequences"
+      },
+      {
+        "label": "B",
+        "text": "Problem and solution"
+      },
+      {
+        "label": "C",
+        "text": "Compare and contrast"
+      },
+      {
+        "label": "D",
+        "text": "Description only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage traces how the Chernobyl disaster caused a series of environmental and human consequences.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Solutions aren't the focus"
+      },
+      {
+        "label": "C",
+        "explanation": "Two things aren't being compared"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "text-structure"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the main idea?",
+    "stimulus": "When Galileo Galilei first pointed a telescope at the night sky in 1609, he set in motion a revolution in human thought. His observations—mountains on the Moon, moons orbiting Jupiter, phases of Venus—provided evidence that Earth was not the center of the universe, as the Church taught, but merely one planet orbiting the Sun. In the centuries that followed, telescopes grew in size and sophistication, revealing an ever-larger cosmos. William Herschel discovered Uranus in 1781, doubling the known size of the solar system. Edwin Hubble showed in the 1920s that our Milky Way was just one of billions of galaxies. Today, the James Webb Space Telescope peers back to the earliest galaxies formed after the Big Bang, 13.5 billion years ago. Each advance in telescope technology has forced humanity to reconsider its place in the universe—from the center of creation to an insignificant speck in an incomprehensibly vast cosmos.",
+    "options": [
+      {
+        "label": "A",
+        "text": "The invention of the telescope fundamentally transformed humanity's understanding of the universe."
+      },
+      {
+        "label": "B",
+        "text": "Galileo invented the telescope."
+      },
+      {
+        "label": "C",
+        "text": "Telescopes are used to look at stars."
+      },
+      {
+        "label": "D",
+        "text": "Modern telescopes are very large."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage traces how telescopes changed our cosmic perspective from geocentric to heliocentric and beyond.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Galileo improved but didn't invent the telescope, and the passage is broader"
+      },
+      {
+        "label": "C",
+        "explanation": "Too simplistic"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the main idea?",
+    "stimulus": "Microplastics—fragments smaller than 5 millimeters—have been found in virtually every environment on Earth. They contaminate the deepest ocean trenches, the summit of Mount Everest, Arctic sea ice, and remote alpine lakes. They have been detected in the placentas of unborn babies, in human blood, and in the lungs of living patients. These tiny particles originate from the breakdown of larger plastic items, from synthetic clothing fibers released during washing, and from microbeads in personal care products. A single load of laundry can release up to 700,000 microfibers into waterways. Research on the health effects is still in early stages, but laboratory studies suggest that microplastics can cause inflammation, cellular damage, and may act as carriers for toxic chemicals. The scale of contamination has led some scientists to propose that microplastics should be considered a defining feature of the Anthropocene—the current geological age shaped by human activity.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Microplastics are pervasive contaminants found throughout the environment and in human bodies."
+      },
+      {
+        "label": "B",
+        "text": "Plastic bottles should be recycled."
+      },
+      {
+        "label": "C",
+        "text": "Microplastics only affect ocean life."
+      },
+      {
+        "label": "D",
+        "text": "All plastic is dangerous."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage describes the widespread presence of microplastics in diverse environments and organisms.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Recycling is not the focus"
+      },
+      {
+        "label": "C",
+        "explanation": "The passage shows they're found everywhere, not just oceans"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "What is the author's purpose?",
+    "stimulus": "Scientists call it the \"insect apocalypse.\" Studies from Germany, Puerto Rico, and across North America have documented dramatic declines in insect populations—in some regions, by more than 75% over three decades. The causes are familiar: habitat destruction, pesticide use, light pollution, and climate change. What makes insect decline particularly alarming is the cascade of consequences it triggers. Insects pollinate 88% of flowering plants. They decompose organic matter, returning nutrients to soil. They form the base of food webs that support birds, bats, fish, and amphibians—all of which are also declining. A world without insects would see crop failures, ecosystem collapse, and mass extinction of species that depend on them. E.O. Wilson called insects \"the little things that run the world,\" and the evidence increasingly suggests he was right.",
+    "options": [
+      {
+        "label": "A",
+        "text": "To inform readers about the decline of insects and why it matters"
+      },
+      {
+        "label": "B",
+        "text": "To argue that all pesticides should be banned immediately"
+      },
+      {
+        "label": "C",
+        "text": "To describe insect anatomy"
+      },
+      {
+        "label": "D",
+        "text": "To compare insects to mammals"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage presents evidence of decline and explains ecological importance of insects.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "The passage discusses causes but doesn't advocate a single solution"
+      },
+      {
+        "label": "C",
+        "explanation": "Not about anatomy"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "authors-purpose"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What text structure does the author use?",
+    "stimulus": "The digital divide—the gap between those who have access to modern information technology and those who don't—remains one of the most significant barriers to economic equality in the 21st century. In the United States alone, approximately 21 million people lack access to broadband internet. In rural communities, the figure is even higher, with some areas having no internet infrastructure at all. The consequences are severe: students without home internet fall behind academically, job seekers cannot access online applications, and telehealth services remain out of reach. Several approaches are being pursued to close this gap. The federal government has allocated $65 billion for broadband infrastructure through the Infrastructure Investment and Jobs Act. Private companies like SpaceX's Starlink are deploying satellite internet to reach remote areas. Community mesh networks, built and maintained by local residents, offer a grassroots alternative. Libraries and schools continue to serve as public access points, though demand often exceeds capacity.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Problem description followed by multiple proposed solutions"
+      },
+      {
+        "label": "B",
+        "text": "Chronological narrative"
+      },
+      {
+        "label": "C",
+        "text": "Compare and contrast"
+      },
+      {
+        "label": "D",
+        "text": "Cause and effect only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage identifies the digital divide problem then presents several solution approaches.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not a time-ordered narrative"
+      },
+      {
+        "label": "C",
+        "explanation": "The focus is on presenting solutions"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "text-structure"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "What is the main idea?",
+    "stimulus": "Sleep is not merely a period of inactivity but a critical phase during which the brain consolidates memories, processes emotions, and clears metabolic waste. During slow-wave sleep, the hippocampus replays the day's experiences, transferring important information to long-term storage in the cortex. REM sleep, during which most dreaming occurs, appears to play a role in emotional processing and creative problem-solving. Studies have shown that students who sleep after studying retain significantly more information than those who stay awake. One experiment found that subjects who napped after learning a task performed 40% better than those who didn't. The glymphatic system, discovered in 2012, clears toxic proteins—including those associated with Alzheimer's disease—from the brain during deep sleep. These findings suggest that chronic sleep deprivation doesn't just make people tired; it may actively impair cognitive function and increase the risk of neurodegenerative disease.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sleep plays a critical role in memory consolidation and learning."
+      },
+      {
+        "label": "B",
+        "text": "Everyone needs exactly 8 hours of sleep."
+      },
+      {
+        "label": "C",
+        "text": "Dreams predict the future."
+      },
+      {
+        "label": "D",
+        "text": "Sleep is a waste of time."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage explains how sleep helps the brain process and store new information.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "The passage mentions variation in sleep needs"
+      },
+      {
+        "label": "C",
+        "explanation": "Directly contradicted by the passage"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the main idea?",
+    "stimulus": "DNA analysis has transformed criminal justice since its first use in a court case in 1987. The technology can identify individuals with extraordinary precision—the probability of two unrelated people sharing a DNA profile is approximately one in a billion. Since 1989, DNA evidence has exonerated more than 375 wrongfully convicted individuals in the United States, some of whom had spent decades in prison. However, the technology is not infallible. Contamination, degraded samples, and the interpretation of mixed DNA profiles from multiple contributors can lead to errors. The expansion of DNA databases raises privacy concerns, particularly as genetic genealogy techniques—used famously to identify the Golden State Killer in 2018—can identify individuals through their relatives' DNA submissions to commercial testing services. As the technology advances, society must grapple with balancing the power of DNA identification against the rights of individuals who never consented to be part of a forensic database.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Forensic science has been revolutionized by DNA technology but still faces significant challenges."
+      },
+      {
+        "label": "B",
+        "text": "DNA evidence is always correct."
+      },
+      {
+        "label": "C",
+        "text": "Fingerprints are no longer used."
+      },
+      {
+        "label": "D",
+        "text": "All criminals can be caught with DNA."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage discusses both the power and limitations of DNA in forensic science.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "The passage explicitly discusses error rates"
+      },
+      {
+        "label": "C",
+        "explanation": "Fingerprints are one of many tools still used"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the author's purpose in this passage?",
+    "stimulus": "The Atlantic Meridional Overturning Circulation (AMOC) is often called the \"global conveyor belt\"—a vast system of ocean currents that carries warm water from the tropics northward and cold water southward along the ocean floor. This circulation pattern plays a crucial role in regulating climate, particularly in Europe, which enjoys milder winters than its latitude would suggest thanks to the warmth carried by the Gulf Stream. Recent research has raised alarms that the AMOC is weakening at an unprecedented rate, likely due to the influx of freshwater from melting Greenland ice sheets. Freshwater is less dense than saltwater and disrupts the sinking process that drives the circulation. Climate models suggest that a significant weakening or shutdown of the AMOC could lead to severe cooling in Northern Europe, disrupted monsoon patterns in Africa and Asia, accelerated sea level rise along the U.S. East Coast, and shifts in global precipitation patterns that could affect billions of people.",
+    "options": [
+      {
+        "label": "A",
+        "text": "To explain how ocean currents regulate global climate and why their disruption is concerning"
+      },
+      {
+        "label": "B",
+        "text": "To describe how to sail across the Atlantic"
+      },
+      {
+        "label": "C",
+        "text": "To argue that climate change is not real"
+      },
+      {
+        "label": "D",
+        "text": "To compare the Atlantic and Pacific oceans"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage informs about ocean circulation patterns and the potential consequences of disruption.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Sailing is not discussed"
+      },
+      {
+        "label": "C",
+        "explanation": "The passage discusses climate change consequences"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "authors-purpose"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "How is this passage organized?",
+    "stimulus": "When a plastic bottle is tossed into the ocean, its journey of destruction has only begun. Sunlight breaks down the plastic through photodegradation, causing it to become brittle and fragment into smaller and smaller pieces. Wave action accelerates this process, grinding the fragments against sand and rock. Within months, the bottle has become hundreds of microplastic particles. These particles absorb toxic chemicals from the surrounding water, including pesticides and industrial pollutants, concentrating them at levels up to a million times higher than the surrounding seawater. Marine organisms mistake these particles for food. Zooplankton ingest them, small fish eat the zooplankton, larger fish eat the small fish, and the toxins bioaccumulate—increasing in concentration at each level of the food chain. By the time the contamination reaches top predators like tuna, sharks, or dolphins, the toxic load can be significant. Some of these same fish end up on dinner plates, completing the cycle.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sequential description of a process with cause and effect elements"
+      },
+      {
+        "label": "B",
+        "text": "Compare and contrast"
+      },
+      {
+        "label": "C",
+        "text": "Problem and solution"
+      },
+      {
+        "label": "D",
+        "text": "Persuasive argument"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage describes the stages of how plastics break down, with effects at each stage.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Two things aren't being compared"
+      },
+      {
+        "label": "C",
+        "explanation": "No solution is proposed"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "text-structure"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the main idea?",
+    "stimulus": "Of the approximately 7,000 languages spoken worldwide, linguists estimate that one dies every two weeks. By the end of this century, half of all existing languages may be extinct. The loss is particularly acute among indigenous languages: in Australia, only 13 of the original 250 Aboriginal languages are still learned by children. In North America, of the more than 300 languages spoken before European contact, fewer than 20 are being transmitted to new generations. When a language dies, far more than words are lost. Indigenous languages often encode ecological knowledge accumulated over millennia—the Inuit have dozens of terms for different types of ice, each reflecting subtle observations critical for survival. The Pirahã language of the Amazon lacks number words, challenging fundamental assumptions about human cognition. Revitalization efforts, from Hawaiian language immersion schools to digital archives of endangered languages, offer hope, but the pace of loss far outstrips the pace of preservation.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Indigenous languages worldwide are disappearing rapidly, taking irreplaceable knowledge with them."
+      },
+      {
+        "label": "B",
+        "text": "Everyone should speak English."
+      },
+      {
+        "label": "C",
+        "text": "Only written languages matter."
+      },
+      {
+        "label": "D",
+        "text": "Language extinction is natural and harmless."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage describes language loss and the unique knowledge embedded in indigenous languages.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Contradicted by the passage"
+      },
+      {
+        "label": "C",
+        "explanation": "The passage values oral and unwritten languages"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the main idea?",
+    "stimulus": "The gut has been called the \"second brain,\" and research increasingly shows this is more than a metaphor. The enteric nervous system—a network of 500 million neurons lining the digestive tract—communicates constantly with the brain through the vagus nerve, hormones, and immune system signals. Studies have found that people with depression and anxiety often have distinctly different gut microbiome compositions than healthy controls. In animal studies, transferring gut bacteria from depressed mice to healthy mice caused the healthy mice to develop depressive behaviors. Clinical trials in humans have shown that certain probiotics can reduce symptoms of anxiety and depression, leading researchers to coin the term \"psychobiotics.\" The implications are profound: mental health may be influenced not just by brain chemistry but by the trillions of microorganisms living in our digestive systems. This emerging field is already changing how some clinicians approach treatment, with dietary recommendations becoming part of mental health care plans.",
+    "options": [
+      {
+        "label": "A",
+        "text": "The gut-brain connection shows that digestive health significantly influences mental health."
+      },
+      {
+        "label": "B",
+        "text": "You should eat more yogurt."
+      },
+      {
+        "label": "C",
+        "text": "The brain controls all body functions directly."
+      },
+      {
+        "label": "D",
+        "text": "Depression has no physical causes."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage explains the bidirectional relationship between gut microbiome and mental health.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Too specific and prescriptive"
+      },
+      {
+        "label": "C",
+        "explanation": "The passage shows the gut also influences the brain"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the author's purpose?",
+    "stimulus": "Beneath the forest floor lies an invisible internet. Mycorrhizal fungi form vast networks connecting the roots of trees, enabling them to share nutrients, water, and chemical signals. Ecologist Suzanne Simard's pioneering research revealed that trees use these fungal networks—dubbed the \"Wood Wide Web\"—to transfer carbon and other resources to neighboring trees, including seedlings struggling in the shade. Mother trees, the largest and oldest in a forest, serve as hubs in this network, supporting hundreds of younger trees. When a tree is injured or dying, it can dump its resources into the network for its neighbors to absorb. Trees under attack by insects release chemical signals through the network, warning nearby trees to produce defensive compounds before the insects arrive. These findings challenge the traditional view of forests as collections of individual trees competing for resources, revealing instead a cooperative community connected by fungal partnerships.",
+    "options": [
+      {
+        "label": "A",
+        "text": "To explain how trees communicate and cooperate through underground fungal networks"
+      },
+      {
+        "label": "B",
+        "text": "To argue that trees have human-like emotions"
+      },
+      {
+        "label": "C",
+        "text": "To teach readers how to grow mushrooms"
+      },
+      {
+        "label": "D",
+        "text": "To describe photosynthesis"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage informs about the \"Wood Wide Web\" and its role in forest ecology.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "The passage uses scientific evidence, not emotional attribution"
+      },
+      {
+        "label": "C",
+        "explanation": "Mushroom growing is not discussed"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "authors-purpose"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "How is this passage organized?",
+    "stimulus": "In 1912, German meteorologist Alfred Wegener proposed that the continents had once been joined in a single landmass he called Pangaea. His evidence was compelling—matching fossils on separate continents, jigsaw-like coastlines, and identical rock formations on opposite sides of the Atlantic—but the scientific establishment dismissed him because he couldn't explain how continents moved. It wasn't until the 1960s that the mechanism was discovered: the seafloor was spreading. Harry Hess proposed that new oceanic crust forms at mid-ocean ridges and pushes older crust outward, carrying continents with it. The theory of plate tectonics unified geology, explaining earthquakes, volcanoes, mountain building, and ocean formation through the movements of rigid plates on Earth's surface. Today, GPS measurements confirm that the plates move at roughly the speed fingernails grow—a few centimeters per year—slowly but relentlessly reshaping the face of our planet.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chronological development of a scientific understanding"
+      },
+      {
+        "label": "B",
+        "text": "Compare and contrast"
+      },
+      {
+        "label": "C",
+        "text": "Problem and solution"
+      },
+      {
+        "label": "D",
+        "text": "Spatial order"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage traces the history of plate tectonics from Wegener through modern understanding.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Only one theory is discussed"
+      },
+      {
+        "label": "C",
+        "explanation": "No specific problem is solved"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "text-structure"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the main idea?",
+    "stimulus": "The Green Revolution of the 1960s and 1970s—led by agricultural scientist Norman Borlaug—introduced high-yield crop varieties, chemical fertilizers, and irrigation techniques that dramatically increased food production in developing nations. India, which had faced recurring famines, became self-sufficient in grain production within two decades. Global wheat yields nearly doubled between 1960 and 2000, and Borlaug's work is credited with saving over a billion people from starvation. However, the Green Revolution's legacy is complicated. The intensive farming methods it promoted have led to soil degradation, water depletion, and chemical runoff that pollutes rivers and creates ocean dead zones. The reliance on a few high-yield varieties has reduced crop genetic diversity, making agriculture more vulnerable to disease and climate change. Today's challenge is to maintain the productivity gains of the Green Revolution while transitioning to more sustainable practices—a goal that scientists call the \"Evergreen Revolution.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The green revolution saved billions from famine but created environmental problems that need addressing."
+      },
+      {
+        "label": "B",
+        "text": "Norman Borlaug solved world hunger permanently."
+      },
+      {
+        "label": "C",
+        "text": "Chemical fertilizers are always good."
+      },
+      {
+        "label": "D",
+        "text": "India does not need modern farming."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage presents both the achievements and drawbacks of the green revolution.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "The passage discusses ongoing challenges"
+      },
+      {
+        "label": "C",
+        "explanation": "The passage shows both benefits and costs"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "main-idea"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "What is the author's primary purpose?",
+    "stimulus": "Confirmation bias—the tendency to seek, interpret, and remember information that confirms our existing beliefs—is perhaps the most pervasive cognitive bias in human thinking. Psychologist Peter Wason first demonstrated the phenomenon in the 1960s, showing that people consistently test hypotheses by looking for confirming evidence rather than trying to disprove them. Social media algorithms amplify this tendency by showing users content that aligns with their preferences, creating \"filter bubbles\" where alternative viewpoints are rarely encountered. The bias operates unconsciously: even when people believe they are being objective, brain imaging studies show that information consistent with existing beliefs activates reward centers, while contradictory information triggers threat responses. This helps explain why political polarization persists despite widespread access to information—people on both sides of an issue can look at the same data and reach opposite conclusions, each genuinely believing the evidence supports their view.",
+    "options": [
+      {
+        "label": "A",
+        "text": "To explain how confirmation bias affects decision-making and why it is difficult to overcome"
+      },
+      {
+        "label": "B",
+        "text": "To criticize people who disagree with science"
+      },
+      {
+        "label": "C",
+        "text": "To describe how the brain stores memories"
+      },
+      {
+        "label": "D",
+        "text": "To argue that humans cannot think rationally"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage explains the mechanism of confirmation bias and its pervasiveness.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "The passage is explanatory, not critical"
+      },
+      {
+        "label": "C",
+        "explanation": "Memory storage is not the focus"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "authors-purpose"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the main idea of this passage?",
+    "stimulus": "Global renewable energy capacity grew by 50% in 2023, the fastest pace in two decades. Solar power led the expansion, with costs falling 90% since 2010, making it cheaper than coal in most markets. Wind energy also grew substantially, with offshore installations doubling. China accounted for half of all new renewable capacity, though the United States and Europe also made significant gains. Despite this progress, challenges remain. Electricity grids designed for centralized fossil fuel plants must be modernized to handle distributed, intermittent renewable sources. Energy storage technology, while improving rapidly, cannot yet cost-effectively store power at the scale needed for fully renewable grids. Experts emphasize that the transition is inevitable but warn that without massive investment in grid infrastructure, the pace of change may slow.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Renewable energy adoption is accelerating globally but faces infrastructure challenges."
+      },
+      {
+        "label": "B",
+        "text": "Solar panels are the best energy source."
+      },
+      {
+        "label": "C",
+        "text": "Fossil fuels will never be replaced."
+      },
+      {
+        "label": "D",
+        "text": "Wind energy is too expensive."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage discusses growth in renewables and the challenges of grid modernization.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by the passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "How is this passage organized?",
+    "stimulus": "The Northern Lights, or aurora borealis, are one of nature's most spectacular displays—shimmering curtains of green, purple, and pink light dancing across the polar sky. For centuries, cultures across the Arctic attributed the lights to supernatural causes: the Norse believed they were reflections from the armor of the Valkyries, while the Inuit saw them as spirits playing ball with a walrus skull. The scientific explanation, while less romantic, is equally remarkable. Charged particles from the sun, carried by solar wind, collide with gas molecules in Earth's upper atmosphere. These collisions excite the molecules, causing them to emit photons of light. The color depends on which gas is struck: oxygen produces green and red, while nitrogen creates blue and purple. The displays are most common near the magnetic poles, where Earth's magnetic field funnels the charged particles toward the atmosphere.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Description of a phenomenon followed by its scientific explanation"
+      },
+      {
+        "label": "B",
+        "text": "Chronological narrative"
+      },
+      {
+        "label": "C",
+        "text": "Persuasive argument"
+      },
+      {
+        "label": "D",
+        "text": "Compare and contrast"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage first describes the Northern Lights, then explains the science behind them.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by the passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading"
+    ]
+  }
+]

@@ -1,0 +1,2422 @@
+[
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.subject_verb",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Choose the correct verb: \"The group of students ___ ready.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "is"
+      },
+      {
+        "label": "B",
+        "text": "are"
+      },
+      {
+        "label": "C",
+        "text": "were"
+      },
+      {
+        "label": "D",
+        "text": "be"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "\"Group\" is singular",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong number agreement"
+      },
+      {
+        "label": "C",
+        "explanation": "Wrong tense"
+      }
+    ],
+    "skills": [
+      "subject-verb-agreement"
+    ],
+    "tags": [
+      "grammar",
+      "subject-verb"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.subject_verb",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Choose the correct verb: \"Neither the cat nor the dogs ___ outside.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "are"
+      },
+      {
+        "label": "B",
+        "text": "is"
+      },
+      {
+        "label": "C",
+        "text": "was"
+      },
+      {
+        "label": "D",
+        "text": "be"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Verb agrees with closer subject (dogs=plural)",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong number agreement"
+      },
+      {
+        "label": "C",
+        "explanation": "Wrong tense"
+      }
+    ],
+    "skills": [
+      "subject-verb-agreement"
+    ],
+    "tags": [
+      "grammar",
+      "subject-verb"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.subject_verb",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Choose the correct verb: \"Each of the books ___ interesting.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "is"
+      },
+      {
+        "label": "B",
+        "text": "are"
+      },
+      {
+        "label": "C",
+        "text": "were"
+      },
+      {
+        "label": "D",
+        "text": "be"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "\"Each\" is singular",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong number agreement"
+      },
+      {
+        "label": "C",
+        "explanation": "Wrong tense"
+      }
+    ],
+    "skills": [
+      "subject-verb-agreement"
+    ],
+    "tags": [
+      "grammar",
+      "subject-verb"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.subject_verb",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Choose the correct verb: \"The news ___ shocking.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "is"
+      },
+      {
+        "label": "B",
+        "text": "are"
+      },
+      {
+        "label": "C",
+        "text": "were"
+      },
+      {
+        "label": "D",
+        "text": "be"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "\"News\" is uncountable/singular",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong number agreement"
+      },
+      {
+        "label": "C",
+        "explanation": "Wrong tense"
+      }
+    ],
+    "skills": [
+      "subject-verb-agreement"
+    ],
+    "tags": [
+      "grammar",
+      "subject-verb"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.subject_verb",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Choose the correct verb: \"Mathematics ___ my best subject.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "is"
+      },
+      {
+        "label": "B",
+        "text": "are"
+      },
+      {
+        "label": "C",
+        "text": "were"
+      },
+      {
+        "label": "D",
+        "text": "be"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "\"Mathematics\" takes singular verb",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong number agreement"
+      },
+      {
+        "label": "C",
+        "explanation": "Wrong tense"
+      }
+    ],
+    "skills": [
+      "subject-verb-agreement"
+    ],
+    "tags": [
+      "grammar",
+      "subject-verb"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.subject_verb",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Choose the correct verb: \"Everyone ___ finished.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "has"
+      },
+      {
+        "label": "B",
+        "text": "have"
+      },
+      {
+        "label": "C",
+        "text": "are"
+      },
+      {
+        "label": "D",
+        "text": "be"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "\"Everyone\" is singular",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong number agreement"
+      },
+      {
+        "label": "C",
+        "explanation": "Wrong tense"
+      }
+    ],
+    "skills": [
+      "subject-verb-agreement"
+    ],
+    "tags": [
+      "grammar",
+      "subject-verb"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.subject_verb",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Choose the correct verb: \"One of the students ___ absent.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "is"
+      },
+      {
+        "label": "B",
+        "text": "are"
+      },
+      {
+        "label": "C",
+        "text": "were"
+      },
+      {
+        "label": "D",
+        "text": "be"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "\"One\" is the subject (singular)",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong number agreement"
+      },
+      {
+        "label": "C",
+        "explanation": "Wrong tense"
+      }
+    ],
+    "skills": [
+      "subject-verb-agreement"
+    ],
+    "tags": [
+      "grammar",
+      "subject-verb"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.subject_verb",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Choose the correct verb: \"There ___ many options.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "are"
+      },
+      {
+        "label": "B",
+        "text": "is"
+      },
+      {
+        "label": "C",
+        "text": "was"
+      },
+      {
+        "label": "D",
+        "text": "be"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "\"Options\" is plural → \"are\"",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong number agreement"
+      },
+      {
+        "label": "C",
+        "explanation": "Wrong tense"
+      }
+    ],
+    "skills": [
+      "subject-verb-agreement"
+    ],
+    "tags": [
+      "grammar",
+      "subject-verb"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.fragments",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Fix this fragment: \"Running through the park.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "She was running through the park."
+      },
+      {
+        "label": "B",
+        "text": "Running through the park. quickly."
+      },
+      {
+        "label": "C",
+        "text": "And running through the park."
+      },
+      {
+        "label": "D",
+        "text": "Running through the park."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A fragment needs a subject and predicate to be complete.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still a fragment"
+      },
+      {
+        "label": "C",
+        "explanation": "Original unchanged"
+      }
+    ],
+    "skills": [
+      "fix-fragments"
+    ],
+    "tags": [
+      "grammar",
+      "fragments"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.fragments",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Fix this fragment: \"Because the storm approached.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "We left because the storm approached."
+      },
+      {
+        "label": "B",
+        "text": "Because the storm approached. quickly."
+      },
+      {
+        "label": "C",
+        "text": "And because the storm approached."
+      },
+      {
+        "label": "D",
+        "text": "Because the storm approached."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A fragment needs a subject and predicate to be complete.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still a fragment"
+      },
+      {
+        "label": "C",
+        "explanation": "Original unchanged"
+      }
+    ],
+    "skills": [
+      "fix-fragments"
+    ],
+    "tags": [
+      "grammar",
+      "fragments"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.fragments",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Fix this fragment: \"The tall building near the river.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The tall building near the river collapsed."
+      },
+      {
+        "label": "B",
+        "text": "The tall building near the river. quickly."
+      },
+      {
+        "label": "C",
+        "text": "And the tall building near the river."
+      },
+      {
+        "label": "D",
+        "text": "The tall building near the river."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A fragment needs a subject and predicate to be complete.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still a fragment"
+      },
+      {
+        "label": "C",
+        "explanation": "Original unchanged"
+      }
+    ],
+    "skills": [
+      "fix-fragments"
+    ],
+    "tags": [
+      "grammar",
+      "fragments"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.fragments",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Fix this fragment: \"After finishing homework.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "After finishing homework, she relaxed."
+      },
+      {
+        "label": "B",
+        "text": "After finishing homework. quickly."
+      },
+      {
+        "label": "C",
+        "text": "And after finishing homework."
+      },
+      {
+        "label": "D",
+        "text": "After finishing homework."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A fragment needs a subject and predicate to be complete.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still a fragment"
+      },
+      {
+        "label": "C",
+        "explanation": "Original unchanged"
+      }
+    ],
+    "skills": [
+      "fix-fragments"
+    ],
+    "tags": [
+      "grammar",
+      "fragments"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.fragments",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Fix this fragment: \"Which was the best choice.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "That was the choice which was the best."
+      },
+      {
+        "label": "B",
+        "text": "Which was the best choice. quickly."
+      },
+      {
+        "label": "C",
+        "text": "And which was the best choice."
+      },
+      {
+        "label": "D",
+        "text": "Which was the best choice."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A fragment needs a subject and predicate to be complete.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still a fragment"
+      },
+      {
+        "label": "C",
+        "explanation": "Original unchanged"
+      }
+    ],
+    "skills": [
+      "fix-fragments"
+    ],
+    "tags": [
+      "grammar",
+      "fragments"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.fragments",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Fix this fragment: \"Since the start of school.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "She improved since the start of school."
+      },
+      {
+        "label": "B",
+        "text": "Since the start of school. quickly."
+      },
+      {
+        "label": "C",
+        "text": "And since the start of school."
+      },
+      {
+        "label": "D",
+        "text": "Since the start of school."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A fragment needs a subject and predicate to be complete.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still a fragment"
+      },
+      {
+        "label": "C",
+        "explanation": "Original unchanged"
+      }
+    ],
+    "skills": [
+      "fix-fragments"
+    ],
+    "tags": [
+      "grammar",
+      "fragments"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.fragments",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Fix this fragment: \"To win the championship.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "They trained hard to win the championship."
+      },
+      {
+        "label": "B",
+        "text": "To win the championship. quickly."
+      },
+      {
+        "label": "C",
+        "text": "And to win the championship."
+      },
+      {
+        "label": "D",
+        "text": "To win the championship."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A fragment needs a subject and predicate to be complete.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still a fragment"
+      },
+      {
+        "label": "C",
+        "explanation": "Original unchanged"
+      }
+    ],
+    "skills": [
+      "fix-fragments"
+    ],
+    "tags": [
+      "grammar",
+      "fragments"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.fragments",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Fix this fragment: \"Walking slowly down the hall.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "He was walking slowly down the hall."
+      },
+      {
+        "label": "B",
+        "text": "Walking slowly down the hall. quickly."
+      },
+      {
+        "label": "C",
+        "text": "And walking slowly down the hall."
+      },
+      {
+        "label": "D",
+        "text": "Walking slowly down the hall."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A fragment needs a subject and predicate to be complete.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still a fragment"
+      },
+      {
+        "label": "C",
+        "explanation": "Original unchanged"
+      }
+    ],
+    "skills": [
+      "fix-fragments"
+    ],
+    "tags": [
+      "grammar",
+      "fragments"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.run_ons",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Fix this run-on: \"I love pizza it is delicious.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "I love pizza; it is delicious."
+      },
+      {
+        "label": "B",
+        "text": "I love pizza, it is delicious."
+      },
+      {
+        "label": "C",
+        "text": "I love pizza it is delicious."
+      },
+      {
+        "label": "D",
+        "text": "I, love pizza it is delicious."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Separate independent clauses with conjunction+comma, semicolon, or period.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Creates comma splice"
+      },
+      {
+        "label": "C",
+        "explanation": "Original run-on unchanged"
+      }
+    ],
+    "skills": [
+      "fix-run-ons"
+    ],
+    "tags": [
+      "grammar",
+      "run-ons"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.run_ons",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Fix this run-on: \"She studied she passed.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "She studied, so she passed."
+      },
+      {
+        "label": "B",
+        "text": "She studied, she passed."
+      },
+      {
+        "label": "C",
+        "text": "She studied she passed."
+      },
+      {
+        "label": "D",
+        "text": "She, studied she passed."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Separate independent clauses with conjunction+comma, semicolon, or period.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Creates comma splice"
+      },
+      {
+        "label": "C",
+        "explanation": "Original run-on unchanged"
+      }
+    ],
+    "skills": [
+      "fix-run-ons"
+    ],
+    "tags": [
+      "grammar",
+      "run-ons"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.run_ons",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Fix this run-on: \"The movie was long we liked it.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The movie was long, but we liked it."
+      },
+      {
+        "label": "B",
+        "text": "The movie was long, we liked it."
+      },
+      {
+        "label": "C",
+        "text": "The movie was long we liked it."
+      },
+      {
+        "label": "D",
+        "text": "The, movie was long we liked it."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Separate independent clauses with conjunction+comma, semicolon, or period.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Creates comma splice"
+      },
+      {
+        "label": "C",
+        "explanation": "Original run-on unchanged"
+      }
+    ],
+    "skills": [
+      "fix-run-ons"
+    ],
+    "tags": [
+      "grammar",
+      "run-ons"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.run_ons",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Fix this run-on: \"He ran fast he won.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "He ran fast and won."
+      },
+      {
+        "label": "B",
+        "text": "He ran fast, he won."
+      },
+      {
+        "label": "C",
+        "text": "He ran fast he won."
+      },
+      {
+        "label": "D",
+        "text": "He, ran fast he won."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Separate independent clauses with conjunction+comma, semicolon, or period.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Creates comma splice"
+      },
+      {
+        "label": "C",
+        "explanation": "Original run-on unchanged"
+      }
+    ],
+    "skills": [
+      "fix-run-ons"
+    ],
+    "tags": [
+      "grammar",
+      "run-ons"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.run_ons",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Fix this run-on: \"The sun set stars appeared.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The sun set, and stars appeared."
+      },
+      {
+        "label": "B",
+        "text": "The sun set, stars appeared."
+      },
+      {
+        "label": "C",
+        "text": "The sun set stars appeared."
+      },
+      {
+        "label": "D",
+        "text": "The, sun set stars appeared."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Separate independent clauses with conjunction+comma, semicolon, or period.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Creates comma splice"
+      },
+      {
+        "label": "C",
+        "explanation": "Original run-on unchanged"
+      }
+    ],
+    "skills": [
+      "fix-run-ons"
+    ],
+    "tags": [
+      "grammar",
+      "run-ons"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.run_ons",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Fix this run-on: \"We went they were closed.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "We went, but they were closed."
+      },
+      {
+        "label": "B",
+        "text": "We went, they were closed."
+      },
+      {
+        "label": "C",
+        "text": "We went they were closed."
+      },
+      {
+        "label": "D",
+        "text": "We, went they were closed."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Separate independent clauses with conjunction+comma, semicolon, or period.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Creates comma splice"
+      },
+      {
+        "label": "C",
+        "explanation": "Original run-on unchanged"
+      }
+    ],
+    "skills": [
+      "fix-run-ons"
+    ],
+    "tags": [
+      "grammar",
+      "run-ons"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.run_ons",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Fix this run-on: \"I read it was good.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "I read it, and it was good."
+      },
+      {
+        "label": "B",
+        "text": "I read, it was good."
+      },
+      {
+        "label": "C",
+        "text": "I read it was good."
+      },
+      {
+        "label": "D",
+        "text": "I, read it was good."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Separate independent clauses with conjunction+comma, semicolon, or period.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Creates comma splice"
+      },
+      {
+        "label": "C",
+        "explanation": "Original run-on unchanged"
+      }
+    ],
+    "skills": [
+      "fix-run-ons"
+    ],
+    "tags": [
+      "grammar",
+      "run-ons"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.run_ons",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Fix this run-on: \"Rain fell we stayed in.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rain fell, so we stayed in."
+      },
+      {
+        "label": "B",
+        "text": "Rain fell, we stayed in."
+      },
+      {
+        "label": "C",
+        "text": "Rain fell we stayed in."
+      },
+      {
+        "label": "D",
+        "text": "Rain, fell we stayed in."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Separate independent clauses with conjunction+comma, semicolon, or period.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Creates comma splice"
+      },
+      {
+        "label": "C",
+        "explanation": "Original run-on unchanged"
+      }
+    ],
+    "skills": [
+      "fix-run-ons"
+    ],
+    "tags": [
+      "grammar",
+      "run-ons"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.comma_splice",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Fix the comma splice: \"I like cats, they are cute.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "I like cats; they are cute."
+      },
+      {
+        "label": "B",
+        "text": "I like cats, they are cute."
+      },
+      {
+        "label": "C",
+        "text": "I like cats they are cute."
+      },
+      {
+        "label": "D",
+        "text": "I like cats and then also they are cute."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A comma alone cannot join two independent clauses.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still a comma splice"
+      },
+      {
+        "label": "C",
+        "explanation": "Creates a run-on"
+      }
+    ],
+    "skills": [
+      "fix-comma-splice"
+    ],
+    "tags": [
+      "grammar",
+      "comma-splice"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.comma_splice",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Fix the comma splice: \"She ran fast, she still lost.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "She ran fast, but she still lost."
+      },
+      {
+        "label": "B",
+        "text": "She ran fast, she still lost."
+      },
+      {
+        "label": "C",
+        "text": "She ran fast she still lost."
+      },
+      {
+        "label": "D",
+        "text": "She ran fast and then also she still lost."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A comma alone cannot join two independent clauses.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still a comma splice"
+      },
+      {
+        "label": "C",
+        "explanation": "Creates a run-on"
+      }
+    ],
+    "skills": [
+      "fix-comma-splice"
+    ],
+    "tags": [
+      "grammar",
+      "comma-splice"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.comma_splice",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Fix the comma splice: \"It rained, we stayed home.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "It rained, so we stayed home."
+      },
+      {
+        "label": "B",
+        "text": "It rained, we stayed home."
+      },
+      {
+        "label": "C",
+        "text": "It rained we stayed home."
+      },
+      {
+        "label": "D",
+        "text": "It rained and then also we stayed home."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A comma alone cannot join two independent clauses.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still a comma splice"
+      },
+      {
+        "label": "C",
+        "explanation": "Creates a run-on"
+      }
+    ],
+    "skills": [
+      "fix-comma-splice"
+    ],
+    "tags": [
+      "grammar",
+      "comma-splice"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.comma_splice",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Fix the comma splice: \"He smiled, she waved back.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "He smiled, and she waved back."
+      },
+      {
+        "label": "B",
+        "text": "He smiled, she waved back."
+      },
+      {
+        "label": "C",
+        "text": "He smiled she waved back."
+      },
+      {
+        "label": "D",
+        "text": "He smiled and then also she waved back."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A comma alone cannot join two independent clauses.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still a comma splice"
+      },
+      {
+        "label": "C",
+        "explanation": "Creates a run-on"
+      }
+    ],
+    "skills": [
+      "fix-comma-splice"
+    ],
+    "tags": [
+      "grammar",
+      "comma-splice"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.parallel_structure",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Create parallel structure: \"She likes swimming, hiking, and to bike.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "She likes swimming, hiking, and biking."
+      },
+      {
+        "label": "B",
+        "text": "She likes swimming, hiking, and to bike."
+      },
+      {
+        "label": "C",
+        "text": " and to bike., hiking,She likes swimming"
+      },
+      {
+        "label": "D",
+        "text": "She likes swimming, hiking, and also biking."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Items in a series must use matching grammatical forms.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still not parallel"
+      },
+      {
+        "label": "C",
+        "explanation": "Reversed order doesn't fix parallelism"
+      }
+    ],
+    "skills": [
+      "parallel-structure"
+    ],
+    "tags": [
+      "grammar",
+      "parallel-structure"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.parallel_structure",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Create parallel structure: \"The job needs patience, skill, and being organized.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The job needs patience, skill, and organization."
+      },
+      {
+        "label": "B",
+        "text": "The job needs patience, skill, and being organized."
+      },
+      {
+        "label": "C",
+        "text": " and being organized., skill,The job needs patience"
+      },
+      {
+        "label": "D",
+        "text": "The job needs patience, skill, and also organization."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Items in a series must use matching grammatical forms.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still not parallel"
+      },
+      {
+        "label": "C",
+        "explanation": "Reversed order doesn't fix parallelism"
+      }
+    ],
+    "skills": [
+      "parallel-structure"
+    ],
+    "tags": [
+      "grammar",
+      "parallel-structure"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.parallel_structure",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Create parallel structure: \"He promised to study, attend, and that he would finish.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "He promised to study, attend, and finish."
+      },
+      {
+        "label": "B",
+        "text": "He promised to study, attend, and that he would finish."
+      },
+      {
+        "label": "C",
+        "text": " and that he would finish., attend,He promised to study"
+      },
+      {
+        "label": "D",
+        "text": "He promised to study, attend, and also finish."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Items in a series must use matching grammatical forms.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still not parallel"
+      },
+      {
+        "label": "C",
+        "explanation": "Reversed order doesn't fix parallelism"
+      }
+    ],
+    "skills": [
+      "parallel-structure"
+    ],
+    "tags": [
+      "grammar",
+      "parallel-structure"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.parallel_structure",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Create parallel structure: \"She is smart, talented, and works hard.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "She is smart, talented, and hardworking."
+      },
+      {
+        "label": "B",
+        "text": "She is smart, talented, and works hard."
+      },
+      {
+        "label": "C",
+        "text": " and works hard., talented,She is smart"
+      },
+      {
+        "label": "D",
+        "text": "She is smart, talented, and also hardworking."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Items in a series must use matching grammatical forms.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still not parallel"
+      },
+      {
+        "label": "C",
+        "explanation": "Reversed order doesn't fix parallelism"
+      }
+    ],
+    "skills": [
+      "parallel-structure"
+    ],
+    "tags": [
+      "grammar",
+      "parallel-structure"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.parallel_structure",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Create parallel structure: \"Mix, bake, and to decorate.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mix, bake, and decorate."
+      },
+      {
+        "label": "B",
+        "text": "Mix, bake, and to decorate."
+      },
+      {
+        "label": "C",
+        "text": " and to decorate., bake,Mix"
+      },
+      {
+        "label": "D",
+        "text": "Mix, bake, and also decorate."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Items in a series must use matching grammatical forms.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still not parallel"
+      },
+      {
+        "label": "C",
+        "explanation": "Reversed order doesn't fix parallelism"
+      }
+    ],
+    "skills": [
+      "parallel-structure"
+    ],
+    "tags": [
+      "grammar",
+      "parallel-structure"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.parallel_structure",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Create parallel structure: \"Read carefully, write clearly, and speaking well.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Read carefully, write clearly, and speak well."
+      },
+      {
+        "label": "B",
+        "text": "Read carefully, write clearly, and speaking well."
+      },
+      {
+        "label": "C",
+        "text": " and speaking well., write clearly,Read carefully"
+      },
+      {
+        "label": "D",
+        "text": "Read carefully, write clearly, and also speak well."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Items in a series must use matching grammatical forms.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still not parallel"
+      },
+      {
+        "label": "C",
+        "explanation": "Reversed order doesn't fix parallelism"
+      }
+    ],
+    "skills": [
+      "parallel-structure"
+    ],
+    "tags": [
+      "grammar",
+      "parallel-structure"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.parallel_structure",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Create parallel structure: \"He enjoys reading, to cook, and painting.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "He enjoys reading, cooking, and painting."
+      },
+      {
+        "label": "B",
+        "text": "He enjoys reading, to cook, and painting."
+      },
+      {
+        "label": "C",
+        "text": " and painting., to cook,He enjoys reading"
+      },
+      {
+        "label": "D",
+        "text": "He enjoys reading, cooking, and also painting."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Items in a series must use matching grammatical forms.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still not parallel"
+      },
+      {
+        "label": "C",
+        "explanation": "Reversed order doesn't fix parallelism"
+      }
+    ],
+    "skills": [
+      "parallel-structure"
+    ],
+    "tags": [
+      "grammar",
+      "parallel-structure"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.verb_tense",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Correct the verb: \"Yesterday she walk to school.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yesterday she walked to school."
+      },
+      {
+        "label": "B",
+        "text": "Yesterday she walk to school."
+      },
+      {
+        "label": "C",
+        "text": "Yesterday she walk to school soon."
+      },
+      {
+        "label": "D",
+        "text": "Yesterday she walk to school. always"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Verb form must match tense and context.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Original error unchanged"
+      },
+      {
+        "label": "C",
+        "explanation": "Adding words doesn't fix the verb"
+      }
+    ],
+    "skills": [
+      "verb-tense"
+    ],
+    "tags": [
+      "grammar",
+      "verb-tense"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.verb_tense",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Correct the verb: \"He has went already.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "He has gone already."
+      },
+      {
+        "label": "B",
+        "text": "He has went already."
+      },
+      {
+        "label": "C",
+        "text": "He has went already soon."
+      },
+      {
+        "label": "D",
+        "text": "He has went already. always"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Verb form must match tense and context.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Original error unchanged"
+      },
+      {
+        "label": "C",
+        "explanation": "Adding words doesn't fix the verb"
+      }
+    ],
+    "skills": [
+      "verb-tense"
+    ],
+    "tags": [
+      "grammar",
+      "verb-tense"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.verb_tense",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Correct the verb: \"She is study right now.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "She is studying right now."
+      },
+      {
+        "label": "B",
+        "text": "She is study right now."
+      },
+      {
+        "label": "C",
+        "text": "She is study right now soon."
+      },
+      {
+        "label": "D",
+        "text": "She is study right now. always"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Verb form must match tense and context.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Original error unchanged"
+      },
+      {
+        "label": "C",
+        "explanation": "Adding words doesn't fix the verb"
+      }
+    ],
+    "skills": [
+      "verb-tense"
+    ],
+    "tags": [
+      "grammar",
+      "verb-tense"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.verb_tense",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Correct the verb: \"They was playing.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "They were playing."
+      },
+      {
+        "label": "B",
+        "text": "They was playing."
+      },
+      {
+        "label": "C",
+        "text": "They was playing soon."
+      },
+      {
+        "label": "D",
+        "text": "They was playing. always"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Verb form must match tense and context.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Original error unchanged"
+      },
+      {
+        "label": "C",
+        "explanation": "Adding words doesn't fix the verb"
+      }
+    ],
+    "skills": [
+      "verb-tense"
+    ],
+    "tags": [
+      "grammar",
+      "verb-tense"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.verb_tense",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Correct the verb: \"If I was you, I'd study.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "If I were you, I'd study."
+      },
+      {
+        "label": "B",
+        "text": "If I was you, I'd study."
+      },
+      {
+        "label": "C",
+        "text": "If I was you, I'd study soon."
+      },
+      {
+        "label": "D",
+        "text": "If I was you, I'd study. always"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Verb form must match tense and context.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Original error unchanged"
+      },
+      {
+        "label": "C",
+        "explanation": "Adding words doesn't fix the verb"
+      }
+    ],
+    "skills": [
+      "verb-tense"
+    ],
+    "tags": [
+      "grammar",
+      "verb-tense"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.verb_tense",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Correct the verb: \"She drunk all the water.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "She drank all the water."
+      },
+      {
+        "label": "B",
+        "text": "She drunk all the water."
+      },
+      {
+        "label": "C",
+        "text": "She drunk all the water soon."
+      },
+      {
+        "label": "D",
+        "text": "She drunk all the water. always"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Verb form must match tense and context.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Original error unchanged"
+      },
+      {
+        "label": "C",
+        "explanation": "Adding words doesn't fix the verb"
+      }
+    ],
+    "skills": [
+      "verb-tense"
+    ],
+    "tags": [
+      "grammar",
+      "verb-tense"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.pronoun_antecedent",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Fix pronoun agreement: \"Each student must bring their lunch.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Each student must bring his or her lunch."
+      },
+      {
+        "label": "B",
+        "text": "Each student must bring their lunch."
+      },
+      {
+        "label": "C",
+        "text": "Each student must bring our lunch."
+      },
+      {
+        "label": "D",
+        "text": "Each student must bring them lunch."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Pronouns must agree in number with their antecedents.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Original error"
+      },
+      {
+        "label": "C",
+        "explanation": "Wrong pronoun choice"
+      }
+    ],
+    "skills": [
+      "pronoun-antecedent"
+    ],
+    "tags": [
+      "grammar",
+      "pronoun"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.pronoun_antecedent",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Fix pronoun agreement: \"The dog wagged their tail.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The dog wagged its tail."
+      },
+      {
+        "label": "B",
+        "text": "The dog wagged their tail."
+      },
+      {
+        "label": "C",
+        "text": "The dog wagged his tail."
+      },
+      {
+        "label": "D",
+        "text": "The dog wagged them tail."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Pronouns must agree in number with their antecedents.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Original error"
+      },
+      {
+        "label": "C",
+        "explanation": "Wrong pronoun choice"
+      }
+    ],
+    "skills": [
+      "pronoun-antecedent"
+    ],
+    "tags": [
+      "grammar",
+      "pronoun"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.pronoun_antecedent",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Fix pronoun agreement: \"Neither boy brought their book.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Neither boy brought his book."
+      },
+      {
+        "label": "B",
+        "text": "Neither boy brought their book."
+      },
+      {
+        "label": "C",
+        "text": "Neither boy brought our book."
+      },
+      {
+        "label": "D",
+        "text": "Neither boy brought them book."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Pronouns must agree in number with their antecedents.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Original error"
+      },
+      {
+        "label": "C",
+        "explanation": "Wrong pronoun choice"
+      }
+    ],
+    "skills": [
+      "pronoun-antecedent"
+    ],
+    "tags": [
+      "grammar",
+      "pronoun"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.pronoun_antecedent",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Fix pronoun agreement: \"Someone left their phone.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Someone left his or her phone."
+      },
+      {
+        "label": "B",
+        "text": "Someone left their phone."
+      },
+      {
+        "label": "C",
+        "text": "Someone left our phone."
+      },
+      {
+        "label": "D",
+        "text": "Someone left them phone."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Pronouns must agree in number with their antecedents.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Original error"
+      },
+      {
+        "label": "C",
+        "explanation": "Wrong pronoun choice"
+      }
+    ],
+    "skills": [
+      "pronoun-antecedent"
+    ],
+    "tags": [
+      "grammar",
+      "pronoun"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.pronoun_antecedent",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Fix pronoun agreement: \"The committee gave their report.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The committee gave its report."
+      },
+      {
+        "label": "B",
+        "text": "The committee gave their report."
+      },
+      {
+        "label": "C",
+        "text": "The committee gave his report."
+      },
+      {
+        "label": "D",
+        "text": "The committee gave them report."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Pronouns must agree in number with their antecedents.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Original error"
+      },
+      {
+        "label": "C",
+        "explanation": "Wrong pronoun choice"
+      }
+    ],
+    "skills": [
+      "pronoun-antecedent"
+    ],
+    "tags": [
+      "grammar",
+      "pronoun"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.pronoun_antecedent",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Fix pronoun agreement: \"Everyone did their best.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Everyone did his or her best."
+      },
+      {
+        "label": "B",
+        "text": "Everyone did their best."
+      },
+      {
+        "label": "C",
+        "text": "Everyone did its best."
+      },
+      {
+        "label": "D",
+        "text": "Everyone did them best."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Pronouns must agree in number with their antecedents.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Original error"
+      },
+      {
+        "label": "C",
+        "explanation": "Wrong pronoun choice"
+      }
+    ],
+    "skills": [
+      "pronoun-antecedent"
+    ],
+    "tags": [
+      "grammar",
+      "pronoun"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.subject_verb",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Choose correct verb: \"The scissors ___ sharp.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "are"
+      },
+      {
+        "label": "B",
+        "text": "is"
+      },
+      {
+        "label": "C",
+        "text": "were"
+      },
+      {
+        "label": "D",
+        "text": "be"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Subject-verb agreement depends on the true subject number.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong number"
+      },
+      {
+        "label": "C",
+        "explanation": "Wrong tense entirely"
+      }
+    ],
+    "skills": [
+      "subject-verb-agreement"
+    ],
+    "tags": [
+      "grammar",
+      "subject-verb"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.subject_verb",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Choose correct verb: \"Fifty dollars ___ a lot.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "is"
+      },
+      {
+        "label": "B",
+        "text": "are"
+      },
+      {
+        "label": "C",
+        "text": "were"
+      },
+      {
+        "label": "D",
+        "text": "be"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Subject-verb agreement depends on the true subject number.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong number"
+      },
+      {
+        "label": "C",
+        "explanation": "Wrong tense entirely"
+      }
+    ],
+    "skills": [
+      "subject-verb-agreement"
+    ],
+    "tags": [
+      "grammar",
+      "subject-verb"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.subject_verb",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Choose correct verb: \"The committee ___ its decision.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "has made"
+      },
+      {
+        "label": "B",
+        "text": "have made"
+      },
+      {
+        "label": "C",
+        "text": "were"
+      },
+      {
+        "label": "D",
+        "text": "be"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Subject-verb agreement depends on the true subject number.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong number"
+      },
+      {
+        "label": "C",
+        "explanation": "Wrong tense entirely"
+      }
+    ],
+    "skills": [
+      "subject-verb-agreement"
+    ],
+    "tags": [
+      "grammar",
+      "subject-verb"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.subject_verb",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Choose correct verb: \"Three miles ___ a long walk.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "is"
+      },
+      {
+        "label": "B",
+        "text": "are"
+      },
+      {
+        "label": "C",
+        "text": "were"
+      },
+      {
+        "label": "D",
+        "text": "be"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Subject-verb agreement depends on the true subject number.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong number"
+      },
+      {
+        "label": "C",
+        "explanation": "Wrong tense entirely"
+      }
+    ],
+    "skills": [
+      "subject-verb-agreement"
+    ],
+    "tags": [
+      "grammar",
+      "subject-verb"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.subject_verb",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Choose correct verb: \"The data ___ clear.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "are"
+      },
+      {
+        "label": "B",
+        "text": "is"
+      },
+      {
+        "label": "C",
+        "text": "were"
+      },
+      {
+        "label": "D",
+        "text": "be"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Subject-verb agreement depends on the true subject number.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong number"
+      },
+      {
+        "label": "C",
+        "explanation": "Wrong tense entirely"
+      }
+    ],
+    "skills": [
+      "subject-verb-agreement"
+    ],
+    "tags": [
+      "grammar",
+      "subject-verb"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.subject_verb",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Choose correct verb: \"Politics ___ complicated.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "is"
+      },
+      {
+        "label": "B",
+        "text": "are"
+      },
+      {
+        "label": "C",
+        "text": "were"
+      },
+      {
+        "label": "D",
+        "text": "be"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Subject-verb agreement depends on the true subject number.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong number"
+      },
+      {
+        "label": "C",
+        "explanation": "Wrong tense entirely"
+      }
+    ],
+    "skills": [
+      "subject-verb-agreement"
+    ],
+    "tags": [
+      "grammar",
+      "subject-verb"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.subject_verb",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Choose correct verb: \"The pair of shoes ___ expensive.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "is"
+      },
+      {
+        "label": "B",
+        "text": "are"
+      },
+      {
+        "label": "C",
+        "text": "were"
+      },
+      {
+        "label": "D",
+        "text": "be"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Subject-verb agreement depends on the true subject number.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong number"
+      },
+      {
+        "label": "C",
+        "explanation": "Wrong tense entirely"
+      }
+    ],
+    "skills": [
+      "subject-verb-agreement"
+    ],
+    "tags": [
+      "grammar",
+      "subject-verb"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.subject_verb",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Choose correct verb: \"Neither he nor they ___ coming.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "are"
+      },
+      {
+        "label": "B",
+        "text": "is"
+      },
+      {
+        "label": "C",
+        "text": "were"
+      },
+      {
+        "label": "D",
+        "text": "be"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Subject-verb agreement depends on the true subject number.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong number"
+      },
+      {
+        "label": "C",
+        "explanation": "Wrong tense entirely"
+      }
+    ],
+    "skills": [
+      "subject-verb-agreement"
+    ],
+    "tags": [
+      "grammar",
+      "subject-verb"
+    ]
+  }
+]

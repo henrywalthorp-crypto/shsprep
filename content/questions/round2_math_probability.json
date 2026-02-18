@@ -1,0 +1,2184 @@
+[
+  {
+    "section": "math",
+    "category": "math.probability.basic",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Bag has 15 items, 9 are red marbles. P(picking one)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "3/5"
+      },
+      {
+        "label": "B",
+        "text": "9/6"
+      },
+      {
+        "label": "C",
+        "text": "6/15"
+      },
+      {
+        "label": "D",
+        "text": "1/15"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "P = 9/15 = 3/5",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong denominator"
+      },
+      {
+        "label": "C",
+        "explanation": "Found complement"
+      }
+    ],
+    "skills": [
+      "basic-probability"
+    ],
+    "tags": [
+      "probability"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.basic",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Bag has 21 items, 15 are blue cards. P(picking one)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "5/7"
+      },
+      {
+        "label": "B",
+        "text": "15/6"
+      },
+      {
+        "label": "C",
+        "text": "6/21"
+      },
+      {
+        "label": "D",
+        "text": "1/21"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "P = 15/21 = 5/7",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong denominator"
+      },
+      {
+        "label": "C",
+        "explanation": "Found complement"
+      }
+    ],
+    "skills": [
+      "basic-probability"
+    ],
+    "tags": [
+      "probability"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.basic",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Bag has 23 items, 20 are green balls. P(picking one)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "20/23"
+      },
+      {
+        "label": "B",
+        "text": "20/3"
+      },
+      {
+        "label": "C",
+        "text": "3/23"
+      },
+      {
+        "label": "D",
+        "text": "1/23"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "P = 20/23 = 20/23",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong denominator"
+      },
+      {
+        "label": "C",
+        "explanation": "Found complement"
+      }
+    ],
+    "skills": [
+      "basic-probability"
+    ],
+    "tags": [
+      "probability"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.basic",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Bag has 27 items, 13 are yellow tokens. P(picking one)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "13/27"
+      },
+      {
+        "label": "B",
+        "text": "13/14"
+      },
+      {
+        "label": "C",
+        "text": "14/27"
+      },
+      {
+        "label": "D",
+        "text": "1/27"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "P = 13/27 = 13/27",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong denominator"
+      },
+      {
+        "label": "C",
+        "explanation": "Found complement"
+      }
+    ],
+    "skills": [
+      "basic-probability"
+    ],
+    "tags": [
+      "probability"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.basic",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Bag has 14 items, 8 are striped socks. P(picking one)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "4/7"
+      },
+      {
+        "label": "B",
+        "text": "8/6"
+      },
+      {
+        "label": "C",
+        "text": "6/14"
+      },
+      {
+        "label": "D",
+        "text": "1/14"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "P = 8/14 = 4/7",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong denominator"
+      },
+      {
+        "label": "C",
+        "explanation": "Found complement"
+      }
+    ],
+    "skills": [
+      "basic-probability"
+    ],
+    "tags": [
+      "probability"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.basic",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Bag has 14 items, 3 are spotted dice. P(picking one)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "3/14"
+      },
+      {
+        "label": "B",
+        "text": "3/11"
+      },
+      {
+        "label": "C",
+        "text": "11/14"
+      },
+      {
+        "label": "D",
+        "text": "1/14"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "P = 3/14 = 3/14",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong denominator"
+      },
+      {
+        "label": "C",
+        "explanation": "Found complement"
+      }
+    ],
+    "skills": [
+      "basic-probability"
+    ],
+    "tags": [
+      "probability"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.basic",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Bag has 16 items, 2 are round beads. P(picking one)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1/8"
+      },
+      {
+        "label": "B",
+        "text": "2/14"
+      },
+      {
+        "label": "C",
+        "text": "14/16"
+      },
+      {
+        "label": "D",
+        "text": "1/16"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "P = 2/16 = 1/8",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong denominator"
+      },
+      {
+        "label": "C",
+        "explanation": "Found complement"
+      }
+    ],
+    "skills": [
+      "basic-probability"
+    ],
+    "tags": [
+      "probability"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.basic",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Bag has 21 items, 11 are square tiles. P(picking one)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "11/21"
+      },
+      {
+        "label": "B",
+        "text": "11/10"
+      },
+      {
+        "label": "C",
+        "text": "10/21"
+      },
+      {
+        "label": "D",
+        "text": "1/21"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "P = 11/21 = 11/21",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong denominator"
+      },
+      {
+        "label": "C",
+        "explanation": "Found complement"
+      }
+    ],
+    "skills": [
+      "basic-probability"
+    ],
+    "tags": [
+      "probability"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.basic",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Bag has 26 items, 13 are white buttons. P(picking one)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1/2"
+      },
+      {
+        "label": "B",
+        "text": "13/13"
+      },
+      {
+        "label": "C",
+        "text": "13/26"
+      },
+      {
+        "label": "D",
+        "text": "1/26"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "P = 13/26 = 1/2",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong denominator"
+      },
+      {
+        "label": "C",
+        "explanation": "Found complement"
+      }
+    ],
+    "skills": [
+      "basic-probability"
+    ],
+    "tags": [
+      "probability"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.basic",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Bag has 19 items, 12 are black chips. P(picking one)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "12/19"
+      },
+      {
+        "label": "B",
+        "text": "12/7"
+      },
+      {
+        "label": "C",
+        "text": "7/19"
+      },
+      {
+        "label": "D",
+        "text": "1/19"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "P = 12/19 = 12/19",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong denominator"
+      },
+      {
+        "label": "C",
+        "explanation": "Found complement"
+      }
+    ],
+    "skills": [
+      "basic-probability"
+    ],
+    "tags": [
+      "probability"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.basic",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Bag has 20 items, 14 are silver coins. P(picking one)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "7/10"
+      },
+      {
+        "label": "B",
+        "text": "14/6"
+      },
+      {
+        "label": "C",
+        "text": "6/20"
+      },
+      {
+        "label": "D",
+        "text": "1/20"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "P = 14/20 = 7/10",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong denominator"
+      },
+      {
+        "label": "C",
+        "explanation": "Found complement"
+      }
+    ],
+    "skills": [
+      "basic-probability"
+    ],
+    "tags": [
+      "probability"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.basic",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Bag has 11 items, 4 are gold stars. P(picking one)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "4/11"
+      },
+      {
+        "label": "B",
+        "text": "4/7"
+      },
+      {
+        "label": "C",
+        "text": "7/11"
+      },
+      {
+        "label": "D",
+        "text": "1/11"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "P = 4/11 = 4/11",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong denominator"
+      },
+      {
+        "label": "C",
+        "explanation": "Found complement"
+      }
+    ],
+    "skills": [
+      "basic-probability"
+    ],
+    "tags": [
+      "probability"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.basic",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Bag has 24 items, 2 are purple gems. P(picking one)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1/12"
+      },
+      {
+        "label": "B",
+        "text": "2/22"
+      },
+      {
+        "label": "C",
+        "text": "22/24"
+      },
+      {
+        "label": "D",
+        "text": "1/24"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "P = 2/24 = 1/12",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong denominator"
+      },
+      {
+        "label": "C",
+        "explanation": "Found complement"
+      }
+    ],
+    "skills": [
+      "basic-probability"
+    ],
+    "tags": [
+      "probability"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.basic",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Bag has 10 items, 4 are pink erasers. P(picking one)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "2/5"
+      },
+      {
+        "label": "B",
+        "text": "4/6"
+      },
+      {
+        "label": "C",
+        "text": "6/10"
+      },
+      {
+        "label": "D",
+        "text": "1/10"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "P = 4/10 = 2/5",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong denominator"
+      },
+      {
+        "label": "C",
+        "explanation": "Found complement"
+      }
+    ],
+    "skills": [
+      "basic-probability"
+    ],
+    "tags": [
+      "probability"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.basic",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Bag has 20 items, 10 are orange cones. P(picking one)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1/2"
+      },
+      {
+        "label": "B",
+        "text": "10/10"
+      },
+      {
+        "label": "C",
+        "text": "10/20"
+      },
+      {
+        "label": "D",
+        "text": "1/20"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "P = 10/20 = 1/2",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong denominator"
+      },
+      {
+        "label": "C",
+        "explanation": "Found complement"
+      }
+    ],
+    "skills": [
+      "basic-probability"
+    ],
+    "tags": [
+      "probability"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.basic",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Bag has 22 items, 16 are brown acorns. P(picking one)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "8/11"
+      },
+      {
+        "label": "B",
+        "text": "16/6"
+      },
+      {
+        "label": "C",
+        "text": "6/22"
+      },
+      {
+        "label": "D",
+        "text": "1/22"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "P = 16/22 = 8/11",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong denominator"
+      },
+      {
+        "label": "C",
+        "explanation": "Found complement"
+      }
+    ],
+    "skills": [
+      "basic-probability"
+    ],
+    "tags": [
+      "probability"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.basic",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Bag has 15 items, 7 are gray stones. P(picking one)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "7/15"
+      },
+      {
+        "label": "B",
+        "text": "7/8"
+      },
+      {
+        "label": "C",
+        "text": "8/15"
+      },
+      {
+        "label": "D",
+        "text": "1/15"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "P = 7/15 = 7/15",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong denominator"
+      },
+      {
+        "label": "C",
+        "explanation": "Found complement"
+      }
+    ],
+    "skills": [
+      "basic-probability"
+    ],
+    "tags": [
+      "probability"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.basic",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Bag has 30 items, 28 are tan shells. P(picking one)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "14/15"
+      },
+      {
+        "label": "B",
+        "text": "28/2"
+      },
+      {
+        "label": "C",
+        "text": "2/30"
+      },
+      {
+        "label": "D",
+        "text": "1/30"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "P = 28/30 = 14/15",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong denominator"
+      },
+      {
+        "label": "C",
+        "explanation": "Found complement"
+      }
+    ],
+    "skills": [
+      "basic-probability"
+    ],
+    "tags": [
+      "probability"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.compound",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "P(rolling 5 on die AND rolling 6 on another die)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1/36"
+      },
+      {
+        "label": "B",
+        "text": "1/6"
+      },
+      {
+        "label": "C",
+        "text": "2/36"
+      },
+      {
+        "label": "D",
+        "text": "1/12"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Independent: multiply. 1/6 × 1/6 = 1/36",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Only one event"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "compound-probability"
+    ],
+    "tags": [
+      "probability",
+      "compound"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.compound",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "P(rolling 6 on die AND heads on coin)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1/12"
+      },
+      {
+        "label": "B",
+        "text": "1/6"
+      },
+      {
+        "label": "C",
+        "text": "2/12"
+      },
+      {
+        "label": "D",
+        "text": "1/8"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Independent: multiply. 1/6 × 1/2 = 1/12",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Only one event"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "compound-probability"
+    ],
+    "tags": [
+      "probability",
+      "compound"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.compound",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "P(rolling 2 on die AND rolling 4 on another die)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1/36"
+      },
+      {
+        "label": "B",
+        "text": "1/6"
+      },
+      {
+        "label": "C",
+        "text": "2/36"
+      },
+      {
+        "label": "D",
+        "text": "1/12"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Independent: multiply. 1/6 × 1/6 = 1/36",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Only one event"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "compound-probability"
+    ],
+    "tags": [
+      "probability",
+      "compound"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.compound",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "P(rolling 6 on die AND heads on coin)? (variant 1)",
+    "options": [
+      {
+        "label": "A",
+        "text": "1/12"
+      },
+      {
+        "label": "B",
+        "text": "1/6"
+      },
+      {
+        "label": "C",
+        "text": "2/12"
+      },
+      {
+        "label": "D",
+        "text": "1/8"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Independent: multiply. 1/6 × 1/2 = 1/12",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Only one event"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "compound-probability"
+    ],
+    "tags": [
+      "probability",
+      "compound"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.compound",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "P(rolling 5 on die AND rolling 6 on another die)? (variant 1)",
+    "options": [
+      {
+        "label": "A",
+        "text": "1/36"
+      },
+      {
+        "label": "B",
+        "text": "1/6"
+      },
+      {
+        "label": "C",
+        "text": "2/36"
+      },
+      {
+        "label": "D",
+        "text": "1/12"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Independent: multiply. 1/6 × 1/6 = 1/36",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Only one event"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "compound-probability"
+    ],
+    "tags": [
+      "probability",
+      "compound"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.compound",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "P(rolling 2 on die AND heads on coin)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1/12"
+      },
+      {
+        "label": "B",
+        "text": "1/6"
+      },
+      {
+        "label": "C",
+        "text": "2/12"
+      },
+      {
+        "label": "D",
+        "text": "1/8"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Independent: multiply. 1/6 × 1/2 = 1/12",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Only one event"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "compound-probability"
+    ],
+    "tags": [
+      "probability",
+      "compound"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.compound",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "P(rolling 2 on die AND rolling 4 on another die)? (variant 1)",
+    "options": [
+      {
+        "label": "A",
+        "text": "1/36"
+      },
+      {
+        "label": "B",
+        "text": "1/6"
+      },
+      {
+        "label": "C",
+        "text": "2/36"
+      },
+      {
+        "label": "D",
+        "text": "1/12"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Independent: multiply. 1/6 × 1/6 = 1/36",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Only one event"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "compound-probability"
+    ],
+    "tags": [
+      "probability",
+      "compound"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.compound",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "P(rolling 5 on die AND heads on coin)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1/12"
+      },
+      {
+        "label": "B",
+        "text": "1/6"
+      },
+      {
+        "label": "C",
+        "text": "2/12"
+      },
+      {
+        "label": "D",
+        "text": "1/8"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Independent: multiply. 1/6 × 1/2 = 1/12",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Only one event"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "compound-probability"
+    ],
+    "tags": [
+      "probability",
+      "compound"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.compound",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "P(rolling 2 on die AND rolling 2 on another die)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1/36"
+      },
+      {
+        "label": "B",
+        "text": "1/6"
+      },
+      {
+        "label": "C",
+        "text": "2/36"
+      },
+      {
+        "label": "D",
+        "text": "1/12"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Independent: multiply. 1/6 × 1/6 = 1/36",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Only one event"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "compound-probability"
+    ],
+    "tags": [
+      "probability",
+      "compound"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.compound",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "P(rolling 4 on die AND heads on coin)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1/12"
+      },
+      {
+        "label": "B",
+        "text": "1/6"
+      },
+      {
+        "label": "C",
+        "text": "2/12"
+      },
+      {
+        "label": "D",
+        "text": "1/8"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Independent: multiply. 1/6 × 1/2 = 1/12",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Only one event"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "compound-probability"
+    ],
+    "tags": [
+      "probability",
+      "compound"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.compound",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "P(rolling 1 on die AND rolling 3 on another die)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1/36"
+      },
+      {
+        "label": "B",
+        "text": "1/6"
+      },
+      {
+        "label": "C",
+        "text": "2/36"
+      },
+      {
+        "label": "D",
+        "text": "1/12"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Independent: multiply. 1/6 × 1/6 = 1/36",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Only one event"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "compound-probability"
+    ],
+    "tags": [
+      "probability",
+      "compound"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.compound",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "P(rolling 3 on die AND heads on coin)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1/12"
+      },
+      {
+        "label": "B",
+        "text": "1/6"
+      },
+      {
+        "label": "C",
+        "text": "2/12"
+      },
+      {
+        "label": "D",
+        "text": "1/8"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Independent: multiply. 1/6 × 1/2 = 1/12",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Only one event"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "compound-probability"
+    ],
+    "tags": [
+      "probability",
+      "compound"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.compound",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "P(rolling 3 on die AND rolling 6 on another die)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1/36"
+      },
+      {
+        "label": "B",
+        "text": "1/6"
+      },
+      {
+        "label": "C",
+        "text": "2/36"
+      },
+      {
+        "label": "D",
+        "text": "1/12"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Independent: multiply. 1/6 × 1/6 = 1/36",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Only one event"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "compound-probability"
+    ],
+    "tags": [
+      "probability",
+      "compound"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.compound",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "P(rolling 1 on die AND heads on coin)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1/12"
+      },
+      {
+        "label": "B",
+        "text": "1/6"
+      },
+      {
+        "label": "C",
+        "text": "2/12"
+      },
+      {
+        "label": "D",
+        "text": "1/8"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Independent: multiply. 1/6 × 1/2 = 1/12",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Only one event"
+      },
+      {
+        "label": "C",
+        "explanation": "Added instead of multiplying"
+      }
+    ],
+    "skills": [
+      "compound-probability"
+    ],
+    "tags": [
+      "probability",
+      "compound"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.sets.venn_diagrams",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Of 52 students: 11 do soccer, 16 do basketball, 7 do both. How many do only soccer?",
+    "options": [
+      {
+        "label": "A",
+        "text": "4"
+      },
+      {
+        "label": "B",
+        "text": "11"
+      },
+      {
+        "label": "C",
+        "text": "27"
+      },
+      {
+        "label": "D",
+        "text": "48"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "11-7=4",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot overlap"
+      },
+      {
+        "label": "C",
+        "explanation": "Added without accounting for overlap"
+      }
+    ],
+    "skills": [
+      "venn-diagrams"
+    ],
+    "tags": [
+      "probability",
+      "venn-diagrams"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.sets.venn_diagrams",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Of 50 students: 17 do piano, 24 do guitar, 13 do both. How many do only guitar?",
+    "options": [
+      {
+        "label": "A",
+        "text": "11"
+      },
+      {
+        "label": "B",
+        "text": "24"
+      },
+      {
+        "label": "C",
+        "text": "41"
+      },
+      {
+        "label": "D",
+        "text": "39"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "24-13=11",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot overlap"
+      },
+      {
+        "label": "C",
+        "explanation": "Added without accounting for overlap"
+      }
+    ],
+    "skills": [
+      "venn-diagrams"
+    ],
+    "tags": [
+      "probability",
+      "venn-diagrams"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.sets.venn_diagrams",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Of 45 students: 25 do math club, 11 do science club, 8 do both. How many do neither?",
+    "options": [
+      {
+        "label": "A",
+        "text": "17"
+      },
+      {
+        "label": "B",
+        "text": "25"
+      },
+      {
+        "label": "C",
+        "text": "36"
+      },
+      {
+        "label": "D",
+        "text": "28"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "45-(25+11-8)=17",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot overlap"
+      },
+      {
+        "label": "C",
+        "explanation": "Added without accounting for overlap"
+      }
+    ],
+    "skills": [
+      "venn-diagrams"
+    ],
+    "tags": [
+      "probability",
+      "venn-diagrams"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.sets.venn_diagrams",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Of 42 students: 11 do reading, 17 do writing, 6 do both. How many do at least one?",
+    "options": [
+      {
+        "label": "A",
+        "text": "22"
+      },
+      {
+        "label": "B",
+        "text": "28"
+      },
+      {
+        "label": "C",
+        "text": "28"
+      },
+      {
+        "label": "D",
+        "text": "20"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "11+17-6=22",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot overlap"
+      },
+      {
+        "label": "C",
+        "explanation": "Added without accounting for overlap"
+      }
+    ],
+    "skills": [
+      "venn-diagrams"
+    ],
+    "tags": [
+      "probability",
+      "venn-diagrams"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.sets.venn_diagrams",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Of 37 students: 12 do swim, 17 do run, 11 do both. How many do both?",
+    "options": [
+      {
+        "label": "A",
+        "text": "11"
+      },
+      {
+        "label": "B",
+        "text": "22"
+      },
+      {
+        "label": "C",
+        "text": "29"
+      },
+      {
+        "label": "D",
+        "text": "26"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Both=11",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot overlap"
+      },
+      {
+        "label": "C",
+        "explanation": "Added without accounting for overlap"
+      }
+    ],
+    "skills": [
+      "venn-diagrams"
+    ],
+    "tags": [
+      "probability",
+      "venn-diagrams"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.sets.venn_diagrams",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Of 34 students: 13 do chess, 17 do debate, 12 do both. How many do only chess?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1"
+      },
+      {
+        "label": "B",
+        "text": "13"
+      },
+      {
+        "label": "C",
+        "text": "30"
+      },
+      {
+        "label": "D",
+        "text": "33"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "13-12=1",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot overlap"
+      },
+      {
+        "label": "C",
+        "explanation": "Added without accounting for overlap"
+      }
+    ],
+    "skills": [
+      "venn-diagrams"
+    ],
+    "tags": [
+      "probability",
+      "venn-diagrams"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.sets.venn_diagrams",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Of 30 students: 14 do art, 17 do music, 4 do both. How many do only music?",
+    "options": [
+      {
+        "label": "A",
+        "text": "13"
+      },
+      {
+        "label": "B",
+        "text": "17"
+      },
+      {
+        "label": "C",
+        "text": "31"
+      },
+      {
+        "label": "D",
+        "text": "17"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "17-4=13",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot overlap"
+      },
+      {
+        "label": "C",
+        "explanation": "Added without accounting for overlap"
+      }
+    ],
+    "skills": [
+      "venn-diagrams"
+    ],
+    "tags": [
+      "probability",
+      "venn-diagrams"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.sets.venn_diagrams",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Of 45 students: 15 do coding, 20 do robotics, 12 do both. How many do neither?",
+    "options": [
+      {
+        "label": "A",
+        "text": "22"
+      },
+      {
+        "label": "B",
+        "text": "34"
+      },
+      {
+        "label": "C",
+        "text": "35"
+      },
+      {
+        "label": "D",
+        "text": "23"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "45-(15+20-12)=22",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot overlap"
+      },
+      {
+        "label": "C",
+        "explanation": "Added without accounting for overlap"
+      }
+    ],
+    "skills": [
+      "venn-diagrams"
+    ],
+    "tags": [
+      "probability",
+      "venn-diagrams"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.sets.venn_diagrams",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Of 54 students: 24 do dance, 18 do drama, 13 do both. How many do at least one?",
+    "options": [
+      {
+        "label": "A",
+        "text": "29"
+      },
+      {
+        "label": "B",
+        "text": "42"
+      },
+      {
+        "label": "C",
+        "text": "42"
+      },
+      {
+        "label": "D",
+        "text": "25"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "24+18-13=29",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot overlap"
+      },
+      {
+        "label": "C",
+        "explanation": "Added without accounting for overlap"
+      }
+    ],
+    "skills": [
+      "venn-diagrams"
+    ],
+    "tags": [
+      "probability",
+      "venn-diagrams"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.sets.venn_diagrams",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Of 42 students: 12 do soccer, 11 do basketball, 8 do both. How many do both?",
+    "options": [
+      {
+        "label": "A",
+        "text": "8"
+      },
+      {
+        "label": "B",
+        "text": "16"
+      },
+      {
+        "label": "C",
+        "text": "23"
+      },
+      {
+        "label": "D",
+        "text": "34"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Both=8",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot overlap"
+      },
+      {
+        "label": "C",
+        "explanation": "Added without accounting for overlap"
+      }
+    ],
+    "skills": [
+      "venn-diagrams"
+    ],
+    "tags": [
+      "probability",
+      "venn-diagrams"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.sets.venn_diagrams",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Of 60 students: 15 do piano, 24 do guitar, 6 do both. How many do only piano?",
+    "options": [
+      {
+        "label": "A",
+        "text": "9"
+      },
+      {
+        "label": "B",
+        "text": "15"
+      },
+      {
+        "label": "C",
+        "text": "39"
+      },
+      {
+        "label": "D",
+        "text": "51"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "15-6=9",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot overlap"
+      },
+      {
+        "label": "C",
+        "explanation": "Added without accounting for overlap"
+      }
+    ],
+    "skills": [
+      "venn-diagrams"
+    ],
+    "tags": [
+      "probability",
+      "venn-diagrams"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.sets.venn_diagrams",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Of 53 students: 24 do math club, 25 do science club, 12 do both. How many do only science club?",
+    "options": [
+      {
+        "label": "A",
+        "text": "13"
+      },
+      {
+        "label": "B",
+        "text": "25"
+      },
+      {
+        "label": "C",
+        "text": "49"
+      },
+      {
+        "label": "D",
+        "text": "40"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "25-12=13",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot overlap"
+      },
+      {
+        "label": "C",
+        "explanation": "Added without accounting for overlap"
+      }
+    ],
+    "skills": [
+      "venn-diagrams"
+    ],
+    "tags": [
+      "probability",
+      "venn-diagrams"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.sets.venn_diagrams",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Of 58 students: 11 do reading, 15 do writing, 4 do both. How many do neither?",
+    "options": [
+      {
+        "label": "A",
+        "text": "36"
+      },
+      {
+        "label": "B",
+        "text": "40"
+      },
+      {
+        "label": "C",
+        "text": "26"
+      },
+      {
+        "label": "D",
+        "text": "22"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "58-(11+15-4)=36",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot overlap"
+      },
+      {
+        "label": "C",
+        "explanation": "Added without accounting for overlap"
+      }
+    ],
+    "skills": [
+      "venn-diagrams"
+    ],
+    "tags": [
+      "probability",
+      "venn-diagrams"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.sets.venn_diagrams",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Of 35 students: 23 do swim, 21 do run, 8 do both. How many do at least one?",
+    "options": [
+      {
+        "label": "A",
+        "text": "36"
+      },
+      {
+        "label": "B",
+        "text": "44"
+      },
+      {
+        "label": "C",
+        "text": "44"
+      },
+      {
+        "label": "D",
+        "text": "-1"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "23+21-8=36",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot overlap"
+      },
+      {
+        "label": "C",
+        "explanation": "Added without accounting for overlap"
+      }
+    ],
+    "skills": [
+      "venn-diagrams"
+    ],
+    "tags": [
+      "probability",
+      "venn-diagrams"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.sets.venn_diagrams",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Of 30 students: 23 do chess, 14 do debate, 9 do both. How many do both?",
+    "options": [
+      {
+        "label": "A",
+        "text": "9"
+      },
+      {
+        "label": "B",
+        "text": "18"
+      },
+      {
+        "label": "C",
+        "text": "37"
+      },
+      {
+        "label": "D",
+        "text": "21"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Both=9",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot overlap"
+      },
+      {
+        "label": "C",
+        "explanation": "Added without accounting for overlap"
+      }
+    ],
+    "skills": [
+      "venn-diagrams"
+    ],
+    "tags": [
+      "probability",
+      "venn-diagrams"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.sets.venn_diagrams",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Of 34 students: 17 do art, 15 do music, 8 do both. How many do only art?",
+    "options": [
+      {
+        "label": "A",
+        "text": "9"
+      },
+      {
+        "label": "B",
+        "text": "17"
+      },
+      {
+        "label": "C",
+        "text": "32"
+      },
+      {
+        "label": "D",
+        "text": "25"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "17-8=9",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot overlap"
+      },
+      {
+        "label": "C",
+        "explanation": "Added without accounting for overlap"
+      }
+    ],
+    "skills": [
+      "venn-diagrams"
+    ],
+    "tags": [
+      "probability",
+      "venn-diagrams"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.sets.venn_diagrams",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Of 57 students: 20 do coding, 16 do robotics, 12 do both. How many do only robotics?",
+    "options": [
+      {
+        "label": "A",
+        "text": "4"
+      },
+      {
+        "label": "B",
+        "text": "16"
+      },
+      {
+        "label": "C",
+        "text": "36"
+      },
+      {
+        "label": "D",
+        "text": "53"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "16-12=4",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot overlap"
+      },
+      {
+        "label": "C",
+        "explanation": "Added without accounting for overlap"
+      }
+    ],
+    "skills": [
+      "venn-diagrams"
+    ],
+    "tags": [
+      "probability",
+      "venn-diagrams"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.sets.venn_diagrams",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Of 50 students: 25 do dance, 20 do drama, 11 do both. How many do neither?",
+    "options": [
+      {
+        "label": "A",
+        "text": "16"
+      },
+      {
+        "label": "B",
+        "text": "27"
+      },
+      {
+        "label": "C",
+        "text": "45"
+      },
+      {
+        "label": "D",
+        "text": "34"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "50-(25+20-11)=16",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot overlap"
+      },
+      {
+        "label": "C",
+        "explanation": "Added without accounting for overlap"
+      }
+    ],
+    "skills": [
+      "venn-diagrams"
+    ],
+    "tags": [
+      "probability",
+      "venn-diagrams"
+    ]
+  }
+]

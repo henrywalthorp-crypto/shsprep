@@ -1,0 +1,2026 @@
+[
+  {
+    "section": "math",
+    "category": "math.word_problems.rate_distance_time",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "A car goes 66 mph for 4 hours. Distance?",
+    "options": [
+      {
+        "label": "A",
+        "text": "264 mi"
+      },
+      {
+        "label": "B",
+        "text": "70 mi"
+      },
+      {
+        "label": "C",
+        "text": "132 mi"
+      },
+      {
+        "label": "D",
+        "text": "66 mi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "d=rt=66×4=264",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added rate and time"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused rate with distance"
+      }
+    ],
+    "skills": [
+      "rate-distance-time"
+    ],
+    "tags": [
+      "word-problems",
+      "rate-distance-time"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.rate_distance_time",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "A train goes 68 mph for 2 hours. Distance?",
+    "options": [
+      {
+        "label": "A",
+        "text": "136 mi"
+      },
+      {
+        "label": "B",
+        "text": "70 mi"
+      },
+      {
+        "label": "C",
+        "text": "68 mi"
+      },
+      {
+        "label": "D",
+        "text": "68 mi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "d=rt=68×2=136",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added rate and time"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused rate with distance"
+      }
+    ],
+    "skills": [
+      "rate-distance-time"
+    ],
+    "tags": [
+      "word-problems",
+      "rate-distance-time"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.rate_distance_time",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "A cyclist goes 30 mph for 7 hours. Distance?",
+    "options": [
+      {
+        "label": "A",
+        "text": "210 mi"
+      },
+      {
+        "label": "B",
+        "text": "37 mi"
+      },
+      {
+        "label": "C",
+        "text": "105 mi"
+      },
+      {
+        "label": "D",
+        "text": "30 mi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "d=rt=30×7=210",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added rate and time"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused rate with distance"
+      }
+    ],
+    "skills": [
+      "rate-distance-time"
+    ],
+    "tags": [
+      "word-problems",
+      "rate-distance-time"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.rate_distance_time",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "A runner goes 36 mph for 8 hours. Distance?",
+    "options": [
+      {
+        "label": "A",
+        "text": "288 mi"
+      },
+      {
+        "label": "B",
+        "text": "44 mi"
+      },
+      {
+        "label": "C",
+        "text": "144 mi"
+      },
+      {
+        "label": "D",
+        "text": "36 mi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "d=rt=36×8=288",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added rate and time"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused rate with distance"
+      }
+    ],
+    "skills": [
+      "rate-distance-time"
+    ],
+    "tags": [
+      "word-problems",
+      "rate-distance-time"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.rate_distance_time",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "A bus goes 40 mph for 5 hours. Distance?",
+    "options": [
+      {
+        "label": "A",
+        "text": "200 mi"
+      },
+      {
+        "label": "B",
+        "text": "45 mi"
+      },
+      {
+        "label": "C",
+        "text": "100 mi"
+      },
+      {
+        "label": "D",
+        "text": "40 mi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "d=rt=40×5=200",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added rate and time"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused rate with distance"
+      }
+    ],
+    "skills": [
+      "rate-distance-time"
+    ],
+    "tags": [
+      "word-problems",
+      "rate-distance-time"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.rate_distance_time",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "A boat goes 66 mph for 3 hours. Distance?",
+    "options": [
+      {
+        "label": "A",
+        "text": "198 mi"
+      },
+      {
+        "label": "B",
+        "text": "69 mi"
+      },
+      {
+        "label": "C",
+        "text": "99 mi"
+      },
+      {
+        "label": "D",
+        "text": "66 mi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "d=rt=66×3=198",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added rate and time"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused rate with distance"
+      }
+    ],
+    "skills": [
+      "rate-distance-time"
+    ],
+    "tags": [
+      "word-problems",
+      "rate-distance-time"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.rate_distance_time",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "A plane goes 37 mph for 6 hours. Distance?",
+    "options": [
+      {
+        "label": "A",
+        "text": "222 mi"
+      },
+      {
+        "label": "B",
+        "text": "43 mi"
+      },
+      {
+        "label": "C",
+        "text": "111 mi"
+      },
+      {
+        "label": "D",
+        "text": "37 mi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "d=rt=37×6=222",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added rate and time"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused rate with distance"
+      }
+    ],
+    "skills": [
+      "rate-distance-time"
+    ],
+    "tags": [
+      "word-problems",
+      "rate-distance-time"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.rate_distance_time",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "A truck goes 45 mph for 5 hours. Distance?",
+    "options": [
+      {
+        "label": "A",
+        "text": "225 mi"
+      },
+      {
+        "label": "B",
+        "text": "50 mi"
+      },
+      {
+        "label": "C",
+        "text": "113 mi"
+      },
+      {
+        "label": "D",
+        "text": "45 mi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "d=rt=45×5=225",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added rate and time"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused rate with distance"
+      }
+    ],
+    "skills": [
+      "rate-distance-time"
+    ],
+    "tags": [
+      "word-problems",
+      "rate-distance-time"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.rate_distance_time",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "A hiker goes 47 mph for 8 hours. Distance?",
+    "options": [
+      {
+        "label": "A",
+        "text": "376 mi"
+      },
+      {
+        "label": "B",
+        "text": "55 mi"
+      },
+      {
+        "label": "C",
+        "text": "188 mi"
+      },
+      {
+        "label": "D",
+        "text": "47 mi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "d=rt=47×8=376",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added rate and time"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused rate with distance"
+      }
+    ],
+    "skills": [
+      "rate-distance-time"
+    ],
+    "tags": [
+      "word-problems",
+      "rate-distance-time"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.rate_distance_time",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "A skater goes 61 mph for 8 hours. Distance?",
+    "options": [
+      {
+        "label": "A",
+        "text": "488 mi"
+      },
+      {
+        "label": "B",
+        "text": "69 mi"
+      },
+      {
+        "label": "C",
+        "text": "244 mi"
+      },
+      {
+        "label": "D",
+        "text": "61 mi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "d=rt=61×8=488",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added rate and time"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused rate with distance"
+      }
+    ],
+    "skills": [
+      "rate-distance-time"
+    ],
+    "tags": [
+      "word-problems",
+      "rate-distance-time"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.rate_distance_time",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "A ferry goes 36 mph for 6 hours. Distance?",
+    "options": [
+      {
+        "label": "A",
+        "text": "216 mi"
+      },
+      {
+        "label": "B",
+        "text": "42 mi"
+      },
+      {
+        "label": "C",
+        "text": "108 mi"
+      },
+      {
+        "label": "D",
+        "text": "36 mi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "d=rt=36×6=216",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added rate and time"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused rate with distance"
+      }
+    ],
+    "skills": [
+      "rate-distance-time"
+    ],
+    "tags": [
+      "word-problems",
+      "rate-distance-time"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.rate_distance_time",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "A scooter goes 50 mph for 2 hours. Distance?",
+    "options": [
+      {
+        "label": "A",
+        "text": "100 mi"
+      },
+      {
+        "label": "B",
+        "text": "52 mi"
+      },
+      {
+        "label": "C",
+        "text": "50 mi"
+      },
+      {
+        "label": "D",
+        "text": "50 mi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "d=rt=50×2=100",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added rate and time"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused rate with distance"
+      }
+    ],
+    "skills": [
+      "rate-distance-time"
+    ],
+    "tags": [
+      "word-problems",
+      "rate-distance-time"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.age_problems",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Alex is 23. How old were they 3 years ago?",
+    "options": [
+      {
+        "label": "A",
+        "text": "20"
+      },
+      {
+        "label": "B",
+        "text": "26"
+      },
+      {
+        "label": "C",
+        "text": "19"
+      },
+      {
+        "label": "D",
+        "text": "3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "23-3=20",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave years not age"
+      }
+    ],
+    "skills": [
+      "age-problems"
+    ],
+    "tags": [
+      "word-problems",
+      "age"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.age_problems",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Beth is 26. How old were they 4 years ago?",
+    "options": [
+      {
+        "label": "A",
+        "text": "22"
+      },
+      {
+        "label": "B",
+        "text": "30"
+      },
+      {
+        "label": "C",
+        "text": "21"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "26-4=22",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave years not age"
+      }
+    ],
+    "skills": [
+      "age-problems"
+    ],
+    "tags": [
+      "word-problems",
+      "age"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.age_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Carlos is 29. How old were they 6 years ago?",
+    "options": [
+      {
+        "label": "A",
+        "text": "23"
+      },
+      {
+        "label": "B",
+        "text": "35"
+      },
+      {
+        "label": "C",
+        "text": "22"
+      },
+      {
+        "label": "D",
+        "text": "6"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "29-6=23",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave years not age"
+      }
+    ],
+    "skills": [
+      "age-problems"
+    ],
+    "tags": [
+      "word-problems",
+      "age"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.age_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Diana is 23. How old were they 3 years ago?",
+    "options": [
+      {
+        "label": "A",
+        "text": "20"
+      },
+      {
+        "label": "B",
+        "text": "26"
+      },
+      {
+        "label": "C",
+        "text": "19"
+      },
+      {
+        "label": "D",
+        "text": "3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "23-3=20",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave years not age"
+      }
+    ],
+    "skills": [
+      "age-problems"
+    ],
+    "tags": [
+      "word-problems",
+      "age"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.age_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Ethan is 11. How old were they 7 years ago?",
+    "options": [
+      {
+        "label": "A",
+        "text": "4"
+      },
+      {
+        "label": "B",
+        "text": "18"
+      },
+      {
+        "label": "C",
+        "text": "3"
+      },
+      {
+        "label": "D",
+        "text": "7"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "11-7=4",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave years not age"
+      }
+    ],
+    "skills": [
+      "age-problems"
+    ],
+    "tags": [
+      "word-problems",
+      "age"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.age_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Fatima is 18. How old were they 5 years ago?",
+    "options": [
+      {
+        "label": "A",
+        "text": "13"
+      },
+      {
+        "label": "B",
+        "text": "23"
+      },
+      {
+        "label": "C",
+        "text": "12"
+      },
+      {
+        "label": "D",
+        "text": "5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "18-5=13",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave years not age"
+      }
+    ],
+    "skills": [
+      "age-problems"
+    ],
+    "tags": [
+      "word-problems",
+      "age"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.age_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "George is 27. How old were they 3 years ago?",
+    "options": [
+      {
+        "label": "A",
+        "text": "24"
+      },
+      {
+        "label": "B",
+        "text": "30"
+      },
+      {
+        "label": "C",
+        "text": "23"
+      },
+      {
+        "label": "D",
+        "text": "3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "27-3=24",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave years not age"
+      }
+    ],
+    "skills": [
+      "age-problems"
+    ],
+    "tags": [
+      "word-problems",
+      "age"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.age_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Hannah is 14. How old were they 7 years ago?",
+    "options": [
+      {
+        "label": "A",
+        "text": "7"
+      },
+      {
+        "label": "B",
+        "text": "21"
+      },
+      {
+        "label": "C",
+        "text": "6"
+      },
+      {
+        "label": "D",
+        "text": "7"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "14-7=7",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave years not age"
+      }
+    ],
+    "skills": [
+      "age-problems"
+    ],
+    "tags": [
+      "word-problems",
+      "age"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.age_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Isaac is 18. How old were they 4 years ago?",
+    "options": [
+      {
+        "label": "A",
+        "text": "14"
+      },
+      {
+        "label": "B",
+        "text": "22"
+      },
+      {
+        "label": "C",
+        "text": "13"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "18-4=14",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave years not age"
+      }
+    ],
+    "skills": [
+      "age-problems"
+    ],
+    "tags": [
+      "word-problems",
+      "age"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.age_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Julia is 16. How old were they 4 years ago?",
+    "options": [
+      {
+        "label": "A",
+        "text": "12"
+      },
+      {
+        "label": "B",
+        "text": "20"
+      },
+      {
+        "label": "C",
+        "text": "11"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "16-4=12",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave years not age"
+      }
+    ],
+    "skills": [
+      "age-problems"
+    ],
+    "tags": [
+      "word-problems",
+      "age"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.combined_work",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A does \"paint a room\" in 3h, B in 4h. Together?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1.71 hours"
+      },
+      {
+        "label": "B",
+        "text": "7 hours"
+      },
+      {
+        "label": "C",
+        "text": "3.5 hours"
+      },
+      {
+        "label": "D",
+        "text": "3 hours"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "1/3+1/4=7/12. Time=12/7≈1.71",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added times"
+      },
+      {
+        "label": "C",
+        "explanation": "Averaged times"
+      }
+    ],
+    "skills": [
+      "combined-work"
+    ],
+    "tags": [
+      "word-problems",
+      "combined-work"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.combined_work",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A does \"mow a lawn\" in 3h, B in 6h. Together?",
+    "options": [
+      {
+        "label": "A",
+        "text": "2 hours"
+      },
+      {
+        "label": "B",
+        "text": "9 hours"
+      },
+      {
+        "label": "C",
+        "text": "4.5 hours"
+      },
+      {
+        "label": "D",
+        "text": "3 hours"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "1/3+1/6=9/18. Time=18/9≈2",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added times"
+      },
+      {
+        "label": "C",
+        "explanation": "Averaged times"
+      }
+    ],
+    "skills": [
+      "combined-work"
+    ],
+    "tags": [
+      "word-problems",
+      "combined-work"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.combined_work",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A does \"fill a pool\" in 3h, B in 6h. Together?",
+    "options": [
+      {
+        "label": "A",
+        "text": "2 hours"
+      },
+      {
+        "label": "B",
+        "text": "9 hours"
+      },
+      {
+        "label": "C",
+        "text": "4.5 hours"
+      },
+      {
+        "label": "D",
+        "text": "3 hours"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "1/3+1/6=9/18. Time=18/9≈2",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added times"
+      },
+      {
+        "label": "C",
+        "explanation": "Averaged times"
+      }
+    ],
+    "skills": [
+      "combined-work"
+    ],
+    "tags": [
+      "word-problems",
+      "combined-work"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.combined_work",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A does \"clean an office\" in 3h, B in 4h. Together?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1.71 hours"
+      },
+      {
+        "label": "B",
+        "text": "7 hours"
+      },
+      {
+        "label": "C",
+        "text": "3.5 hours"
+      },
+      {
+        "label": "D",
+        "text": "3 hours"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "1/3+1/4=7/12. Time=12/7≈1.71",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added times"
+      },
+      {
+        "label": "C",
+        "explanation": "Averaged times"
+      }
+    ],
+    "skills": [
+      "combined-work"
+    ],
+    "tags": [
+      "word-problems",
+      "combined-work"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.combined_work",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A does \"build a wall\" in 8h, B in 7h. Together?",
+    "options": [
+      {
+        "label": "A",
+        "text": "3.73 hours"
+      },
+      {
+        "label": "B",
+        "text": "15 hours"
+      },
+      {
+        "label": "C",
+        "text": "7.5 hours"
+      },
+      {
+        "label": "D",
+        "text": "7 hours"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "1/8+1/7=15/56. Time=56/15≈3.73",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added times"
+      },
+      {
+        "label": "C",
+        "explanation": "Averaged times"
+      }
+    ],
+    "skills": [
+      "combined-work"
+    ],
+    "tags": [
+      "word-problems",
+      "combined-work"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.combined_work",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A does \"wash cars\" in 7h, B in 6h. Together?",
+    "options": [
+      {
+        "label": "A",
+        "text": "3.23 hours"
+      },
+      {
+        "label": "B",
+        "text": "13 hours"
+      },
+      {
+        "label": "C",
+        "text": "6.5 hours"
+      },
+      {
+        "label": "D",
+        "text": "6 hours"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "1/7+1/6=13/42. Time=42/13≈3.23",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added times"
+      },
+      {
+        "label": "C",
+        "explanation": "Averaged times"
+      }
+    ],
+    "skills": [
+      "combined-work"
+    ],
+    "tags": [
+      "word-problems",
+      "combined-work"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.combined_work",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A does \"sort packages\" in 8h, B in 4h. Together?",
+    "options": [
+      {
+        "label": "A",
+        "text": "2.67 hours"
+      },
+      {
+        "label": "B",
+        "text": "12 hours"
+      },
+      {
+        "label": "C",
+        "text": "6 hours"
+      },
+      {
+        "label": "D",
+        "text": "4 hours"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "1/8+1/4=12/32. Time=32/12≈2.67",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added times"
+      },
+      {
+        "label": "C",
+        "explanation": "Averaged times"
+      }
+    ],
+    "skills": [
+      "combined-work"
+    ],
+    "tags": [
+      "word-problems",
+      "combined-work"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.combined_work",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A does \"assemble toys\" in 4h, B in 5h. Together?",
+    "options": [
+      {
+        "label": "A",
+        "text": "2.22 hours"
+      },
+      {
+        "label": "B",
+        "text": "9 hours"
+      },
+      {
+        "label": "C",
+        "text": "4.5 hours"
+      },
+      {
+        "label": "D",
+        "text": "4 hours"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "1/4+1/5=9/20. Time=20/9≈2.22",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added times"
+      },
+      {
+        "label": "C",
+        "explanation": "Averaged times"
+      }
+    ],
+    "skills": [
+      "combined-work"
+    ],
+    "tags": [
+      "word-problems",
+      "combined-work"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.measurement.unit_conversion",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Convert 4 feet to inches.",
+    "options": [
+      {
+        "label": "A",
+        "text": "48 inches"
+      },
+      {
+        "label": "B",
+        "text": "16 inches"
+      },
+      {
+        "label": "C",
+        "text": "0.333 inches"
+      },
+      {
+        "label": "D",
+        "text": "12 inches"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "4×12=48",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead of multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Divided instead"
+      }
+    ],
+    "skills": [
+      "unit-conversion"
+    ],
+    "tags": [
+      "word-problems",
+      "unit-conversion"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.measurement.unit_conversion",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Convert 15 yards to feet.",
+    "options": [
+      {
+        "label": "A",
+        "text": "45 feet"
+      },
+      {
+        "label": "B",
+        "text": "18 feet"
+      },
+      {
+        "label": "C",
+        "text": "5 feet"
+      },
+      {
+        "label": "D",
+        "text": "3 feet"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "15×3=45",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead of multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Divided instead"
+      }
+    ],
+    "skills": [
+      "unit-conversion"
+    ],
+    "tags": [
+      "word-problems",
+      "unit-conversion"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.measurement.unit_conversion",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Convert 5 pounds to ounces.",
+    "options": [
+      {
+        "label": "A",
+        "text": "80 ounces"
+      },
+      {
+        "label": "B",
+        "text": "21 ounces"
+      },
+      {
+        "label": "C",
+        "text": "0.313 ounces"
+      },
+      {
+        "label": "D",
+        "text": "16 ounces"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "5×16=80",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead of multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Divided instead"
+      }
+    ],
+    "skills": [
+      "unit-conversion"
+    ],
+    "tags": [
+      "word-problems",
+      "unit-conversion"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.measurement.unit_conversion",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Convert 7 gallons to quarts.",
+    "options": [
+      {
+        "label": "A",
+        "text": "28 quarts"
+      },
+      {
+        "label": "B",
+        "text": "11 quarts"
+      },
+      {
+        "label": "C",
+        "text": "1.75 quarts"
+      },
+      {
+        "label": "D",
+        "text": "4 quarts"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "7×4=28",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead of multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Divided instead"
+      }
+    ],
+    "skills": [
+      "unit-conversion"
+    ],
+    "tags": [
+      "word-problems",
+      "unit-conversion"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.measurement.unit_conversion",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Convert 4 hours to minutes.",
+    "options": [
+      {
+        "label": "A",
+        "text": "240 minutes"
+      },
+      {
+        "label": "B",
+        "text": "64 minutes"
+      },
+      {
+        "label": "C",
+        "text": "0.067 minutes"
+      },
+      {
+        "label": "D",
+        "text": "60 minutes"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "4×60=240",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead of multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Divided instead"
+      }
+    ],
+    "skills": [
+      "unit-conversion"
+    ],
+    "tags": [
+      "word-problems",
+      "unit-conversion"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.measurement.unit_conversion",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Convert 4 meters to centimeters.",
+    "options": [
+      {
+        "label": "A",
+        "text": "400 centimeters"
+      },
+      {
+        "label": "B",
+        "text": "104 centimeters"
+      },
+      {
+        "label": "C",
+        "text": "0.04 centimeters"
+      },
+      {
+        "label": "D",
+        "text": "100 centimeters"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "4×100=400",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead of multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Divided instead"
+      }
+    ],
+    "skills": [
+      "unit-conversion"
+    ],
+    "tags": [
+      "word-problems",
+      "unit-conversion"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.measurement.unit_conversion",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Convert 4 kilograms to grams.",
+    "options": [
+      {
+        "label": "A",
+        "text": "4000 grams"
+      },
+      {
+        "label": "B",
+        "text": "1004 grams"
+      },
+      {
+        "label": "C",
+        "text": "0.004 grams"
+      },
+      {
+        "label": "D",
+        "text": "1000 grams"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "4×1000=4000",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead of multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Divided instead"
+      }
+    ],
+    "skills": [
+      "unit-conversion"
+    ],
+    "tags": [
+      "word-problems",
+      "unit-conversion"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.measurement.unit_conversion",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Convert 1 miles to feet.",
+    "options": [
+      {
+        "label": "A",
+        "text": "5280 feet"
+      },
+      {
+        "label": "B",
+        "text": "5281 feet"
+      },
+      {
+        "label": "C",
+        "text": "0 feet"
+      },
+      {
+        "label": "D",
+        "text": "5280 feet"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "1×5280=5280",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added instead of multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Divided instead"
+      }
+    ],
+    "skills": [
+      "unit-conversion"
+    ],
+    "tags": [
+      "word-problems",
+      "unit-conversion"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "5 items at $8 each with 24% off. Total?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$30"
+      },
+      {
+        "label": "B",
+        "text": "$40"
+      },
+      {
+        "label": "C",
+        "text": "$16"
+      },
+      {
+        "label": "D",
+        "text": "$10"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "5×$8=$40. 24% off: $30",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot discount"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave discount amount not final"
+      }
+    ],
+    "skills": [
+      "word-problems"
+    ],
+    "tags": [
+      "word-problems",
+      "discount"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "11 items at $15 each with 28% off. Total?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$119"
+      },
+      {
+        "label": "B",
+        "text": "$165"
+      },
+      {
+        "label": "C",
+        "text": "$137"
+      },
+      {
+        "label": "D",
+        "text": "$46"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "11×$15=$165. 28% off: $119",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot discount"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave discount amount not final"
+      }
+    ],
+    "skills": [
+      "word-problems"
+    ],
+    "tags": [
+      "word-problems",
+      "discount"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "3 items at $9 each with 10% off. Total?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$24"
+      },
+      {
+        "label": "B",
+        "text": "$27"
+      },
+      {
+        "label": "C",
+        "text": "$17"
+      },
+      {
+        "label": "D",
+        "text": "$3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "3×$9=$27. 10% off: $24",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot discount"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave discount amount not final"
+      }
+    ],
+    "skills": [
+      "word-problems"
+    ],
+    "tags": [
+      "word-problems",
+      "discount"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "12 items at $8 each with 10% off. Total?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$86"
+      },
+      {
+        "label": "B",
+        "text": "$96"
+      },
+      {
+        "label": "C",
+        "text": "$86"
+      },
+      {
+        "label": "D",
+        "text": "$10"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "12×$8=$96. 10% off: $86",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot discount"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave discount amount not final"
+      }
+    ],
+    "skills": [
+      "word-problems"
+    ],
+    "tags": [
+      "word-problems",
+      "discount"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "8 items at $8 each with 18% off. Total?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$52"
+      },
+      {
+        "label": "B",
+        "text": "$64"
+      },
+      {
+        "label": "C",
+        "text": "$46"
+      },
+      {
+        "label": "D",
+        "text": "$12"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "8×$8=$64. 18% off: $52",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot discount"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave discount amount not final"
+      }
+    ],
+    "skills": [
+      "word-problems"
+    ],
+    "tags": [
+      "word-problems",
+      "discount"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "11 items at $5 each with 25% off. Total?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$41"
+      },
+      {
+        "label": "B",
+        "text": "$55"
+      },
+      {
+        "label": "C",
+        "text": "$30"
+      },
+      {
+        "label": "D",
+        "text": "$14"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "11×$5=$55. 25% off: $41",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot discount"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave discount amount not final"
+      }
+    ],
+    "skills": [
+      "word-problems"
+    ],
+    "tags": [
+      "word-problems",
+      "discount"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "9 items at $9 each with 23% off. Total?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$62"
+      },
+      {
+        "label": "B",
+        "text": "$81"
+      },
+      {
+        "label": "C",
+        "text": "$58"
+      },
+      {
+        "label": "D",
+        "text": "$19"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "9×$9=$81. 23% off: $62",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot discount"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave discount amount not final"
+      }
+    ],
+    "skills": [
+      "word-problems"
+    ],
+    "tags": [
+      "word-problems",
+      "discount"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "11 items at $17 each with 28% off. Total?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$135"
+      },
+      {
+        "label": "B",
+        "text": "$187"
+      },
+      {
+        "label": "C",
+        "text": "$159"
+      },
+      {
+        "label": "D",
+        "text": "$52"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "11×$17=$187. 28% off: $135",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot discount"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave discount amount not final"
+      }
+    ],
+    "skills": [
+      "word-problems"
+    ],
+    "tags": [
+      "word-problems",
+      "discount"
+    ]
+  }
+]

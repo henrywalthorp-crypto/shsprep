@@ -1,0 +1,2156 @@
+[
+  {
+    "section": "math",
+    "category": "math.geometry.volume",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Volume of rectangular prism 9×8×4?",
+    "options": [
+      {
+        "label": "A",
+        "text": "288"
+      },
+      {
+        "label": "B",
+        "text": "280"
+      },
+      {
+        "label": "C",
+        "text": "21"
+      },
+      {
+        "label": "D",
+        "text": "72"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "V=lwh=9×8×4=288",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found surface area"
+      },
+      {
+        "label": "C",
+        "explanation": "Only 2 dimensions"
+      }
+    ],
+    "skills": [
+      "volume"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "volume"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.volume",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Volume of cylinder r=5, h=4? (π≈3.14)",
+    "options": [
+      {
+        "label": "A",
+        "text": "314.00"
+      },
+      {
+        "label": "B",
+        "text": "125.60"
+      },
+      {
+        "label": "C",
+        "text": "78.50"
+      },
+      {
+        "label": "D",
+        "text": "100.00"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "V=πr²h=3.14×5²×4=314.00",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Used lateral area formula"
+      },
+      {
+        "label": "C",
+        "explanation": "Forgot π"
+      }
+    ],
+    "skills": [
+      "volume-cylinder"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "cylinder"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.volume",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Volume of cube with side 5?",
+    "options": [
+      {
+        "label": "A",
+        "text": "125"
+      },
+      {
+        "label": "B",
+        "text": "150"
+      },
+      {
+        "label": "C",
+        "text": "25"
+      },
+      {
+        "label": "D",
+        "text": "15"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "V=s³=5³=125",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found surface area"
+      },
+      {
+        "label": "C",
+        "explanation": "Found face area"
+      }
+    ],
+    "skills": [
+      "volume-cube"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "cube"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.volume",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Volume of rectangular prism 10×8×4?",
+    "options": [
+      {
+        "label": "A",
+        "text": "320"
+      },
+      {
+        "label": "B",
+        "text": "304"
+      },
+      {
+        "label": "C",
+        "text": "22"
+      },
+      {
+        "label": "D",
+        "text": "80"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "V=lwh=10×8×4=320",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found surface area"
+      },
+      {
+        "label": "C",
+        "explanation": "Only 2 dimensions"
+      }
+    ],
+    "skills": [
+      "volume"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "volume"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.volume",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Volume of cylinder r=5, h=4? (π≈3.14) (variant 1)",
+    "options": [
+      {
+        "label": "A",
+        "text": "314.00"
+      },
+      {
+        "label": "B",
+        "text": "125.60"
+      },
+      {
+        "label": "C",
+        "text": "78.50"
+      },
+      {
+        "label": "D",
+        "text": "100.00"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "V=πr²h=3.14×5²×4=314.00",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Used lateral area formula"
+      },
+      {
+        "label": "C",
+        "explanation": "Forgot π"
+      }
+    ],
+    "skills": [
+      "volume-cylinder"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "cylinder"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.volume",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Volume of cube with side 3?",
+    "options": [
+      {
+        "label": "A",
+        "text": "27"
+      },
+      {
+        "label": "B",
+        "text": "54"
+      },
+      {
+        "label": "C",
+        "text": "9"
+      },
+      {
+        "label": "D",
+        "text": "9"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "V=s³=3³=27",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found surface area"
+      },
+      {
+        "label": "C",
+        "explanation": "Found face area"
+      }
+    ],
+    "skills": [
+      "volume-cube"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "cube"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.volume",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Volume of rectangular prism 10×4×7?",
+    "options": [
+      {
+        "label": "A",
+        "text": "280"
+      },
+      {
+        "label": "B",
+        "text": "276"
+      },
+      {
+        "label": "C",
+        "text": "21"
+      },
+      {
+        "label": "D",
+        "text": "40"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "V=lwh=10×4×7=280",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found surface area"
+      },
+      {
+        "label": "C",
+        "explanation": "Only 2 dimensions"
+      }
+    ],
+    "skills": [
+      "volume"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "volume"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.volume",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Volume of cylinder r=6, h=3? (π≈3.14)",
+    "options": [
+      {
+        "label": "A",
+        "text": "339.12"
+      },
+      {
+        "label": "B",
+        "text": "113.04"
+      },
+      {
+        "label": "C",
+        "text": "113.04"
+      },
+      {
+        "label": "D",
+        "text": "108.00"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "V=πr²h=3.14×6²×3=339.12",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Used lateral area formula"
+      },
+      {
+        "label": "C",
+        "explanation": "Forgot π"
+      }
+    ],
+    "skills": [
+      "volume-cylinder"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "cylinder"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.volume",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Volume of cube with side 10?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1000"
+      },
+      {
+        "label": "B",
+        "text": "600"
+      },
+      {
+        "label": "C",
+        "text": "100"
+      },
+      {
+        "label": "D",
+        "text": "30"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "V=s³=10³=1000",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found surface area"
+      },
+      {
+        "label": "C",
+        "explanation": "Found face area"
+      }
+    ],
+    "skills": [
+      "volume-cube"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "cube"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.volume",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Volume of rectangular prism 6×4×5?",
+    "options": [
+      {
+        "label": "A",
+        "text": "120"
+      },
+      {
+        "label": "B",
+        "text": "148"
+      },
+      {
+        "label": "C",
+        "text": "15"
+      },
+      {
+        "label": "D",
+        "text": "24"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "V=lwh=6×4×5=120",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found surface area"
+      },
+      {
+        "label": "C",
+        "explanation": "Only 2 dimensions"
+      }
+    ],
+    "skills": [
+      "volume"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "volume"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.volume",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Volume of cylinder r=2, h=7? (π≈3.14)",
+    "options": [
+      {
+        "label": "A",
+        "text": "87.92"
+      },
+      {
+        "label": "B",
+        "text": "87.92"
+      },
+      {
+        "label": "C",
+        "text": "12.56"
+      },
+      {
+        "label": "D",
+        "text": "28.00"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "V=πr²h=3.14×2²×7=87.92",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Used lateral area formula"
+      },
+      {
+        "label": "C",
+        "explanation": "Forgot π"
+      }
+    ],
+    "skills": [
+      "volume-cylinder"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "cylinder"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.volume",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Volume of cube with side 3? (variant 1)",
+    "options": [
+      {
+        "label": "A",
+        "text": "27"
+      },
+      {
+        "label": "B",
+        "text": "54"
+      },
+      {
+        "label": "C",
+        "text": "9"
+      },
+      {
+        "label": "D",
+        "text": "9"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "V=s³=3³=27",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found surface area"
+      },
+      {
+        "label": "C",
+        "explanation": "Found face area"
+      }
+    ],
+    "skills": [
+      "volume-cube"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "cube"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.volume",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Volume of rectangular prism 5×8×3?",
+    "options": [
+      {
+        "label": "A",
+        "text": "120"
+      },
+      {
+        "label": "B",
+        "text": "158"
+      },
+      {
+        "label": "C",
+        "text": "16"
+      },
+      {
+        "label": "D",
+        "text": "40"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "V=lwh=5×8×3=120",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found surface area"
+      },
+      {
+        "label": "C",
+        "explanation": "Only 2 dimensions"
+      }
+    ],
+    "skills": [
+      "volume"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "volume"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.volume",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Volume of cylinder r=3, h=4? (π≈3.14)",
+    "options": [
+      {
+        "label": "A",
+        "text": "113.04"
+      },
+      {
+        "label": "B",
+        "text": "75.36"
+      },
+      {
+        "label": "C",
+        "text": "28.26"
+      },
+      {
+        "label": "D",
+        "text": "36.00"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "V=πr²h=3.14×3²×4=113.04",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Used lateral area formula"
+      },
+      {
+        "label": "C",
+        "explanation": "Forgot π"
+      }
+    ],
+    "skills": [
+      "volume-cylinder"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "cylinder"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.volume",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Volume of cube with side 8?",
+    "options": [
+      {
+        "label": "A",
+        "text": "512"
+      },
+      {
+        "label": "B",
+        "text": "384"
+      },
+      {
+        "label": "C",
+        "text": "64"
+      },
+      {
+        "label": "D",
+        "text": "24"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "V=s³=8³=512",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found surface area"
+      },
+      {
+        "label": "C",
+        "explanation": "Found face area"
+      }
+    ],
+    "skills": [
+      "volume-cube"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "cube"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.volume",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Volume of rectangular prism 10×7×8?",
+    "options": [
+      {
+        "label": "A",
+        "text": "560"
+      },
+      {
+        "label": "B",
+        "text": "412"
+      },
+      {
+        "label": "C",
+        "text": "25"
+      },
+      {
+        "label": "D",
+        "text": "70"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "V=lwh=10×7×8=560",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found surface area"
+      },
+      {
+        "label": "C",
+        "explanation": "Only 2 dimensions"
+      }
+    ],
+    "skills": [
+      "volume"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "volume"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.volume",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Volume of cylinder r=2, h=5? (π≈3.14)",
+    "options": [
+      {
+        "label": "A",
+        "text": "62.80"
+      },
+      {
+        "label": "B",
+        "text": "62.80"
+      },
+      {
+        "label": "C",
+        "text": "12.56"
+      },
+      {
+        "label": "D",
+        "text": "20.00"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "V=πr²h=3.14×2²×5=62.80",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Used lateral area formula"
+      },
+      {
+        "label": "C",
+        "explanation": "Forgot π"
+      }
+    ],
+    "skills": [
+      "volume-cylinder"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "cylinder"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.volume",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Volume of cube with side 9?",
+    "options": [
+      {
+        "label": "A",
+        "text": "729"
+      },
+      {
+        "label": "B",
+        "text": "486"
+      },
+      {
+        "label": "C",
+        "text": "81"
+      },
+      {
+        "label": "D",
+        "text": "27"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "V=s³=9³=729",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found surface area"
+      },
+      {
+        "label": "C",
+        "explanation": "Found face area"
+      }
+    ],
+    "skills": [
+      "volume-cube"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "cube"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.3d.surface_area",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Surface area of prism 6×6×3?",
+    "options": [
+      {
+        "label": "A",
+        "text": "144"
+      },
+      {
+        "label": "B",
+        "text": "108"
+      },
+      {
+        "label": "C",
+        "text": "72"
+      },
+      {
+        "label": "D",
+        "text": "72"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "SA=2(lw+lh+wh)=2(36+18+18)=144",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found volume"
+      },
+      {
+        "label": "C",
+        "explanation": "Forgot to multiply by 2"
+      }
+    ],
+    "skills": [
+      "surface-area"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "surface-area"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.3d.surface_area",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Surface area of cube with side 6?",
+    "options": [
+      {
+        "label": "A",
+        "text": "216"
+      },
+      {
+        "label": "B",
+        "text": "216"
+      },
+      {
+        "label": "C",
+        "text": "144"
+      },
+      {
+        "label": "D",
+        "text": "36"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "SA=6s²=6×6²=216",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found volume"
+      },
+      {
+        "label": "C",
+        "explanation": "Used 4 faces instead of 6"
+      }
+    ],
+    "skills": [
+      "surface-area-cube"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "surface-area"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.3d.surface_area",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Total surface area of cylinder r=3, h=7? (π≈3.14)",
+    "options": [
+      {
+        "label": "A",
+        "text": "188.40"
+      },
+      {
+        "label": "B",
+        "text": "197.82"
+      },
+      {
+        "label": "C",
+        "text": "131.88"
+      },
+      {
+        "label": "D",
+        "text": "28.26"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "SA=2πr²+2πrh=188.40",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found volume"
+      },
+      {
+        "label": "C",
+        "explanation": "Only lateral area"
+      }
+    ],
+    "skills": [
+      "surface-area-cylinder"
+    ],
+    "tags": [
+      "geometry",
+      "3d"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.3d.surface_area",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Surface area of prism 7×5×4?",
+    "options": [
+      {
+        "label": "A",
+        "text": "166"
+      },
+      {
+        "label": "B",
+        "text": "140"
+      },
+      {
+        "label": "C",
+        "text": "83"
+      },
+      {
+        "label": "D",
+        "text": "70"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "SA=2(lw+lh+wh)=2(35+28+20)=166",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found volume"
+      },
+      {
+        "label": "C",
+        "explanation": "Forgot to multiply by 2"
+      }
+    ],
+    "skills": [
+      "surface-area"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "surface-area"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.3d.surface_area",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Surface area of cube with side 7?",
+    "options": [
+      {
+        "label": "A",
+        "text": "294"
+      },
+      {
+        "label": "B",
+        "text": "343"
+      },
+      {
+        "label": "C",
+        "text": "196"
+      },
+      {
+        "label": "D",
+        "text": "49"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "SA=6s²=6×7²=294",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found volume"
+      },
+      {
+        "label": "C",
+        "explanation": "Used 4 faces instead of 6"
+      }
+    ],
+    "skills": [
+      "surface-area-cube"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "surface-area"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.3d.surface_area",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Total surface area of cylinder r=5, h=7? (π≈3.14)",
+    "options": [
+      {
+        "label": "A",
+        "text": "376.80"
+      },
+      {
+        "label": "B",
+        "text": "549.50"
+      },
+      {
+        "label": "C",
+        "text": "219.80"
+      },
+      {
+        "label": "D",
+        "text": "78.50"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "SA=2πr²+2πrh=376.80",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found volume"
+      },
+      {
+        "label": "C",
+        "explanation": "Only lateral area"
+      }
+    ],
+    "skills": [
+      "surface-area-cylinder"
+    ],
+    "tags": [
+      "geometry",
+      "3d"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.3d.surface_area",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Surface area of prism 6×2×5?",
+    "options": [
+      {
+        "label": "A",
+        "text": "104"
+      },
+      {
+        "label": "B",
+        "text": "60"
+      },
+      {
+        "label": "C",
+        "text": "52"
+      },
+      {
+        "label": "D",
+        "text": "24"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "SA=2(lw+lh+wh)=2(12+30+10)=104",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found volume"
+      },
+      {
+        "label": "C",
+        "explanation": "Forgot to multiply by 2"
+      }
+    ],
+    "skills": [
+      "surface-area"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "surface-area"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.3d.surface_area",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Surface area of cube with side 3?",
+    "options": [
+      {
+        "label": "A",
+        "text": "54"
+      },
+      {
+        "label": "B",
+        "text": "27"
+      },
+      {
+        "label": "C",
+        "text": "36"
+      },
+      {
+        "label": "D",
+        "text": "9"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "SA=6s²=6×3²=54",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found volume"
+      },
+      {
+        "label": "C",
+        "explanation": "Used 4 faces instead of 6"
+      }
+    ],
+    "skills": [
+      "surface-area-cube"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "surface-area"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.3d.surface_area",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Total surface area of cylinder r=5, h=7? (π≈3.14) (variant 1)",
+    "options": [
+      {
+        "label": "A",
+        "text": "376.80"
+      },
+      {
+        "label": "B",
+        "text": "549.50"
+      },
+      {
+        "label": "C",
+        "text": "219.80"
+      },
+      {
+        "label": "D",
+        "text": "78.50"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "SA=2πr²+2πrh=376.80",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found volume"
+      },
+      {
+        "label": "C",
+        "explanation": "Only lateral area"
+      }
+    ],
+    "skills": [
+      "surface-area-cylinder"
+    ],
+    "tags": [
+      "geometry",
+      "3d"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.3d.surface_area",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Surface area of prism 7×5×6?",
+    "options": [
+      {
+        "label": "A",
+        "text": "214"
+      },
+      {
+        "label": "B",
+        "text": "210"
+      },
+      {
+        "label": "C",
+        "text": "107"
+      },
+      {
+        "label": "D",
+        "text": "70"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "SA=2(lw+lh+wh)=2(35+42+30)=214",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found volume"
+      },
+      {
+        "label": "C",
+        "explanation": "Forgot to multiply by 2"
+      }
+    ],
+    "skills": [
+      "surface-area"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "surface-area"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.3d.surface_area",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Surface area of cube with side 2?",
+    "options": [
+      {
+        "label": "A",
+        "text": "24"
+      },
+      {
+        "label": "B",
+        "text": "8"
+      },
+      {
+        "label": "C",
+        "text": "16"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "SA=6s²=6×2²=24",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found volume"
+      },
+      {
+        "label": "C",
+        "explanation": "Used 4 faces instead of 6"
+      }
+    ],
+    "skills": [
+      "surface-area-cube"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "surface-area"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.3d.surface_area",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Total surface area of cylinder r=2, h=6? (π≈3.14)",
+    "options": [
+      {
+        "label": "A",
+        "text": "100.48"
+      },
+      {
+        "label": "B",
+        "text": "75.36"
+      },
+      {
+        "label": "C",
+        "text": "75.36"
+      },
+      {
+        "label": "D",
+        "text": "12.56"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "SA=2πr²+2πrh=100.48",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found volume"
+      },
+      {
+        "label": "C",
+        "explanation": "Only lateral area"
+      }
+    ],
+    "skills": [
+      "surface-area-cylinder"
+    ],
+    "tags": [
+      "geometry",
+      "3d"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.3d.surface_area",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Surface area of prism 8×6×2?",
+    "options": [
+      {
+        "label": "A",
+        "text": "152"
+      },
+      {
+        "label": "B",
+        "text": "96"
+      },
+      {
+        "label": "C",
+        "text": "76"
+      },
+      {
+        "label": "D",
+        "text": "96"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "SA=2(lw+lh+wh)=2(48+16+12)=152",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found volume"
+      },
+      {
+        "label": "C",
+        "explanation": "Forgot to multiply by 2"
+      }
+    ],
+    "skills": [
+      "surface-area"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "surface-area"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.3d.surface_area",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Surface area of cube with side 2? (variant 1)",
+    "options": [
+      {
+        "label": "A",
+        "text": "24"
+      },
+      {
+        "label": "B",
+        "text": "8"
+      },
+      {
+        "label": "C",
+        "text": "16"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "SA=6s²=6×2²=24",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found volume"
+      },
+      {
+        "label": "C",
+        "explanation": "Used 4 faces instead of 6"
+      }
+    ],
+    "skills": [
+      "surface-area-cube"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "surface-area"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.3d.surface_area",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Total surface area of cylinder r=5, h=5? (π≈3.14)",
+    "options": [
+      {
+        "label": "A",
+        "text": "314.00"
+      },
+      {
+        "label": "B",
+        "text": "392.50"
+      },
+      {
+        "label": "C",
+        "text": "157.00"
+      },
+      {
+        "label": "D",
+        "text": "78.50"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "SA=2πr²+2πrh=314.00",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found volume"
+      },
+      {
+        "label": "C",
+        "explanation": "Only lateral area"
+      }
+    ],
+    "skills": [
+      "surface-area-cylinder"
+    ],
+    "tags": [
+      "geometry",
+      "3d"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.3d.surface_area",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Surface area of prism 5×6×2?",
+    "options": [
+      {
+        "label": "A",
+        "text": "104"
+      },
+      {
+        "label": "B",
+        "text": "60"
+      },
+      {
+        "label": "C",
+        "text": "52"
+      },
+      {
+        "label": "D",
+        "text": "60"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "SA=2(lw+lh+wh)=2(30+10+12)=104",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found volume"
+      },
+      {
+        "label": "C",
+        "explanation": "Forgot to multiply by 2"
+      }
+    ],
+    "skills": [
+      "surface-area"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "surface-area"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.3d.surface_area",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Surface area of cube with side 7? (variant 1)",
+    "options": [
+      {
+        "label": "A",
+        "text": "294"
+      },
+      {
+        "label": "B",
+        "text": "343"
+      },
+      {
+        "label": "C",
+        "text": "196"
+      },
+      {
+        "label": "D",
+        "text": "49"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "SA=6s²=6×7²=294",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found volume"
+      },
+      {
+        "label": "C",
+        "explanation": "Used 4 faces instead of 6"
+      }
+    ],
+    "skills": [
+      "surface-area-cube"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "surface-area"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.3d.surface_area",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Total surface area of cylinder r=4, h=8? (π≈3.14)",
+    "options": [
+      {
+        "label": "A",
+        "text": "301.44"
+      },
+      {
+        "label": "B",
+        "text": "401.92"
+      },
+      {
+        "label": "C",
+        "text": "200.96"
+      },
+      {
+        "label": "D",
+        "text": "50.24"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "SA=2πr²+2πrh=301.44",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found volume"
+      },
+      {
+        "label": "C",
+        "explanation": "Only lateral area"
+      }
+    ],
+    "skills": [
+      "surface-area-cylinder"
+    ],
+    "tags": [
+      "geometry",
+      "3d"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.3d.cross_sections",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A cube is cut parallel to a face. Cross-section shape?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Square"
+      },
+      {
+        "label": "B",
+        "text": "Rectangle"
+      },
+      {
+        "label": "C",
+        "text": "Triangle"
+      },
+      {
+        "label": "D",
+        "text": "Circle"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Cutting a cube parallel to a face produces a square.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Common confusion about 3D cross-sections"
+      },
+      {
+        "label": "C",
+        "explanation": "Incorrect visualization"
+      }
+    ],
+    "skills": [
+      "cross-sections"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "cross-sections"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.3d.cross_sections",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A cylinder is cut perpendicular to its base. Cross-section shape?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rectangle"
+      },
+      {
+        "label": "B",
+        "text": "Circle"
+      },
+      {
+        "label": "C",
+        "text": "Triangle"
+      },
+      {
+        "label": "D",
+        "text": "Oval"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Cutting a cylinder perpendicular to its base produces a rectangle.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Common confusion about 3D cross-sections"
+      },
+      {
+        "label": "C",
+        "explanation": "Incorrect visualization"
+      }
+    ],
+    "skills": [
+      "cross-sections"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "cross-sections"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.3d.cross_sections",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A cylinder is cut parallel to its base. Cross-section shape?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Circle"
+      },
+      {
+        "label": "B",
+        "text": "Rectangle"
+      },
+      {
+        "label": "C",
+        "text": "Oval"
+      },
+      {
+        "label": "D",
+        "text": "Square"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Cutting a cylinder parallel to its base produces a circle.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Common confusion about 3D cross-sections"
+      },
+      {
+        "label": "C",
+        "explanation": "Incorrect visualization"
+      }
+    ],
+    "skills": [
+      "cross-sections"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "cross-sections"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.3d.cross_sections",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A rectangular prism is cut parallel to a face. Cross-section shape?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rectangle"
+      },
+      {
+        "label": "B",
+        "text": "Triangle"
+      },
+      {
+        "label": "C",
+        "text": "Pentagon"
+      },
+      {
+        "label": "D",
+        "text": "Circle"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Cutting a rectangular prism parallel to a face produces a rectangle.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Common confusion about 3D cross-sections"
+      },
+      {
+        "label": "C",
+        "explanation": "Incorrect visualization"
+      }
+    ],
+    "skills": [
+      "cross-sections"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "cross-sections"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.3d.cross_sections",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A cone is cut parallel to its base. Cross-section shape?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Circle"
+      },
+      {
+        "label": "B",
+        "text": "Triangle"
+      },
+      {
+        "label": "C",
+        "text": "Oval"
+      },
+      {
+        "label": "D",
+        "text": "Square"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Cutting a cone parallel to its base produces a circle.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Common confusion about 3D cross-sections"
+      },
+      {
+        "label": "C",
+        "explanation": "Incorrect visualization"
+      }
+    ],
+    "skills": [
+      "cross-sections"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "cross-sections"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.3d.cross_sections",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A sphere is cut through its center. Cross-section shape?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Circle"
+      },
+      {
+        "label": "B",
+        "text": "Oval"
+      },
+      {
+        "label": "C",
+        "text": "Square"
+      },
+      {
+        "label": "D",
+        "text": "Semicircle"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Cutting a sphere through its center produces a circle.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Common confusion about 3D cross-sections"
+      },
+      {
+        "label": "C",
+        "explanation": "Incorrect visualization"
+      }
+    ],
+    "skills": [
+      "cross-sections"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "cross-sections"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.3d.cross_sections",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A cube is cut diagonally corner to corner. Cross-section shape?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rectangle"
+      },
+      {
+        "label": "B",
+        "text": "Square"
+      },
+      {
+        "label": "C",
+        "text": "Triangle"
+      },
+      {
+        "label": "D",
+        "text": "Hexagon"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Cutting a cube diagonally corner to corner produces a rectangle.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Common confusion about 3D cross-sections"
+      },
+      {
+        "label": "C",
+        "explanation": "Incorrect visualization"
+      }
+    ],
+    "skills": [
+      "cross-sections"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "cross-sections"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.3d.cross_sections",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A cone is cut vertically through the apex. Cross-section shape?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Triangle"
+      },
+      {
+        "label": "B",
+        "text": "Circle"
+      },
+      {
+        "label": "C",
+        "text": "Rectangle"
+      },
+      {
+        "label": "D",
+        "text": "Oval"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Cutting a cone vertically through the apex produces a triangle.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Common confusion about 3D cross-sections"
+      },
+      {
+        "label": "C",
+        "explanation": "Incorrect visualization"
+      }
+    ],
+    "skills": [
+      "cross-sections"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "cross-sections"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.3d.cross_sections",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A triangular prism is cut perpendicular to length. Cross-section shape?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Triangle"
+      },
+      {
+        "label": "B",
+        "text": "Rectangle"
+      },
+      {
+        "label": "C",
+        "text": "Square"
+      },
+      {
+        "label": "D",
+        "text": "Pentagon"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Cutting a triangular prism perpendicular to length produces a triangle.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Common confusion about 3D cross-sections"
+      },
+      {
+        "label": "C",
+        "explanation": "Incorrect visualization"
+      }
+    ],
+    "skills": [
+      "cross-sections"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "cross-sections"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.3d.cross_sections",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A rectangular prism is cut diagonally. Cross-section shape?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Triangle"
+      },
+      {
+        "label": "B",
+        "text": "Rectangle"
+      },
+      {
+        "label": "C",
+        "text": "Pentagon"
+      },
+      {
+        "label": "D",
+        "text": "Hexagon"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Cutting a rectangular prism diagonally produces a triangle.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Common confusion about 3D cross-sections"
+      },
+      {
+        "label": "C",
+        "explanation": "Incorrect visualization"
+      }
+    ],
+    "skills": [
+      "cross-sections"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "cross-sections"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.3d.cross_sections",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A cube is cut through the midpoints of three edges. Cross-section shape?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Triangle"
+      },
+      {
+        "label": "B",
+        "text": "Square"
+      },
+      {
+        "label": "C",
+        "text": "Hexagon"
+      },
+      {
+        "label": "D",
+        "text": "Circle"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Cutting a cube through the midpoints of three edges produces a triangle.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Common confusion about 3D cross-sections"
+      },
+      {
+        "label": "C",
+        "explanation": "Incorrect visualization"
+      }
+    ],
+    "skills": [
+      "cross-sections"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "cross-sections"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.3d.cross_sections",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A hemisphere is cut along its flat face. Cross-section shape?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Circle"
+      },
+      {
+        "label": "B",
+        "text": "Semicircle"
+      },
+      {
+        "label": "C",
+        "text": "Oval"
+      },
+      {
+        "label": "D",
+        "text": "Rectangle"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Cutting a hemisphere along its flat face produces a circle.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Common confusion about 3D cross-sections"
+      },
+      {
+        "label": "C",
+        "explanation": "Incorrect visualization"
+      }
+    ],
+    "skills": [
+      "cross-sections"
+    ],
+    "tags": [
+      "geometry",
+      "3d",
+      "cross-sections"
+    ]
+  }
+]

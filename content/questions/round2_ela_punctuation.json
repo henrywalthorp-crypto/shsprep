@@ -1,0 +1,2114 @@
+[
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.comma_usage",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Add the correct comma: \"After the game we went home.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "After the game, we went home."
+      },
+      {
+        "label": "B",
+        "text": "After, the game we went home."
+      },
+      {
+        "label": "C",
+        "text": "After the game we, went home."
+      },
+      {
+        "label": "D",
+        "text": "After the game we went home."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Comma after introductory phrase.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Comma in wrong place"
+      },
+      {
+        "label": "C",
+        "explanation": "Original has no comma"
+      }
+    ],
+    "skills": [
+      "comma-usage"
+    ],
+    "tags": [
+      "punctuation",
+      "commas"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.comma_usage",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Add the correct comma: \"She bought apples oranges and bananas.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "She bought apples, oranges, and bananas."
+      },
+      {
+        "label": "B",
+        "text": "She bought apples oranges, and bananas."
+      },
+      {
+        "label": "C",
+        "text": "She bought, apples oranges and bananas."
+      },
+      {
+        "label": "D",
+        "text": "She bought apples oranges and bananas."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Commas separate items in a list.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Comma in wrong place"
+      },
+      {
+        "label": "C",
+        "explanation": "Original has no comma"
+      }
+    ],
+    "skills": [
+      "comma-usage"
+    ],
+    "tags": [
+      "punctuation",
+      "commas"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.comma_usage",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Add the correct comma: \"My brother who lives in Texas visited.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "My brother, who lives in Texas, visited."
+      },
+      {
+        "label": "B",
+        "text": "My brother who lives in Texas, visited."
+      },
+      {
+        "label": "C",
+        "text": "My brother, who lives in Texas visited."
+      },
+      {
+        "label": "D",
+        "text": "My brother who lives in Texas visited."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Non-essential clause needs commas.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Comma in wrong place"
+      },
+      {
+        "label": "C",
+        "explanation": "Original has no comma"
+      }
+    ],
+    "skills": [
+      "comma-usage"
+    ],
+    "tags": [
+      "punctuation",
+      "commas"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.comma_usage",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Add the correct comma: \"Well I think you are right.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Well, I think you are right."
+      },
+      {
+        "label": "B",
+        "text": "Well I think, you are right."
+      },
+      {
+        "label": "C",
+        "text": "Well I, think you are right."
+      },
+      {
+        "label": "D",
+        "text": "Well I think you are right."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Comma after introductory word.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Comma in wrong place"
+      },
+      {
+        "label": "C",
+        "explanation": "Original has no comma"
+      }
+    ],
+    "skills": [
+      "comma-usage"
+    ],
+    "tags": [
+      "punctuation",
+      "commas"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.comma_usage",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Add the correct comma: \"The tall dark stranger entered.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The tall, dark stranger entered."
+      },
+      {
+        "label": "B",
+        "text": "The, tall dark stranger entered."
+      },
+      {
+        "label": "C",
+        "text": "The tall dark, stranger entered."
+      },
+      {
+        "label": "D",
+        "text": "The tall dark stranger entered."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Commas between coordinate adjectives.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Comma in wrong place"
+      },
+      {
+        "label": "C",
+        "explanation": "Original has no comma"
+      }
+    ],
+    "skills": [
+      "comma-usage"
+    ],
+    "tags": [
+      "punctuation",
+      "commas"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.comma_usage",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Add the correct comma: \"She said I will go.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "She said, \"I will go.\""
+      },
+      {
+        "label": "B",
+        "text": "\"She said I will go.\""
+      },
+      {
+        "label": "C",
+        "text": "She, said I will go."
+      },
+      {
+        "label": "D",
+        "text": "She said I will go."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Comma before a direct quote.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Comma in wrong place"
+      },
+      {
+        "label": "C",
+        "explanation": "Original has no comma"
+      }
+    ],
+    "skills": [
+      "comma-usage"
+    ],
+    "tags": [
+      "punctuation",
+      "commas"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.comma_usage",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Add the correct comma: \"However we disagreed.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "However, we disagreed."
+      },
+      {
+        "label": "B",
+        "text": "However we, disagreed."
+      },
+      {
+        "label": "C",
+        "text": "However we disagreed,."
+      },
+      {
+        "label": "D",
+        "text": "However we disagreed."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Comma after conjunctive adverb.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Comma in wrong place"
+      },
+      {
+        "label": "C",
+        "explanation": "Original has no comma"
+      }
+    ],
+    "skills": [
+      "comma-usage"
+    ],
+    "tags": [
+      "punctuation",
+      "commas"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.comma_usage",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Add the correct comma: \"On the other hand it could work.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "On the other hand, it could work."
+      },
+      {
+        "label": "B",
+        "text": "On the other, hand it could work."
+      },
+      {
+        "label": "C",
+        "text": "On, the other hand it could work."
+      },
+      {
+        "label": "D",
+        "text": "On the other hand it could work."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Comma after transitional phrase.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Comma in wrong place"
+      },
+      {
+        "label": "C",
+        "explanation": "Original has no comma"
+      }
+    ],
+    "skills": [
+      "comma-usage"
+    ],
+    "tags": [
+      "punctuation",
+      "commas"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.comma_usage",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Add the correct comma: \"Yes I agree completely.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yes, I agree completely."
+      },
+      {
+        "label": "B",
+        "text": "Yes I, agree completely."
+      },
+      {
+        "label": "C",
+        "text": "Yes I agree, completely."
+      },
+      {
+        "label": "D",
+        "text": "Yes I agree completely."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Comma after introductory word.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Comma in wrong place"
+      },
+      {
+        "label": "C",
+        "explanation": "Original has no comma"
+      }
+    ],
+    "skills": [
+      "comma-usage"
+    ],
+    "tags": [
+      "punctuation",
+      "commas"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.comma_usage",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Add the correct comma: \"The dog a golden retriever barked.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The dog, a golden retriever, barked."
+      },
+      {
+        "label": "B",
+        "text": "The dog a golden retriever, barked."
+      },
+      {
+        "label": "C",
+        "text": "The dog, a golden retriever barked."
+      },
+      {
+        "label": "D",
+        "text": "The dog a golden retriever barked."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Appositive needs commas.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Comma in wrong place"
+      },
+      {
+        "label": "C",
+        "explanation": "Original has no comma"
+      }
+    ],
+    "skills": [
+      "comma-usage"
+    ],
+    "tags": [
+      "punctuation",
+      "commas"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.comma_usage",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Add the correct comma: \"In the morning the birds sing.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "In the morning, the birds sing."
+      },
+      {
+        "label": "B",
+        "text": "In, the morning the birds sing."
+      },
+      {
+        "label": "C",
+        "text": "In the morning the birds, sing."
+      },
+      {
+        "label": "D",
+        "text": "In the morning the birds sing."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Comma after introductory prepositional phrase.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Comma in wrong place"
+      },
+      {
+        "label": "C",
+        "explanation": "Original has no comma"
+      }
+    ],
+    "skills": [
+      "comma-usage"
+    ],
+    "tags": [
+      "punctuation",
+      "commas"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.comma_usage",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Add the correct comma: \"Furthermore the data supports this.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Furthermore, the data supports this."
+      },
+      {
+        "label": "B",
+        "text": "Furthermore the, data supports this."
+      },
+      {
+        "label": "C",
+        "text": "Furthermore the data, supports this."
+      },
+      {
+        "label": "D",
+        "text": "Furthermore the data supports this."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Comma after conjunctive adverb.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Comma in wrong place"
+      },
+      {
+        "label": "C",
+        "explanation": "Original has no comma"
+      }
+    ],
+    "skills": [
+      "comma-usage"
+    ],
+    "tags": [
+      "punctuation",
+      "commas"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.comma_usage",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Add the correct comma: \"I went to the store and I bought milk.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "I went to the store, and I bought milk."
+      },
+      {
+        "label": "B",
+        "text": "I went to the store and, I bought milk."
+      },
+      {
+        "label": "C",
+        "text": "I, went to the store and I bought milk."
+      },
+      {
+        "label": "D",
+        "text": "I went to the store and I bought milk."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Comma before conjunction joining independent clauses.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Comma in wrong place"
+      },
+      {
+        "label": "C",
+        "explanation": "Original has no comma"
+      }
+    ],
+    "skills": [
+      "comma-usage"
+    ],
+    "tags": [
+      "punctuation",
+      "commas"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.comma_usage",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Add the correct comma: \"Before eating we washed our hands.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Before eating, we washed our hands."
+      },
+      {
+        "label": "B",
+        "text": "Before, eating we washed our hands."
+      },
+      {
+        "label": "C",
+        "text": "Before eating we washed, our hands."
+      },
+      {
+        "label": "D",
+        "text": "Before eating we washed our hands."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Comma after introductory phrase.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Comma in wrong place"
+      },
+      {
+        "label": "C",
+        "explanation": "Original has no comma"
+      }
+    ],
+    "skills": [
+      "comma-usage"
+    ],
+    "tags": [
+      "punctuation",
+      "commas"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.semicolon_colon",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Add correct punctuation: \"I like tea she likes coffee.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "I like tea; she likes coffee."
+      },
+      {
+        "label": "B",
+        "text": "I like tea, she likes coffee."
+      },
+      {
+        "label": "C",
+        "text": "I like; tea she likes coffee."
+      },
+      {
+        "label": "D",
+        "text": "I like tea she likes coffee."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Semicolon joins related independent clauses.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong punctuation mark"
+      },
+      {
+        "label": "C",
+        "explanation": "No change leaves error"
+      }
+    ],
+    "skills": [
+      "semicolons-colons"
+    ],
+    "tags": [
+      "punctuation",
+      "semicolons"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.semicolon_colon",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Add correct punctuation: \"She had one goal to win.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "She had one goal: to win."
+      },
+      {
+        "label": "B",
+        "text": "She had one goal; to win."
+      },
+      {
+        "label": "C",
+        "text": "She had; one goal to win."
+      },
+      {
+        "label": "D",
+        "text": "She had one goal to win."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Colon introduces what follows.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong punctuation mark"
+      },
+      {
+        "label": "C",
+        "explanation": "No change leaves error"
+      }
+    ],
+    "skills": [
+      "semicolons-colons"
+    ],
+    "tags": [
+      "punctuation",
+      "semicolons"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.semicolon_colon",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Add correct punctuation: \"Pack these items socks shirts shoes.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pack these items: socks, shirts, shoes."
+      },
+      {
+        "label": "B",
+        "text": "Pack these items; socks, shirts, shoes."
+      },
+      {
+        "label": "C",
+        "text": "Pack: these items socks shirts shoes."
+      },
+      {
+        "label": "D",
+        "text": "Pack these items socks shirts shoes."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Colon introduces a list after a complete sentence.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong punctuation mark"
+      },
+      {
+        "label": "C",
+        "explanation": "No change leaves error"
+      }
+    ],
+    "skills": [
+      "semicolons-colons"
+    ],
+    "tags": [
+      "punctuation",
+      "semicolons"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.semicolon_colon",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Add correct punctuation: \"He was tired however he kept going.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "He was tired; however, he kept going."
+      },
+      {
+        "label": "B",
+        "text": "He was tired, however he kept going."
+      },
+      {
+        "label": "C",
+        "text": "He was; tired however he kept going."
+      },
+      {
+        "label": "D",
+        "text": "He was tired however he kept going."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Semicolon before conjunctive adverb, comma after.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong punctuation mark"
+      },
+      {
+        "label": "C",
+        "explanation": "No change leaves error"
+      }
+    ],
+    "skills": [
+      "semicolons-colons"
+    ],
+    "tags": [
+      "punctuation",
+      "semicolons"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.semicolon_colon",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Add correct punctuation: \"She speaks three languages French Spanish English.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "She speaks three languages: French, Spanish, and English."
+      },
+      {
+        "label": "B",
+        "text": "She speaks three languages; French, Spanish, and English."
+      },
+      {
+        "label": "C",
+        "text": "She speaks; three languages French Spanish English."
+      },
+      {
+        "label": "D",
+        "text": "She speaks three languages French Spanish English."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Colon introduces the list.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong punctuation mark"
+      },
+      {
+        "label": "C",
+        "explanation": "No change leaves error"
+      }
+    ],
+    "skills": [
+      "semicolons-colons"
+    ],
+    "tags": [
+      "punctuation",
+      "semicolons"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.semicolon_colon",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Add correct punctuation: \"It rained we stayed inside.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "It rained; we stayed inside."
+      },
+      {
+        "label": "B",
+        "text": "It rained, we stayed inside."
+      },
+      {
+        "label": "C",
+        "text": "It; rained we stayed inside."
+      },
+      {
+        "label": "D",
+        "text": "It rained we stayed inside."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Semicolon separates independent clauses.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong punctuation mark"
+      },
+      {
+        "label": "C",
+        "explanation": "No change leaves error"
+      }
+    ],
+    "skills": [
+      "semicolons-colons"
+    ],
+    "tags": [
+      "punctuation",
+      "semicolons"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.semicolon_colon",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Add correct punctuation: \"The answer was clear we needed more time.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The answer was clear: we needed more time."
+      },
+      {
+        "label": "B",
+        "text": "The answer was clear, we needed more time."
+      },
+      {
+        "label": "C",
+        "text": "The answer; was clear we needed more time."
+      },
+      {
+        "label": "D",
+        "text": "The answer was clear we needed more time."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Colon for elaboration.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong punctuation mark"
+      },
+      {
+        "label": "C",
+        "explanation": "No change leaves error"
+      }
+    ],
+    "skills": [
+      "semicolons-colons"
+    ],
+    "tags": [
+      "punctuation",
+      "semicolons"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.semicolon_colon",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Add correct punctuation: \"I have visited Paris France London England.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "I have visited Paris, France; London, England."
+      },
+      {
+        "label": "B",
+        "text": "I have visited Paris France, London England."
+      },
+      {
+        "label": "C",
+        "text": "I have; visited Paris France London England."
+      },
+      {
+        "label": "D",
+        "text": "I have visited Paris France London England."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Semicolons separate items with internal commas.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong punctuation mark"
+      },
+      {
+        "label": "C",
+        "explanation": "No change leaves error"
+      }
+    ],
+    "skills": [
+      "semicolons-colons"
+    ],
+    "tags": [
+      "punctuation",
+      "semicolons"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.semicolon_colon",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Add correct punctuation: \"The store closes at nine therefore hurry.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The store closes at nine; therefore, hurry."
+      },
+      {
+        "label": "B",
+        "text": "The store closes at nine, therefore hurry."
+      },
+      {
+        "label": "C",
+        "text": "The store closes; at nine therefore hurry."
+      },
+      {
+        "label": "D",
+        "text": "The store closes at nine therefore hurry."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Semicolon before therefore, comma after.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong punctuation mark"
+      },
+      {
+        "label": "C",
+        "explanation": "No change leaves error"
+      }
+    ],
+    "skills": [
+      "semicolons-colons"
+    ],
+    "tags": [
+      "punctuation",
+      "semicolons"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.semicolon_colon",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Add correct punctuation: \"Two things matter effort and attitude.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Two things matter: effort and attitude."
+      },
+      {
+        "label": "B",
+        "text": "Two things matter; effort and attitude."
+      },
+      {
+        "label": "C",
+        "text": "Two; things matter effort and attitude."
+      },
+      {
+        "label": "D",
+        "text": "Two things matter effort and attitude."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Colon introduces the explanation.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong punctuation mark"
+      },
+      {
+        "label": "C",
+        "explanation": "No change leaves error"
+      }
+    ],
+    "skills": [
+      "semicolons-colons"
+    ],
+    "tags": [
+      "punctuation",
+      "semicolons"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.semicolon_colon",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Add correct punctuation: \"We left early the traffic was bad.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "We left early; the traffic was bad."
+      },
+      {
+        "label": "B",
+        "text": "We left early, the traffic was bad."
+      },
+      {
+        "label": "C",
+        "text": "We; left early the traffic was bad."
+      },
+      {
+        "label": "D",
+        "text": "We left early the traffic was bad."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Semicolon joins related clauses.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong punctuation mark"
+      },
+      {
+        "label": "C",
+        "explanation": "No change leaves error"
+      }
+    ],
+    "skills": [
+      "semicolons-colons"
+    ],
+    "tags": [
+      "punctuation",
+      "semicolons"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.semicolon_colon",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Add correct punctuation: \"She succeeded moreover she broke the record.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "She succeeded; moreover, she broke the record."
+      },
+      {
+        "label": "B",
+        "text": "She succeeded, moreover she broke the record."
+      },
+      {
+        "label": "C",
+        "text": "She; succeeded moreover she broke the record."
+      },
+      {
+        "label": "D",
+        "text": "She succeeded moreover she broke the record."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Semicolon before conjunctive adverb.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong punctuation mark"
+      },
+      {
+        "label": "C",
+        "explanation": "No change leaves error"
+      }
+    ],
+    "skills": [
+      "semicolons-colons"
+    ],
+    "tags": [
+      "punctuation",
+      "semicolons"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.semicolon_colon",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Add correct punctuation: \"The recipe needs three spices cumin paprika salt.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The recipe needs three spices: cumin, paprika, and salt."
+      },
+      {
+        "label": "B",
+        "text": "The recipe needs three spices; cumin paprika salt."
+      },
+      {
+        "label": "C",
+        "text": "The recipe; needs three spices cumin paprika salt."
+      },
+      {
+        "label": "D",
+        "text": "The recipe needs three spices cumin paprika salt."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Colon introduces list.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong punctuation mark"
+      },
+      {
+        "label": "C",
+        "explanation": "No change leaves error"
+      }
+    ],
+    "skills": [
+      "semicolons-colons"
+    ],
+    "tags": [
+      "punctuation",
+      "semicolons"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.semicolon_colon",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Add correct punctuation: \"He was happy she was not.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "He was happy; she was not."
+      },
+      {
+        "label": "B",
+        "text": "He was happy, she was not."
+      },
+      {
+        "label": "C",
+        "text": "He; was happy she was not."
+      },
+      {
+        "label": "D",
+        "text": "He was happy she was not."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Semicolon separates contrasting clauses.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong punctuation mark"
+      },
+      {
+        "label": "C",
+        "explanation": "No change leaves error"
+      }
+    ],
+    "skills": [
+      "semicolons-colons"
+    ],
+    "tags": [
+      "punctuation",
+      "semicolons"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.mechanics.apostrophes",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Fix the apostrophe: \"The dogs bone was buried.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The dog's bone was buried."
+      },
+      {
+        "label": "B",
+        "text": "The dogs' bone was buried."
+      },
+      {
+        "label": "C",
+        "text": "The dog bone was buried."
+      },
+      {
+        "label": "D",
+        "text": "The dogs bone was buried."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Singular possessive: dog's.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong apostrophe placement"
+      },
+      {
+        "label": "C",
+        "explanation": "No apostrophe leaves error"
+      }
+    ],
+    "skills": [
+      "apostrophes"
+    ],
+    "tags": [
+      "punctuation",
+      "apostrophes"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.mechanics.apostrophes",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Fix the apostrophe: \"Its a beautiful day.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "It's a beautiful day."
+      },
+      {
+        "label": "B",
+        "text": "Its' a beautiful day."
+      },
+      {
+        "label": "C",
+        "text": "Its a beautiful day."
+      },
+      {
+        "label": "D",
+        "text": "Its a beautiful day."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "It's = it is (contraction).",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong apostrophe placement"
+      },
+      {
+        "label": "C",
+        "explanation": "No apostrophe leaves error"
+      }
+    ],
+    "skills": [
+      "apostrophes"
+    ],
+    "tags": [
+      "punctuation",
+      "apostrophes"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.mechanics.apostrophes",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Fix the apostrophe: \"The childrens toys are here.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The children's toys are here."
+      },
+      {
+        "label": "B",
+        "text": "The childrens' toys are here."
+      },
+      {
+        "label": "C",
+        "text": "The children toys are here."
+      },
+      {
+        "label": "D",
+        "text": "The childrens toys are here."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Children is already plural; add 's.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong apostrophe placement"
+      },
+      {
+        "label": "C",
+        "explanation": "No apostrophe leaves error"
+      }
+    ],
+    "skills": [
+      "apostrophes"
+    ],
+    "tags": [
+      "punctuation",
+      "apostrophes"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.mechanics.apostrophes",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Fix the apostrophe: \"The two boys jackets matched.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The two boys' jackets matched."
+      },
+      {
+        "label": "B",
+        "text": "The two boy's jackets matched."
+      },
+      {
+        "label": "C",
+        "text": "The two boys jackets' matched."
+      },
+      {
+        "label": "D",
+        "text": "The two boys jackets matched."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Plural possessive: boys'.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong apostrophe placement"
+      },
+      {
+        "label": "C",
+        "explanation": "No apostrophe leaves error"
+      }
+    ],
+    "skills": [
+      "apostrophes"
+    ],
+    "tags": [
+      "punctuation",
+      "apostrophes"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.mechanics.apostrophes",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Fix the apostrophe: \"Dont forget your keys.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Don't forget your keys."
+      },
+      {
+        "label": "B",
+        "text": "Do'nt forget your keys."
+      },
+      {
+        "label": "C",
+        "text": "Dont' forget your keys."
+      },
+      {
+        "label": "D",
+        "text": "Dont forget your keys."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Apostrophe replaces the missing o.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong apostrophe placement"
+      },
+      {
+        "label": "C",
+        "explanation": "No apostrophe leaves error"
+      }
+    ],
+    "skills": [
+      "apostrophes"
+    ],
+    "tags": [
+      "punctuation",
+      "apostrophes"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.mechanics.apostrophes",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Fix the apostrophe: \"James book is on the desk.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "James's book is on the desk."
+      },
+      {
+        "label": "B",
+        "text": "James book's is on the desk."
+      },
+      {
+        "label": "C",
+        "text": "Jame's book is on the desk."
+      },
+      {
+        "label": "D",
+        "text": "James book is on the desk."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Singular name ending in s: add 's.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong apostrophe placement"
+      },
+      {
+        "label": "C",
+        "explanation": "No apostrophe leaves error"
+      }
+    ],
+    "skills": [
+      "apostrophes"
+    ],
+    "tags": [
+      "punctuation",
+      "apostrophes"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.mechanics.apostrophes",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Fix the apostrophe: \"The cats whiskers twitched.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The cat's whiskers twitched."
+      },
+      {
+        "label": "B",
+        "text": "The cats' whiskers twitched."
+      },
+      {
+        "label": "C",
+        "text": "The cat whiskers twitched."
+      },
+      {
+        "label": "D",
+        "text": "The cats whiskers twitched."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "One cat = singular possessive.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong apostrophe placement"
+      },
+      {
+        "label": "C",
+        "explanation": "No apostrophe leaves error"
+      }
+    ],
+    "skills": [
+      "apostrophes"
+    ],
+    "tags": [
+      "punctuation",
+      "apostrophes"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.mechanics.apostrophes",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Fix the apostrophe: \"Whos coming to dinner?\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Who's coming to dinner?"
+      },
+      {
+        "label": "B",
+        "text": "Whose coming to dinner?"
+      },
+      {
+        "label": "C",
+        "text": "Who's' coming to dinner?"
+      },
+      {
+        "label": "D",
+        "text": "Whos coming to dinner?"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Who's = who is.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong apostrophe placement"
+      },
+      {
+        "label": "C",
+        "explanation": "No apostrophe leaves error"
+      }
+    ],
+    "skills": [
+      "apostrophes"
+    ],
+    "tags": [
+      "punctuation",
+      "apostrophes"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.mechanics.apostrophes",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Fix the apostrophe: \"The womens restroom is upstairs.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The women's restroom is upstairs."
+      },
+      {
+        "label": "B",
+        "text": "The womens' restroom is upstairs."
+      },
+      {
+        "label": "C",
+        "text": "The women restroom is upstairs."
+      },
+      {
+        "label": "D",
+        "text": "The womens restroom is upstairs."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Women is already plural; add 's.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong apostrophe placement"
+      },
+      {
+        "label": "C",
+        "explanation": "No apostrophe leaves error"
+      }
+    ],
+    "skills": [
+      "apostrophes"
+    ],
+    "tags": [
+      "punctuation",
+      "apostrophes"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.mechanics.apostrophes",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Fix the apostrophe: \"They shouldve called earlier.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "They should've called earlier."
+      },
+      {
+        "label": "B",
+        "text": "They shouldv'e called earlier."
+      },
+      {
+        "label": "C",
+        "text": "They should've called earlier."
+      },
+      {
+        "label": "D",
+        "text": "They shouldve called earlier."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Apostrophe in should've replaces ha.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong apostrophe placement"
+      },
+      {
+        "label": "C",
+        "explanation": "No apostrophe leaves error"
+      }
+    ],
+    "skills": [
+      "apostrophes"
+    ],
+    "tags": [
+      "punctuation",
+      "apostrophes"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.mechanics.apostrophes",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Fix the apostrophe: \"The teachers lounge is closed.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The teachers' lounge is closed."
+      },
+      {
+        "label": "B",
+        "text": "The teacher's lounge is closed."
+      },
+      {
+        "label": "C",
+        "text": "The teachers lounge's is closed."
+      },
+      {
+        "label": "D",
+        "text": "The teachers lounge is closed."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Multiple teachers = plural possessive.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong apostrophe placement"
+      },
+      {
+        "label": "C",
+        "explanation": "No apostrophe leaves error"
+      }
+    ],
+    "skills": [
+      "apostrophes"
+    ],
+    "tags": [
+      "punctuation",
+      "apostrophes"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.mechanics.apostrophes",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Fix the apostrophe: \"Lets go to the park.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Let's go to the park."
+      },
+      {
+        "label": "B",
+        "text": "Lets' go to the park."
+      },
+      {
+        "label": "C",
+        "text": "Le'ts go to the park."
+      },
+      {
+        "label": "D",
+        "text": "Lets go to the park."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Let's = let us.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong apostrophe placement"
+      },
+      {
+        "label": "C",
+        "explanation": "No apostrophe leaves error"
+      }
+    ],
+    "skills": [
+      "apostrophes"
+    ],
+    "tags": [
+      "punctuation",
+      "apostrophes"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.punctuation.colon_usage",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Add correct punctuation: \"The meeting starts at 3 00 PM.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The meeting starts at 3:00 PM."
+      },
+      {
+        "label": "B",
+        "text": "The meeting starts at 3;00 PM."
+      },
+      {
+        "label": "C",
+        "text": "The meeting starts at 3.00 PM."
+      },
+      {
+        "label": "D",
+        "text": "The meeting starts at 3 00 PM."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Colons separate hours and minutes.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Used semicolon instead"
+      },
+      {
+        "label": "C",
+        "explanation": "No punctuation added"
+      }
+    ],
+    "skills": [
+      "colon-usage"
+    ],
+    "tags": [
+      "punctuation",
+      "colons"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.punctuation.colon_usage",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Add correct punctuation: \"Dear Sir or Madam\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dear Sir or Madam:"
+      },
+      {
+        "label": "B",
+        "text": "Dear Sir or Madam;"
+      },
+      {
+        "label": "C",
+        "text": "Dear Sir or Madam,"
+      },
+      {
+        "label": "D",
+        "text": "Dear Sir or Madam"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Colon after formal greeting.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Used semicolon instead"
+      },
+      {
+        "label": "C",
+        "explanation": "No punctuation added"
+      }
+    ],
+    "skills": [
+      "colon-usage"
+    ],
+    "tags": [
+      "punctuation",
+      "colons"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.punctuation.colon_usage",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Add correct punctuation: \"He wanted one thing success.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "He wanted one thing: success."
+      },
+      {
+        "label": "B",
+        "text": "He wanted one thing; success."
+      },
+      {
+        "label": "C",
+        "text": "He wanted one thing, success."
+      },
+      {
+        "label": "D",
+        "text": "He wanted one thing success."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Colon before a single explanatory word.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Used semicolon instead"
+      },
+      {
+        "label": "C",
+        "explanation": "No punctuation added"
+      }
+    ],
+    "skills": [
+      "colon-usage"
+    ],
+    "tags": [
+      "punctuation",
+      "colons"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.punctuation.colon_usage",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Add correct punctuation: \"Warning do not enter.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Warning: do not enter."
+      },
+      {
+        "label": "B",
+        "text": "Warning; do not enter."
+      },
+      {
+        "label": "C",
+        "text": "Warning, do not enter."
+      },
+      {
+        "label": "D",
+        "text": "Warning do not enter."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Colon after a warning/label.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Used semicolon instead"
+      },
+      {
+        "label": "C",
+        "explanation": "No punctuation added"
+      }
+    ],
+    "skills": [
+      "colon-usage"
+    ],
+    "tags": [
+      "punctuation",
+      "colons"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.punctuation.colon_usage",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Add correct punctuation: \"The rule is simple study daily.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The rule is simple: study daily."
+      },
+      {
+        "label": "B",
+        "text": "The rule is simple; study daily."
+      },
+      {
+        "label": "C",
+        "text": "The rule is, simple study daily."
+      },
+      {
+        "label": "D",
+        "text": "The rule is simple study daily."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Colon introduces elaboration.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Used semicolon instead"
+      },
+      {
+        "label": "C",
+        "explanation": "No punctuation added"
+      }
+    ],
+    "skills": [
+      "colon-usage"
+    ],
+    "tags": [
+      "punctuation",
+      "colons"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.punctuation.colon_usage",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Add correct punctuation: \"Note this will be on the test.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Note: this will be on the test."
+      },
+      {
+        "label": "B",
+        "text": "Note; this will be on the test."
+      },
+      {
+        "label": "C",
+        "text": "Note, this will be on the test."
+      },
+      {
+        "label": "D",
+        "text": "Note this will be on the test."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Colon after a label.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Used semicolon instead"
+      },
+      {
+        "label": "C",
+        "explanation": "No punctuation added"
+      }
+    ],
+    "skills": [
+      "colon-usage"
+    ],
+    "tags": [
+      "punctuation",
+      "colons"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.punctuation.colon_usage",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Add correct punctuation: \"She brought supplies paper pencils erasers.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "She brought supplies: paper, pencils, erasers."
+      },
+      {
+        "label": "B",
+        "text": "She brought supplies; paper, pencils, erasers."
+      },
+      {
+        "label": "C",
+        "text": "She brought: supplies paper pencils erasers."
+      },
+      {
+        "label": "D",
+        "text": "She brought supplies paper pencils erasers."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Colon introduces list after complete clause.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Used semicolon instead"
+      },
+      {
+        "label": "C",
+        "explanation": "No punctuation added"
+      }
+    ],
+    "skills": [
+      "colon-usage"
+    ],
+    "tags": [
+      "punctuation",
+      "colons"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.punctuation.colon_usage",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Add correct punctuation: \"The time is 12 30.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The time is 12:30."
+      },
+      {
+        "label": "B",
+        "text": "The time is 12;30."
+      },
+      {
+        "label": "C",
+        "text": "The time is 12.30."
+      },
+      {
+        "label": "D",
+        "text": "The time is 12 30."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Colon in time notation.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Used semicolon instead"
+      },
+      {
+        "label": "C",
+        "explanation": "No punctuation added"
+      }
+    ],
+    "skills": [
+      "colon-usage"
+    ],
+    "tags": [
+      "punctuation",
+      "colons"
+    ]
+  }
+]

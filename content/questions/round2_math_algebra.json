@@ -1,0 +1,2510 @@
+[
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve for x: 5x + 9 = 49",
+    "options": [
+      {
+        "label": "A",
+        "text": "8"
+      },
+      {
+        "label": "B",
+        "text": "10"
+      },
+      {
+        "label": "C",
+        "text": "7"
+      },
+      {
+        "label": "D",
+        "text": "-8"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "5x = 49 - 9 = 40, x = 40/5 = 8",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Arithmetic error when dividing"
+      },
+      {
+        "label": "C",
+        "explanation": "Subtracted incorrectly"
+      }
+    ],
+    "skills": [
+      "solve-linear-equations"
+    ],
+    "tags": [
+      "algebra",
+      "linear-equations"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve for x: 7x + 17 = 59",
+    "options": [
+      {
+        "label": "A",
+        "text": "6"
+      },
+      {
+        "label": "B",
+        "text": "8"
+      },
+      {
+        "label": "C",
+        "text": "5"
+      },
+      {
+        "label": "D",
+        "text": "-6"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "7x = 59 - 17 = 42, x = 42/7 = 6",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Arithmetic error when dividing"
+      },
+      {
+        "label": "C",
+        "explanation": "Subtracted incorrectly"
+      }
+    ],
+    "skills": [
+      "solve-linear-equations"
+    ],
+    "tags": [
+      "algebra",
+      "linear-equations"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve for x: 7x + 1 = -34",
+    "options": [
+      {
+        "label": "A",
+        "text": "-5"
+      },
+      {
+        "label": "B",
+        "text": "-3"
+      },
+      {
+        "label": "C",
+        "text": "-6"
+      },
+      {
+        "label": "D",
+        "text": "5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "7x = -34 - 1 = -35, x = -35/7 = -5",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Arithmetic error when dividing"
+      },
+      {
+        "label": "C",
+        "explanation": "Subtracted incorrectly"
+      }
+    ],
+    "skills": [
+      "solve-linear-equations"
+    ],
+    "tags": [
+      "algebra",
+      "linear-equations"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve for x: 5x + 3 = -37",
+    "options": [
+      {
+        "label": "A",
+        "text": "-8"
+      },
+      {
+        "label": "B",
+        "text": "-6"
+      },
+      {
+        "label": "C",
+        "text": "-9"
+      },
+      {
+        "label": "D",
+        "text": "8"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "5x = -37 - 3 = -40, x = -40/5 = -8",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Arithmetic error when dividing"
+      },
+      {
+        "label": "C",
+        "explanation": "Subtracted incorrectly"
+      }
+    ],
+    "skills": [
+      "solve-linear-equations"
+    ],
+    "tags": [
+      "algebra",
+      "linear-equations"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve for x: 6x + 7 = 19",
+    "options": [
+      {
+        "label": "A",
+        "text": "2"
+      },
+      {
+        "label": "B",
+        "text": "4"
+      },
+      {
+        "label": "C",
+        "text": "1"
+      },
+      {
+        "label": "D",
+        "text": "-2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "6x = 19 - 7 = 12, x = 12/6 = 2",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Arithmetic error when dividing"
+      },
+      {
+        "label": "C",
+        "explanation": "Subtracted incorrectly"
+      }
+    ],
+    "skills": [
+      "solve-linear-equations"
+    ],
+    "tags": [
+      "algebra",
+      "linear-equations"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve for x: 6x + 4 = -32",
+    "options": [
+      {
+        "label": "A",
+        "text": "-6"
+      },
+      {
+        "label": "B",
+        "text": "-4"
+      },
+      {
+        "label": "C",
+        "text": "-7"
+      },
+      {
+        "label": "D",
+        "text": "6"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "6x = -32 - 4 = -36, x = -36/6 = -6",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Arithmetic error when dividing"
+      },
+      {
+        "label": "C",
+        "explanation": "Subtracted incorrectly"
+      }
+    ],
+    "skills": [
+      "solve-linear-equations"
+    ],
+    "tags": [
+      "algebra",
+      "linear-equations"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve for x: 5x + 15 = 40",
+    "options": [
+      {
+        "label": "A",
+        "text": "5"
+      },
+      {
+        "label": "B",
+        "text": "7"
+      },
+      {
+        "label": "C",
+        "text": "4"
+      },
+      {
+        "label": "D",
+        "text": "-5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "5x = 40 - 15 = 25, x = 25/5 = 5",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Arithmetic error when dividing"
+      },
+      {
+        "label": "C",
+        "explanation": "Subtracted incorrectly"
+      }
+    ],
+    "skills": [
+      "solve-linear-equations"
+    ],
+    "tags": [
+      "algebra",
+      "linear-equations"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve for x: 4x + 18 = -6",
+    "options": [
+      {
+        "label": "A",
+        "text": "-6"
+      },
+      {
+        "label": "B",
+        "text": "-4"
+      },
+      {
+        "label": "C",
+        "text": "-7"
+      },
+      {
+        "label": "D",
+        "text": "6"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "4x = -6 - 18 = -24, x = -24/4 = -6",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Arithmetic error when dividing"
+      },
+      {
+        "label": "C",
+        "explanation": "Subtracted incorrectly"
+      }
+    ],
+    "skills": [
+      "solve-linear-equations"
+    ],
+    "tags": [
+      "algebra",
+      "linear-equations"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve for x: 4x + 7 = 7",
+    "options": [
+      {
+        "label": "A",
+        "text": "0"
+      },
+      {
+        "label": "B",
+        "text": "2"
+      },
+      {
+        "label": "C",
+        "text": "-1"
+      },
+      {
+        "label": "D",
+        "text": "0"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "4x = 7 - 7 = 0, x = 0/4 = 0",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Arithmetic error when dividing"
+      },
+      {
+        "label": "C",
+        "explanation": "Subtracted incorrectly"
+      }
+    ],
+    "skills": [
+      "solve-linear-equations"
+    ],
+    "tags": [
+      "algebra",
+      "linear-equations"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve for x: 8x + 9 = 65",
+    "options": [
+      {
+        "label": "A",
+        "text": "7"
+      },
+      {
+        "label": "B",
+        "text": "9"
+      },
+      {
+        "label": "C",
+        "text": "6"
+      },
+      {
+        "label": "D",
+        "text": "-7"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "8x = 65 - 9 = 56, x = 56/8 = 7",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Arithmetic error when dividing"
+      },
+      {
+        "label": "C",
+        "explanation": "Subtracted incorrectly"
+      }
+    ],
+    "skills": [
+      "solve-linear-equations"
+    ],
+    "tags": [
+      "algebra",
+      "linear-equations"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve for x: 4x + 5 = -15",
+    "options": [
+      {
+        "label": "A",
+        "text": "-5"
+      },
+      {
+        "label": "B",
+        "text": "-3"
+      },
+      {
+        "label": "C",
+        "text": "-6"
+      },
+      {
+        "label": "D",
+        "text": "5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "4x = -15 - 5 = -20, x = -20/4 = -5",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Arithmetic error when dividing"
+      },
+      {
+        "label": "C",
+        "explanation": "Subtracted incorrectly"
+      }
+    ],
+    "skills": [
+      "solve-linear-equations"
+    ],
+    "tags": [
+      "algebra",
+      "linear-equations"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve for x: 5x + 20 = 5",
+    "options": [
+      {
+        "label": "A",
+        "text": "-3"
+      },
+      {
+        "label": "B",
+        "text": "-1"
+      },
+      {
+        "label": "C",
+        "text": "-4"
+      },
+      {
+        "label": "D",
+        "text": "3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "5x = 5 - 20 = -15, x = -15/5 = -3",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Arithmetic error when dividing"
+      },
+      {
+        "label": "C",
+        "explanation": "Subtracted incorrectly"
+      }
+    ],
+    "skills": [
+      "solve-linear-equations"
+    ],
+    "tags": [
+      "algebra",
+      "linear-equations"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve for x: 5x + 5 = 30",
+    "options": [
+      {
+        "label": "A",
+        "text": "5"
+      },
+      {
+        "label": "B",
+        "text": "7"
+      },
+      {
+        "label": "C",
+        "text": "4"
+      },
+      {
+        "label": "D",
+        "text": "-5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "5x = 30 - 5 = 25, x = 25/5 = 5",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Arithmetic error when dividing"
+      },
+      {
+        "label": "C",
+        "explanation": "Subtracted incorrectly"
+      }
+    ],
+    "skills": [
+      "solve-linear-equations"
+    ],
+    "tags": [
+      "algebra",
+      "linear-equations"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve for x: 2x + 17 = 7",
+    "options": [
+      {
+        "label": "A",
+        "text": "-5"
+      },
+      {
+        "label": "B",
+        "text": "-3"
+      },
+      {
+        "label": "C",
+        "text": "-6"
+      },
+      {
+        "label": "D",
+        "text": "5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "2x = 7 - 17 = -10, x = -10/2 = -5",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Arithmetic error when dividing"
+      },
+      {
+        "label": "C",
+        "explanation": "Subtracted incorrectly"
+      }
+    ],
+    "skills": [
+      "solve-linear-equations"
+    ],
+    "tags": [
+      "algebra",
+      "linear-equations"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve for x: 7x + 10 = 52",
+    "options": [
+      {
+        "label": "A",
+        "text": "6"
+      },
+      {
+        "label": "B",
+        "text": "8"
+      },
+      {
+        "label": "C",
+        "text": "5"
+      },
+      {
+        "label": "D",
+        "text": "-6"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "7x = 52 - 10 = 42, x = 42/7 = 6",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Arithmetic error when dividing"
+      },
+      {
+        "label": "C",
+        "explanation": "Subtracted incorrectly"
+      }
+    ],
+    "skills": [
+      "solve-linear-equations"
+    ],
+    "tags": [
+      "algebra",
+      "linear-equations"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve: 3x + 2y = 14 and 2x + 4y = 12. Find x.",
+    "options": [
+      {
+        "label": "A",
+        "text": "4"
+      },
+      {
+        "label": "B",
+        "text": "1"
+      },
+      {
+        "label": "C",
+        "text": "5"
+      },
+      {
+        "label": "D",
+        "text": "3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using elimination/substitution: x = 4, y = 1",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Confused x and y"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error in elimination"
+      }
+    ],
+    "skills": [
+      "systems-of-equations"
+    ],
+    "tags": [
+      "algebra",
+      "systems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve: 3x + 3y = 15 and 3x + 2y = 14. Find x.",
+    "options": [
+      {
+        "label": "A",
+        "text": "4"
+      },
+      {
+        "label": "B",
+        "text": "1"
+      },
+      {
+        "label": "C",
+        "text": "5"
+      },
+      {
+        "label": "D",
+        "text": "3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using elimination/substitution: x = 4, y = 1",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Confused x and y"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error in elimination"
+      }
+    ],
+    "skills": [
+      "systems-of-equations"
+    ],
+    "tags": [
+      "algebra",
+      "systems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve: 1x + 1y = 12 and 2x + 1y = 18. Find x.",
+    "options": [
+      {
+        "label": "A",
+        "text": "6"
+      },
+      {
+        "label": "B",
+        "text": "6"
+      },
+      {
+        "label": "C",
+        "text": "7"
+      },
+      {
+        "label": "D",
+        "text": "5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using elimination/substitution: x = 6, y = 6",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Confused x and y"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error in elimination"
+      }
+    ],
+    "skills": [
+      "systems-of-equations"
+    ],
+    "tags": [
+      "algebra",
+      "systems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve: 4x + 4y = 56 and 4x + 3y = 49. Find x.",
+    "options": [
+      {
+        "label": "A",
+        "text": "7"
+      },
+      {
+        "label": "B",
+        "text": "7"
+      },
+      {
+        "label": "C",
+        "text": "8"
+      },
+      {
+        "label": "D",
+        "text": "6"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using elimination/substitution: x = 7, y = 7",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Confused x and y"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error in elimination"
+      }
+    ],
+    "skills": [
+      "systems-of-equations"
+    ],
+    "tags": [
+      "algebra",
+      "systems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve: 2x + 4y = 28 and 4x + 4y = 36. Find x.",
+    "options": [
+      {
+        "label": "A",
+        "text": "4"
+      },
+      {
+        "label": "B",
+        "text": "5"
+      },
+      {
+        "label": "C",
+        "text": "5"
+      },
+      {
+        "label": "D",
+        "text": "3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using elimination/substitution: x = 4, y = 5",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Confused x and y"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error in elimination"
+      }
+    ],
+    "skills": [
+      "systems-of-equations"
+    ],
+    "tags": [
+      "algebra",
+      "systems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve: 2x + 3y = 29 and 2x + 4y = 34. Find x.",
+    "options": [
+      {
+        "label": "A",
+        "text": "7"
+      },
+      {
+        "label": "B",
+        "text": "5"
+      },
+      {
+        "label": "C",
+        "text": "8"
+      },
+      {
+        "label": "D",
+        "text": "6"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using elimination/substitution: x = 7, y = 5",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Confused x and y"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error in elimination"
+      }
+    ],
+    "skills": [
+      "systems-of-equations"
+    ],
+    "tags": [
+      "algebra",
+      "systems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve: 4x + 3y = 43 and 2x + 4y = 34. Find x.",
+    "options": [
+      {
+        "label": "A",
+        "text": "7"
+      },
+      {
+        "label": "B",
+        "text": "5"
+      },
+      {
+        "label": "C",
+        "text": "8"
+      },
+      {
+        "label": "D",
+        "text": "6"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using elimination/substitution: x = 7, y = 5",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Confused x and y"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error in elimination"
+      }
+    ],
+    "skills": [
+      "systems-of-equations"
+    ],
+    "tags": [
+      "algebra",
+      "systems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve: 1x + 4y = 8 and 4x + 2y = 18. Find x.",
+    "options": [
+      {
+        "label": "A",
+        "text": "4"
+      },
+      {
+        "label": "B",
+        "text": "1"
+      },
+      {
+        "label": "C",
+        "text": "5"
+      },
+      {
+        "label": "D",
+        "text": "3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using elimination/substitution: x = 4, y = 1",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Confused x and y"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error in elimination"
+      }
+    ],
+    "skills": [
+      "systems-of-equations"
+    ],
+    "tags": [
+      "algebra",
+      "systems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve: 2x + 3y = 18 and 2x + 4y = 22. Find x.",
+    "options": [
+      {
+        "label": "A",
+        "text": "3"
+      },
+      {
+        "label": "B",
+        "text": "4"
+      },
+      {
+        "label": "C",
+        "text": "4"
+      },
+      {
+        "label": "D",
+        "text": "2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using elimination/substitution: x = 3, y = 4",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Confused x and y"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error in elimination"
+      }
+    ],
+    "skills": [
+      "systems-of-equations"
+    ],
+    "tags": [
+      "algebra",
+      "systems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve: 3x + 1y = 10 and 1x + 1y = 6. Find x.",
+    "options": [
+      {
+        "label": "A",
+        "text": "2"
+      },
+      {
+        "label": "B",
+        "text": "4"
+      },
+      {
+        "label": "C",
+        "text": "3"
+      },
+      {
+        "label": "D",
+        "text": "1"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using elimination/substitution: x = 2, y = 4",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Confused x and y"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error in elimination"
+      }
+    ],
+    "skills": [
+      "systems-of-equations"
+    ],
+    "tags": [
+      "algebra",
+      "systems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Simplify: (2x + 6) + (2x + 9)",
+    "options": [
+      {
+        "label": "A",
+        "text": "4x + 15"
+      },
+      {
+        "label": "B",
+        "text": "4x + -3"
+      },
+      {
+        "label": "C",
+        "text": "4x + 15"
+      },
+      {
+        "label": "D",
+        "text": "4x - 15"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Combine like terms: (2+2)x + (6+9) = 4x + 15",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Subtracted constants"
+      },
+      {
+        "label": "C",
+        "explanation": "Multiplied coefficients"
+      }
+    ],
+    "skills": [
+      "simplify-expressions"
+    ],
+    "tags": [
+      "algebra",
+      "expressions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Simplify: (7x + 5) + (7x + 3)",
+    "options": [
+      {
+        "label": "A",
+        "text": "14x + 8"
+      },
+      {
+        "label": "B",
+        "text": "14x + 2"
+      },
+      {
+        "label": "C",
+        "text": "49x + 8"
+      },
+      {
+        "label": "D",
+        "text": "14x - 8"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Combine like terms: (7+7)x + (5+3) = 14x + 8",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Subtracted constants"
+      },
+      {
+        "label": "C",
+        "explanation": "Multiplied coefficients"
+      }
+    ],
+    "skills": [
+      "simplify-expressions"
+    ],
+    "tags": [
+      "algebra",
+      "expressions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Simplify: (6x + 5) + (7x + 7)",
+    "options": [
+      {
+        "label": "A",
+        "text": "13x + 12"
+      },
+      {
+        "label": "B",
+        "text": "13x + -2"
+      },
+      {
+        "label": "C",
+        "text": "42x + 12"
+      },
+      {
+        "label": "D",
+        "text": "13x - 12"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Combine like terms: (6+7)x + (5+7) = 13x + 12",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Subtracted constants"
+      },
+      {
+        "label": "C",
+        "explanation": "Multiplied coefficients"
+      }
+    ],
+    "skills": [
+      "simplify-expressions"
+    ],
+    "tags": [
+      "algebra",
+      "expressions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Simplify: (2x + 9) + (3x + 5)",
+    "options": [
+      {
+        "label": "A",
+        "text": "5x + 14"
+      },
+      {
+        "label": "B",
+        "text": "5x + 4"
+      },
+      {
+        "label": "C",
+        "text": "6x + 14"
+      },
+      {
+        "label": "D",
+        "text": "5x - 14"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Combine like terms: (2+3)x + (9+5) = 5x + 14",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Subtracted constants"
+      },
+      {
+        "label": "C",
+        "explanation": "Multiplied coefficients"
+      }
+    ],
+    "skills": [
+      "simplify-expressions"
+    ],
+    "tags": [
+      "algebra",
+      "expressions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Simplify: (2x + 3) + (6x + 2)",
+    "options": [
+      {
+        "label": "A",
+        "text": "8x + 5"
+      },
+      {
+        "label": "B",
+        "text": "8x + 1"
+      },
+      {
+        "label": "C",
+        "text": "12x + 5"
+      },
+      {
+        "label": "D",
+        "text": "8x - 5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Combine like terms: (2+6)x + (3+2) = 8x + 5",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Subtracted constants"
+      },
+      {
+        "label": "C",
+        "explanation": "Multiplied coefficients"
+      }
+    ],
+    "skills": [
+      "simplify-expressions"
+    ],
+    "tags": [
+      "algebra",
+      "expressions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Simplify: (5x + 5) + (6x + 3)",
+    "options": [
+      {
+        "label": "A",
+        "text": "11x + 8"
+      },
+      {
+        "label": "B",
+        "text": "11x + 2"
+      },
+      {
+        "label": "C",
+        "text": "30x + 8"
+      },
+      {
+        "label": "D",
+        "text": "11x - 8"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Combine like terms: (5+6)x + (5+3) = 11x + 8",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Subtracted constants"
+      },
+      {
+        "label": "C",
+        "explanation": "Multiplied coefficients"
+      }
+    ],
+    "skills": [
+      "simplify-expressions"
+    ],
+    "tags": [
+      "algebra",
+      "expressions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Simplify: (2x + 4) + (2x + 5)",
+    "options": [
+      {
+        "label": "A",
+        "text": "4x + 9"
+      },
+      {
+        "label": "B",
+        "text": "4x + -1"
+      },
+      {
+        "label": "C",
+        "text": "4x + 9"
+      },
+      {
+        "label": "D",
+        "text": "4x - 9"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Combine like terms: (2+2)x + (4+5) = 4x + 9",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Subtracted constants"
+      },
+      {
+        "label": "C",
+        "explanation": "Multiplied coefficients"
+      }
+    ],
+    "skills": [
+      "simplify-expressions"
+    ],
+    "tags": [
+      "algebra",
+      "expressions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Simplify: (3x + 8) + (3x + 5)",
+    "options": [
+      {
+        "label": "A",
+        "text": "6x + 13"
+      },
+      {
+        "label": "B",
+        "text": "6x + 3"
+      },
+      {
+        "label": "C",
+        "text": "9x + 13"
+      },
+      {
+        "label": "D",
+        "text": "6x - 13"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Combine like terms: (3+3)x + (8+5) = 6x + 13",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Subtracted constants"
+      },
+      {
+        "label": "C",
+        "explanation": "Multiplied coefficients"
+      }
+    ],
+    "skills": [
+      "simplify-expressions"
+    ],
+    "tags": [
+      "algebra",
+      "expressions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Simplify: (6x + 4) + (3x + 8)",
+    "options": [
+      {
+        "label": "A",
+        "text": "9x + 12"
+      },
+      {
+        "label": "B",
+        "text": "9x + -4"
+      },
+      {
+        "label": "C",
+        "text": "18x + 12"
+      },
+      {
+        "label": "D",
+        "text": "9x - 12"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Combine like terms: (6+3)x + (4+8) = 9x + 12",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Subtracted constants"
+      },
+      {
+        "label": "C",
+        "explanation": "Multiplied coefficients"
+      }
+    ],
+    "skills": [
+      "simplify-expressions"
+    ],
+    "tags": [
+      "algebra",
+      "expressions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Simplify: (7x + 6) + (6x + 6)",
+    "options": [
+      {
+        "label": "A",
+        "text": "13x + 12"
+      },
+      {
+        "label": "B",
+        "text": "13x + 0"
+      },
+      {
+        "label": "C",
+        "text": "42x + 12"
+      },
+      {
+        "label": "D",
+        "text": "13x - 12"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Combine like terms: (7+6)x + (6+6) = 13x + 12",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Subtracted constants"
+      },
+      {
+        "label": "C",
+        "explanation": "Multiplied coefficients"
+      }
+    ],
+    "skills": [
+      "simplify-expressions"
+    ],
+    "tags": [
+      "algebra",
+      "expressions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Maria earns $10/hour and made $90. How many hours did they work?",
+    "options": [
+      {
+        "label": "A",
+        "text": "9"
+      },
+      {
+        "label": "B",
+        "text": "11"
+      },
+      {
+        "label": "C",
+        "text": "8"
+      },
+      {
+        "label": "D",
+        "text": "10"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "$90 ÷ $10 = 9 hours",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Division error"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused rate with hours"
+      }
+    ],
+    "skills": [
+      "algebraic-word-problems"
+    ],
+    "tags": [
+      "algebra",
+      "word-problems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "James earns $8/hour and made $64. How many hours did they work?",
+    "options": [
+      {
+        "label": "A",
+        "text": "8"
+      },
+      {
+        "label": "B",
+        "text": "10"
+      },
+      {
+        "label": "C",
+        "text": "7"
+      },
+      {
+        "label": "D",
+        "text": "8"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "$64 ÷ $8 = 8 hours",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Division error"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused rate with hours"
+      }
+    ],
+    "skills": [
+      "algebraic-word-problems"
+    ],
+    "tags": [
+      "algebra",
+      "word-problems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Aisha earns $12/hour and made $72. How many hours did they work?",
+    "options": [
+      {
+        "label": "A",
+        "text": "6"
+      },
+      {
+        "label": "B",
+        "text": "8"
+      },
+      {
+        "label": "C",
+        "text": "5"
+      },
+      {
+        "label": "D",
+        "text": "12"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "$72 ÷ $12 = 6 hours",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Division error"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused rate with hours"
+      }
+    ],
+    "skills": [
+      "algebraic-word-problems"
+    ],
+    "tags": [
+      "algebra",
+      "word-problems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Carlos earns $9/hour and made $63. How many hours did they work?",
+    "options": [
+      {
+        "label": "A",
+        "text": "7"
+      },
+      {
+        "label": "B",
+        "text": "9"
+      },
+      {
+        "label": "C",
+        "text": "6"
+      },
+      {
+        "label": "D",
+        "text": "9"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "$63 ÷ $9 = 7 hours",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Division error"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused rate with hours"
+      }
+    ],
+    "skills": [
+      "algebraic-word-problems"
+    ],
+    "tags": [
+      "algebra",
+      "word-problems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Priya earns $5/hour and made $15. How many hours did they work?",
+    "options": [
+      {
+        "label": "A",
+        "text": "3"
+      },
+      {
+        "label": "B",
+        "text": "5"
+      },
+      {
+        "label": "C",
+        "text": "2"
+      },
+      {
+        "label": "D",
+        "text": "5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "$15 ÷ $5 = 3 hours",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Division error"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused rate with hours"
+      }
+    ],
+    "skills": [
+      "algebraic-word-problems"
+    ],
+    "tags": [
+      "algebra",
+      "word-problems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Devon earns $13/hour and made $39. How many hours did they work?",
+    "options": [
+      {
+        "label": "A",
+        "text": "3"
+      },
+      {
+        "label": "B",
+        "text": "5"
+      },
+      {
+        "label": "C",
+        "text": "2"
+      },
+      {
+        "label": "D",
+        "text": "13"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "$39 ÷ $13 = 3 hours",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Division error"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused rate with hours"
+      }
+    ],
+    "skills": [
+      "algebraic-word-problems"
+    ],
+    "tags": [
+      "algebra",
+      "word-problems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Kai earns $15/hour and made $45. How many hours did they work?",
+    "options": [
+      {
+        "label": "A",
+        "text": "3"
+      },
+      {
+        "label": "B",
+        "text": "5"
+      },
+      {
+        "label": "C",
+        "text": "2"
+      },
+      {
+        "label": "D",
+        "text": "15"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "$45 ÷ $15 = 3 hours",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Division error"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused rate with hours"
+      }
+    ],
+    "skills": [
+      "algebraic-word-problems"
+    ],
+    "tags": [
+      "algebra",
+      "word-problems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Zara earns $13/hour and made $104. How many hours did they work?",
+    "options": [
+      {
+        "label": "A",
+        "text": "8"
+      },
+      {
+        "label": "B",
+        "text": "10"
+      },
+      {
+        "label": "C",
+        "text": "7"
+      },
+      {
+        "label": "D",
+        "text": "13"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "$104 ÷ $13 = 8 hours",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Division error"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused rate with hours"
+      }
+    ],
+    "skills": [
+      "algebraic-word-problems"
+    ],
+    "tags": [
+      "algebra",
+      "word-problems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Marcus earns $7/hour and made $49. How many hours did they work?",
+    "options": [
+      {
+        "label": "A",
+        "text": "7"
+      },
+      {
+        "label": "B",
+        "text": "9"
+      },
+      {
+        "label": "C",
+        "text": "6"
+      },
+      {
+        "label": "D",
+        "text": "7"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "$49 ÷ $7 = 7 hours",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Division error"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused rate with hours"
+      }
+    ],
+    "skills": [
+      "algebraic-word-problems"
+    ],
+    "tags": [
+      "algebra",
+      "word-problems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Lily earns $5/hour and made $25. How many hours did they work?",
+    "options": [
+      {
+        "label": "A",
+        "text": "5"
+      },
+      {
+        "label": "B",
+        "text": "7"
+      },
+      {
+        "label": "C",
+        "text": "4"
+      },
+      {
+        "label": "D",
+        "text": "5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "$25 ÷ $5 = 5 hours",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Division error"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused rate with hours"
+      }
+    ],
+    "skills": [
+      "algebraic-word-problems"
+    ],
+    "tags": [
+      "algebra",
+      "word-problems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Sam earns $10/hour and made $90. How many hours did they work?",
+    "options": [
+      {
+        "label": "A",
+        "text": "9"
+      },
+      {
+        "label": "B",
+        "text": "11"
+      },
+      {
+        "label": "C",
+        "text": "8"
+      },
+      {
+        "label": "D",
+        "text": "10"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "$90 ÷ $10 = 9 hours",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Division error"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused rate with hours"
+      }
+    ],
+    "skills": [
+      "algebraic-word-problems"
+    ],
+    "tags": [
+      "algebra",
+      "word-problems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Nina earns $8/hour and made $48. How many hours did they work?",
+    "options": [
+      {
+        "label": "A",
+        "text": "6"
+      },
+      {
+        "label": "B",
+        "text": "8"
+      },
+      {
+        "label": "C",
+        "text": "5"
+      },
+      {
+        "label": "D",
+        "text": "8"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "$48 ÷ $8 = 6 hours",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Division error"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused rate with hours"
+      }
+    ],
+    "skills": [
+      "algebraic-word-problems"
+    ],
+    "tags": [
+      "algebra",
+      "word-problems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebraic_modeling",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A store charges $38 membership + $10 per tickets. Which expression gives total cost for n tickets?",
+    "options": [
+      {
+        "label": "A",
+        "text": "38 + 10n"
+      },
+      {
+        "label": "B",
+        "text": "10 + 38n"
+      },
+      {
+        "label": "C",
+        "text": "380n"
+      },
+      {
+        "label": "D",
+        "text": "(38 + 10)n"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Fixed cost $38 + variable $10 per item = 38 + 10n",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Swapped fixed and variable"
+      },
+      {
+        "label": "C",
+        "explanation": "Multiplied both together"
+      }
+    ],
+    "skills": [
+      "algebraic-modeling"
+    ],
+    "tags": [
+      "algebra",
+      "modeling"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebraic_modeling",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A store charges $48 membership + $2 per books. Which expression gives total cost for n books?",
+    "options": [
+      {
+        "label": "A",
+        "text": "48 + 2n"
+      },
+      {
+        "label": "B",
+        "text": "2 + 48n"
+      },
+      {
+        "label": "C",
+        "text": "96n"
+      },
+      {
+        "label": "D",
+        "text": "(48 + 2)n"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Fixed cost $48 + variable $2 per item = 48 + 2n",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Swapped fixed and variable"
+      },
+      {
+        "label": "C",
+        "explanation": "Multiplied both together"
+      }
+    ],
+    "skills": [
+      "algebraic-modeling"
+    ],
+    "tags": [
+      "algebra",
+      "modeling"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebraic_modeling",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A store charges $23 membership + $2 per pizzas. Which expression gives total cost for n pizzas?",
+    "options": [
+      {
+        "label": "A",
+        "text": "23 + 2n"
+      },
+      {
+        "label": "B",
+        "text": "2 + 23n"
+      },
+      {
+        "label": "C",
+        "text": "46n"
+      },
+      {
+        "label": "D",
+        "text": "(23 + 2)n"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Fixed cost $23 + variable $2 per item = 23 + 2n",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Swapped fixed and variable"
+      },
+      {
+        "label": "C",
+        "explanation": "Multiplied both together"
+      }
+    ],
+    "skills": [
+      "algebraic-modeling"
+    ],
+    "tags": [
+      "algebra",
+      "modeling"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebraic_modeling",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A store charges $31 membership + $8 per shirts. Which expression gives total cost for n shirts?",
+    "options": [
+      {
+        "label": "A",
+        "text": "31 + 8n"
+      },
+      {
+        "label": "B",
+        "text": "8 + 31n"
+      },
+      {
+        "label": "C",
+        "text": "248n"
+      },
+      {
+        "label": "D",
+        "text": "(31 + 8)n"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Fixed cost $31 + variable $8 per item = 31 + 8n",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Swapped fixed and variable"
+      },
+      {
+        "label": "C",
+        "explanation": "Multiplied both together"
+      }
+    ],
+    "skills": [
+      "algebraic-modeling"
+    ],
+    "tags": [
+      "algebra",
+      "modeling"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebraic_modeling",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A store charges $50 membership + $2 per plants. Which expression gives total cost for n plants?",
+    "options": [
+      {
+        "label": "A",
+        "text": "50 + 2n"
+      },
+      {
+        "label": "B",
+        "text": "2 + 50n"
+      },
+      {
+        "label": "C",
+        "text": "100n"
+      },
+      {
+        "label": "D",
+        "text": "(50 + 2)n"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Fixed cost $50 + variable $2 per item = 50 + 2n",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Swapped fixed and variable"
+      },
+      {
+        "label": "C",
+        "explanation": "Multiplied both together"
+      }
+    ],
+    "skills": [
+      "algebraic-modeling"
+    ],
+    "tags": [
+      "algebra",
+      "modeling"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebraic_modeling",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A store charges $37 membership + $5 per games. Which expression gives total cost for n games?",
+    "options": [
+      {
+        "label": "A",
+        "text": "37 + 5n"
+      },
+      {
+        "label": "B",
+        "text": "5 + 37n"
+      },
+      {
+        "label": "C",
+        "text": "185n"
+      },
+      {
+        "label": "D",
+        "text": "(37 + 5)n"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Fixed cost $37 + variable $5 per item = 37 + 5n",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Swapped fixed and variable"
+      },
+      {
+        "label": "C",
+        "explanation": "Multiplied both together"
+      }
+    ],
+    "skills": [
+      "algebraic-modeling"
+    ],
+    "tags": [
+      "algebra",
+      "modeling"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebraic_modeling",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A store charges $32 membership + $5 per songs. Which expression gives total cost for n songs?",
+    "options": [
+      {
+        "label": "A",
+        "text": "32 + 5n"
+      },
+      {
+        "label": "B",
+        "text": "5 + 32n"
+      },
+      {
+        "label": "C",
+        "text": "160n"
+      },
+      {
+        "label": "D",
+        "text": "(32 + 5)n"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Fixed cost $32 + variable $5 per item = 32 + 5n",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Swapped fixed and variable"
+      },
+      {
+        "label": "C",
+        "explanation": "Multiplied both together"
+      }
+    ],
+    "skills": [
+      "algebraic-modeling"
+    ],
+    "tags": [
+      "algebra",
+      "modeling"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebraic_modeling",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A store charges $30 membership + $3 per photos. Which expression gives total cost for n photos?",
+    "options": [
+      {
+        "label": "A",
+        "text": "30 + 3n"
+      },
+      {
+        "label": "B",
+        "text": "3 + 30n"
+      },
+      {
+        "label": "C",
+        "text": "90n"
+      },
+      {
+        "label": "D",
+        "text": "(30 + 3)n"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Fixed cost $30 + variable $3 per item = 30 + 3n",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Swapped fixed and variable"
+      },
+      {
+        "label": "C",
+        "explanation": "Multiplied both together"
+      }
+    ],
+    "skills": [
+      "algebraic-modeling"
+    ],
+    "tags": [
+      "algebra",
+      "modeling"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebraic_modeling",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A store charges $27 membership + $5 per miles. Which expression gives total cost for n miles?",
+    "options": [
+      {
+        "label": "A",
+        "text": "27 + 5n"
+      },
+      {
+        "label": "B",
+        "text": "5 + 27n"
+      },
+      {
+        "label": "C",
+        "text": "135n"
+      },
+      {
+        "label": "D",
+        "text": "(27 + 5)n"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Fixed cost $27 + variable $5 per item = 27 + 5n",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Swapped fixed and variable"
+      },
+      {
+        "label": "C",
+        "explanation": "Multiplied both together"
+      }
+    ],
+    "skills": [
+      "algebraic-modeling"
+    ],
+    "tags": [
+      "algebra",
+      "modeling"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebraic_modeling",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A store charges $46 membership + $6 per laps. Which expression gives total cost for n laps?",
+    "options": [
+      {
+        "label": "A",
+        "text": "46 + 6n"
+      },
+      {
+        "label": "B",
+        "text": "6 + 46n"
+      },
+      {
+        "label": "C",
+        "text": "276n"
+      },
+      {
+        "label": "D",
+        "text": "(46 + 6)n"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Fixed cost $46 + variable $6 per item = 46 + 6n",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Swapped fixed and variable"
+      },
+      {
+        "label": "C",
+        "explanation": "Multiplied both together"
+      }
+    ],
+    "skills": [
+      "algebraic-modeling"
+    ],
+    "tags": [
+      "algebra",
+      "modeling"
+    ]
+  }
+]

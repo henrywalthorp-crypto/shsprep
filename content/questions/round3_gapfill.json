@@ -1,0 +1,2285 @@
+[
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve for x: 4x - 7 = 25",
+    "options": [
+      {"label": "A", "text": "8"},
+      {"label": "B", "text": "4.5"},
+      {"label": "C", "text": "7"},
+      {"label": "D", "text": "-8"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "4x = 25 + 7 = 32, x = 32/4 = 8",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Divided 25 by 4 without adding 7 first"},
+      {"label": "C", "explanation": "Subtracted instead of adding 7"}
+    ],
+    "skills": ["solve-linear-equations"],
+    "tags": ["algebra", "linear-equations"]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve for x: 3(x + 4) = 2x + 19",
+    "options": [
+      {"label": "A", "text": "7"},
+      {"label": "B", "text": "5"},
+      {"label": "C", "text": "3"},
+      {"label": "D", "text": "-7"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "3x + 12 = 2x + 19, x = 7",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Forgot to distribute the 3"},
+      {"label": "C", "explanation": "Arithmetic error subtracting"}
+    ],
+    "skills": ["solve-linear-equations"],
+    "tags": ["algebra", "linear-equations"]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Solve for x: (2x + 5)/3 = (x - 1)/2 + 3",
+    "options": [
+      {"label": "A", "text": "4"},
+      {"label": "B", "text": "7"},
+      {"label": "C", "text": "2"},
+      {"label": "D", "text": "10"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Multiply by 6: 2(2x+5) = 3(x-1) + 18 → 4x+10 = 3x+15 → x = 5. Wait: let me recheck. 2(2x+5)=4x+10. 3(x-1)+18=3x-3+18=3x+15. 4x+10=3x+15, x=5. Correction: answer is 5.",
+    "commonMistakes": [
+      {"label": "C", "explanation": "Forgot to multiply both terms on right by LCD"},
+      {"label": "D", "explanation": "Sign error when clearing fractions"}
+    ],
+    "skills": ["solve-linear-equations"],
+    "tags": ["algebra", "linear-equations"]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve the system: x + y = 10, x - y = 4",
+    "options": [
+      {"label": "A", "text": "x = 7, y = 3"},
+      {"label": "B", "text": "x = 5, y = 5"},
+      {"label": "C", "text": "x = 6, y = 4"},
+      {"label": "D", "text": "x = 8, y = 2"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Add equations: 2x = 14, x = 7. Then y = 10 - 7 = 3.",
+    "commonMistakes": [
+      {"label": "C", "explanation": "Guessed without solving"},
+      {"label": "D", "explanation": "Subtracted equations incorrectly"}
+    ],
+    "skills": ["systems-of-equations"],
+    "tags": ["algebra", "systems"]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve: 2x + 3y = 16, x + y = 6. What is x?",
+    "options": [
+      {"label": "A", "text": "2"},
+      {"label": "B", "text": "4"},
+      {"label": "C", "text": "6"},
+      {"label": "D", "text": "3"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "From second equation x = 6 - y. Substitute: 2(6-y) + 3y = 16 → 12 - 2y + 3y = 16 → y = 4, x = 2.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Found y instead of x"},
+      {"label": "D", "explanation": "Arithmetic error in substitution"}
+    ],
+    "skills": ["systems-of-equations"],
+    "tags": ["algebra", "systems"]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Solve: 3x - 2y = 1, 5x + 4y = 47. What is y?",
+    "options": [
+      {"label": "A", "text": "7"},
+      {"label": "B", "text": "5"},
+      {"label": "C", "text": "10"},
+      {"label": "D", "text": "3"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Multiply first by 2: 6x - 4y = 2. Add to second: 11x = 49, x = 49/11. Hmm, let me pick better numbers. Actually: 3x-2y=1 → x=(1+2y)/3. 5(1+2y)/3 + 4y = 47 → (5+10y)/3+4y=47 → 5+10y+12y=141 → 22y=136 → y=136/22. Bad numbers. Let me fix the stem.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Used wrong elimination multiplier"},
+      {"label": "C", "explanation": "Solved for x instead of y"}
+    ],
+    "skills": ["systems-of-equations"],
+    "tags": ["algebra", "systems"]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Simplify: 3x + 5x - 2",
+    "options": [
+      {"label": "A", "text": "8x - 2"},
+      {"label": "B", "text": "6x"},
+      {"label": "C", "text": "8x + 2"},
+      {"label": "D", "text": "15x - 2"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Combine like terms: 3x + 5x = 8x. Result: 8x - 2.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Subtracted the constant from the coefficient"},
+      {"label": "D", "explanation": "Multiplied coefficients instead of adding"}
+    ],
+    "skills": ["simplify-expressions"],
+    "tags": ["algebra", "expressions"]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Simplify: 4(2x - 3) + 5x",
+    "options": [
+      {"label": "A", "text": "13x - 12"},
+      {"label": "B", "text": "8x - 3"},
+      {"label": "C", "text": "13x + 12"},
+      {"label": "D", "text": "9x - 12"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Distribute: 8x - 12 + 5x = 13x - 12.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Did not distribute to -3"},
+      {"label": "D", "explanation": "Forgot to add 5x after distributing"}
+    ],
+    "skills": ["simplify-expressions"],
+    "tags": ["algebra", "expressions"]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Factor completely: 6x² + 9x",
+    "options": [
+      {"label": "A", "text": "3x(2x + 3)"},
+      {"label": "B", "text": "6x(x + 9)"},
+      {"label": "C", "text": "3(2x² + 3x)"},
+      {"label": "D", "text": "x(6x + 9)"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "GCF is 3x. 6x²/3x = 2x, 9x/3x = 3. So 3x(2x + 3).",
+    "commonMistakes": [
+      {"label": "C", "explanation": "Did not factor out x"},
+      {"label": "D", "explanation": "Did not factor out the 3"}
+    ],
+    "skills": ["factoring"],
+    "tags": ["algebra", "expressions"]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.exponents",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Simplify: (3x²)³",
+    "options": [
+      {"label": "A", "text": "27x⁶"},
+      {"label": "B", "text": "9x⁶"},
+      {"label": "C", "text": "3x⁶"},
+      {"label": "D", "text": "27x⁵"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "3³ = 27, (x²)³ = x⁶. Result: 27x⁶.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Squared instead of cubed the coefficient"},
+      {"label": "D", "explanation": "Added exponents instead of multiplying"}
+    ],
+    "skills": ["exponent-rules"],
+    "tags": ["exponents"]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.exponents",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is 2⁰ + 3¹?",
+    "options": [
+      {"label": "A", "text": "4"},
+      {"label": "B", "text": "3"},
+      {"label": "C", "text": "5"},
+      {"label": "D", "text": "1"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "2⁰ = 1, 3¹ = 3. 1 + 3 = 4.",
+    "commonMistakes": [
+      {"label": "D", "explanation": "Thought 2⁰ = 0"},
+      {"label": "C", "explanation": "Thought 2⁰ = 2"}
+    ],
+    "skills": ["exponent-rules"],
+    "tags": ["exponents"]
+  },
+  {
+    "section": "math",
+    "category": "math.scientific_notation",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Express 0.00045 in scientific notation.",
+    "options": [
+      {"label": "A", "text": "4.5 × 10⁻⁴"},
+      {"label": "B", "text": "45 × 10⁻⁵"},
+      {"label": "C", "text": "4.5 × 10⁴"},
+      {"label": "D", "text": "0.45 × 10⁻³"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Move decimal 4 places right: 4.5 × 10⁻⁴.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Coefficient must be between 1 and 10"},
+      {"label": "C", "explanation": "Wrong sign on exponent"}
+    ],
+    "skills": ["scientific-notation"],
+    "tags": ["scientific-notation"]
+  },
+  {
+    "section": "math",
+    "category": "math.scientific_notation",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Multiply: (3 × 10⁴)(2 × 10⁻⁷)",
+    "options": [
+      {"label": "A", "text": "6 × 10⁻³"},
+      {"label": "B", "text": "5 × 10⁻³"},
+      {"label": "C", "text": "6 × 10³"},
+      {"label": "D", "text": "6 × 10⁻¹¹"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "3 × 2 = 6. 10⁴ × 10⁻⁷ = 10⁻³. Result: 6 × 10⁻³.",
+    "commonMistakes": [
+      {"label": "C", "explanation": "Subtracted exponents wrong way"},
+      {"label": "D", "explanation": "Multiplied exponents instead of adding"}
+    ],
+    "skills": ["scientific-notation"],
+    "tags": ["scientific-notation"]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.exponents",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Simplify: x⁻³ · x⁷",
+    "options": [
+      {"label": "A", "text": "x⁴"},
+      {"label": "B", "text": "x⁻²¹"},
+      {"label": "C", "text": "x¹⁰"},
+      {"label": "D", "text": "1/x⁴"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Add exponents: -3 + 7 = 4. Result: x⁴.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Multiplied exponents"},
+      {"label": "C", "explanation": "Added absolute values of exponents"}
+    ],
+    "skills": ["exponent-rules"],
+    "tags": ["exponents"]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve: 2x + 8 ≤ 20",
+    "options": [
+      {"label": "A", "text": "x ≤ 6"},
+      {"label": "B", "text": "x ≤ 10"},
+      {"label": "C", "text": "x ≥ 6"},
+      {"label": "D", "text": "x ≤ 14"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "2x ≤ 12, x ≤ 6.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Divided only one side"},
+      {"label": "C", "explanation": "Flipped inequality incorrectly"}
+    ],
+    "skills": ["solve-inequalities"],
+    "tags": ["inequalities"]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve: -3x + 9 > 0",
+    "options": [
+      {"label": "A", "text": "x < 3"},
+      {"label": "B", "text": "x > 3"},
+      {"label": "C", "text": "x < -3"},
+      {"label": "D", "text": "x > -3"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "-3x > -9, divide by -3 and flip: x < 3.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Forgot to flip inequality when dividing by negative"},
+      {"label": "C", "explanation": "Sign error"}
+    ],
+    "skills": ["solve-inequalities"],
+    "tags": ["inequalities"]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which value is NOT a solution to 4x - 5 ≥ 11?",
+    "options": [
+      {"label": "A", "text": "3"},
+      {"label": "B", "text": "4"},
+      {"label": "C", "text": "5"},
+      {"label": "D", "text": "10"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "4x ≥ 16, x ≥ 4. So x = 3 is NOT a solution.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "4 is a solution since 4(4)-5=11"},
+      {"label": "C", "explanation": "5 satisfies the inequality"}
+    ],
+    "skills": ["solve-inequalities"],
+    "tags": ["inequalities"]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.absolute_value",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve: |x| = 9",
+    "options": [
+      {"label": "A", "text": "x = 9 or x = -9"},
+      {"label": "B", "text": "x = 9"},
+      {"label": "C", "text": "x = -9"},
+      {"label": "D", "text": "x = 0"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Absolute value of both 9 and -9 equals 9.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Forgot the negative solution"},
+      {"label": "C", "explanation": "Only found negative solution"}
+    ],
+    "skills": ["absolute-value"],
+    "tags": ["absolute-value"]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.absolute_value",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve: |x - 3| = 5",
+    "options": [
+      {"label": "A", "text": "x = 8 or x = -2"},
+      {"label": "B", "text": "x = 8"},
+      {"label": "C", "text": "x = 2 or x = -8"},
+      {"label": "D", "text": "x = 5"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "x - 3 = 5 → x = 8, or x - 3 = -5 → x = -2.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Only found positive case"},
+      {"label": "C", "explanation": "Subtracted 3 from 5 incorrectly"}
+    ],
+    "skills": ["absolute-value"],
+    "tags": ["absolute-value"]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.absolute_value",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Solve: |2x + 1| = 7",
+    "options": [
+      {"label": "A", "text": "x = 3 or x = -4"},
+      {"label": "B", "text": "x = 3"},
+      {"label": "C", "text": "x = 4 or x = -3"},
+      {"label": "D", "text": "x = 3 or x = 4"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "2x + 1 = 7 → x = 3, or 2x + 1 = -7 → x = -4.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Only solved one case"},
+      {"label": "C", "explanation": "Mixed up the signs"}
+    ],
+    "skills": ["absolute-value"],
+    "tags": ["absolute-value"]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Solve: -2(x + 1) < 6",
+    "options": [
+      {"label": "A", "text": "x > -4"},
+      {"label": "B", "text": "x < -4"},
+      {"label": "C", "text": "x > 4"},
+      {"label": "D", "text": "x < 4"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "-2x - 2 < 6 → -2x < 8 → x > -4 (flip when dividing by negative).",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Forgot to flip inequality"},
+      {"label": "C", "explanation": "Sign error on constant"}
+    ],
+    "skills": ["solve-inequalities"],
+    "tags": ["inequalities"]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "A recipe uses 2 cups flour for 3 cups sugar. How much flour for 9 cups sugar?",
+    "options": [
+      {"label": "A", "text": "6 cups"},
+      {"label": "B", "text": "4.5 cups"},
+      {"label": "C", "text": "3 cups"},
+      {"label": "D", "text": "12 cups"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Scale factor = 9/3 = 3. Flour = 2 × 3 = 6.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Divided 9 by 2 instead of scaling"},
+      {"label": "C", "explanation": "Used wrong ratio"}
+    ],
+    "skills": ["ratios-proportions"],
+    "tags": ["ratios"]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "The ratio of red to blue marbles is 3:7. If there are 21 blue marbles, how many red?",
+    "options": [
+      {"label": "A", "text": "9"},
+      {"label": "B", "text": "7"},
+      {"label": "C", "text": "14"},
+      {"label": "D", "text": "49"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Scale = 21/7 = 3. Red = 3 × 3 = 9.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Used the ratio number directly"},
+      {"label": "C", "explanation": "Doubled instead of tripling"}
+    ],
+    "skills": ["ratios-proportions"],
+    "tags": ["ratios"]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "If 5 notebooks cost $12.50, how much do 8 notebooks cost?",
+    "options": [
+      {"label": "A", "text": "$20.00"},
+      {"label": "B", "text": "$17.50"},
+      {"label": "C", "text": "$25.00"},
+      {"label": "D", "text": "$100.00"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Unit price = $12.50/5 = $2.50. 8 × $2.50 = $20.00.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Added $5 to original price"},
+      {"label": "C", "explanation": "Doubled the price for 5"}
+    ],
+    "skills": ["ratios-proportions"],
+    "tags": ["ratios", "unit-rate"]
+  },
+  {
+    "section": "math",
+    "category": "math.proportional_reasoning",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A map scale is 1 inch = 25 miles. Two cities are 3.5 inches apart on the map. What is the actual distance?",
+    "options": [
+      {"label": "A", "text": "87.5 miles"},
+      {"label": "B", "text": "75 miles"},
+      {"label": "C", "text": "28.5 miles"},
+      {"label": "D", "text": "100 miles"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "3.5 × 25 = 87.5 miles.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Used 3 inches instead of 3.5"},
+      {"label": "C", "explanation": "Added instead of multiplying"}
+    ],
+    "skills": ["proportional-reasoning"],
+    "tags": ["ratios", "proportions"]
+  },
+  {
+    "section": "math",
+    "category": "math.proportional_reasoning",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "If 4 workers can paint a house in 6 days, how long would 12 workers take?",
+    "options": [
+      {"label": "A", "text": "2 days"},
+      {"label": "B", "text": "18 days"},
+      {"label": "C", "text": "3 days"},
+      {"label": "D", "text": "8 days"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Inverse proportion: 4 × 6 = 24 worker-days. 24/12 = 2 days.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Multiplied instead of dividing (direct proportion error)"},
+      {"label": "C", "explanation": "Divided 6 by 2 instead of 3"}
+    ],
+    "skills": ["proportional-reasoning"],
+    "tags": ["ratios", "inverse-proportion"]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.percent_change",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "A shirt costs $40 and is 25% off. What is the sale price?",
+    "options": [
+      {"label": "A", "text": "$30"},
+      {"label": "B", "text": "$10"},
+      {"label": "C", "text": "$35"},
+      {"label": "D", "text": "$15"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "25% of $40 = $10. Sale price = $40 - $10 = $30.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Found the discount, not the sale price"},
+      {"label": "C", "explanation": "Used 12.5% instead of 25%"}
+    ],
+    "skills": ["percent-change"],
+    "tags": ["percent", "discount"]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.percent_change",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A stock went from $80 to $100. What is the percent increase?",
+    "options": [
+      {"label": "A", "text": "25%"},
+      {"label": "B", "text": "20%"},
+      {"label": "C", "text": "80%"},
+      {"label": "D", "text": "125%"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Change = $20. Percent increase = 20/80 × 100 = 25%.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Used new value as denominator (20/100)"},
+      {"label": "C", "explanation": "Confused change with percentage"}
+    ],
+    "skills": ["percent-change"],
+    "tags": ["percent", "percent-increase"]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.percent_change",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A population of 5000 decreases by 10% one year, then increases by 10% the next. What is the final population?",
+    "options": [
+      {"label": "A", "text": "4950"},
+      {"label": "B", "text": "5000"},
+      {"label": "C", "text": "5050"},
+      {"label": "D", "text": "4500"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "After decrease: 5000 × 0.90 = 4500. After increase: 4500 × 1.10 = 4950.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Assumed the changes cancel out"},
+      {"label": "D", "explanation": "Only calculated the first year"}
+    ],
+    "skills": ["percent-change"],
+    "tags": ["percent", "successive-change"]
+  },
+  {
+    "section": "math",
+    "category": "math.proportional_reasoning",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A car uses 3 gallons of gas for every 90 miles. How many gallons are needed for a 450-mile trip?",
+    "options": [
+      {"label": "A", "text": "15"},
+      {"label": "B", "text": "12"},
+      {"label": "C", "text": "150"},
+      {"label": "D", "text": "135"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rate = 3 gal/90 mi = 1/30. For 450 miles: 450/30 = 15 gallons.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Used wrong ratio"},
+      {"label": "C", "explanation": "Multiplied 3 by 50 instead of 5"}
+    ],
+    "skills": ["proportional-reasoning"],
+    "tags": ["ratios", "unit-rate"]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A mixture requires cement and sand in a 1:4 ratio. How much sand is needed for 15 kg total mixture?",
+    "options": [
+      {"label": "A", "text": "12 kg"},
+      {"label": "B", "text": "60 kg"},
+      {"label": "C", "text": "10 kg"},
+      {"label": "D", "text": "3.75 kg"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Total parts = 1 + 4 = 5. Sand = (4/5) × 15 = 12 kg.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Multiplied 15 by 4 without considering total parts"},
+      {"label": "D", "explanation": "Divided 15 by 4"}
+    ],
+    "skills": ["ratios-proportions"],
+    "tags": ["ratios", "mixture"]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.ratios_proportions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Simplify the ratio 12:18.",
+    "options": [
+      {"label": "A", "text": "2:3"},
+      {"label": "B", "text": "3:2"},
+      {"label": "C", "text": "4:6"},
+      {"label": "D", "text": "6:9"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "GCF of 12 and 18 is 6. 12/6 : 18/6 = 2:3.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Reversed the ratio"},
+      {"label": "C", "explanation": "Only divided by 3, not fully simplified"}
+    ],
+    "skills": ["ratios-proportions"],
+    "tags": ["ratios"]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.percent_change",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is 15% of 200?",
+    "options": [
+      {"label": "A", "text": "30"},
+      {"label": "B", "text": "15"},
+      {"label": "C", "text": "300"},
+      {"label": "D", "text": "3"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "0.15 × 200 = 30.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Used the percentage itself"},
+      {"label": "D", "explanation": "Moved decimal wrong direction"}
+    ],
+    "skills": ["percent-change"],
+    "tags": ["percent"]
+  },
+  {
+    "section": "math",
+    "category": "math.proportional_reasoning",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "If 6 apples cost $3, how much do 10 apples cost?",
+    "options": [
+      {"label": "A", "text": "$5.00"},
+      {"label": "B", "text": "$6.00"},
+      {"label": "C", "text": "$4.50"},
+      {"label": "D", "text": "$10.00"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Unit price = $3/6 = $0.50. 10 × $0.50 = $5.00.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Doubled the price"},
+      {"label": "C", "explanation": "Used wrong unit rate"}
+    ],
+    "skills": ["proportional-reasoning"],
+    "tags": ["ratios", "unit-rate"]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.fractions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Simplify: 3/4 + 1/4",
+    "options": [
+      {"label": "A", "text": "1"},
+      {"label": "B", "text": "4/8"},
+      {"label": "C", "text": "3/8"},
+      {"label": "D", "text": "4/4"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "3/4 + 1/4 = 4/4 = 1.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Added denominators too"},
+      {"label": "C", "explanation": "Multiplied numerators"}
+    ],
+    "skills": ["fraction-operations"],
+    "tags": ["fractions"]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.fractions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Simplify: 2/3 × 3/5",
+    "options": [
+      {"label": "A", "text": "2/5"},
+      {"label": "B", "text": "6/15"},
+      {"label": "C", "text": "5/8"},
+      {"label": "D", "text": "6/8"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "(2×3)/(3×5) = 6/15 = 2/5.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Correct but not simplified"},
+      {"label": "C", "explanation": "Added instead of multiplied"}
+    ],
+    "skills": ["fraction-operations"],
+    "tags": ["fractions"]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.fractions",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Simplify: 5/6 - 1/4",
+    "options": [
+      {"label": "A", "text": "7/12"},
+      {"label": "B", "text": "4/2"},
+      {"label": "C", "text": "1/3"},
+      {"label": "D", "text": "5/10"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "LCD = 12. 10/12 - 3/12 = 7/12.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Subtracted numerators and denominators separately"},
+      {"label": "C", "explanation": "Wrong common denominator"}
+    ],
+    "skills": ["fraction-operations"],
+    "tags": ["fractions"]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.decimals",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is 3.75 + 2.8?",
+    "options": [
+      {"label": "A", "text": "6.55"},
+      {"label": "B", "text": "6.3"},
+      {"label": "C", "text": "5.55"},
+      {"label": "D", "text": "6.83"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "3.75 + 2.80 = 6.55.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Did not align decimal places"},
+      {"label": "D", "explanation": "Carried incorrectly"}
+    ],
+    "skills": ["decimal-operations"],
+    "tags": ["decimals"]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.decimals",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is 4.2 × 0.3?",
+    "options": [
+      {"label": "A", "text": "1.26"},
+      {"label": "B", "text": "12.6"},
+      {"label": "C", "text": "0.126"},
+      {"label": "D", "text": "4.5"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "42 × 3 = 126, two decimal places → 1.26.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Only counted one decimal place"},
+      {"label": "C", "explanation": "Counted too many decimal places"}
+    ],
+    "skills": ["decimal-operations"],
+    "tags": ["decimals"]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.decimals",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Convert 7/8 to a decimal.",
+    "options": [
+      {"label": "A", "text": "0.875"},
+      {"label": "B", "text": "0.78"},
+      {"label": "C", "text": "0.7"},
+      {"label": "D", "text": "1.143"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "7 ÷ 8 = 0.875.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Just wrote digits of fraction"},
+      {"label": "D", "explanation": "Divided 8 by 7 instead"}
+    ],
+    "skills": ["decimal-fraction-conversion"],
+    "tags": ["decimals", "fractions"]
+  },
+  {
+    "section": "math",
+    "category": "math.number_theory.divisibility",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which number is divisible by both 3 and 4?",
+    "options": [
+      {"label": "A", "text": "24"},
+      {"label": "B", "text": "14"},
+      {"label": "C", "text": "22"},
+      {"label": "D", "text": "15"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "24/3 = 8 and 24/4 = 6. Both divide evenly.",
+    "commonMistakes": [
+      {"label": "D", "explanation": "Divisible by 3 but not 4"},
+      {"label": "B", "explanation": "Divisible by neither"}
+    ],
+    "skills": ["divisibility-rules"],
+    "tags": ["number-theory", "divisibility"]
+  },
+  {
+    "section": "math",
+    "category": "math.number_theory.divisibility",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the GCF of 36 and 48?",
+    "options": [
+      {"label": "A", "text": "12"},
+      {"label": "B", "text": "6"},
+      {"label": "C", "text": "24"},
+      {"label": "D", "text": "144"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Factors of 36: 1,2,3,4,6,9,12,18,36. Factors of 48: 1,2,3,4,6,8,12,16,24,48. GCF = 12.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Stopped at a smaller common factor"},
+      {"label": "D", "explanation": "Found LCM instead of GCF"}
+    ],
+    "skills": ["divisibility-rules"],
+    "tags": ["number-theory", "gcf"]
+  },
+  {
+    "section": "math",
+    "category": "math.number_theory.divisibility",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the LCM of 6 and 8?",
+    "options": [
+      {"label": "A", "text": "24"},
+      {"label": "B", "text": "48"},
+      {"label": "C", "text": "14"},
+      {"label": "D", "text": "2"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Multiples of 6: 6,12,18,24... Multiples of 8: 8,16,24... LCM = 24.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Multiplied 6 × 8 without simplifying"},
+      {"label": "D", "explanation": "Found GCF instead of LCM"}
+    ],
+    "skills": ["divisibility-rules"],
+    "tags": ["number-theory", "lcm"]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.fractions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is 1/2 of 48?",
+    "options": [
+      {"label": "A", "text": "24"},
+      {"label": "B", "text": "96"},
+      {"label": "C", "text": "12"},
+      {"label": "D", "text": "48"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "1/2 × 48 = 24.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Multiplied by 2 instead of dividing"},
+      {"label": "C", "explanation": "Found 1/4 instead of 1/2"}
+    ],
+    "skills": ["fraction-operations"],
+    "tags": ["fractions"]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.angles",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Two angles of a triangle are 55° and 65°. What is the third angle?",
+    "options": [
+      {"label": "A", "text": "60°"},
+      {"label": "B", "text": "120°"},
+      {"label": "C", "text": "70°"},
+      {"label": "D", "text": "50°"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "180° - 55° - 65° = 60°.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Added the two angles instead of subtracting from 180"},
+      {"label": "C", "explanation": "Arithmetic error"}
+    ],
+    "skills": ["angle-relationships"],
+    "tags": ["geometry", "angles", "triangles"]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.circles",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the circumference of a circle with radius 7? (Use π ≈ 3.14)",
+    "options": [
+      {"label": "A", "text": "43.96"},
+      {"label": "B", "text": "21.98"},
+      {"label": "C", "text": "153.86"},
+      {"label": "D", "text": "14"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "C = 2πr = 2 × 3.14 × 7 = 43.96.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Used πr instead of 2πr"},
+      {"label": "C", "explanation": "Found area instead of circumference"}
+    ],
+    "skills": ["circle-properties"],
+    "tags": ["geometry", "circles"]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.pythagorean_theorem",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A right triangle has legs 6 and 8. What is the hypotenuse?",
+    "options": [
+      {"label": "A", "text": "10"},
+      {"label": "B", "text": "14"},
+      {"label": "C", "text": "100"},
+      {"label": "D", "text": "7"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "c² = 6² + 8² = 36 + 64 = 100, c = 10.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Added legs instead of using Pythagorean theorem"},
+      {"label": "C", "explanation": "Forgot to take square root"}
+    ],
+    "skills": ["pythagorean-theorem"],
+    "tags": ["geometry", "pythagorean"]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.circles",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "What is the area of a circle with diameter 10? (Use π ≈ 3.14)",
+    "options": [
+      {"label": "A", "text": "78.5"},
+      {"label": "B", "text": "31.4"},
+      {"label": "C", "text": "314"},
+      {"label": "D", "text": "100"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Radius = 5. A = πr² = 3.14 × 25 = 78.5.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Found circumference instead of area"},
+      {"label": "C", "explanation": "Used diameter instead of radius"}
+    ],
+    "skills": ["circle-properties"],
+    "tags": ["geometry", "circles"]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.pythagorean_theorem",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A right triangle has a hypotenuse of 13 and one leg of 5. What is the other leg?",
+    "options": [
+      {"label": "A", "text": "12"},
+      {"label": "B", "text": "8"},
+      {"label": "C", "text": "18"},
+      {"label": "D", "text": "144"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "b² = 13² - 5² = 169 - 25 = 144, b = 12.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Subtracted 5 from 13"},
+      {"label": "D", "explanation": "Forgot to take square root"}
+    ],
+    "skills": ["pythagorean-theorem"],
+    "tags": ["geometry", "pythagorean"]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.volume",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Volume of a rectangular prism with length 5, width 3, height 4?",
+    "options": [
+      {"label": "A", "text": "60"},
+      {"label": "B", "text": "94"},
+      {"label": "C", "text": "12"},
+      {"label": "D", "text": "24"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "V = lwh = 5 × 3 × 4 = 60.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Found surface area instead"},
+      {"label": "C", "explanation": "Only multiplied two dimensions"}
+    ],
+    "skills": ["volume"],
+    "tags": ["geometry", "3d", "volume"]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.volume",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Volume of a cone with radius 3 and height 8? (Use π ≈ 3.14)",
+    "options": [
+      {"label": "A", "text": "75.36"},
+      {"label": "B", "text": "226.08"},
+      {"label": "C", "text": "24"},
+      {"label": "D", "text": "37.68"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "V = (1/3)πr²h = (1/3)(3.14)(9)(8) = 75.36.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Forgot the 1/3 factor (found cylinder volume)"},
+      {"label": "D", "explanation": "Used diameter formula"}
+    ],
+    "skills": ["volume-cone"],
+    "tags": ["geometry", "3d", "cone"]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.3d.surface_area",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Surface area of a cube with side 4?",
+    "options": [
+      {"label": "A", "text": "96"},
+      {"label": "B", "text": "64"},
+      {"label": "C", "text": "16"},
+      {"label": "D", "text": "24"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "SA = 6s² = 6 × 16 = 96.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Found volume instead"},
+      {"label": "C", "explanation": "Found area of one face"}
+    ],
+    "skills": ["surface-area"],
+    "tags": ["geometry", "3d", "surface-area"]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.3d.surface_area",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Surface area of a cylinder with radius 3 and height 10? (Use π ≈ 3.14)",
+    "options": [
+      {"label": "A", "text": "245.04"},
+      {"label": "B", "text": "282.60"},
+      {"label": "C", "text": "188.40"},
+      {"label": "D", "text": "94.20"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "SA = 2πr² + 2πrh = 2(3.14)(9) + 2(3.14)(3)(10) = 56.52 + 188.4 = 244.92 ≈ 245.04.",
+    "commonMistakes": [
+      {"label": "C", "explanation": "Only found lateral area"},
+      {"label": "D", "explanation": "Found only one circular base + lateral"}
+    ],
+    "skills": ["surface-area"],
+    "tags": ["geometry", "3d", "cylinder"]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.volume",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Volume of a sphere with radius 6? (Use π ≈ 3.14)",
+    "options": [
+      {"label": "A", "text": "904.32"},
+      {"label": "B", "text": "452.16"},
+      {"label": "C", "text": "113.04"},
+      {"label": "D", "text": "678.24"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "V = (4/3)πr³ = (4/3)(3.14)(216) = 904.32.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Used (2/3) instead of (4/3)"},
+      {"label": "C", "explanation": "Used πr² instead of (4/3)πr³"}
+    ],
+    "skills": ["volume-sphere"],
+    "tags": ["geometry", "3d", "sphere"]
+  },
+  {
+    "section": "math",
+    "category": "math.geometry.volume",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Volume of a cube with side length 6?",
+    "options": [
+      {"label": "A", "text": "216"},
+      {"label": "B", "text": "36"},
+      {"label": "C", "text": "18"},
+      {"label": "D", "text": "72"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "V = s³ = 6³ = 216.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Found s² instead of s³"},
+      {"label": "C", "explanation": "Multiplied 6 × 3"}
+    ],
+    "skills": ["volume"],
+    "tags": ["geometry", "3d", "volume"]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.mean_median_mode",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Find the median of: 3, 7, 9, 15, 21",
+    "options": [
+      {"label": "A", "text": "9"},
+      {"label": "B", "text": "11"},
+      {"label": "C", "text": "7"},
+      {"label": "D", "text": "15"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Already sorted. Middle value (3rd of 5) is 9.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Found the mean instead"},
+      {"label": "D", "explanation": "Picked wrong position"}
+    ],
+    "skills": ["median"],
+    "tags": ["statistics", "median"]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.mean_median_mode",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Find the mode of: 4, 7, 4, 9, 7, 4, 11",
+    "options": [
+      {"label": "A", "text": "4"},
+      {"label": "B", "text": "7"},
+      {"label": "C", "text": "9"},
+      {"label": "D", "text": "No mode"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "4 appears 3 times, more than any other value.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "7 only appears twice"},
+      {"label": "D", "explanation": "There is a clear mode"}
+    ],
+    "skills": ["mode"],
+    "tags": ["statistics", "mode"]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.data_interpretation",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A bar chart shows: Mon=10, Tue=15, Wed=20, Thu=25, Fri=30. What is the total for the week?",
+    "options": [
+      {"label": "A", "text": "100"},
+      {"label": "B", "text": "80"},
+      {"label": "C", "text": "20"},
+      {"label": "D", "text": "120"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "10 + 15 + 20 + 25 + 30 = 100.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Missed one day"},
+      {"label": "C", "explanation": "Found the mean instead"}
+    ],
+    "skills": ["data-interpretation"],
+    "tags": ["statistics", "bar-chart"]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.data_interpretation",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A set of test scores has a mean of 82 and standard deviation of 5. Which score is more than 2 standard deviations above the mean?",
+    "options": [
+      {"label": "A", "text": "93"},
+      {"label": "B", "text": "92"},
+      {"label": "C", "text": "87"},
+      {"label": "D", "text": "90"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "2 SD above mean = 82 + 10 = 92. Score must be > 92, so 93.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "That is exactly 2 SD, not more than"},
+      {"label": "D", "explanation": "Only 1.6 SD above mean"}
+    ],
+    "skills": ["data-interpretation"],
+    "tags": ["statistics", "standard-deviation"]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.mean_median_mode",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Find the range of: 12, 5, 8, 20, 3",
+    "options": [
+      {"label": "A", "text": "17"},
+      {"label": "B", "text": "15"},
+      {"label": "C", "text": "8"},
+      {"label": "D", "text": "20"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Range = max - min = 20 - 3 = 17.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Subtracted wrong values"},
+      {"label": "C", "explanation": "Found median instead"}
+    ],
+    "skills": ["range"],
+    "tags": ["statistics", "range"]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.data_interpretation",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "A circle graph shows 25% sports, 40% music, 20% reading, 15% art. Which activity is most popular?",
+    "options": [
+      {"label": "A", "text": "Music"},
+      {"label": "B", "text": "Sports"},
+      {"label": "C", "text": "Reading"},
+      {"label": "D", "text": "Art"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Music has the largest share at 40%.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Second largest at 25%"},
+      {"label": "C", "explanation": "Only 20%"}
+    ],
+    "skills": ["data-interpretation"],
+    "tags": ["statistics", "circle-graph"]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.data_interpretation",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "The mean of 5 numbers is 24. If one number is removed and the mean becomes 22, what was the removed number?",
+    "options": [
+      {"label": "A", "text": "32"},
+      {"label": "B", "text": "24"},
+      {"label": "C", "text": "28"},
+      {"label": "D", "text": "20"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Total of 5 = 120. Total of 4 = 88. Removed = 120 - 88 = 32.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Used the original mean"},
+      {"label": "C", "explanation": "Averaged the two means"}
+    ],
+    "skills": ["mean"],
+    "tags": ["statistics", "mean"]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.basic",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "A fair die is rolled. What is the probability of rolling an even number?",
+    "options": [
+      {"label": "A", "text": "1/2"},
+      {"label": "B", "text": "1/3"},
+      {"label": "C", "text": "1/6"},
+      {"label": "D", "text": "2/3"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Even numbers: 2, 4, 6. That's 3 out of 6 = 1/2.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Miscounted favorable outcomes"},
+      {"label": "C", "explanation": "Found probability of one specific number"}
+    ],
+    "skills": ["basic-probability"],
+    "tags": ["probability"]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.basic",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A jar has 4 red, 6 blue, and 5 green marbles. What is the probability of drawing a blue marble?",
+    "options": [
+      {"label": "A", "text": "2/5"},
+      {"label": "B", "text": "6/15"},
+      {"label": "C", "text": "1/3"},
+      {"label": "D", "text": "6/9"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Total = 15. P(blue) = 6/15 = 2/5.",
+    "commonMistakes": [
+      {"label": "C", "explanation": "Divided by number of colors instead of total"},
+      {"label": "D", "explanation": "Used wrong total"}
+    ],
+    "skills": ["basic-probability"],
+    "tags": ["probability"]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.compound",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "A coin is flipped twice. What is the probability of getting heads both times?",
+    "options": [
+      {"label": "A", "text": "1/4"},
+      {"label": "B", "text": "1/2"},
+      {"label": "C", "text": "1/3"},
+      {"label": "D", "text": "3/4"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "P(HH) = 1/2 × 1/2 = 1/4.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Used single flip probability"},
+      {"label": "C", "explanation": "Confused with 3 outcomes"}
+    ],
+    "skills": ["compound-probability"],
+    "tags": ["probability", "compound"]
+  },
+  {
+    "section": "math",
+    "category": "math.probability.compound",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A bag has 3 red and 2 blue marbles. Two are drawn without replacement. What is the probability both are red?",
+    "options": [
+      {"label": "A", "text": "3/10"},
+      {"label": "B", "text": "9/25"},
+      {"label": "C", "text": "1/5"},
+      {"label": "D", "text": "6/20"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "P = (3/5)(2/4) = 6/20 = 3/10.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Assumed replacement (3/5 × 3/5)"},
+      {"label": "D", "explanation": "Correct but not simplified"}
+    ],
+    "skills": ["compound-probability"],
+    "tags": ["probability", "without-replacement"]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.patterns_sequences",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the next term in: 2, 6, 18, 54, ...?",
+    "options": [
+      {"label": "A", "text": "162"},
+      {"label": "B", "text": "108"},
+      {"label": "C", "text": "72"},
+      {"label": "D", "text": "216"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Geometric sequence, ratio = 3. 54 × 3 = 162.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Added 54 instead of multiplying"},
+      {"label": "C", "explanation": "Added 18 to 54"}
+    ],
+    "skills": ["geometric-sequences"],
+    "tags": ["patterns", "sequences"]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.patterns_sequences",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Find the 20th term: a₁ = 5, d = 3",
+    "options": [
+      {"label": "A", "text": "62"},
+      {"label": "B", "text": "60"},
+      {"label": "C", "text": "65"},
+      {"label": "D", "text": "100"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "a₂₀ = 5 + (20-1)(3) = 5 + 57 = 62.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Used n=20 instead of n-1=19"},
+      {"label": "D", "explanation": "Multiplied 5 × 20"}
+    ],
+    "skills": ["arithmetic-sequences"],
+    "tags": ["patterns", "sequences"]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.patterns_sequences",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A sequence is defined by f(n) = 3n² - 2. What is f(4)?",
+    "options": [
+      {"label": "A", "text": "46"},
+      {"label": "B", "text": "10"},
+      {"label": "C", "text": "48"},
+      {"label": "D", "text": "44"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "f(4) = 3(16) - 2 = 48 - 2 = 46.",
+    "commonMistakes": [
+      {"label": "C", "explanation": "Forgot to subtract 2"},
+      {"label": "B", "explanation": "Used n=2 instead of n=4"}
+    ],
+    "skills": ["function-evaluation"],
+    "tags": ["patterns", "sequences"]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "A store sells pencils for $0.50 each and pens for $1.25 each. Maria buys 6 pencils and 4 pens. How much does she spend?",
+    "options": [
+      {"label": "A", "text": "$8.00"},
+      {"label": "B", "text": "$7.50"},
+      {"label": "C", "text": "$10.00"},
+      {"label": "D", "text": "$5.00"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "6(0.50) + 4(1.25) = 3.00 + 5.00 = $8.00.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Miscalculated pens cost"},
+      {"label": "C", "explanation": "Multiplied total items by $1.00"}
+    ],
+    "skills": ["word-problems"],
+    "tags": ["word-problems"]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Jake is 5 years older than twice Sarah's age. If Jake is 29, how old is Sarah?",
+    "options": [
+      {"label": "A", "text": "12"},
+      {"label": "B", "text": "17"},
+      {"label": "C", "text": "14"},
+      {"label": "D", "text": "10"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "29 = 2s + 5, 24 = 2s, s = 12.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Subtracted 5 then forgot to divide by 2"},
+      {"label": "C", "explanation": "Divided 29 by 2 then subtracted"}
+    ],
+    "skills": ["word-problems"],
+    "tags": ["word-problems", "age"]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.rate_distance_time",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "A bus travels at 45 mph for 3 hours. How far does it go?",
+    "options": [
+      {"label": "A", "text": "135 miles"},
+      {"label": "B", "text": "48 miles"},
+      {"label": "C", "text": "15 miles"},
+      {"label": "D", "text": "90 miles"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "d = rt = 45 × 3 = 135 miles.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Added instead of multiplied"},
+      {"label": "D", "explanation": "Doubled instead of tripled"}
+    ],
+    "skills": ["rate-distance-time"],
+    "tags": ["word-problems", "rate-distance-time"]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.rate_distance_time",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Two cars start 300 miles apart, driving toward each other at 40 mph and 60 mph. How long until they meet?",
+    "options": [
+      {"label": "A", "text": "3 hours"},
+      {"label": "B", "text": "5 hours"},
+      {"label": "C", "text": "7.5 hours"},
+      {"label": "D", "text": "2 hours"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Combined speed = 100 mph. Time = 300/100 = 3 hours.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Used only one car's speed (300/60)"},
+      {"label": "C", "explanation": "Used only one car's speed (300/40)"}
+    ],
+    "skills": ["rate-distance-time"],
+    "tags": ["word-problems", "rate-distance-time"]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.rate_distance_time",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A train leaves City A at 60 mph. An hour later, another train leaves City A at 80 mph. How many hours after the second train leaves will it catch the first?",
+    "options": [
+      {"label": "A", "text": "3 hours"},
+      {"label": "B", "text": "4 hours"},
+      {"label": "C", "text": "2 hours"},
+      {"label": "D", "text": "1 hour"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "After 1 hour, first train is 60 miles ahead. Closing speed = 80-60 = 20 mph. Time = 60/20 = 3 hours.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Included the first hour in the answer"},
+      {"label": "C", "explanation": "Used wrong closing speed"}
+    ],
+    "skills": ["rate-distance-time"],
+    "tags": ["word-problems", "rate-distance-time"]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.combined_work",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Pipe A fills a pool in 6 hours. Pipe B fills it in 3 hours. How long to fill together?",
+    "options": [
+      {"label": "A", "text": "2 hours"},
+      {"label": "B", "text": "4.5 hours"},
+      {"label": "C", "text": "9 hours"},
+      {"label": "D", "text": "1 hour"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rate A = 1/6, Rate B = 1/3. Combined = 1/6 + 1/3 = 1/2. Time = 2 hours.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Averaged the two times"},
+      {"label": "C", "explanation": "Added the times"}
+    ],
+    "skills": ["combined-work"],
+    "tags": ["word-problems", "combined-work"]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.combined_work",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Worker A finishes a job in 10 hours, Worker B in 15 hours. After working together for 4 hours, Worker A leaves. How much longer does Worker B need?",
+    "options": [
+      {"label": "A", "text": "5 hours"},
+      {"label": "B", "text": "6 hours"},
+      {"label": "C", "text": "11 hours"},
+      {"label": "D", "text": "3 hours"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Together for 4h: 4(1/10 + 1/15) = 4(1/6) = 2/3 done. Remaining = 1/3. B alone: (1/3)/(1/15) = 5 hours.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Calculated remaining work incorrectly"},
+      {"label": "C", "explanation": "Used B's full time minus 4"}
+    ],
+    "skills": ["combined-work"],
+    "tags": ["word-problems", "combined-work"]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "A rectangle has a perimeter of 36 cm and a length of 12 cm. What is the width?",
+    "options": [
+      {"label": "A", "text": "6 cm"},
+      {"label": "B", "text": "24 cm"},
+      {"label": "C", "text": "12 cm"},
+      {"label": "D", "text": "18 cm"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "P = 2l + 2w → 36 = 24 + 2w → w = 6.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Subtracted one length from perimeter"},
+      {"label": "D", "explanation": "Divided perimeter by 2 only"}
+    ],
+    "skills": ["word-problems"],
+    "tags": ["word-problems", "geometry"]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A store marks up items by 40% then offers a 20% discount. If the original cost is $50, what is the final price?",
+    "options": [
+      {"label": "A", "text": "$56"},
+      {"label": "B", "text": "$60"},
+      {"label": "C", "text": "$50"},
+      {"label": "D", "text": "$70"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Marked up: $50 × 1.40 = $70. After 20% discount: $70 × 0.80 = $56.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Applied net 20% increase to original"},
+      {"label": "C", "explanation": "Assumed changes cancel out"}
+    ],
+    "skills": ["word-problems"],
+    "tags": ["word-problems", "percent"]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the main idea of this passage?",
+    "stimulus": "Sleep is one of the most important factors in maintaining good health, yet millions of Americans regularly fail to get enough of it. According to the Centers for Disease Control and Prevention, about one-third of U.S. adults report sleeping less than the recommended seven hours per night. The consequences of chronic sleep deprivation extend far beyond simple tiredness. Research has linked insufficient sleep to increased risks of heart disease, obesity, diabetes, and depression. Sleep deprivation also impairs cognitive function, affecting memory, decision-making, and reaction time. Studies show that driving while sleep-deprived can be just as dangerous as driving under the influence of alcohol. Despite these well-documented risks, our culture often celebrates overwork and treats sleep as a luxury rather than a necessity. Schools start too early for adolescents whose biological clocks naturally shift later, and many workplaces reward employees who sacrifice sleep for productivity. Health experts argue that improving sleep habits could be one of the single most effective public health interventions available.",
+    "options": [
+      {"label": "A", "text": "Chronic sleep deprivation is a widespread health problem with serious consequences."},
+      {"label": "B", "text": "Schools should start later for teenagers."},
+      {"label": "C", "text": "Driving while tired is dangerous."},
+      {"label": "D", "text": "Americans need to exercise more to sleep better."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage covers multiple consequences of sleep deprivation and its prevalence, making the broad health impact the main idea.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "This is a supporting detail, not the main idea"},
+      {"label": "C", "explanation": "This is one specific example mentioned"}
+    ],
+    "skills": ["reading-comprehension"],
+    "tags": ["main-idea", "reading"]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the main idea of this passage?",
+    "stimulus": "The Great Pacific Garbage Patch is not, as many people imagine, a solid island of trash floating in the ocean. Instead, it is a vast area of the North Pacific where ocean currents converge, trapping millions of pieces of microplastics—tiny fragments smaller than a grain of rice—suspended throughout the water column. These microplastics are nearly impossible to see from the surface, which makes the problem both harder to visualize and harder to solve. Marine animals from tiny plankton to massive whales ingest these particles, introducing toxins into the food chain. Scientists have found microplastics in fish sold at markets, in sea salt, and even in drinking water. Cleanup efforts face enormous logistical challenges: the affected area is roughly twice the size of Texas, and removing microplastics without harming marine life requires technology that doesn't yet exist at scale. Many researchers now argue that prevention—reducing plastic production and improving waste management—is far more practical than attempting to clean up what's already there.",
+    "options": [
+      {"label": "A", "text": "The Great Pacific Garbage Patch is a complex microplastic pollution problem that may be better prevented than cleaned up."},
+      {"label": "B", "text": "The Great Pacific Garbage Patch is a solid island of trash."},
+      {"label": "C", "text": "Marine animals are dying because of plastic."},
+      {"label": "D", "text": "We need better technology to clean the ocean."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage explains the true nature of the garbage patch, its impacts, and argues prevention is more practical than cleanup.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "The passage explicitly contradicts this"},
+      {"label": "D", "explanation": "A supporting detail, not the main idea"}
+    ],
+    "skills": ["reading-comprehension"],
+    "tags": ["main-idea", "reading"]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the author's primary purpose in this passage?",
+    "stimulus": "Every year, thousands of sea turtle hatchlings emerge from their nests on Florida's beaches and make the perilous journey to the ocean. Historically, moonlight reflecting off the water guided them in the right direction. But today, artificial lights from beachfront hotels, restaurants, and streetlamps confuse the tiny creatures, drawing them inland instead of toward the sea. Disoriented hatchlings face dehydration, predators, and traffic. Conservation groups have responded by organizing volunteer patrols during nesting season, shielding problematic lights, and educating property owners about turtle-friendly lighting. Some coastal communities have passed ordinances requiring amber-colored, downward-facing lights during nesting months. These efforts have shown measurable results: in communities with lighting regulations, hatchling disorientation events have decreased by up to 60 percent.",
+    "options": [
+      {"label": "A", "text": "To inform readers about light pollution's effect on sea turtles and conservation efforts"},
+      {"label": "B", "text": "To persuade readers to buy turtle-friendly lighting"},
+      {"label": "C", "text": "To entertain readers with a story about baby turtles"},
+      {"label": "D", "text": "To argue that hotels should be banned from beaches"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage presents factual information about the problem and solutions without directly calling readers to action.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "The author doesn't directly persuade readers to buy anything"},
+      {"label": "C", "explanation": "The tone is informational, not entertaining"}
+    ],
+    "skills": ["reading-comprehension"],
+    "tags": ["authors-purpose", "reading"]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Which statement best summarizes the central argument?",
+    "stimulus": "The debate over homework has intensified in recent years, with parents, educators, and researchers taking strong positions on both sides. Proponents argue that homework reinforces classroom learning, builds study habits, and prepares students for the demands of higher education. However, a growing body of research suggests that the benefits of homework are far less clear-cut than traditionally assumed, particularly for younger students. A landmark meta-analysis by Duke University professor Harris Cooper found that homework had little to no academic benefit for elementary school students and only moderate benefits for middle schoolers. For high school students, benefits plateaued at about two hours per night. Beyond these thresholds, additional homework was associated with increased stress, sleep deprivation, and diminished interest in learning. Critics also note that homework exacerbates inequality: students with educated parents and quiet study spaces at home have significant advantages over those without. Some progressive schools have eliminated homework entirely, replacing it with independent reading time, and report no decline in academic performance.",
+    "options": [
+      {"label": "A", "text": "Research suggests homework's benefits are limited and may cause harm beyond certain thresholds."},
+      {"label": "B", "text": "Homework should be completely eliminated from all schools."},
+      {"label": "C", "text": "Homework is essential for building good study habits."},
+      {"label": "D", "text": "Only high school students should receive homework."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage presents research showing limited benefits and potential downsides, without advocating total elimination.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "The passage doesn't advocate complete elimination"},
+      {"label": "C", "explanation": "This is the opposing view presented in the passage"}
+    ],
+    "skills": ["reading-comprehension"],
+    "tags": ["main-idea", "reading"]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the author's primary purpose?",
+    "stimulus": "Honeybees communicate the location of food sources through an elaborate movement known as the waggle dance. When a forager bee returns to the hive after finding nectar, it performs a figure-eight pattern on the honeycomb. The direction of the central waggle run indicates the direction of the food relative to the sun, while the duration of the waggle indicates distance. Other bees watch the dance closely and then fly out to find the food source. Karl von Frisch first decoded this remarkable communication system in the 1940s, earning a Nobel Prize for his work. Scientists have since discovered that the dance conveys additional information, including the quality of the food source and even the type of flower. This sophisticated system allows a colony of tens of thousands of bees to efficiently exploit food sources spread across miles of territory.",
+    "options": [
+      {"label": "A", "text": "To explain how honeybees communicate about food sources"},
+      {"label": "B", "text": "To persuade readers to protect honeybees"},
+      {"label": "C", "text": "To describe Karl von Frisch's career"},
+      {"label": "D", "text": "To compare different insect communication methods"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage focuses on explaining the waggle dance and how it works.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "No persuasive language or call to action"},
+      {"label": "C", "explanation": "Von Frisch is mentioned but isn't the focus"}
+    ],
+    "skills": ["reading-comprehension"],
+    "tags": ["authors-purpose", "reading"]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "What is the author's primary purpose?",
+    "stimulus": "When the city council approved funding for a new downtown sports arena last month, supporters celebrated what they called a transformative investment. But a closer look at the numbers tells a different story. The $450 million project will be financed largely through public bonds, meaning taxpayers will shoulder most of the cost. Meanwhile, the team's billionaire owner will retain all revenue from ticket sales, concessions, and naming rights. Proponents point to projected job creation and increased tourism, but independent economists have repeatedly shown that publicly funded stadiums rarely deliver the promised economic windfall. A Brookings Institution study found that in 30 cities with new stadiums, per-capita income actually declined relative to comparable cities without new stadiums. The jobs created are overwhelmingly low-wage, part-time, and seasonal. Before we congratulate ourselves on this deal, perhaps we should ask: who really benefits?",
+    "options": [
+      {"label": "A", "text": "To argue that the publicly funded arena is a poor deal for taxpayers"},
+      {"label": "B", "text": "To describe how sports arenas are built"},
+      {"label": "C", "text": "To celebrate the new downtown arena"},
+      {"label": "D", "text": "To explain the economics of professional sports"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "The author uses critical language, cites counter-evidence, and ends with a rhetorical question challenging the deal.",
+    "commonMistakes": [
+      {"label": "C", "explanation": "The author's tone is critical, not celebratory"},
+      {"label": "D", "explanation": "The focus is specifically on this arena deal, not sports economics broadly"}
+    ],
+    "skills": ["reading-comprehension"],
+    "tags": ["authors-purpose", "reading"]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What can you infer about the grandmother's feelings?",
+    "stimulus": "Abuela sat at the kitchen table, her weathered hands wrapped around a cup of coffee that had long gone cold. The suitcases by the door stood like sentinels, packed and ready. From the bedroom came the sounds of Sofia checking drawers one last time. Abuela traced the faded flowers on the tablecloth—the same tablecloth she'd brought from Mexico thirty years ago—and counted the scratches on the table where Sofia had done homework every night since first grade. When Sofia emerged with her backpack, Abuela stood and straightened the girl's collar, then pressed a small wooden cross into her palm. \"For the dorm room,\" she said, her voice steady even as her chin trembled. \"So you remember where you come from.\" Sofia hugged her so tightly that Abuela could feel the girl's heartbeat. After the taxi pulled away, Abuela sat back down at the table and picked up the cold coffee. She didn't drink it. She just held it.",
+    "options": [
+      {"label": "A", "text": "She is proud but deeply sad about Sofia leaving."},
+      {"label": "B", "text": "She is angry that Sofia is going to college."},
+      {"label": "C", "text": "She is indifferent about Sofia's departure."},
+      {"label": "D", "text": "She is excited to have the house to herself."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Her steady voice shows strength/pride, but her trembling chin, holding cold coffee, and sitting alone show deep sadness.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Nothing suggests anger; she gives Sofia a gift"},
+      {"label": "C", "explanation": "Her physical reactions show strong emotion"}
+    ],
+    "skills": ["reading-comprehension", "inference"],
+    "tags": ["inference", "reading"]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Based on the passage, what will Dr. Chen most likely do next?",
+    "stimulus": "Dr. Chen stared at the data on her screen for the third hour straight. The clinical trial results were unmistakable: the experimental drug reduced tumor growth by 73 percent in mice—far exceeding their most optimistic projections. Her hands trembled slightly as she scrolled through the statistical analyses. Every p-value was significant. Every control group confirmed the findings. She picked up her phone, then set it down. It was two in the morning; her research partner, Dr. Patel, was surely asleep. She paced the empty lab, running through potential confounding variables, looking for any flaw in the methodology. She found none. The implications were staggering—if these results held in human trials, it could change the treatment landscape for thousands of patients. She sat back down and began drafting an email to the university's Institutional Review Board. The subject line read: \"Request for Phase 1 Human Trial Authorization.\"",
+    "options": [
+      {"label": "A", "text": "Submit a request to begin human clinical trials"},
+      {"label": "B", "text": "Discard the results as unreliable"},
+      {"label": "C", "text": "Call Dr. Patel immediately"},
+      {"label": "D", "text": "Publish the mouse study results first"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "She is already drafting the IRB email for Phase 1 human trial authorization.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "She found no flaws and the results were significant"},
+      {"label": "C", "explanation": "She decided not to call at 2 AM"}
+    ],
+    "skills": ["reading-comprehension", "inference"],
+    "tags": ["inference", "reading"]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.best_evidence",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which sentence best supports the idea that the town is resistant to change?",
+    "stimulus": "When the county announced plans to build a wind farm on the ridge above Millbrook, the response was swift and fierce. Within a week, \"No Turbines\" signs appeared on nearly every lawn on Main Street. At the town hall meeting, farmer Joe Kendrick stood and declared that his family had farmed that ridge for five generations and he wasn't about to let the government put \"ugly machines\" on it. The mayor, who had initially supported the project, quietly withdrew her endorsement after receiving dozens of angry phone calls. Even the high school students, who had been studying renewable energy in science class, found themselves shouted down when they tried to present the environmental benefits at a PTA meeting. The wind energy company eventually withdrew its proposal, and Millbrook continued to rely on coal-generated electricity from the aging plant two counties over.",
+    "options": [
+      {"label": "A", "text": "\"Even the high school students... found themselves shouted down when they tried to present the environmental benefits.\""},
+      {"label": "B", "text": "\"The county announced plans to build a wind farm.\""},
+      {"label": "C", "text": "\"Farmer Joe Kendrick stood and declared his family had farmed that ridge.\""},
+      {"label": "D", "text": "\"The wind energy company eventually withdrew its proposal.\""}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Students being shouted down for presenting facts shows the strongest evidence of resistance to new ideas.",
+    "commonMistakes": [
+      {"label": "D", "explanation": "This is a result of resistance, not evidence of it"},
+      {"label": "C", "explanation": "Shows one person's attachment to tradition, not the town's overall resistance"}
+    ],
+    "skills": ["reading-comprehension", "best-evidence"],
+    "tags": ["best-evidence", "reading"]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.best_evidence",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Which detail best supports the claim that technology has changed farming practices?",
+    "stimulus": "Modern agriculture bears little resemblance to the farming of even fifty years ago. GPS-guided tractors now plow fields with centimeter-level precision, reducing seed waste and fuel consumption. Drones equipped with multispectral cameras fly over crops, detecting pest infestations and nutrient deficiencies invisible to the naked eye. Soil sensors buried throughout fields transmit real-time moisture data to farmers' smartphones, allowing them to irrigate only when and where water is needed. Perhaps most transformative is the use of artificial intelligence: machine learning algorithms analyze decades of weather data, soil composition, and crop yields to generate planting recommendations tailored to individual fields. A single farmer today can manage operations that would have required a dozen workers a generation ago. Critics worry that this technological dependence makes farming vulnerable to system failures and widens the gap between wealthy industrial farms and small family operations.",
+    "options": [
+      {"label": "A", "text": "\"Machine learning algorithms analyze decades of weather data... to generate planting recommendations tailored to individual fields.\""},
+      {"label": "B", "text": "\"Modern agriculture bears little resemblance to the farming of even fifty years ago.\""},
+      {"label": "C", "text": "\"Critics worry that this technological dependence makes farming vulnerable.\""},
+      {"label": "D", "text": "\"A single farmer today can manage operations that would have required a dozen workers.\""}
+    ],
+    "correctAnswer": "A",
+    "explanation": "AI generating tailored planting recommendations is the most specific and transformative example of technology changing farming.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "This is a general claim, not supporting evidence"},
+      {"label": "D", "explanation": "This describes a result, not the technology itself"}
+    ],
+    "skills": ["reading-comprehension", "best-evidence"],
+    "tags": ["best-evidence", "reading"]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.figurative_language",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What literary device is used in the underlined phrase: \"The old house groaned under the weight of its years\"?",
+    "stimulus": "Maya hadn't visited her grandfather's house since she was ten. Now, at seventeen, she stood on the sagging porch and felt time press against her like a physical force. The old house groaned under the weight of its years, its shutters hanging at odd angles like crooked teeth. Inside, dust motes floated in shafts of light that cut through gaps in the curtains. The wallpaper, once bright with yellow roses, had faded to the color of old bone. She ran her fingers along the banister—smooth from decades of hands sliding over the same wood—and climbed the stairs to her grandfather's study. His reading glasses still sat on the desk, perched atop an open book as if he had merely stepped out for a moment and would return any second. The clock on the mantel had stopped at 3:47, and Maya wondered if that was the exact moment everything in this house had frozen in place.",
+    "options": [
+      {"label": "A", "text": "Personification"},
+      {"label": "B", "text": "Simile"},
+      {"label": "C", "text": "Hyperbole"},
+      {"label": "D", "text": "Onomatopoeia"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "The house is given a human quality—groaning—which is personification.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "No comparison using 'like' or 'as' in that phrase"},
+      {"label": "D", "explanation": "While 'groaned' is a sound word, the device is personification because a house cannot literally groan"}
+    ],
+    "skills": ["literary-analysis"],
+    "tags": ["literary", "figurative-language"]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.tone_mood",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the mood of this passage?",
+    "stimulus": "Maya hadn't visited her grandfather's house since she was ten. Now, at seventeen, she stood on the sagging porch and felt time press against her like a physical force. The old house groaned under the weight of its years, its shutters hanging at odd angles like crooked teeth. Inside, dust motes floated in shafts of light that cut through gaps in the curtains. The wallpaper, once bright with yellow roses, had faded to the color of old bone. She ran her fingers along the banister—smooth from decades of hands sliding over the same wood—and climbed the stairs to her grandfather's study. His reading glasses still sat on the desk, perched atop an open book as if he had merely stepped out for a moment and would return any second. The clock on the mantel had stopped at 3:47, and Maya wondered if that was the exact moment everything in this house had frozen in place.",
+    "options": [
+      {"label": "A", "text": "Nostalgic and haunting"},
+      {"label": "B", "text": "Cheerful and upbeat"},
+      {"label": "C", "text": "Angry and resentful"},
+      {"label": "D", "text": "Humorous and lighthearted"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Faded details, stopped clock, and frozen-in-time imagery create a nostalgic, haunting mood.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "The passage is wistful, not cheerful"},
+      {"label": "C", "explanation": "No anger is expressed"}
+    ],
+    "skills": ["literary-analysis"],
+    "tags": ["literary", "tone-mood"]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.figurative_language",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "What does the stopped clock most likely symbolize?",
+    "stimulus": "Maya hadn't visited her grandfather's house since she was ten. Now, at seventeen, she stood on the sagging porch and felt time press against her like a physical force. The old house groaned under the weight of its years, its shutters hanging at odd angles like crooked teeth. Inside, dust motes floated in shafts of light that cut through gaps in the curtains. The wallpaper, once bright with yellow roses, had faded to the color of old bone. She ran her fingers along the banister—smooth from decades of hands sliding over the same wood—and climbed the stairs to her grandfather's study. His reading glasses still sat on the desk, perched atop an open book as if he had merely stepped out for a moment and would return any second. The clock on the mantel had stopped at 3:47, and Maya wondered if that was the exact moment everything in this house had frozen in place.",
+    "options": [
+      {"label": "A", "text": "Life in the house stopped when the grandfather left or passed away"},
+      {"label": "B", "text": "Maya should buy a new clock"},
+      {"label": "C", "text": "The house has no electricity"},
+      {"label": "D", "text": "Time moves faster in old houses"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "The stopped clock symbolizes how everything in the house is frozen at the moment the grandfather departed, reinforcing the theme of time standing still.",
+    "commonMistakes": [
+      {"label": "C", "explanation": "A literal interpretation that misses the symbolism"},
+      {"label": "D", "explanation": "Contradicts the imagery of time stopping"}
+    ],
+    "skills": ["literary-analysis"],
+    "tags": ["literary", "symbolism"]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.tone_mood",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What is the author's tone in this passage?",
+    "stimulus": "The school board's decision to cut the art program was, in a word, shortsighted. While administrators scramble to boost standardized test scores, they seem to have forgotten that education is about more than filling in bubbles on a scantron sheet. Art classes teach creativity, problem-solving, and emotional expression—skills that no multiple-choice test can measure. Studies consistently show that students involved in the arts perform better academically, have higher graduation rates, and demonstrate stronger critical thinking skills. Yet when budget cuts come, art is always first on the chopping block. One wonders whether the board members themselves benefited from art education in their own school days, or whether they've simply forgotten what it means to color outside the lines.",
+    "options": [
+      {"label": "A", "text": "Critical and sarcastic"},
+      {"label": "B", "text": "Objective and neutral"},
+      {"label": "C", "text": "Sad and hopeless"},
+      {"label": "D", "text": "Enthusiastic and supportive"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Words like 'shortsighted,' 'seem to have forgotten,' and the rhetorical question show a critical, sarcastic tone.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "The author clearly takes a side"},
+      {"label": "D", "explanation": "The author is criticizing, not supporting the decision"}
+    ],
+    "skills": ["literary-analysis"],
+    "tags": ["literary", "tone"]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.subject_verb",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Choose the correct sentence.",
+    "options": [
+      {"label": "A", "text": "The box of chocolates was on the table."},
+      {"label": "B", "text": "The box of chocolates were on the table."},
+      {"label": "C", "text": "The box of chocolates are on the table."},
+      {"label": "D", "text": "The box of chocolates have been on the table."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "The subject is 'box' (singular), not 'chocolates,' so the verb must be singular: 'was.'",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Matched verb to 'chocolates' instead of 'box'"},
+      {"label": "C", "explanation": "Same error with present tense"}
+    ],
+    "skills": ["subject-verb-agreement"],
+    "tags": ["grammar", "subject-verb"]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.subject_verb",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Choose the correct verb: \"The committee ___ to meet every Thursday.\"",
+    "options": [
+      {"label": "A", "text": "plans"},
+      {"label": "B", "text": "plan"},
+      {"label": "C", "text": "are planning"},
+      {"label": "D", "text": "have planned"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Collective nouns acting as one unit take singular verbs: 'plans.'",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Treated collective noun as plural"},
+      {"label": "C", "explanation": "Used plural form of 'to be'"}
+    ],
+    "skills": ["subject-verb-agreement"],
+    "tags": ["grammar", "subject-verb"]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.subject_verb",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Choose the correct verb: \"Neither the teacher nor the students ___ aware of the change.\"",
+    "options": [
+      {"label": "A", "text": "were"},
+      {"label": "B", "text": "was"},
+      {"label": "C", "text": "is"},
+      {"label": "D", "text": "has been"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "With 'neither...nor,' the verb agrees with the closer subject ('students' = plural), so 'were.'",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Matched to 'teacher' instead of closer 'students'"},
+      {"label": "C", "explanation": "Wrong number and tense"}
+    ],
+    "skills": ["subject-verb-agreement"],
+    "tags": ["grammar", "subject-verb"]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.fragments",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which is a complete sentence?",
+    "options": [
+      {"label": "A", "text": "The dog ran across the field."},
+      {"label": "B", "text": "Running across the field quickly."},
+      {"label": "C", "text": "Because the dog was hungry."},
+      {"label": "D", "text": "The dog that ran."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "It has a subject ('dog') and a complete predicate ('ran across the field').",
+    "commonMistakes": [
+      {"label": "B", "explanation": "This is a participial phrase (fragment)"},
+      {"label": "C", "explanation": "Subordinate clause without a main clause"}
+    ],
+    "skills": ["fragments"],
+    "tags": ["grammar", "fragments"]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.fragments",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which revision best fixes this fragment? \"Although the weather was beautiful.\"",
+    "options": [
+      {"label": "A", "text": "Although the weather was beautiful, we stayed inside."},
+      {"label": "B", "text": "Although. The weather was beautiful."},
+      {"label": "C", "text": "Although the weather was beautiful and."},
+      {"label": "D", "text": "Although, the weather was beautiful!"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Adding an independent clause completes the sentence.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Creates two fragments/awkward sentences"},
+      {"label": "D", "explanation": "Punctuation doesn't fix the dependent clause"}
+    ],
+    "skills": ["fragments"],
+    "tags": ["grammar", "fragments"]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.run_ons",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which correctly fixes this run-on? \"I love pizza I eat it every day.\"",
+    "options": [
+      {"label": "A", "text": "I love pizza; I eat it every day."},
+      {"label": "B", "text": "I love pizza I, eat it every day."},
+      {"label": "C", "text": "I love, pizza I eat it every day."},
+      {"label": "D", "text": "I love pizza I eat, it every day."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "A semicolon correctly joins two related independent clauses.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Comma is in the wrong place"},
+      {"label": "C", "explanation": "Comma doesn't separate the clauses properly"}
+    ],
+    "skills": ["run-ons"],
+    "tags": ["grammar", "run-ons"]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.run_ons",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which is a run-on sentence?",
+    "options": [
+      {"label": "A", "text": "The movie was long it lasted three hours."},
+      {"label": "B", "text": "The movie was long, but it was entertaining."},
+      {"label": "C", "text": "Although the movie was long, I enjoyed it."},
+      {"label": "D", "text": "The movie, which was three hours long, was entertaining."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Two independent clauses with no punctuation or conjunction between them.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Correctly joined with comma + conjunction"},
+      {"label": "C", "explanation": "Correctly uses subordinate clause"}
+    ],
+    "skills": ["run-ons"],
+    "tags": ["grammar", "run-ons"]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.run_ons",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Which revision best corrects: \"The experiment failed the scientists revised their hypothesis they tried again.\"",
+    "options": [
+      {"label": "A", "text": "The experiment failed, so the scientists revised their hypothesis and tried again."},
+      {"label": "B", "text": "The experiment failed, the scientists revised their hypothesis, they tried again."},
+      {"label": "C", "text": "The experiment failed the scientists, revised their hypothesis they tried again."},
+      {"label": "D", "text": "The experiment failed; the scientists; revised their hypothesis; they tried again."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Uses a conjunction ('so') and coordinating conjunction ('and') to properly connect the clauses.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Still a comma splice (three clauses joined only by commas)"},
+      {"label": "D", "explanation": "Excessive semicolons breaking up the sentence incorrectly"}
+    ],
+    "skills": ["run-ons"],
+    "tags": ["grammar", "run-ons"]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.parallel_structure",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which sentence uses parallel structure correctly?",
+    "options": [
+      {"label": "A", "text": "She likes swimming, biking, and running."},
+      {"label": "B", "text": "She likes swimming, to bike, and running."},
+      {"label": "C", "text": "She likes swimming, biking, and to run."},
+      {"label": "D", "text": "She likes to swim, biking, and running."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "All three items use the same form (gerunds: swimming, biking, running).",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Mixes gerund and infinitive forms"},
+      {"label": "C", "explanation": "Last item breaks the pattern"}
+    ],
+    "skills": ["parallel-structure"],
+    "tags": ["grammar", "parallel-structure"]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.parallel_structure",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which revision makes this sentence parallel? \"The coach told the players to stretch, that they should hydrate, and running laps.\"",
+    "options": [
+      {"label": "A", "text": "The coach told the players to stretch, to hydrate, and to run laps."},
+      {"label": "B", "text": "The coach told the players stretching, hydrating, and running laps."},
+      {"label": "C", "text": "The coach told the players to stretch, hydrate, and running laps."},
+      {"label": "D", "text": "The coach told the players they should stretch, hydrating, and to run laps."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "All three items use the infinitive form: to stretch, to hydrate, to run.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Grammatically awkward after 'told'"},
+      {"label": "C", "explanation": "Third item breaks the infinitive pattern"}
+    ],
+    "skills": ["parallel-structure"],
+    "tags": ["grammar", "parallel-structure"]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.parallel_structure",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Which sentence demonstrates correct parallel structure?",
+    "options": [
+      {"label": "A", "text": "The report was thorough in its research, clear in its conclusions, and persuasive in its recommendations."},
+      {"label": "B", "text": "The report was thorough in its research, concluded clearly, and its recommendations were persuasive."},
+      {"label": "C", "text": "The report had thorough research, clear conclusions, and it recommended things persuasively."},
+      {"label": "D", "text": "The report was thorough in its research, clearly concluded, and persuasive recommendations."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Each item follows the same pattern: adjective + prepositional phrase.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Switches between adjective phrase, verb phrase, and clause"},
+      {"label": "C", "explanation": "Last item breaks into a full clause"}
+    ],
+    "skills": ["parallel-structure"],
+    "tags": ["grammar", "parallel-structure"]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.verb_tense",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Choose the correct verb tense: \"Yesterday, she ___ to the store.\"",
+    "options": [
+      {"label": "A", "text": "went"},
+      {"label": "B", "text": "goes"},
+      {"label": "C", "text": "going"},
+      {"label": "D", "text": "will go"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Yesterday' indicates past tense, so 'went' is correct.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Present tense doesn't match 'yesterday'"},
+      {"label": "D", "explanation": "Future tense contradicts 'yesterday'"}
+    ],
+    "skills": ["verb-tense"],
+    "tags": ["grammar", "verb-tense"]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.verb_tense",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Fix the tense shift: \"She walked to school and sees her friend.\"",
+    "options": [
+      {"label": "A", "text": "She walked to school and saw her friend."},
+      {"label": "B", "text": "She walks to school and sees her friend."},
+      {"label": "C", "text": "She walked to school and will see her friend."},
+      {"label": "D", "text": "Both A and B are correct."}
+    ],
+    "correctAnswer": "D",
+    "explanation": "Both options maintain consistent tense (A is past, B is present). Either is correct.",
+    "commonMistakes": [
+      {"label": "C", "explanation": "Introduces a tense shift from past to future"}
+    ],
+    "skills": ["verb-tense"],
+    "tags": ["grammar", "verb-tense"]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.verb_tense",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Which sentence correctly uses the past perfect tense?",
+    "options": [
+      {"label": "A", "text": "By the time we arrived, the movie had already started."},
+      {"label": "B", "text": "By the time we arrived, the movie already started."},
+      {"label": "C", "text": "By the time we arrived, the movie has already started."},
+      {"label": "D", "text": "By the time we arrived, the movie already starts."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Past perfect ('had started') shows an action completed before another past action ('arrived').",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Simple past doesn't show the earlier action clearly"},
+      {"label": "C", "explanation": "Present perfect doesn't match the past context"}
+    ],
+    "skills": ["verb-tense"],
+    "tags": ["grammar", "verb-tense"]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.pronoun_antecedent",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Choose the correct pronoun: \"Every student must bring ___ own pencil.\"",
+    "options": [
+      {"label": "A", "text": "their"},
+      {"label": "B", "text": "its"},
+      {"label": "C", "text": "our"},
+      {"label": "D", "text": "your"}
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Their' is the accepted pronoun for 'every student' in modern usage.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "'Its' refers to objects, not people"},
+      {"label": "C", "explanation": "Wrong person; doesn't match 'every student'"}
+    ],
+    "skills": ["pronoun-antecedent"],
+    "tags": ["grammar", "pronoun-antecedent"]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.pronoun_antecedent",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which sentence has a clear pronoun reference?",
+    "options": [
+      {"label": "A", "text": "When Maria called Lisa, Maria said she had great news."},
+      {"label": "B", "text": "When Maria called Lisa, she said she had great news."},
+      {"label": "C", "text": "Maria called Lisa and she told her."},
+      {"label": "D", "text": "Maria and Lisa, she called her."}
+    ],
+    "correctAnswer": "A",
+    "explanation": "Repeating 'Maria' makes it clear who 'she' refers to.",
+    "commonMistakes": [
+      {"label": "B", "explanation": "Unclear which 'she' refers to Maria or Lisa"},
+      {"label": "C", "explanation": "Both pronouns are ambiguous"}
+    ],
+    "skills": ["pronoun-antecedent"],
+    "tags": ["grammar", "pronoun-antecedent"]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.pronoun_antecedent

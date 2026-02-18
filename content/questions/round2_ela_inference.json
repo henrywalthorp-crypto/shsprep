@@ -1,0 +1,2991 @@
+[
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What can you infer about Marcus's family?",
+    "stimulus": "Marcus stared at the acceptance letter, reading it for the third time. His mother stood in the doorway, her eyes glistening. \"I always knew,\" she whispered. Marcus carefully folded the letter and placed it on the kitchen table, next to the stack of bills his mother had been sorting through. He picked up the brochure that had come with the letter—glossy photos of tree-lined walkways and modern buildings—and turned it over to the financial aid section. The numbers there told a different story than the congratulations on the front. His mother put her hand on his shoulder. \"We'll figure it out,\" she said, though her voice wavered. Marcus nodded, but he was already thinking about the community college pamphlet in his backpack.",
+    "options": [
+      {
+        "label": "A",
+        "text": "They are facing financial difficulties."
+      },
+      {
+        "label": "B",
+        "text": "They are wealthy."
+      },
+      {
+        "label": "C",
+        "text": "They don't care about education."
+      },
+      {
+        "label": "D",
+        "text": "They are angry about the letter."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The stack of bills and concern about financial aid suggest financial struggle.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by evidence"
+      },
+      {
+        "label": "C",
+        "explanation": "Too broad or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.best_evidence",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which evidence best supports Marcus's internal conflict?",
+    "stimulus": "Marcus stared at the acceptance letter, reading it for the third time. His mother stood in the doorway, her eyes glistening. \"I always knew,\" she whispered. Marcus carefully folded the letter and placed it on the kitchen table, next to the stack of bills his mother had been sorting through. He picked up the brochure that had come with the letter—glossy photos of tree-lined walkways and modern buildings—and turned it over to the financial aid section. The numbers there told a different story than the congratulations on the front. His mother put her hand on his shoulder. \"We'll figure it out,\" she said, though her voice wavered. Marcus nodded, but he was already thinking about the community college pamphlet in his backpack.",
+    "options": [
+      {
+        "label": "A",
+        "text": "He was already thinking about the community college pamphlet in his backpack."
+      },
+      {
+        "label": "B",
+        "text": "He read the letter three times."
+      },
+      {
+        "label": "C",
+        "text": "His mother stood in the doorway."
+      },
+      {
+        "label": "D",
+        "text": "He folded the letter carefully."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The community college pamphlet shows he's considering a cheaper alternative despite being accepted.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by evidence"
+      },
+      {
+        "label": "C",
+        "explanation": "Too broad or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.claim_evidence",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What claim does this passage best support?",
+    "stimulus": "Marcus stared at the acceptance letter, reading it for the third time. His mother stood in the doorway, her eyes glistening. \"I always knew,\" she whispered. Marcus carefully folded the letter and placed it on the kitchen table, next to the stack of bills his mother had been sorting through. He picked up the brochure that had come with the letter—glossy photos of tree-lined walkways and modern buildings—and turned it over to the financial aid section. The numbers there told a different story than the congratulations on the front. His mother put her hand on his shoulder. \"We'll figure it out,\" she said, though her voice wavered. Marcus nodded, but he was already thinking about the community college pamphlet in his backpack.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Financial barriers can limit educational choices even for qualified students."
+      },
+      {
+        "label": "B",
+        "text": "Community college is better than university."
+      },
+      {
+        "label": "C",
+        "text": "Parents should pay for college."
+      },
+      {
+        "label": "D",
+        "text": "Acceptance letters are meaningless."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Marcus was accepted but financial concerns push him toward a cheaper option.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by evidence"
+      },
+      {
+        "label": "C",
+        "explanation": "Too broad or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What can you infer about the town's economy?",
+    "stimulus": "The town council meeting was tense. For two hours, residents had debated whether to approve a proposal from GreenTech Industries to build a solar panel manufacturing plant on 200 acres of farmland at the edge of town. Supporters pointed to the 500 jobs the plant would create and the tax revenue that could fund a new school. Opponents, many of them farmers, argued that the town's character would change forever and that the traffic alone would overwhelm their two-lane roads. Sarah Chen, a high school teacher who had lived in town her whole life, stood to speak last. \"I've watched three of my best students leave this town after graduation because there were no jobs for them here,\" she said quietly. \"I'd like to give the next generation a reason to stay.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The town lacks sufficient employment opportunities for young people."
+      },
+      {
+        "label": "B",
+        "text": "The town is very wealthy."
+      },
+      {
+        "label": "C",
+        "text": "Everyone in town is a farmer."
+      },
+      {
+        "label": "D",
+        "text": "The town has too many factories."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Sarah's comment about students leaving for lack of jobs indicates economic stagnation.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by evidence"
+      },
+      {
+        "label": "C",
+        "explanation": "Too broad or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.best_evidence",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which is the best evidence that the town is divided on this issue?",
+    "stimulus": "The town council meeting was tense. For two hours, residents had debated whether to approve a proposal from GreenTech Industries to build a solar panel manufacturing plant on 200 acres of farmland at the edge of town. Supporters pointed to the 500 jobs the plant would create and the tax revenue that could fund a new school. Opponents, many of them farmers, argued that the town's character would change forever and that the traffic alone would overwhelm their two-lane roads. Sarah Chen, a high school teacher who had lived in town her whole life, stood to speak last. \"I've watched three of my best students leave this town after graduation because there were no jobs for them here,\" she said quietly. \"I'd like to give the next generation a reason to stay.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "For two hours, residents had debated the proposal."
+      },
+      {
+        "label": "B",
+        "text": "Sarah Chen is a high school teacher."
+      },
+      {
+        "label": "C",
+        "text": "The plant would create 500 jobs."
+      },
+      {
+        "label": "D",
+        "text": "GreenTech Industries builds solar panels."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The length and nature of the debate directly show division.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by evidence"
+      },
+      {
+        "label": "C",
+        "explanation": "Too broad or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.claim_evidence",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What claim does Sarah's statement best support?",
+    "stimulus": "The town council meeting was tense. For two hours, residents had debated whether to approve a proposal from GreenTech Industries to build a solar panel manufacturing plant on 200 acres of farmland at the edge of town. Supporters pointed to the 500 jobs the plant would create and the tax revenue that could fund a new school. Opponents, many of them farmers, argued that the town's character would change forever and that the traffic alone would overwhelm their two-lane roads. Sarah Chen, a high school teacher who had lived in town her whole life, stood to speak last. \"I've watched three of my best students leave this town after graduation because there were no jobs for them here,\" she said quietly. \"I'd like to give the next generation a reason to stay.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Economic development is necessary to retain young residents."
+      },
+      {
+        "label": "B",
+        "text": "All students should stay in their hometown."
+      },
+      {
+        "label": "C",
+        "text": "Teaching is an underpaid profession."
+      },
+      {
+        "label": "D",
+        "text": "Solar panels are the future of energy."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Sarah connects job creation to keeping young people in town.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by evidence"
+      },
+      {
+        "label": "C",
+        "explanation": "Too broad or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What can you infer about Dr. Amara's character?",
+    "stimulus": "Dr. Amara leaned back in her chair and rubbed her temples. The data on her screen didn't lie, but she wished it did. Three years of research, two grant renewals, and her team's findings contradicted their original hypothesis entirely. The protein they had believed would inhibit tumor growth appeared, in their latest trial, to actually accelerate it under certain conditions. She could already imagine the review board's reaction. Some researchers, she knew, might be tempted to bury such results—to focus only on the trials that supported their expectations. But Dr. Amara opened a new document and began typing: \"Our findings challenge the prevailing assumption...\" She would publish the truth. Science, she reminded herself, progresses not by confirming what we want to believe, but by honestly reporting what we find.",
+    "options": [
+      {
+        "label": "A",
+        "text": "She values scientific integrity over personal career interests."
+      },
+      {
+        "label": "B",
+        "text": "She is incompetent at research."
+      },
+      {
+        "label": "C",
+        "text": "She wants to destroy other scientists' work."
+      },
+      {
+        "label": "D",
+        "text": "She doesn't care about her findings."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "She chooses to publish contradictory results honestly despite the career risk.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by evidence"
+      },
+      {
+        "label": "C",
+        "explanation": "Too broad or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.best_evidence",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which sentence best supports the claim that publishing honest results takes courage?",
+    "stimulus": "Dr. Amara leaned back in her chair and rubbed her temples. The data on her screen didn't lie, but she wished it did. Three years of research, two grant renewals, and her team's findings contradicted their original hypothesis entirely. The protein they had believed would inhibit tumor growth appeared, in their latest trial, to actually accelerate it under certain conditions. She could already imagine the review board's reaction. Some researchers, she knew, might be tempted to bury such results—to focus only on the trials that supported their expectations. But Dr. Amara opened a new document and began typing: \"Our findings challenge the prevailing assumption...\" She would publish the truth. Science, she reminded herself, progresses not by confirming what we want to believe, but by honestly reporting what we find.",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"She could already imagine the review board's reaction.\""
+      },
+      {
+        "label": "B",
+        "text": "\"Dr. Amara leaned back in her chair.\""
+      },
+      {
+        "label": "C",
+        "text": "\"Three years of research, two grant renewals.\""
+      },
+      {
+        "label": "D",
+        "text": "\"She opened a new document.\""
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Anticipating negative reactions shows she understands the personal cost.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by evidence"
+      },
+      {
+        "label": "C",
+        "explanation": "Too broad or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.claim_evidence",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which claim is best supported by this passage?",
+    "stimulus": "Dr. Amara leaned back in her chair and rubbed her temples. The data on her screen didn't lie, but she wished it did. Three years of research, two grant renewals, and her team's findings contradicted their original hypothesis entirely. The protein they had believed would inhibit tumor growth appeared, in their latest trial, to actually accelerate it under certain conditions. She could already imagine the review board's reaction. Some researchers, she knew, might be tempted to bury such results—to focus only on the trials that supported their expectations. But Dr. Amara opened a new document and began typing: \"Our findings challenge the prevailing assumption...\" She would publish the truth. Science, she reminded herself, progresses not by confirming what we want to believe, but by honestly reporting what we find.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Scientific progress requires honest reporting even when results are disappointing."
+      },
+      {
+        "label": "B",
+        "text": "All scientific hypotheses are wrong."
+      },
+      {
+        "label": "C",
+        "text": "Grant funding corrupts research."
+      },
+      {
+        "label": "D",
+        "text": "Protein research is a waste of time."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage explicitly connects honest reporting to scientific progress.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by evidence"
+      },
+      {
+        "label": "C",
+        "explanation": "Too broad or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What can you infer Maya plans to do?",
+    "stimulus": "The old lighthouse had been dark for fifteen years when Maya first climbed its spiral staircase. Cobwebs draped across the railing like lace curtains, and each step groaned under her weight. At the top, the great lens was clouded with salt and grime, but when Maya wiped a section clean with her sleeve, the afternoon sun caught the glass and sent a rainbow dancing across the wall. She pulled out her notebook and began sketching. The town below had changed since the lighthouse was decommissioned—condos where fishing shacks had stood, a marina full of sailboats instead of trawlers. But from up here, if she squinted, she could almost see the town her grandmother had described in her stories. Maya closed her notebook and descended the stairs. She had a proposal to write.",
+    "options": [
+      {
+        "label": "A",
+        "text": "She plans to propose restoring or preserving the lighthouse."
+      },
+      {
+        "label": "B",
+        "text": "She plans to demolish the lighthouse."
+      },
+      {
+        "label": "C",
+        "text": "She is writing a school essay."
+      },
+      {
+        "label": "D",
+        "text": "She wants to buy a condo."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Her exploration, sketching, and \"proposal to write\" suggest restoration/preservation plans.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by evidence"
+      },
+      {
+        "label": "C",
+        "explanation": "Too broad or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.best_evidence",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which detail best supports the inference that the town has changed significantly?",
+    "stimulus": "The old lighthouse had been dark for fifteen years when Maya first climbed its spiral staircase. Cobwebs draped across the railing like lace curtains, and each step groaned under her weight. At the top, the great lens was clouded with salt and grime, but when Maya wiped a section clean with her sleeve, the afternoon sun caught the glass and sent a rainbow dancing across the wall. She pulled out her notebook and began sketching. The town below had changed since the lighthouse was decommissioned—condos where fishing shacks had stood, a marina full of sailboats instead of trawlers. But from up here, if she squinted, she could almost see the town her grandmother had described in her stories. Maya closed her notebook and descended the stairs. She had a proposal to write.",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"Condos where fishing shacks had stood, a marina full of sailboats instead of trawlers.\""
+      },
+      {
+        "label": "B",
+        "text": "\"Cobwebs draped across the railing.\""
+      },
+      {
+        "label": "C",
+        "text": "\"She pulled out her notebook.\""
+      },
+      {
+        "label": "D",
+        "text": "\"The afternoon sun caught the glass.\""
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The direct comparison of old fishing structures to new luxury ones shows change.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by evidence"
+      },
+      {
+        "label": "C",
+        "explanation": "Too broad or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What can you infer about the community's values?",
+    "stimulus": "When the school board announced budget cuts that would eliminate the arts program, nobody expected the response that followed. Within a week, a petition with 3,000 signatures appeared. Local businesses offered to sponsor art supplies. A retired art teacher volunteered to teach classes for free. The student newspaper published an editorial pointing out that students in arts programs had higher GPAs and lower dropout rates than those without. At the next board meeting, the room was standing-room only. Student after student stood to testify: the shy girl who found her voice through theater, the struggling reader who discovered graphic novels, the at-risk teen who channeled his anger into painting instead of fights. Board member Tom Richardson, who had initially supported the cuts, was seen wiping his eyes during one testimony. The board voted unanimously to restore funding.",
+    "options": [
+      {
+        "label": "A",
+        "text": "The community deeply values arts education and civic engagement."
+      },
+      {
+        "label": "B",
+        "text": "The community doesn't care about education."
+      },
+      {
+        "label": "C",
+        "text": "Only students opposed the cuts."
+      },
+      {
+        "label": "D",
+        "text": "The school board ignored public opinion."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The widespread, diverse community response shows shared values around arts and participation.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by evidence"
+      },
+      {
+        "label": "C",
+        "explanation": "Too broad or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.best_evidence",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which evidence best supports that arts programs have practical benefits?",
+    "stimulus": "When the school board announced budget cuts that would eliminate the arts program, nobody expected the response that followed. Within a week, a petition with 3,000 signatures appeared. Local businesses offered to sponsor art supplies. A retired art teacher volunteered to teach classes for free. The student newspaper published an editorial pointing out that students in arts programs had higher GPAs and lower dropout rates than those without. At the next board meeting, the room was standing-room only. Student after student stood to testify: the shy girl who found her voice through theater, the struggling reader who discovered graphic novels, the at-risk teen who channeled his anger into painting instead of fights. Board member Tom Richardson, who had initially supported the cuts, was seen wiping his eyes during one testimony. The board voted unanimously to restore funding.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Students in arts programs had higher GPAs and lower dropout rates."
+      },
+      {
+        "label": "B",
+        "text": "3,000 signatures appeared on a petition."
+      },
+      {
+        "label": "C",
+        "text": "The board voted unanimously."
+      },
+      {
+        "label": "D",
+        "text": "Tom Richardson wiped his eyes."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "GPA and dropout statistics provide concrete, measurable evidence of benefits.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by evidence"
+      },
+      {
+        "label": "C",
+        "explanation": "Too broad or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.claim_evidence",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What claim does this passage support?",
+    "stimulus": "When the school board announced budget cuts that would eliminate the arts program, nobody expected the response that followed. Within a week, a petition with 3,000 signatures appeared. Local businesses offered to sponsor art supplies. A retired art teacher volunteered to teach classes for free. The student newspaper published an editorial pointing out that students in arts programs had higher GPAs and lower dropout rates than those without. At the next board meeting, the room was standing-room only. Student after student stood to testify: the shy girl who found her voice through theater, the struggling reader who discovered graphic novels, the at-risk teen who channeled his anger into painting instead of fights. Board member Tom Richardson, who had initially supported the cuts, was seen wiping his eyes during one testimony. The board voted unanimously to restore funding.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Community advocacy can reverse harmful policy decisions."
+      },
+      {
+        "label": "B",
+        "text": "School boards always make bad decisions."
+      },
+      {
+        "label": "C",
+        "text": "Art is more important than math."
+      },
+      {
+        "label": "D",
+        "text": "Budget cuts are never necessary."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The community organized and successfully reversed the cuts.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by evidence"
+      },
+      {
+        "label": "C",
+        "explanation": "Too broad or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Why is Kenji wearing the rival jersey?",
+    "stimulus": "The cafeteria fell silent when Kenji walked in wearing the rival school's jersey. His teammates at the lunch table exchanged glances. Kenji sat down as if nothing was wrong and opened his lunch. \"Bet's a bet,\" he said with a shrug. His best friend Darius burst out laughing, and soon the whole table joined in. \"Man, you should never have bet against their quarterback,\" Darius said. Kenji grinned. \"Lesson learned.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "He lost a bet and had to wear it as a consequence."
+      },
+      {
+        "label": "B",
+        "text": "He transferred to the rival school."
+      },
+      {
+        "label": "C",
+        "text": "He doesn't like his own team."
+      },
+      {
+        "label": "D",
+        "text": "It was school spirit day."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "\"Bet's a bet\" and Darius's comment about the quarterback confirm he lost a bet.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal or narrow"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What task is Jennifer facing?",
+    "stimulus": "The email from the CEO was only two sentences long. \"Effective immediately, all departments will reduce headcount by 15%. Department heads will submit their plans by Friday.\" Jennifer read it twice, then looked at the photos on her desk—her team at last year's holiday party, all smiling. She had hired most of them herself. She pulled up the company directory and began scrolling through names, her stomach in knots.",
+    "options": [
+      {
+        "label": "A",
+        "text": "She must decide which employees to lay off."
+      },
+      {
+        "label": "B",
+        "text": "She is planning a party."
+      },
+      {
+        "label": "C",
+        "text": "She is hiring new employees."
+      },
+      {
+        "label": "D",
+        "text": "She is updating the company directory."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The 15% headcount reduction and her scrolling through names with dread indicate layoffs.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal or narrow"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What can you infer about Old Tom?",
+    "stimulus": "The river had risen six inches overnight. Old Tom checked the marks on the wooden post by the bridge—marks he'd been carving for forty years. The water was higher now than the flood of '97. He walked to the general store and bought extra sandbags without being asked. By noon, three other families had followed his lead.",
+    "options": [
+      {
+        "label": "A",
+        "text": "He is experienced with floods and trusted by the community."
+      },
+      {
+        "label": "B",
+        "text": "He is afraid of water."
+      },
+      {
+        "label": "C",
+        "text": "He just moved to the area."
+      },
+      {
+        "label": "D",
+        "text": "He owns the general store."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Forty years of markings and others following his lead show experience and trust.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal or narrow"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What can you infer about Aiden's growth?",
+    "stimulus": "\"Your essay shows improvement,\" Ms. Torres said carefully, sliding the paper across her desk. Aiden picked it up and saw the grade: C+. Three months ago, he would have crumpled it up. Instead, he looked at Ms. Torres's comments in the margins—precise suggestions circled in green ink—and nodded. \"I'll revise it,\" he said. Ms. Torres smiled. \"That's exactly what I was hoping to hear.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "He has developed a more mature approach to academic feedback."
+      },
+      {
+        "label": "B",
+        "text": "He has always been a good student."
+      },
+      {
+        "label": "C",
+        "text": "He doesn't care about his grade."
+      },
+      {
+        "label": "D",
+        "text": "Ms. Torres gives unfair grades."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The contrast with \"three months ago\" and his willingness to revise show growth.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal or narrow"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What inference can you make about Priya?",
+    "stimulus": "The documentary had just finished when Priya turned to her roommate. \"Did you know they use that much water for a single hamburger?\" she asked. Her roommate shrugged and went back to scrolling on her phone. That night, Priya went through the fridge and threw out three packages of ground beef. She opened her laptop and searched \"vegetarian meal plans for beginners.\" By the end of the week, she had shared four articles about water conservation on social media and signed up for a community garden.",
+    "options": [
+      {
+        "label": "A",
+        "text": "The documentary motivated her to change her habits and raise awareness."
+      },
+      {
+        "label": "B",
+        "text": "She has always been vegetarian."
+      },
+      {
+        "label": "C",
+        "text": "She doesn't like her roommate."
+      },
+      {
+        "label": "D",
+        "text": "She is a professional environmentalist."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The sequence of actions following the documentary shows it catalyzed behavioral change.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal or narrow"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.best_evidence",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which evidence best shows Tyler's emotional conflict?",
+    "stimulus": "Coach Rivera posted the varsity roster outside the gym at 3:15 p.m. By 3:20, a crowd had gathered. Some players high-fived and whooped. Others walked away quickly, heads down. Tyler found his name on the list and exhaled—he hadn't realized he'd been holding his breath. Then he saw that his twin brother Jake's name was absent. Tyler's celebration died on his lips. He found Jake in the parking lot, sitting in their shared car with the engine running.",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"Tyler's celebration died on his lips.\""
+      },
+      {
+        "label": "B",
+        "text": "\"He hadn't realized he'd been holding his breath.\""
+      },
+      {
+        "label": "C",
+        "text": "\"Some players high-fived and whooped.\""
+      },
+      {
+        "label": "D",
+        "text": "\"Jake was sitting in their shared car.\""
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "This moment captures the shift from joy to guilt/sadness upon seeing Jake didn't make it.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal or narrow"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.claim_evidence",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What claim does Councilwoman Diaz's statement support?",
+    "stimulus": "The city council approved the new highway extension by a vote of 7-2. Councilwoman Diaz, who voted against it, released a statement: \"This route will displace 200 families from the historically Black neighborhood of Oakwood, the same community that lost its elementary school to 'urban renewal' in 1968 and its community center to a parking garage in 1995. At what point do we acknowledge the pattern?\" The council's response noted that affected residents would receive \"fair market value\" for their homes and access to relocation assistance.",
+    "options": [
+      {
+        "label": "A",
+        "text": "The Oakwood community has been repeatedly harmed by development decisions."
+      },
+      {
+        "label": "B",
+        "text": "Highway extensions always displace people."
+      },
+      {
+        "label": "C",
+        "text": "The council made the right decision."
+      },
+      {
+        "label": "D",
+        "text": "Fair market value is always adequate."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "She cites three instances of the same community losing resources to development.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal or narrow"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What inference is best supported?",
+    "stimulus": "The farmer's market was barely surviving when Lin proposed selling prepared foods alongside produce. \"People don't just want ingredients anymore,\" she argued at the vendor meeting. \"They want someone to show them what to do with a rutabaga.\" Some vendors scoffed, but within a month of Lin's taco stand opening—using ingredients sourced entirely from the other market vendors—foot traffic doubled. Now six vendors offer prepared foods, and the waiting list for vendor spots has twelve names on it.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Prepared food attracts more customers and benefits all vendors."
+      },
+      {
+        "label": "B",
+        "text": "People don't like raw produce."
+      },
+      {
+        "label": "C",
+        "text": "Lin's tacos are the best food at the market."
+      },
+      {
+        "label": "D",
+        "text": "The market should only sell prepared food."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The doubling of foot traffic and long waitlist directly follow the prepared food addition.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal or narrow"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Why doesn't Maya offer to help?",
+    "stimulus": "Grandpa's hands shook as he threaded the fishing line, something he used to do without even looking. Maya watched him from the bow of the boat but didn't offer to help. She had learned that lesson last summer. Instead she asked, \"Tell me again about the catfish that broke your rod.\" His hands steadied as he began the story, and by the time he got to the part about falling into the lake, the line was perfectly threaded. Maya smiled to herself.",
+    "options": [
+      {
+        "label": "A",
+        "text": "She knows her grandfather values his independence and the distraction helps him."
+      },
+      {
+        "label": "B",
+        "text": "She doesn't know how to help."
+      },
+      {
+        "label": "C",
+        "text": "She is angry at him."
+      },
+      {
+        "label": "D",
+        "text": "She thinks it's funny."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "\"She had learned that lesson\" and using a story as distraction show understanding.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal or narrow"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.claim_evidence",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What claim does this passage support? (variant 1)",
+    "stimulus": "The research team published two papers from the same study. The first, in a prestigious journal, emphasized that the new drug reduced symptoms by 15% compared to placebo. The second paper, published in a smaller journal, reported that 60% of participants experienced no improvement whatsoever and that the 15% improvement was driven almost entirely by a small subgroup of patients with a specific genetic marker. Both papers were technically accurate. Neither was dishonest. But a doctor reading only the first paper would have a very different understanding than one who read both.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Selective presentation of accurate data can create misleading impressions."
+      },
+      {
+        "label": "B",
+        "text": "The drug is effective for everyone."
+      },
+      {
+        "label": "C",
+        "text": "The researchers committed fraud."
+      },
+      {
+        "label": "D",
+        "text": "Prestigious journals are always wrong."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Both papers are truthful but selective; together they give a fuller, different picture.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal or narrow"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Why did Maria start running?",
+    "stimulus": "Before dawn, Maria laced up her running shoes in the dark apartment, careful not to wake her children. The half-marathon was in three weeks. She had started training six months ago, after the doctor showed her the blood work results. At first, she could barely run a block. Now she was up to eight miles. The medals from her daughter's soccer tournament clinked softly on the refrigerator as Maria opened it for a water bottle. She paused, looking at them. Then she grabbed a sticky note and wrote: \"Mom's going to get a medal too.\" She stuck it to the fridge and headed out the door.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Concerning health results motivated her to become more active."
+      },
+      {
+        "label": "B",
+        "text": "She has always been a runner."
+      },
+      {
+        "label": "C",
+        "text": "She wants to compete professionally."
+      },
+      {
+        "label": "D",
+        "text": "Her daughter encouraged her."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Training started after the doctor showed her blood work results, implying health concerns.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal or narrow"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.best_evidence",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which evidence best supports the claim that the policy improved learning?",
+    "stimulus": "The school implemented a new cell phone policy: all devices locked in pouches during the school day. Teachers reported that class discussions became richer and more sustained. Several students who had been labeled as \"disengaged\" began participating for the first time. However, parents flooded the main office with complaints about not being able to reach their children during emergencies. One parent pointed out that during last year's lockdown drill, students had used their phones to text parents their location and status. The principal acknowledged the concern but noted that overall academic performance had improved measurably in the first month.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Several students who had been labeled as \"disengaged\" began participating for the first time."
+      },
+      {
+        "label": "B",
+        "text": "Parents flooded the main office with complaints."
+      },
+      {
+        "label": "C",
+        "text": "Students texted parents during the lockdown drill."
+      },
+      {
+        "label": "D",
+        "text": "The policy locked devices in pouches."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Previously disengaged students participating is direct evidence of improved learning engagement.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal or narrow"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What can you infer about the community's response to the factory closing?",
+    "stimulus": "In the weeks after the factory closed, the diner on Main Street noticed something unexpected. Instead of emptying out, the lunch counter was busier than ever. People who used to grab a sandwich and rush back to their shift now lingered over coffee, talking in low voices. The help-wanted section of the newspaper, once ignored, was passed from hand to hand. Someone started a board near the door where people could post odd jobs. \"Need a fence painted—$50.\" \"Babysitter available weekdays.\" The diner owner stopped charging for coffee refills.",
+    "options": [
+      {
+        "label": "A",
+        "text": "The community is coming together to support each other through economic hardship."
+      },
+      {
+        "label": "B",
+        "text": "People are happy the factory closed."
+      },
+      {
+        "label": "C",
+        "text": "The diner is making more money."
+      },
+      {
+        "label": "D",
+        "text": "No one is looking for work."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Job boards, sharing newspapers, and free refills show mutual support during difficulty.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too literal or narrow"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What can you infer about the exhibit's effect?",
+    "stimulus": "The museum exhibit featured a single photograph: a girl no older than ten standing in rubble, holding a teddy bear. Beneath it, a small placard read: \"Aleppo, 2016.\" No other explanation was needed. Visitors stood before it in silence, some for several minutes. A guest book nearby was filled with messages in dozens of languages. The museum director later said it was the most impactful exhibit they had ever displayed, despite—or perhaps because of—its simplicity.",
+    "options": [
+      {
+        "label": "A",
+        "text": "The image powerfully conveyed the human cost of conflict without needing words."
+      },
+      {
+        "label": "B",
+        "text": "Visitors didn't understand the photograph."
+      },
+      {
+        "label": "C",
+        "text": "The museum normally shows complex exhibits."
+      },
+      {
+        "label": "D",
+        "text": "The teddy bear was the focus of the exhibit."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Silence, lingering, and multilingual responses all indicate deep emotional impact.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by text"
+      },
+      {
+        "label": "C",
+        "explanation": "Overly literal reading"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What does the revision reveal about Amira?",
+    "stimulus": "The first draft of Amira's college essay began: \"I have always wanted to be a doctor.\" Her guidance counselor read it and asked, \"Is that really true?\" Amira thought about it. She remembered being five, wrapping bandages around her stuffed animals. But she also remembered being twelve and wanting to be an astronaut, and fifteen and dreaming of becoming a journalist. Her counselor suggested starting over. The final draft began: \"I have wanted to be many things, and each one taught me something about who I actually am.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "She gained self-awareness and embraced her complex journey."
+      },
+      {
+        "label": "B",
+        "text": "She decided not to be a doctor."
+      },
+      {
+        "label": "C",
+        "text": "Her counselor wrote the essay for her."
+      },
+      {
+        "label": "D",
+        "text": "She doesn't know what she wants."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The revised opening shows growth and honest self-reflection rather than a simple narrative.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by text"
+      },
+      {
+        "label": "C",
+        "explanation": "Overly literal reading"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What theme does this passage suggest?",
+    "stimulus": "Two weeks after the election, yard signs still dotted the neighborhood—some for Martinez, some for Park. At the block party, which almost didn't happen this year, neighbors who had argued passionately online stood awkwardly with paper plates. It was seven-year-old Lily who broke the tension, running between the tables and asking every adult the same question: \"Do you want to see my cartwheel?\" By the time the streetlights came on, someone had started a kickball game, and the yard signs seemed a little less important.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Human connection and community can transcend political divisions."
+      },
+      {
+        "label": "B",
+        "text": "Children should vote in elections."
+      },
+      {
+        "label": "C",
+        "text": "Block parties are always fun."
+      },
+      {
+        "label": "D",
+        "text": "People should remove yard signs quickly."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Lily's innocent action and the resulting community activity show connection overcoming division.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by text"
+      },
+      {
+        "label": "C",
+        "explanation": "Overly literal reading"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What can you infer about the bookstore's role?",
+    "stimulus": "The bookstore had been in the family for three generations. When the owner, Mr. Patel, finally posted the \"Closing Sale\" sign, a line formed before opening. But the customers who came weren't looking for bargains—they brought photographs of themselves as children in the store, reading corners they'd claimed as their own, books that had changed their lives. Several people cried. One woman brought her own daughter, who was the same age she'd been in her favorite photo. Mr. Patel had planned to close in a week. It took a month to empty the shelves, because he kept stopping to listen to stories.",
+    "options": [
+      {
+        "label": "A",
+        "text": "It served as a meaningful community gathering place beyond just selling books."
+      },
+      {
+        "label": "B",
+        "text": "It was only a business."
+      },
+      {
+        "label": "C",
+        "text": "Nobody bought books there."
+      },
+      {
+        "label": "D",
+        "text": "Mr. Patel wanted to close sooner."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "People bringing photos and stories, emotional responses, and lingering closings show deep community bonds.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by text"
+      },
+      {
+        "label": "C",
+        "explanation": "Overly literal reading"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What can you infer about Janelle as a leader?",
+    "stimulus": "The debate tournament results were posted at 4:00 p.m. Lincoln High had placed second—again. Captain Janelle Walker gathered her team. \"Second place means we were the best team that lost,\" she said. A few teammates laughed weakly. \"But here's what I noticed today,\" she continued. \"Every single one of you recovered from a tough cross-examination. Last year, one bad question would rattle us for the whole round. That's growth. And growth beats a trophy.\" She paused. \"We'll get the trophy next year. But today, I'm proud.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "She focuses on growth and morale rather than just outcomes."
+      },
+      {
+        "label": "B",
+        "text": "She doesn't care about winning."
+      },
+      {
+        "label": "C",
+        "text": "She is disappointed in her team."
+      },
+      {
+        "label": "D",
+        "text": "She plans to quit the team."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Her speech reframes second place as progress, showing emotional intelligence and leadership.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by text"
+      },
+      {
+        "label": "C",
+        "explanation": "Overly literal reading"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference",
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What can you infer about the community described?",
+    "stimulus": "The new coffee shop on Elm Street served oat milk lattes and charged seven dollars for avocado toast. Rosa watched it from her porch, the same porch where she'd watched the neighborhood for thirty-two years. The Dominican restaurant next door had become a \"fusion tapas bar.\" The corner bodega was now a \"curated market.\" Each change brought new faces—younger, different—and took familiar ones away. Mr. Kim, who'd run the dry cleaners for twenty years, told Rosa his rent had tripled. He was moving to his daughter's place in New Jersey. Rosa's own landlord had started \"improvements\"—new floors, fresh paint—that she suspected were preludes to a rent increase she couldn't afford. She sipped her home-brewed coffee and watched a moving truck pull up to the building across the street.",
+    "options": [
+      {
+        "label": "A",
+        "text": "The neighborhood is experiencing gentrification and longtime residents feel displaced."
+      },
+      {
+        "label": "B",
+        "text": "The neighborhood is improving for everyone."
+      },
+      {
+        "label": "C",
+        "text": "The coffee shop is the main problem."
+      },
+      {
+        "label": "D",
+        "text": "Nobody likes change."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rising rents, departing neighbors, and the narrator's unease suggest gentrification anxiety.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "The passage shows mixed effects, not universal improvement"
+      },
+      {
+        "label": "C",
+        "explanation": "The coffee shop symbolizes larger changes"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.best_evidence",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which sentence best supports the idea that the experiment had unexpected results?",
+    "stimulus": "Dr. Park's botany experiment was designed to confirm what every textbook taught: plants need sunlight to thrive. She placed identical seedlings in four conditions—full light, partial light, dim light, and complete darkness—measuring height, leaf count, and chlorophyll content weekly. The results from the first four weeks followed predictions perfectly. But in week five, something unexpected happened. The plants in the dark room grew taller than those receiving full sunlight. Dr. Park rechecked her measurements, then rechecked them again. The dark-grown plants were stretching desperately upward, producing long, pale stems in a phenomenon called etiolation—the plant equivalent of searching for light that isn't there. They were taller, yes, but weaker, thinner, and ultimately less healthy than their sun-fed counterparts. The experiment confirmed the textbooks after all, but not in the way Dr. Park had expected.",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"The plants in the dark room grew taller than those receiving full sunlight.\""
+      },
+      {
+        "label": "B",
+        "text": "\"Dr. Park carefully measured each plant.\""
+      },
+      {
+        "label": "C",
+        "text": "\"The greenhouse maintained a constant temperature.\""
+      },
+      {
+        "label": "D",
+        "text": "\"The experiment lasted eight weeks.\""
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Plants growing taller in darkness directly contradicts expectations, showing an unexpected result.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Describes methodology, not results"
+      },
+      {
+        "label": "C",
+        "explanation": "Describes conditions, not outcomes"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "evidence"
+    ],
+    "tags": [
+      "best-evidence"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.claim_evidence",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What claim does this passage best support?",
+    "stimulus": "When eighth-grader Destiny Williams took the state standardized test, her score placed her in the \"below proficient\" category. Her teacher, Mrs. Alvarez, was puzzled. Destiny was the student who had organized a schoolwide fundraiser that raised $3,000 for the local food bank, designing the marketing materials, managing volunteers, and speaking at a city council meeting to gain support. She had taught herself to code and built a website for her grandmother's church. She read voraciously—mostly nonfiction about social justice—and could discuss complex issues with nuance that impressed even adults. But the test measured none of this. It measured her ability to answer multiple-choice questions about reading passages she found boring and math problems stripped of any real-world context. \"The test tells me what Destiny can do in a testing environment,\" Mrs. Alvarez told Destiny's mother. \"It tells me nothing about what Destiny can do in the world.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Standardized testing fails to measure many important aspects of student ability."
+      },
+      {
+        "label": "B",
+        "text": "All tests should be eliminated."
+      },
+      {
+        "label": "C",
+        "text": "Students who score low are unintelligent."
+      },
+      {
+        "label": "D",
+        "text": "Teachers are to blame for low scores."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage provides examples of abilities that tests cannot capture.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "The passage critiques specific limitations, not all assessment"
+      },
+      {
+        "label": "C",
+        "explanation": "The passage doesn't blame anyone"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "claim-evidence"
+    ],
+    "tags": [
+      "claim-evidence"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "What can you infer about the narrator's feelings?",
+    "stimulus": "The playground where I scraped my knees is a parking lot now. Smooth asphalt where there used to be wood chips and monkey bars. I drove past it yesterday and almost didn't recognize the corner—the oak tree that shaded the swings is gone too, replaced by a streetlight that hums at night. My daughter, buckled in the backseat, asked why I had slowed down. \"No reason,\" I said. But I was thinking about the summer of 1998, when I was her age and the world was the size of that playground. How the slide was Mount Everest and the sandbox was the Sahara. How time moved in hours that felt like days. Now it moves in years that feel like hours, and I can't find the brakes.",
+    "options": [
+      {
+        "label": "A",
+        "text": "The narrator feels nostalgic and slightly sad about the passage of time."
+      },
+      {
+        "label": "B",
+        "text": "The narrator is happy about changes."
+      },
+      {
+        "label": "C",
+        "text": "The narrator dislikes their childhood."
+      },
+      {
+        "label": "D",
+        "text": "The narrator wants to be young again."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "References to \"used to\" and the bittersweet tone indicate nostalgia tinged with sadness.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "The passage doesn't express happiness about change"
+      },
+      {
+        "label": "C",
+        "explanation": "Childhood is remembered fondly"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What can you infer about the relationship between the characters?",
+    "stimulus": "Mia organized her study materials in color-coded folders while her brother, Jake, spread his across the kitchen table in what looked like organized chaos. Their parents' divorce hearing was tomorrow, and neither of them had mentioned it. Mia had made a study schedule that accounted for every fifteen-minute block until midnight. Jake had eaten an entire bag of chips and was now working on his third energy drink. \"You should sleep,\" Mia said without looking up. \"You should relax,\" Jake replied. Neither followed the other's advice. At 11 p.m., Jake found a blanket and draped it over Mia's shoulders without a word. She pretended not to notice, but she pulled it tighter.",
+    "options": [
+      {
+        "label": "A",
+        "text": "They are siblings who handle stress differently but care for each other."
+      },
+      {
+        "label": "B",
+        "text": "They are strangers meeting for the first time."
+      },
+      {
+        "label": "C",
+        "text": "They dislike each other."
+      },
+      {
+        "label": "D",
+        "text": "One is the other's teacher."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Shared parents, opposite reactions, and the protective gesture suggest caring siblings.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Their shared history contradicts this"
+      },
+      {
+        "label": "C",
+        "explanation": "The text shows concern and protectiveness"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.best_evidence",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Which detail best supports the idea that the character has been through this situation before?",
+    "stimulus": "Maya crept through the back door at 1 a.m., sliding her shoes off at the threshold. She knew exactly which floorboards to avoid and which window locks were broken—the third step from the bottom creaked, the hallway runner bunched near the bathroom. The dog, ancient and half-deaf, slept through her entrance as he always did. She made it to her bedroom without turning on a single light, navigated by memory and moonlight. Only when the door was safely closed behind her did she exhale. Her phone buzzed: a text from Sana. \"Made it?\" Maya typed back: \"Pro level. They'll never know I was gone.\" She set her alarm for 6 a.m. and fell asleep in her clothes.",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"She knew exactly which floorboards to avoid and which window locks were broken.\""
+      },
+      {
+        "label": "B",
+        "text": "\"The house was dark.\""
+      },
+      {
+        "label": "C",
+        "text": "\"She moved quickly through the hallway.\""
+      },
+      {
+        "label": "D",
+        "text": "\"The dog was sleeping.\""
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Knowing specific floorboards and lock details requires prior experience navigating the house.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "A dark house doesn't imply familiarity"
+      },
+      {
+        "label": "C",
+        "explanation": "Speed alone doesn't prove experience"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "evidence"
+    ],
+    "tags": [
+      "best-evidence"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What can you infer about the speaker's perspective on technology?",
+    "stimulus": "I'm not against phones. I carry one everywhere, same as everyone else. I use it to navigate, to work, to stay connected with people I love who live far away. But last Thanksgiving, I looked up from carving the turkey and saw six faces illuminated by screens. My mother, who had spent two days cooking, was showing my aunt a recipe on Pinterest. My teenage nephew was texting someone who wasn't there instead of talking to the cousins who were. My own husband was \"just quickly checking work email.\" And I thought: we traveled hundreds of miles to sit in the same room and stare at different screens. The cranberry sauce went cold while everyone was somewhere else. I'm not against phones. I just wonder sometimes what they're against.",
+    "options": [
+      {
+        "label": "A",
+        "text": "The speaker values technology but worries about losing human connection."
+      },
+      {
+        "label": "B",
+        "text": "The speaker hates all technology."
+      },
+      {
+        "label": "C",
+        "text": "The speaker thinks phones are the most important invention."
+      },
+      {
+        "label": "D",
+        "text": "The speaker is a technology expert."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The anecdote about the family dinner shows concern about phones replacing connection.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "The speaker uses technology themselves"
+      },
+      {
+        "label": "C",
+        "explanation": "The passage questions technology's effects, not celebrates them"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.claim_evidence",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What claim is best supported by this passage?",
+    "stimulus": "Marcus had been expelled from two schools before he turned fourteen. His caseworker, running out of options, enrolled him in a wilderness therapy program in the mountains of North Carolina. For the first three days, Marcus refused to participate. He sat on a rock while the other teens learned to build shelters and purify water. On the fourth day, it rained—hard—and his rock offered no protection. A girl named Keisha, who had her own reasons for being there, wordlessly helped him into the group shelter. Something shifted. Over the following weeks, Marcus learned to build fires, read topographic maps, and cook meals for eight people over a camp stove. His counselor noted that in the wilderness, the social hierarchies that had tormented Marcus at school were irrelevant. What mattered was whether you could tie a knot, carry your weight, and show up for your team. Six months after completing the program, Marcus was back in school, maintaining a B average, and volunteering as a peer mentor.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Wilderness experiences can have profound positive effects on youth development."
+      },
+      {
+        "label": "B",
+        "text": "All children should live outdoors."
+      },
+      {
+        "label": "C",
+        "text": "Cities are bad for young people."
+      },
+      {
+        "label": "D",
+        "text": "Technology is destroying childhood."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The transformation described in Marcus shows positive developmental effects of wilderness.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "The passage discusses a specific program, not permanent living"
+      },
+      {
+        "label": "C",
+        "explanation": "Cities aren't criticized"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "claim-evidence"
+    ],
+    "tags": [
+      "claim-evidence"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "What does this passage suggest about the narrator?",
+    "stimulus": "My roommate mentioned \"office hours\" on the first day, and I nodded like I knew what that meant. I didn't. I also didn't know what a \"syllabus\" was, or why everyone seemed to know that you don't actually buy all the textbooks on the list. There were rules here that nobody taught but everyone seemed to know—like an invisible handbook that had been distributed to everyone except me. My parents called every night. \"Are you eating?\" my mother asked. \"Are you studying?\" my father added. They were so proud. They had never been inside a college building before move-in day, when they carried my boxes up four flights of stairs and looked around my dorm room like it was a palace. I couldn't tell them that I cried in the shower that first week, or that I ate lunch alone for the first month because I didn't know how to join a table of strangers who all seemed to already know each other.",
+    "options": [
+      {
+        "label": "A",
+        "text": "The narrator is a first-generation college student navigating an unfamiliar world."
+      },
+      {
+        "label": "B",
+        "text": "The narrator grew up wealthy."
+      },
+      {
+        "label": "C",
+        "text": "The narrator doesn't want to be in college."
+      },
+      {
+        "label": "D",
+        "text": "The narrator's parents went to the same college."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Not knowing terms like \"office hours\" and comparing to parents' experience suggest first-generation status.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Feeling lost suggests the opposite of privilege"
+      },
+      {
+        "label": "C",
+        "explanation": "The narrator is trying hard, not avoiding college"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.best_evidence",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which evidence best supports the claim that the community values tradition?",
+    "stimulus": "The annual Harvest Festival had been held in Millbrook since 1892, making it one of the oldest continuous community celebrations in the state. The centerpiece was always Mrs. Okonkwo's jollof rice, a recipe that had been passed down through five generations, each adding their own secret ingredient. Her grandmother had brought it from Nigeria; her mother had adapted it with local peppers; Mrs. Okonkwo herself had added a touch of smoked paprika that she would reveal to no one. The festival drew thousands of visitors and local businesses set up booths selling crafts and cider. But what mattered most to residents was the continuity—the knowledge that their great-grandparents had stood in this same field, eaten from the same recipes, and danced to music that, while the instruments changed, carried the same rhythms.",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"The recipe had been passed down through five generations, each adding their own secret ingredient.\""
+      },
+      {
+        "label": "B",
+        "text": "\"The festival drew thousands of visitors.\""
+      },
+      {
+        "label": "C",
+        "text": "\"Local businesses set up booths.\""
+      },
+      {
+        "label": "D",
+        "text": "\"The weather was perfect that day.\""
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Five generations of recipe transmission directly demonstrates valuing and preserving tradition.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Visitor numbers show popularity, not tradition"
+      },
+      {
+        "label": "C",
+        "explanation": "Commerce doesn't necessarily indicate tradition"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "evidence"
+    ],
+    "tags": [
+      "best-evidence"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What can you infer about the principal's leadership style?",
+    "stimulus": "When the water main broke and flooded the school cafeteria at 6 a.m., Principal Gutierrez was the first person there—not the custodians, not the maintenance crew, but the principal herself, in rubber boots and old jeans, pushing a mop. By the time teachers started arriving at 7, she had organized a bucket brigade and was directing traffic with the calm efficiency of someone who had weathered worse. She didn't make announcements or send emails about what \"we\" needed to do. She just started doing it. Within an hour, students who had arrived early joined in without being asked. The cafeteria was functional by lunch. \"I didn't want to miss pizza day,\" one seventh-grader explained. Principal Gutierrez laughed. She had ordered extra pizza for the volunteers.",
+    "options": [
+      {
+        "label": "A",
+        "text": "She leads by example and values actions over words."
+      },
+      {
+        "label": "B",
+        "text": "She is strict and authoritarian."
+      },
+      {
+        "label": "C",
+        "text": "She doesn't care about the school."
+      },
+      {
+        "label": "D",
+        "text": "She is new to the job."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Cleaning up herself and the students following her lead show action-oriented leadership.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Her approach is collaborative, not authoritarian"
+      },
+      {
+        "label": "C",
+        "explanation": "Her knowledge of the school contradicts this"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.claim_evidence",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Which claim does this passage best support?",
+    "stimulus": "For decades, parents were warned that raising children with two languages would \"confuse\" them, leading to delayed speech and academic difficulties. This advice, it turns out, was wrong. Research from the University of Washington's Institute for Learning and Brain Sciences shows that bilingual babies as young as 11 months demonstrate enhanced executive function—the ability to focus attention, switch between tasks, and filter irrelevant information. These cognitive advantages persist into adulthood: bilingual individuals consistently outperform monolinguals on tasks requiring mental flexibility and problem-solving. Studies also suggest that bilingualism delays the onset of dementia by an average of 4-5 years. While bilingual children may initially have smaller vocabularies in each individual language, their total vocabulary across both languages typically exceeds that of monolingual peers. The latest research suggests that the mental exercise of managing two language systems strengthens cognitive circuits in much the same way physical exercise strengthens muscles.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Early exposure to multiple languages enhances cognitive development."
+      },
+      {
+        "label": "B",
+        "text": "Bilingual children are always smarter."
+      },
+      {
+        "label": "C",
+        "text": "English is the most important language."
+      },
+      {
+        "label": "D",
+        "text": "Children can only learn one language well."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The research showing better executive function in bilingual children supports cognitive benefits.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "The passage discusses tendencies, not absolutes"
+      },
+      {
+        "label": "C",
+        "explanation": "The passage values multilingualism"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "claim-evidence"
+    ],
+    "tags": [
+      "claim-evidence"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What can you infer about the author's view of success?",
+    "stimulus": "My college roommate drives a Tesla and lives in a house with more bathrooms than people. By every conventional measure, he is successful. My other college friend teaches third grade in a Title I school, drives a twelve-year-old Honda, and shares a two-bedroom apartment with her cat. She spends her summers writing curriculum and her weekends at yard sales buying books for her classroom library. Last month, a former student—now in high school—wrote her a letter saying that her class was the first time he felt smart. She taped it to her refrigerator next to the others. When I visit my roommate, we talk about his renovation plans. When I visit my teacher friend, we talk about her students, and the conversation lasts until midnight. I have been thinking a lot lately about what we mean when we say someone has \"made it.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The author believes success is defined by impact and fulfillment rather than wealth or fame."
+      },
+      {
+        "label": "B",
+        "text": "The author thinks money equals success."
+      },
+      {
+        "label": "C",
+        "text": "The author believes fame is most important."
+      },
+      {
+        "label": "D",
+        "text": "The author thinks success is impossible."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The contrasting examples show the author values meaningful work over conventional markers.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Directly contradicted by the passage"
+      },
+      {
+        "label": "C",
+        "explanation": "The passage shows multiple paths to success"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "What can you infer about the scientist's discovery?",
+    "stimulus": "Dr. Torres almost threw away the petri dish. The culture she had been growing for three weeks was contaminated—a fuzzy blue-green mold had colonized one corner, and the bacterial colonies she was studying had retreated from it like a crowd backing away from a fire. She was reaching for the biohazard bin when something made her pause. The bacteria hadn't just moved away from the mold. They had died. In a perfect circle around the mold, there was a clear zone—no bacteria at all. Dr. Torres set the dish under the microscope and leaned in. The mold was producing something. Something that killed bacteria on contact. She pulled out her notebook and began writing, her hand trembling slightly. She had been studying antibiotic resistance for six years. And now, purely by accident, she might have found a new weapon.",
+    "options": [
+      {
+        "label": "A",
+        "text": "The mold she initially tried to discard led to an important accidental discovery."
+      },
+      {
+        "label": "B",
+        "text": "She planned the experiment carefully."
+      },
+      {
+        "label": "C",
+        "text": "The mold ruined her research completely."
+      },
+      {
+        "label": "D",
+        "text": "She was studying mold intentionally."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Discarding a \"contaminated\" sample but noticing something remarkable suggests serendipity.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "She tried to throw it away initially"
+      },
+      {
+        "label": "C",
+        "explanation": "She noticed something useful in what she thought was ruined"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.best_evidence",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which detail best supports the inference that the town is struggling economically?",
+    "stimulus": "Millville had once been a thriving mill town, its economy built on the textile factory that employed nearly half the population. When the factory moved operations overseas in 2008, the town began a slow unraveling. Half the storefronts on Main Street displayed \"For Lease\" signs, their windows dark and dusty. The diner still opened at 6 a.m., but the breakfast crowd had thinned to a handful of regulars who nursed their coffee and talked about the old days. The high school, which had graduated 200 students a year in its prime, now barely managed 80. Young people left for the city as soon as they could. Those who stayed did so out of loyalty, stubbornness, or lack of options. The town council met monthly to discuss \"revitalization strategies,\" but the meetings had the tired quality of people who have been hoping for too long.",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"Half the storefronts on Main Street displayed 'For Lease' signs.\""
+      },
+      {
+        "label": "B",
+        "text": "\"The sky was gray.\""
+      },
+      {
+        "label": "C",
+        "text": "\"Children played in the park.\""
+      },
+      {
+        "label": "D",
+        "text": "\"A dog barked somewhere.\""
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Empty storefronts directly indicate economic decline and business closures.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Weather doesn't indicate economy"
+      },
+      {
+        "label": "C",
+        "explanation": "Children playing doesn't suggest economic conditions"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "evidence"
+    ],
+    "tags": [
+      "best-evidence"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What does this passage suggest about the narrator's character?",
+    "stimulus": "The man at the corner of Fifth and Broadway had a system. Every morning he arranged his belongings in the same precise order: sleeping bag rolled tight against the wall, cardboard sign propped at exactly the right angle to catch the morning sun, cup positioned at arm's length. Most commuters walked past without seeing him—he was part of the scenery, like the fire hydrant or the newspaper box. But I noticed things. His shoes were always tied. His beard was trimmed. The book in his lap changed every few days—last week it was Steinbeck, this week Toni Morrison. Once, our eyes met and he nodded with a dignity that made me feel like the smaller person. I started leaving books on the bench near his spot. Never directly—that felt intrusive. Just nearby. They were always gone by evening.",
+    "options": [
+      {
+        "label": "A",
+        "text": "The narrator is compassionate and observant, noticing people others overlook."
+      },
+      {
+        "label": "B",
+        "text": "The narrator is judgmental of homeless people."
+      },
+      {
+        "label": "C",
+        "text": "The narrator is wealthy and privileged."
+      },
+      {
+        "label": "D",
+        "text": "The narrator doesn't care about others."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Noticing details about the homeless man and reflecting on him shows empathy and awareness.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "The passage shows the opposite—compassion"
+      },
+      {
+        "label": "C",
+        "explanation": "No wealth indicators are present"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.claim_evidence",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What claim is best supported?",
+    "stimulus": "Jaylen had been labeled a \"reluctant learner\" since third grade. He fidgeted through lectures, lost worksheets, and stared out windows while teachers talked. His test scores suggested he was below average. Then he enrolled in Mr. Washington's engineering elective. On the first day, Mr. Washington handed each student a box of random materials—cardboard tubes, rubber bands, paper clips, tape—and said, \"Build something that can hold a textbook three feet off the ground.\" Jaylen barely looked up for the entire period. His structure was the only one that worked on the first try. Over the semester, Jaylen designed a water filtration system for a class project that his science teacher called \"graduate-level thinking.\" His other grades improved too—not because the content changed, but because, for the first time, Jaylen believed he was capable of learning.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hands-on learning can engage students who struggle with traditional instruction."
+      },
+      {
+        "label": "B",
+        "text": "All students learn best by doing."
+      },
+      {
+        "label": "C",
+        "text": "Textbooks are useless."
+      },
+      {
+        "label": "D",
+        "text": "Only science classes benefit from hands-on learning."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Jaylen's transformation from struggling to engaged through hands-on work supports this claim.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "The passage describes a specific case, not a universal rule"
+      },
+      {
+        "label": "C",
+        "explanation": "Textbooks aren't discussed"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "claim-evidence"
+    ],
+    "tags": [
+      "claim-evidence"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "What can you infer about the relationship between the two characters?",
+    "stimulus": "\"You cut your hair,\" Amara said, the words out before she could stop them. Lena laughed—the same laugh, even after seven years. \"You noticed.\" They stood in the restaurant doorway, neither quite sure whether to hug or shake hands or just stand there. They had been inseparable once, freshman year through senior year, until college took them to different coasts and time did what it does. Now Lena wore glasses and spoke with a slight accent she'd picked up in Barcelona. Amara had a scar on her wrist from the cooking accident she'd mentioned in an email three years ago. They noticed everything about each other—what had changed, what hadn't. \"You still bite your lip when you're nervous,\" Lena said. Amara laughed. \"And you still notice everything.\" They hugged. It wasn't awkward at all.",
+    "options": [
+      {
+        "label": "A",
+        "text": "They are old friends reconnecting after years apart, navigating how they've changed."
+      },
+      {
+        "label": "B",
+        "text": "They are meeting for the first time."
+      },
+      {
+        "label": "C",
+        "text": "They are enemies."
+      },
+      {
+        "label": "D",
+        "text": "They are coworkers."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "References to shared memories and noticing changes suggest a reunion of old friends.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Their shared history contradicts first meeting"
+      },
+      {
+        "label": "C",
+        "explanation": "The warm tone contradicts animosity"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.best_evidence",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which evidence best supports the inference that the character is making a sacrifice?",
+    "stimulus": "The envelope from Stanford was thick—always a good sign. Elena opened it in the driveway, not wanting to share the moment until she knew what it held. \"Congratulations,\" the letter began, and her heart soared for exactly three seconds. Then she thought about the numbers—tuition, room, board, books—and her heart returned to earth. Her mother worked two jobs and still couldn't cover the rent some months. Her younger brother needed braces. The scholarship covered half, which still left an impossible gap. Elena sat on the front steps for a long time. She folded the acceptance letter and placed it back in the envelope, then opened her laptop to the community college website. Their nursing program had a 95% job placement rate. She could live at home, help with bills, and transfer later. Maybe. She typed in her information and pressed \"Apply.\" The sunset behind her was beautiful, but she didn't turn around to see it.",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"She folded the acceptance letter and placed it back in the envelope, then opened her laptop to the community college website.\""
+      },
+      {
+        "label": "B",
+        "text": "\"The mailbox was full.\""
+      },
+      {
+        "label": "C",
+        "text": "\"Her mother was cooking dinner.\""
+      },
+      {
+        "label": "D",
+        "text": "\"The sun was setting.\""
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Choosing community college over an acceptance she received shows she's giving something up.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Irrelevant detail"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't indicate sacrifice"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "evidence"
+    ],
+    "tags": [
+      "best-evidence"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What can you infer about the town's attitude toward the newcomer?",
+    "stimulus": "Dr. Adebayo arrived in Pineville on a Tuesday, and by Wednesday the whole town knew her business—or thought they did. \"Another city doctor who'll leave in six months,\" said Frank at the hardware store. The previous three doctors had lasted a year at most before the isolation drove them back to larger hospitals. Dr. Adebayo unpacked her office slowly, hanging her diplomas next to a photo of her grandmother, who had been a village healer in Nigeria. She made house calls, which none of the previous doctors had done. She learned names. When old Mrs. Henderson's cat was sick, Dr. Adebayo drove her to the veterinarian forty miles away, because Mrs. Henderson couldn't drive at night. It wasn't a grand gesture. But the next morning, Frank left a jar of his wife's preserves on the clinic doorstep with a note: \"Welcome to Pineville. We hope you stay.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The town is suspicious of outsiders but gradually warming to her through her actions."
+      },
+      {
+        "label": "B",
+        "text": "Everyone immediately welcomed her."
+      },
+      {
+        "label": "C",
+        "text": "The town hates all newcomers."
+      },
+      {
+        "label": "D",
+        "text": "She is from the same town."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Initial distance followed by small gestures of acceptance shows gradual warming.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "The initial suspicion contradicts this"
+      },
+      {
+        "label": "C",
+        "explanation": "The passage shows them opening up, not permanent rejection"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "inference"
+    ],
+    "tags": [
+      "inference"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.claim_evidence",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "What claim does this passage best support?",
+    "stimulus": "A growing body of research demonstrates that exposure to natural environments has significant mental health benefits. A Stanford study found that a 90-minute walk in nature reduced activity in the prefrontal cortex region associated with rumination—the repetitive negative thinking linked to depression. Japanese researchers have documented that \"forest bathing\" (shinrin-yoku)—simply spending time among trees—lowers cortisol levels, reduces blood pressure, and boosts immune function. In urban settings, residents with views of green space from their windows report 30% fewer symptoms of depression than those with views of buildings. Children with ADHD show improved concentration after just 20 minutes in a park. These findings have prompted cities from Singapore to Vienna to invest in urban green infrastructure, recognizing that access to nature is not a luxury but a public health necessity.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Access to nature has measurable positive effects on mental health."
+      },
+      {
+        "label": "B",
+        "text": "Everyone should move to the countryside."
+      },
+      {
+        "label": "C",
+        "text": "Cities are uninhabitable."
+      },
+      {
+        "label": "D",
+        "text": "Nature cures all illnesses."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The studies cited show specific mental health benefits from nature exposure.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "The passage discusses urban green spaces too, not just countryside"
+      },
+      {
+        "label": "C",
+        "explanation": "The passage discusses specific benefits, not cure-alls"
+      }
+    ],
+    "skills": [
+      "reading-comprehension",
+      "claim-evidence"
+    ],
+    "tags": [
+      "claim-evidence"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What can you infer about the character's past?",
+    "stimulus": "Mrs. Chen counted the items in her grocery cart twice before approaching the checkout. Old habits. There was a time when she would put things back—the name-brand cereal, the fresh strawberries, the good orange juice—replacing them with their cheaper, sadder alternatives. That time was fifteen years ago, when she was working two jobs and feeding two kids on what barely covered one. Now she could buy the strawberries without checking the price, but she still checked. Her daughter, Sophie, tossed a bag of organic granola into the cart without looking at the label. Mrs. Chen didn't say anything. This was the whole point, wasn't it? So that Sophie would never have to count.",
+    "options": [
+      {
+        "label": "A",
+        "text": "She grew up in poverty and is determined to provide better for her own children."
+      },
+      {
+        "label": "B",
+        "text": "She has always been wealthy."
+      },
+      {
+        "label": "C",
+        "text": "She doesn't care about money."
+      },
+      {
+        "label": "D",
+        "text": "She grew up in the suburbs."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Counting items at checkout and her childhood memories suggest past financial hardship.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by the passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "What does this passage imply about the nature of courage?",
+    "stimulus": "The journalist asked the firefighter the question everyone asks: \"Weren't you scared?\" Captain Rodriguez set down his coffee and considered. \"Every single time,\" he said. \"Twenty-three years, and I'm scared every single time I walk into a burning building.\" The journalist seemed surprised. She had expected bravado, the tough-guy answer. Instead, Rodriguez described the exact moment fear hits—standing at the threshold, heat pressing against the faceplate, the sound of a structure groaning under its own weight. \"The recruits think courage means not being afraid,\" he continued. \"I spend a lot of time un-teaching that. Courage means your hands are shaking and you go in anyway, because someone in there needs you more than you need to be comfortable.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "True courage involves acting despite fear, not the absence of fear."
+      },
+      {
+        "label": "B",
+        "text": "Courageous people never feel afraid."
+      },
+      {
+        "label": "C",
+        "text": "Only soldiers are brave."
+      },
+      {
+        "label": "D",
+        "text": "Fear is a weakness."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The firefighter's admission of fear alongside his continued action redefines courage.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by the passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.best_evidence",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which detail best supports the idea that the program made a difference?",
+    "stimulus": "Describes funding, not outcomes",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"Graduation rates at participating schools increased from 64% to 89% over five years.\""
+      },
+      {
+        "label": "B",
+        "text": "\"The program was funded by a local nonprofit.\""
+      },
+      {
+        "label": "C",
+        "text": "\"Mentors met with students weekly.\""
+      },
+      {
+        "label": "D",
+        "text": "\"The program started in 2015.\""
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The graduation rate increase provides the most concrete, measurable evidence of impact.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by the passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What can you infer about why the character collects maps?",
+    "stimulus": "No evidence of this profession",
+    "options": [
+      {
+        "label": "A",
+        "text": "Maps represent the adventures and freedom she dreams about but hasn't yet experienced."
+      },
+      {
+        "label": "B",
+        "text": "She is a professional cartographer."
+      },
+      {
+        "label": "C",
+        "text": "She gets lost frequently."
+      },
+      {
+        "label": "D",
+        "text": "Maps are expensive and she collects valuables."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Tracing routes to places she's never been and wanting to \"go everywhere\" suggest unfulfilled wanderlust.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by the passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.claim_evidence",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What claim does this passage support?",
+    "stimulus": "The passage describes accountability, not lack of consequences",
+    "options": [
+      {
+        "label": "A",
+        "text": "Restorative justice practices can be more effective than punitive discipline in schools."
+      },
+      {
+        "label": "B",
+        "text": "Students should never face consequences."
+      },
+      {
+        "label": "C",
+        "text": "Suspension is always the best approach."
+      },
+      {
+        "label": "D",
+        "text": "Only elementary schools need discipline reform."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The comparison of outcomes before and after implementation supports restorative justice effectiveness.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by the passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What can you infer about the grandmother's philosophy of life?",
+    "stimulus": "She finds great meaning in simple things",
+    "options": [
+      {
+        "label": "A",
+        "text": "She believes in finding joy in simple, everyday moments rather than grand achievements."
+      },
+      {
+        "label": "B",
+        "text": "She values wealth above all else."
+      },
+      {
+        "label": "C",
+        "text": "She thinks life is meaningless."
+      },
+      {
+        "label": "D",
+        "text": "She believes only big events matter."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Celebrating small moments and her sayings show a philosophy of everyday joy.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by the passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "What does this passage suggest about the narrator's relationship with her identity?",
+    "stimulus": "She embraces both cultures",
+    "options": [
+      {
+        "label": "A",
+        "text": "She is learning to embrace a complex, multicultural identity rather than choosing one side."
+      },
+      {
+        "label": "B",
+        "text": "She rejects both cultures."
+      },
+      {
+        "label": "C",
+        "text": "She fully identifies as American."
+      },
+      {
+        "label": "D",
+        "text": "She fully identifies as Korean."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The metaphor of being a bridge and the final acceptance suggest embracing dual identity.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by the passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.best_evidence",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Which sentence best supports the claim that the author values process over product?",
+    "stimulus": "Education doesn't indicate process vs product values",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"The painting I am most proud of is one I never finished.\""
+      },
+      {
+        "label": "B",
+        "text": "\"She studied art for four years.\""
+      },
+      {
+        "label": "C",
+        "text": "\"Her studio was well-organized.\""
+      },
+      {
+        "label": "D",
+        "text": "\"She used expensive paints.\""
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Valuing an unfinished painting directly demonstrates prioritizing the creative process.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by the passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What does this passage reveal about the character's values?",
+    "stimulus": "He sacrifices money for principle",
+    "options": [
+      {
+        "label": "A",
+        "text": "He values integrity and honesty even when it costs him personally."
+      },
+      {
+        "label": "B",
+        "text": "He values money above everything."
+      },
+      {
+        "label": "C",
+        "text": "He doesn't care about his job."
+      },
+      {
+        "label": "D",
+        "text": "He is dishonest."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Refusing to change results despite pressure shows commitment to integrity.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by the passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.claim_evidence",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What claim does this passage support?",
+    "stimulus": "The passage argues fiction is valuable",
+    "options": [
+      {
+        "label": "A",
+        "text": "Reading fiction develops empathy by allowing readers to experience others' perspectives."
+      },
+      {
+        "label": "B",
+        "text": "Only nonfiction is educational."
+      },
+      {
+        "label": "C",
+        "text": "Reading is boring."
+      },
+      {
+        "label": "D",
+        "text": "Empathy cannot be learned."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The brain studies showing perspective-taking during fiction reading support empathy development.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by the passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "What can you infer about the neighborhood?",
+    "stimulus": "Multiple interactions show connection",
+    "options": [
+      {
+        "label": "A",
+        "text": "It is a close-knit community where people help each other."
+      },
+      {
+        "label": "B",
+        "text": "People in the neighborhood don't interact."
+      },
+      {
+        "label": "C",
+        "text": "It is a dangerous place."
+      },
+      {
+        "label": "D",
+        "text": "Nobody has lived there long."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The chain of favors shows neighbors actively supporting each other.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by the passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.best_evidence",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which detail best supports the inference that the character is self-taught?",
+    "stimulus": "Having a studio doesn't indicate formal training",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"Every technique she knew had been learned from YouTube tutorials and library books.\""
+      },
+      {
+        "label": "B",
+        "text": "\"She worked in a professional studio.\""
+      },
+      {
+        "label": "C",
+        "text": "\"Her paintings sold for high prices.\""
+      },
+      {
+        "label": "D",
+        "text": "\"She used oil paints.\""
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "YouTube tutorials and library books are hallmarks of self-directed, informal learning.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by the passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.inference",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What can you infer about the teacher's approach to education?",
+    "stimulus": "She departs from traditional methods",
+    "options": [
+      {
+        "label": "A",
+        "text": "She believes in making learning relevant to students' real lives."
+      },
+      {
+        "label": "B",
+        "text": "She follows the textbook strictly."
+      },
+      {
+        "label": "C",
+        "text": "She doesn't care about standards."
+      },
+      {
+        "label": "D",
+        "text": "She only teaches facts."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using the student's neighborhood and connecting lessons to real issues shows relevance-based teaching.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Not supported by the passage"
+      },
+      {
+        "label": "C",
+        "explanation": "Too narrow or specific"
+      }
+    ],
+    "skills": [
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading"
+    ]
+  }
+]

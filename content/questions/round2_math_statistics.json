@@ -1,0 +1,2158 @@
+[
+  {
+    "section": "math",
+    "category": "math.statistics.mean_median_mode",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Mean of: 97, 98, 21, 40, 46, 68, 17?",
+    "options": [
+      {
+        "label": "A",
+        "text": "55.29"
+      },
+      {
+        "label": "B",
+        "text": "387"
+      },
+      {
+        "label": "C",
+        "text": "60.29"
+      },
+      {
+        "label": "D",
+        "text": "46"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "387÷7=55.29",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found sum not mean"
+      },
+      {
+        "label": "C",
+        "explanation": "Found median"
+      }
+    ],
+    "skills": [
+      "mean"
+    ],
+    "tags": [
+      "statistics",
+      "mean"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.mean_median_mode",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Mean of: 45, 50, 64, 34?",
+    "options": [
+      {
+        "label": "A",
+        "text": "48.25"
+      },
+      {
+        "label": "B",
+        "text": "193"
+      },
+      {
+        "label": "C",
+        "text": "53.25"
+      },
+      {
+        "label": "D",
+        "text": "50"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "193÷4=48.25",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found sum not mean"
+      },
+      {
+        "label": "C",
+        "explanation": "Found median"
+      }
+    ],
+    "skills": [
+      "mean"
+    ],
+    "tags": [
+      "statistics",
+      "mean"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.mean_median_mode",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Mean of: 45, 10, 55, 14, 53, 35, 56?",
+    "options": [
+      {
+        "label": "A",
+        "text": "38.29"
+      },
+      {
+        "label": "B",
+        "text": "268"
+      },
+      {
+        "label": "C",
+        "text": "43.29"
+      },
+      {
+        "label": "D",
+        "text": "45"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "268÷7=38.29",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found sum not mean"
+      },
+      {
+        "label": "C",
+        "explanation": "Found median"
+      }
+    ],
+    "skills": [
+      "mean"
+    ],
+    "tags": [
+      "statistics",
+      "mean"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.mean_median_mode",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Mean of: 63, 31, 60, 58?",
+    "options": [
+      {
+        "label": "A",
+        "text": "53"
+      },
+      {
+        "label": "B",
+        "text": "212"
+      },
+      {
+        "label": "C",
+        "text": "58"
+      },
+      {
+        "label": "D",
+        "text": "60"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "212÷4=53",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found sum not mean"
+      },
+      {
+        "label": "C",
+        "explanation": "Found median"
+      }
+    ],
+    "skills": [
+      "mean"
+    ],
+    "tags": [
+      "statistics",
+      "mean"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.mean_median_mode",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Mean of: 96, 52, 75, 94?",
+    "options": [
+      {
+        "label": "A",
+        "text": "79.25"
+      },
+      {
+        "label": "B",
+        "text": "317"
+      },
+      {
+        "label": "C",
+        "text": "84.25"
+      },
+      {
+        "label": "D",
+        "text": "94"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "317÷4=79.25",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found sum not mean"
+      },
+      {
+        "label": "C",
+        "explanation": "Found median"
+      }
+    ],
+    "skills": [
+      "mean"
+    ],
+    "tags": [
+      "statistics",
+      "mean"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.mean_median_mode",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Mean of: 18, 10, 52, 99, 93?",
+    "options": [
+      {
+        "label": "A",
+        "text": "54.4"
+      },
+      {
+        "label": "B",
+        "text": "272"
+      },
+      {
+        "label": "C",
+        "text": "59.4"
+      },
+      {
+        "label": "D",
+        "text": "52"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "272÷5=54.4",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found sum not mean"
+      },
+      {
+        "label": "C",
+        "explanation": "Found median"
+      }
+    ],
+    "skills": [
+      "mean"
+    ],
+    "tags": [
+      "statistics",
+      "mean"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.mean_median_mode",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Mean of: 17, 87, 31, 30, 95, 76?",
+    "options": [
+      {
+        "label": "A",
+        "text": "56"
+      },
+      {
+        "label": "B",
+        "text": "336"
+      },
+      {
+        "label": "C",
+        "text": "61"
+      },
+      {
+        "label": "D",
+        "text": "76"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "336÷6=56",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found sum not mean"
+      },
+      {
+        "label": "C",
+        "explanation": "Found median"
+      }
+    ],
+    "skills": [
+      "mean"
+    ],
+    "tags": [
+      "statistics",
+      "mean"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.mean_median_mode",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Mean of: 12, 10, 69, 82, 47?",
+    "options": [
+      {
+        "label": "A",
+        "text": "44"
+      },
+      {
+        "label": "B",
+        "text": "220"
+      },
+      {
+        "label": "C",
+        "text": "49"
+      },
+      {
+        "label": "D",
+        "text": "47"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "220÷5=44",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found sum not mean"
+      },
+      {
+        "label": "C",
+        "explanation": "Found median"
+      }
+    ],
+    "skills": [
+      "mean"
+    ],
+    "tags": [
+      "statistics",
+      "mean"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.mean_median_mode",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Mean of: 81, 91, 49, 94, 31?",
+    "options": [
+      {
+        "label": "A",
+        "text": "69.2"
+      },
+      {
+        "label": "B",
+        "text": "346"
+      },
+      {
+        "label": "C",
+        "text": "74.2"
+      },
+      {
+        "label": "D",
+        "text": "81"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "346÷5=69.2",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found sum not mean"
+      },
+      {
+        "label": "C",
+        "explanation": "Found median"
+      }
+    ],
+    "skills": [
+      "mean"
+    ],
+    "tags": [
+      "statistics",
+      "mean"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.mean_median_mode",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Mean of: 91, 69, 12, 51?",
+    "options": [
+      {
+        "label": "A",
+        "text": "55.75"
+      },
+      {
+        "label": "B",
+        "text": "223"
+      },
+      {
+        "label": "C",
+        "text": "60.75"
+      },
+      {
+        "label": "D",
+        "text": "69"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "223÷4=55.75",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found sum not mean"
+      },
+      {
+        "label": "C",
+        "explanation": "Found median"
+      }
+    ],
+    "skills": [
+      "mean"
+    ],
+    "tags": [
+      "statistics",
+      "mean"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.mean_median_mode",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Median of: 5, 6, 7, 31, 44?",
+    "options": [
+      {
+        "label": "A",
+        "text": "7"
+      },
+      {
+        "label": "B",
+        "text": "5"
+      },
+      {
+        "label": "C",
+        "text": "44"
+      },
+      {
+        "label": "D",
+        "text": "18.6"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Middle value(s) of sorted data: 7",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Chose smallest"
+      },
+      {
+        "label": "C",
+        "explanation": "Found mean instead"
+      }
+    ],
+    "skills": [
+      "median"
+    ],
+    "tags": [
+      "statistics",
+      "median"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.mean_median_mode",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Median of: 16, 17, 21, 29, 33, 49?",
+    "options": [
+      {
+        "label": "A",
+        "text": "25"
+      },
+      {
+        "label": "B",
+        "text": "16"
+      },
+      {
+        "label": "C",
+        "text": "49"
+      },
+      {
+        "label": "D",
+        "text": "27.5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Middle value(s) of sorted data: 25",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Chose smallest"
+      },
+      {
+        "label": "C",
+        "explanation": "Found mean instead"
+      }
+    ],
+    "skills": [
+      "median"
+    ],
+    "tags": [
+      "statistics",
+      "median"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.mean_median_mode",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Median of: 15, 23, 32, 41, 48?",
+    "options": [
+      {
+        "label": "A",
+        "text": "32"
+      },
+      {
+        "label": "B",
+        "text": "15"
+      },
+      {
+        "label": "C",
+        "text": "48"
+      },
+      {
+        "label": "D",
+        "text": "31.8"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Middle value(s) of sorted data: 32",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Chose smallest"
+      },
+      {
+        "label": "C",
+        "explanation": "Found mean instead"
+      }
+    ],
+    "skills": [
+      "median"
+    ],
+    "tags": [
+      "statistics",
+      "median"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.mean_median_mode",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Median of: 16, 17, 22, 27, 39, 47?",
+    "options": [
+      {
+        "label": "A",
+        "text": "24.5"
+      },
+      {
+        "label": "B",
+        "text": "16"
+      },
+      {
+        "label": "C",
+        "text": "47"
+      },
+      {
+        "label": "D",
+        "text": "28"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Middle value(s) of sorted data: 24.5",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Chose smallest"
+      },
+      {
+        "label": "C",
+        "explanation": "Found mean instead"
+      }
+    ],
+    "skills": [
+      "median"
+    ],
+    "tags": [
+      "statistics",
+      "median"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.mean_median_mode",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Median of: 19, 33, 34, 36, 49?",
+    "options": [
+      {
+        "label": "A",
+        "text": "34"
+      },
+      {
+        "label": "B",
+        "text": "19"
+      },
+      {
+        "label": "C",
+        "text": "49"
+      },
+      {
+        "label": "D",
+        "text": "34.2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Middle value(s) of sorted data: 34",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Chose smallest"
+      },
+      {
+        "label": "C",
+        "explanation": "Found mean instead"
+      }
+    ],
+    "skills": [
+      "median"
+    ],
+    "tags": [
+      "statistics",
+      "median"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.mean_median_mode",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Median of: 7, 16, 21, 23, 34, 49?",
+    "options": [
+      {
+        "label": "A",
+        "text": "22"
+      },
+      {
+        "label": "B",
+        "text": "7"
+      },
+      {
+        "label": "C",
+        "text": "49"
+      },
+      {
+        "label": "D",
+        "text": "25"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Middle value(s) of sorted data: 22",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Chose smallest"
+      },
+      {
+        "label": "C",
+        "explanation": "Found mean instead"
+      }
+    ],
+    "skills": [
+      "median"
+    ],
+    "tags": [
+      "statistics",
+      "median"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.mean_median_mode",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Median of: 8, 8, 18, 47, 50?",
+    "options": [
+      {
+        "label": "A",
+        "text": "18"
+      },
+      {
+        "label": "B",
+        "text": "8"
+      },
+      {
+        "label": "C",
+        "text": "50"
+      },
+      {
+        "label": "D",
+        "text": "26.2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Middle value(s) of sorted data: 18",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Chose smallest"
+      },
+      {
+        "label": "C",
+        "explanation": "Found mean instead"
+      }
+    ],
+    "skills": [
+      "median"
+    ],
+    "tags": [
+      "statistics",
+      "median"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.mean_median_mode",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Median of: 6, 17, 41, 43, 49, 50?",
+    "options": [
+      {
+        "label": "A",
+        "text": "42"
+      },
+      {
+        "label": "B",
+        "text": "6"
+      },
+      {
+        "label": "C",
+        "text": "50"
+      },
+      {
+        "label": "D",
+        "text": "34.33"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Middle value(s) of sorted data: 42",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Chose smallest"
+      },
+      {
+        "label": "C",
+        "explanation": "Found mean instead"
+      }
+    ],
+    "skills": [
+      "median"
+    ],
+    "tags": [
+      "statistics",
+      "median"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.mean_median_mode",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Median of: 13, 16, 35, 43, 46?",
+    "options": [
+      {
+        "label": "A",
+        "text": "35"
+      },
+      {
+        "label": "B",
+        "text": "13"
+      },
+      {
+        "label": "C",
+        "text": "46"
+      },
+      {
+        "label": "D",
+        "text": "30.6"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Middle value(s) of sorted data: 35",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Chose smallest"
+      },
+      {
+        "label": "C",
+        "explanation": "Found mean instead"
+      }
+    ],
+    "skills": [
+      "median"
+    ],
+    "tags": [
+      "statistics",
+      "median"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.range",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Range of: 84, 90, 59, 16, 47?",
+    "options": [
+      {
+        "label": "A",
+        "text": "74"
+      },
+      {
+        "label": "B",
+        "text": "90"
+      },
+      {
+        "label": "C",
+        "text": "16"
+      },
+      {
+        "label": "D",
+        "text": "77"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "90-16=74",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Gave max not range"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave min not range"
+      }
+    ],
+    "skills": [
+      "range"
+    ],
+    "tags": [
+      "statistics",
+      "range"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.range",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Range of: 43, 25, 82, 67, 27, 41, 43, 11?",
+    "options": [
+      {
+        "label": "A",
+        "text": "71"
+      },
+      {
+        "label": "B",
+        "text": "82"
+      },
+      {
+        "label": "C",
+        "text": "11"
+      },
+      {
+        "label": "D",
+        "text": "74"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "82-11=71",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Gave max not range"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave min not range"
+      }
+    ],
+    "skills": [
+      "range"
+    ],
+    "tags": [
+      "statistics",
+      "range"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.range",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Range of: 55, 31, 92, 87, 78, 11, 85?",
+    "options": [
+      {
+        "label": "A",
+        "text": "81"
+      },
+      {
+        "label": "B",
+        "text": "92"
+      },
+      {
+        "label": "C",
+        "text": "11"
+      },
+      {
+        "label": "D",
+        "text": "84"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "92-11=81",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Gave max not range"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave min not range"
+      }
+    ],
+    "skills": [
+      "range"
+    ],
+    "tags": [
+      "statistics",
+      "range"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.range",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Range of: 80, 30, 28, 40, 7?",
+    "options": [
+      {
+        "label": "A",
+        "text": "73"
+      },
+      {
+        "label": "B",
+        "text": "80"
+      },
+      {
+        "label": "C",
+        "text": "7"
+      },
+      {
+        "label": "D",
+        "text": "76"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "80-7=73",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Gave max not range"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave min not range"
+      }
+    ],
+    "skills": [
+      "range"
+    ],
+    "tags": [
+      "statistics",
+      "range"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.range",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Range of: 74, 68, 78, 18, 33?",
+    "options": [
+      {
+        "label": "A",
+        "text": "60"
+      },
+      {
+        "label": "B",
+        "text": "78"
+      },
+      {
+        "label": "C",
+        "text": "18"
+      },
+      {
+        "label": "D",
+        "text": "63"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "78-18=60",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Gave max not range"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave min not range"
+      }
+    ],
+    "skills": [
+      "range"
+    ],
+    "tags": [
+      "statistics",
+      "range"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.range",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Range of: 38, 44, 51, 52, 81, 23, 72, 22?",
+    "options": [
+      {
+        "label": "A",
+        "text": "59"
+      },
+      {
+        "label": "B",
+        "text": "81"
+      },
+      {
+        "label": "C",
+        "text": "22"
+      },
+      {
+        "label": "D",
+        "text": "62"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "81-22=59",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Gave max not range"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave min not range"
+      }
+    ],
+    "skills": [
+      "range"
+    ],
+    "tags": [
+      "statistics",
+      "range"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.range",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Range of: 43, 54, 39, 65, 51, 55, 76?",
+    "options": [
+      {
+        "label": "A",
+        "text": "37"
+      },
+      {
+        "label": "B",
+        "text": "76"
+      },
+      {
+        "label": "C",
+        "text": "39"
+      },
+      {
+        "label": "D",
+        "text": "40"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "76-39=37",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Gave max not range"
+      },
+      {
+        "label": "C",
+        "explanation": "Gave min not range"
+      }
+    ],
+    "skills": [
+      "range"
+    ],
+    "tags": [
+      "statistics",
+      "range"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.data_interpretation",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Bar graph shows favorites: Math:47, Science:11, English:27, History:21, Art:17. Most popular?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Math"
+      },
+      {
+        "label": "B",
+        "text": "Science"
+      },
+      {
+        "label": "C",
+        "text": "English"
+      },
+      {
+        "label": "D",
+        "text": "History"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Math has highest value (47)",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misread values"
+      },
+      {
+        "label": "C",
+        "explanation": "Wrong category"
+      }
+    ],
+    "skills": [
+      "data-interpretation"
+    ],
+    "tags": [
+      "statistics",
+      "data-interpretation"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.data_interpretation",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Bar graph shows favorites: Math:28, Science:50, English:28, History:42, Art:17. Most popular?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Science"
+      },
+      {
+        "label": "B",
+        "text": "English"
+      },
+      {
+        "label": "C",
+        "text": "History"
+      },
+      {
+        "label": "D",
+        "text": "Art"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Science has highest value (50)",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misread values"
+      },
+      {
+        "label": "C",
+        "explanation": "Wrong category"
+      }
+    ],
+    "skills": [
+      "data-interpretation"
+    ],
+    "tags": [
+      "statistics",
+      "data-interpretation"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.data_interpretation",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Bar graph shows favorites: Math:41, Science:41, English:20, History:15, Art:11. Most popular?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Math"
+      },
+      {
+        "label": "B",
+        "text": "Science"
+      },
+      {
+        "label": "C",
+        "text": "English"
+      },
+      {
+        "label": "D",
+        "text": "History"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Math has highest value (41)",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misread values"
+      },
+      {
+        "label": "C",
+        "explanation": "Wrong category"
+      }
+    ],
+    "skills": [
+      "data-interpretation"
+    ],
+    "tags": [
+      "statistics",
+      "data-interpretation"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.data_interpretation",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Bar graph shows favorites: Math:21, Science:16, English:44, History:34, Art:32. Most popular?",
+    "options": [
+      {
+        "label": "A",
+        "text": "English"
+      },
+      {
+        "label": "B",
+        "text": "History"
+      },
+      {
+        "label": "C",
+        "text": "Art"
+      },
+      {
+        "label": "D",
+        "text": "Math"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "English has highest value (44)",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misread values"
+      },
+      {
+        "label": "C",
+        "explanation": "Wrong category"
+      }
+    ],
+    "skills": [
+      "data-interpretation"
+    ],
+    "tags": [
+      "statistics",
+      "data-interpretation"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.data_interpretation",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Bar graph shows favorites: Math:11, Science:18, English:38, History:45, Art:34. Most popular?",
+    "options": [
+      {
+        "label": "A",
+        "text": "History"
+      },
+      {
+        "label": "B",
+        "text": "Art"
+      },
+      {
+        "label": "C",
+        "text": "Math"
+      },
+      {
+        "label": "D",
+        "text": "Science"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "History has highest value (45)",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misread values"
+      },
+      {
+        "label": "C",
+        "explanation": "Wrong category"
+      }
+    ],
+    "skills": [
+      "data-interpretation"
+    ],
+    "tags": [
+      "statistics",
+      "data-interpretation"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.data_interpretation",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Bar graph shows favorites: Math:41, Science:24, English:36, History:10, Art:46. Most popular?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Art"
+      },
+      {
+        "label": "B",
+        "text": "Math"
+      },
+      {
+        "label": "C",
+        "text": "Science"
+      },
+      {
+        "label": "D",
+        "text": "English"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Art has highest value (46)",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misread values"
+      },
+      {
+        "label": "C",
+        "explanation": "Wrong category"
+      }
+    ],
+    "skills": [
+      "data-interpretation"
+    ],
+    "tags": [
+      "statistics",
+      "data-interpretation"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.data_interpretation",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Bar graph shows favorites: Math:31, Science:18, English:13, History:33, Art:25. Most popular?",
+    "options": [
+      {
+        "label": "A",
+        "text": "History"
+      },
+      {
+        "label": "B",
+        "text": "Art"
+      },
+      {
+        "label": "C",
+        "text": "Math"
+      },
+      {
+        "label": "D",
+        "text": "Science"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "History has highest value (33)",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misread values"
+      },
+      {
+        "label": "C",
+        "explanation": "Wrong category"
+      }
+    ],
+    "skills": [
+      "data-interpretation"
+    ],
+    "tags": [
+      "statistics",
+      "data-interpretation"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.data_interpretation",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Bar graph shows favorites: Math:12, Science:29, English:38, History:45, Art:27. Most popular?",
+    "options": [
+      {
+        "label": "A",
+        "text": "History"
+      },
+      {
+        "label": "B",
+        "text": "Art"
+      },
+      {
+        "label": "C",
+        "text": "Math"
+      },
+      {
+        "label": "D",
+        "text": "Science"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "History has highest value (45)",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misread values"
+      },
+      {
+        "label": "C",
+        "explanation": "Wrong category"
+      }
+    ],
+    "skills": [
+      "data-interpretation"
+    ],
+    "tags": [
+      "statistics",
+      "data-interpretation"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.data_interpretation",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Bar graph shows favorites: Math:34, Science:28, English:48, History:17, Art:44. Most popular?",
+    "options": [
+      {
+        "label": "A",
+        "text": "English"
+      },
+      {
+        "label": "B",
+        "text": "History"
+      },
+      {
+        "label": "C",
+        "text": "Art"
+      },
+      {
+        "label": "D",
+        "text": "Math"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "English has highest value (48)",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misread values"
+      },
+      {
+        "label": "C",
+        "explanation": "Wrong category"
+      }
+    ],
+    "skills": [
+      "data-interpretation"
+    ],
+    "tags": [
+      "statistics",
+      "data-interpretation"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.data_interpretation",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Bar graph shows favorites: Math:43, Science:38, English:15, History:46, Art:35. Most popular?",
+    "options": [
+      {
+        "label": "A",
+        "text": "History"
+      },
+      {
+        "label": "B",
+        "text": "Art"
+      },
+      {
+        "label": "C",
+        "text": "Math"
+      },
+      {
+        "label": "D",
+        "text": "Science"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "History has highest value (46)",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misread values"
+      },
+      {
+        "label": "C",
+        "explanation": "Wrong category"
+      }
+    ],
+    "skills": [
+      "data-interpretation"
+    ],
+    "tags": [
+      "statistics",
+      "data-interpretation"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.data_interpretation",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Bar graph shows favorites: Math:24, Science:49, English:47, History:26, Art:25. Most popular?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Science"
+      },
+      {
+        "label": "B",
+        "text": "English"
+      },
+      {
+        "label": "C",
+        "text": "History"
+      },
+      {
+        "label": "D",
+        "text": "Art"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Science has highest value (49)",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misread values"
+      },
+      {
+        "label": "C",
+        "explanation": "Wrong category"
+      }
+    ],
+    "skills": [
+      "data-interpretation"
+    ],
+    "tags": [
+      "statistics",
+      "data-interpretation"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.statistics.data_interpretation",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Bar graph shows favorites: Math:27, Science:12, English:21, History:49, Art:48. Most popular?",
+    "options": [
+      {
+        "label": "A",
+        "text": "History"
+      },
+      {
+        "label": "B",
+        "text": "Art"
+      },
+      {
+        "label": "C",
+        "text": "Math"
+      },
+      {
+        "label": "D",
+        "text": "Science"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "History has highest value (49)",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misread values"
+      },
+      {
+        "label": "C",
+        "explanation": "Wrong category"
+      }
+    ],
+    "skills": [
+      "data-interpretation"
+    ],
+    "tags": [
+      "statistics",
+      "data-interpretation"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.functions.tables",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "y = mx+b. x: 1,2,3,4,5 → y: 4,8,12,?,20. Missing y?",
+    "options": [
+      {
+        "label": "A",
+        "text": "16"
+      },
+      {
+        "label": "B",
+        "text": "20"
+      },
+      {
+        "label": "C",
+        "text": "15"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Pattern: y=4x+0. At x=4: 4(4)+0=16",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Off by one step"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused x and y"
+      }
+    ],
+    "skills": [
+      "function-tables"
+    ],
+    "tags": [
+      "functions",
+      "tables"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.functions.tables",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "y = mx+b. x: 1,2,3,4,5 → y: 6,?,12,15,18. Missing y?",
+    "options": [
+      {
+        "label": "A",
+        "text": "9"
+      },
+      {
+        "label": "B",
+        "text": "12"
+      },
+      {
+        "label": "C",
+        "text": "8"
+      },
+      {
+        "label": "D",
+        "text": "2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Pattern: y=3x+3. At x=2: 3(2)+3=9",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Off by one step"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused x and y"
+      }
+    ],
+    "skills": [
+      "function-tables"
+    ],
+    "tags": [
+      "functions",
+      "tables"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.functions.tables",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "y = mx+b. x: 1,2,3,4,5 → y: 3,?,9,12,15. Missing y?",
+    "options": [
+      {
+        "label": "A",
+        "text": "6"
+      },
+      {
+        "label": "B",
+        "text": "9"
+      },
+      {
+        "label": "C",
+        "text": "5"
+      },
+      {
+        "label": "D",
+        "text": "2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Pattern: y=3x+0. At x=2: 3(2)+0=6",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Off by one step"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused x and y"
+      }
+    ],
+    "skills": [
+      "function-tables"
+    ],
+    "tags": [
+      "functions",
+      "tables"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.functions.tables",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "y = mx+b. x: 1,2,3,4,5 → y: 4,?,12,16,20. Missing y?",
+    "options": [
+      {
+        "label": "A",
+        "text": "8"
+      },
+      {
+        "label": "B",
+        "text": "12"
+      },
+      {
+        "label": "C",
+        "text": "7"
+      },
+      {
+        "label": "D",
+        "text": "2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Pattern: y=4x+0. At x=2: 4(2)+0=8",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Off by one step"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused x and y"
+      }
+    ],
+    "skills": [
+      "function-tables"
+    ],
+    "tags": [
+      "functions",
+      "tables"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.functions.tables",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "y = mx+b. x: 1,2,3,4,5 → y: 9,?,17,21,25. Missing y?",
+    "options": [
+      {
+        "label": "A",
+        "text": "13"
+      },
+      {
+        "label": "B",
+        "text": "17"
+      },
+      {
+        "label": "C",
+        "text": "12"
+      },
+      {
+        "label": "D",
+        "text": "2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Pattern: y=4x+5. At x=2: 4(2)+5=13",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Off by one step"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused x and y"
+      }
+    ],
+    "skills": [
+      "function-tables"
+    ],
+    "tags": [
+      "functions",
+      "tables"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.functions.tables",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "y = mx+b. x: 1,2,3,4,5 → y: 4,9,?,19,24. Missing y?",
+    "options": [
+      {
+        "label": "A",
+        "text": "14"
+      },
+      {
+        "label": "B",
+        "text": "19"
+      },
+      {
+        "label": "C",
+        "text": "13"
+      },
+      {
+        "label": "D",
+        "text": "3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Pattern: y=5x+-1. At x=3: 5(3)+-1=14",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Off by one step"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused x and y"
+      }
+    ],
+    "skills": [
+      "function-tables"
+    ],
+    "tags": [
+      "functions",
+      "tables"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.functions.tables",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "y = mx+b. x: 1,2,3,4,5 → y: 2,6,10,?,18. Missing y?",
+    "options": [
+      {
+        "label": "A",
+        "text": "14"
+      },
+      {
+        "label": "B",
+        "text": "18"
+      },
+      {
+        "label": "C",
+        "text": "13"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Pattern: y=4x+-2. At x=4: 4(4)+-2=14",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Off by one step"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused x and y"
+      }
+    ],
+    "skills": [
+      "function-tables"
+    ],
+    "tags": [
+      "functions",
+      "tables"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.functions.tables",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "y = mx+b. x: 1,2,3,4,5 → y: 2,7,?,17,22. Missing y?",
+    "options": [
+      {
+        "label": "A",
+        "text": "12"
+      },
+      {
+        "label": "B",
+        "text": "17"
+      },
+      {
+        "label": "C",
+        "text": "11"
+      },
+      {
+        "label": "D",
+        "text": "3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Pattern: y=5x+-3. At x=3: 5(3)+-3=12",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Off by one step"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused x and y"
+      }
+    ],
+    "skills": [
+      "function-tables"
+    ],
+    "tags": [
+      "functions",
+      "tables"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.functions.tables",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "y = mx+b. x: 1,2,3,4,5 → y: 7,10,13,?,19. Missing y?",
+    "options": [
+      {
+        "label": "A",
+        "text": "16"
+      },
+      {
+        "label": "B",
+        "text": "19"
+      },
+      {
+        "label": "C",
+        "text": "15"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Pattern: y=3x+4. At x=4: 3(4)+4=16",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Off by one step"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused x and y"
+      }
+    ],
+    "skills": [
+      "function-tables"
+    ],
+    "tags": [
+      "functions",
+      "tables"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.functions.tables",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "y = mx+b. x: 1,2,3,4,5 → y: 6,11,16,?,26. Missing y?",
+    "options": [
+      {
+        "label": "A",
+        "text": "21"
+      },
+      {
+        "label": "B",
+        "text": "26"
+      },
+      {
+        "label": "C",
+        "text": "20"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Pattern: y=5x+1. At x=4: 5(4)+1=21",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Off by one step"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused x and y"
+      }
+    ],
+    "skills": [
+      "function-tables"
+    ],
+    "tags": [
+      "functions",
+      "tables"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.functions.tables",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "y = mx+b. x: 1,2,3,4,5 → y: 8,13,18,?,28. Missing y?",
+    "options": [
+      {
+        "label": "A",
+        "text": "23"
+      },
+      {
+        "label": "B",
+        "text": "28"
+      },
+      {
+        "label": "C",
+        "text": "22"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Pattern: y=5x+3. At x=4: 5(4)+3=23",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Off by one step"
+      },
+      {
+        "label": "C",
+        "explanation": "Confused x and y"
+      }
+    ],
+    "skills": [
+      "function-tables"
+    ],
+    "tags": [
+      "functions",
+      "tables"
+    ]
+  }
+]

@@ -1,0 +1,2172 @@
+[
+  {
+    "section": "math",
+    "category": "math.arithmetic.order_of_operations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Evaluate: 3 + 1 × 5",
+    "options": [
+      {
+        "label": "A",
+        "text": "8"
+      },
+      {
+        "label": "B",
+        "text": "20"
+      },
+      {
+        "label": "C",
+        "text": "8"
+      },
+      {
+        "label": "D",
+        "text": "9"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Multiply first: 1×5=5. Then add 3: 8",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added before multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Ignored multiplication"
+      }
+    ],
+    "skills": [
+      "order-of-operations"
+    ],
+    "tags": [
+      "PEMDAS"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.order_of_operations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Evaluate: 7 + 4 × 3",
+    "options": [
+      {
+        "label": "A",
+        "text": "19"
+      },
+      {
+        "label": "B",
+        "text": "33"
+      },
+      {
+        "label": "C",
+        "text": "31"
+      },
+      {
+        "label": "D",
+        "text": "14"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Multiply first: 4×3=12. Then add 7: 19",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added before multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Ignored multiplication"
+      }
+    ],
+    "skills": [
+      "order-of-operations"
+    ],
+    "tags": [
+      "PEMDAS"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.order_of_operations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Evaluate: 2 + 1 × 2",
+    "options": [
+      {
+        "label": "A",
+        "text": "4"
+      },
+      {
+        "label": "B",
+        "text": "6"
+      },
+      {
+        "label": "C",
+        "text": "4"
+      },
+      {
+        "label": "D",
+        "text": "5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Multiply first: 1×2=2. Then add 2: 4",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added before multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Ignored multiplication"
+      }
+    ],
+    "skills": [
+      "order-of-operations"
+    ],
+    "tags": [
+      "PEMDAS"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.order_of_operations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Evaluate: 6 + 3 × 6",
+    "options": [
+      {
+        "label": "A",
+        "text": "24"
+      },
+      {
+        "label": "B",
+        "text": "54"
+      },
+      {
+        "label": "C",
+        "text": "24"
+      },
+      {
+        "label": "D",
+        "text": "15"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Multiply first: 3×6=18. Then add 6: 24",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added before multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Ignored multiplication"
+      }
+    ],
+    "skills": [
+      "order-of-operations"
+    ],
+    "tags": [
+      "PEMDAS"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.order_of_operations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Evaluate: 4 + 1 × 2",
+    "options": [
+      {
+        "label": "A",
+        "text": "6"
+      },
+      {
+        "label": "B",
+        "text": "10"
+      },
+      {
+        "label": "C",
+        "text": "6"
+      },
+      {
+        "label": "D",
+        "text": "7"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Multiply first: 1×2=2. Then add 4: 6",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added before multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Ignored multiplication"
+      }
+    ],
+    "skills": [
+      "order-of-operations"
+    ],
+    "tags": [
+      "PEMDAS"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.order_of_operations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Evaluate: 2 + 3 × 4",
+    "options": [
+      {
+        "label": "A",
+        "text": "14"
+      },
+      {
+        "label": "B",
+        "text": "20"
+      },
+      {
+        "label": "C",
+        "text": "10"
+      },
+      {
+        "label": "D",
+        "text": "9"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Multiply first: 3×4=12. Then add 2: 14",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added before multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Ignored multiplication"
+      }
+    ],
+    "skills": [
+      "order-of-operations"
+    ],
+    "tags": [
+      "PEMDAS"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.order_of_operations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Evaluate: 4 + 1 × 4",
+    "options": [
+      {
+        "label": "A",
+        "text": "8"
+      },
+      {
+        "label": "B",
+        "text": "20"
+      },
+      {
+        "label": "C",
+        "text": "8"
+      },
+      {
+        "label": "D",
+        "text": "9"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Multiply first: 1×4=4. Then add 4: 8",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added before multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Ignored multiplication"
+      }
+    ],
+    "skills": [
+      "order-of-operations"
+    ],
+    "tags": [
+      "PEMDAS"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.order_of_operations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Evaluate: 8 + 4 × 5",
+    "options": [
+      {
+        "label": "A",
+        "text": "28"
+      },
+      {
+        "label": "B",
+        "text": "60"
+      },
+      {
+        "label": "C",
+        "text": "37"
+      },
+      {
+        "label": "D",
+        "text": "17"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Multiply first: 4×5=20. Then add 8: 28",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added before multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Ignored multiplication"
+      }
+    ],
+    "skills": [
+      "order-of-operations"
+    ],
+    "tags": [
+      "PEMDAS"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.order_of_operations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Evaluate: 7 + 5 × 6",
+    "options": [
+      {
+        "label": "A",
+        "text": "37"
+      },
+      {
+        "label": "B",
+        "text": "72"
+      },
+      {
+        "label": "C",
+        "text": "41"
+      },
+      {
+        "label": "D",
+        "text": "18"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Multiply first: 5×6=30. Then add 7: 37",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added before multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Ignored multiplication"
+      }
+    ],
+    "skills": [
+      "order-of-operations"
+    ],
+    "tags": [
+      "PEMDAS"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.order_of_operations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Evaluate: 7 + 2 × 4",
+    "options": [
+      {
+        "label": "A",
+        "text": "15"
+      },
+      {
+        "label": "B",
+        "text": "36"
+      },
+      {
+        "label": "C",
+        "text": "18"
+      },
+      {
+        "label": "D",
+        "text": "13"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Multiply first: 2×4=8. Then add 7: 15",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added before multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Ignored multiplication"
+      }
+    ],
+    "skills": [
+      "order-of-operations"
+    ],
+    "tags": [
+      "PEMDAS"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.order_of_operations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Evaluate: 5 + 1 × 4",
+    "options": [
+      {
+        "label": "A",
+        "text": "9"
+      },
+      {
+        "label": "B",
+        "text": "24"
+      },
+      {
+        "label": "C",
+        "text": "9"
+      },
+      {
+        "label": "D",
+        "text": "10"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Multiply first: 1×4=4. Then add 5: 9",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added before multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Ignored multiplication"
+      }
+    ],
+    "skills": [
+      "order-of-operations"
+    ],
+    "tags": [
+      "PEMDAS"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.order_of_operations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Evaluate: 5 + 1 × 4 (variant 1)",
+    "options": [
+      {
+        "label": "A",
+        "text": "9"
+      },
+      {
+        "label": "B",
+        "text": "24"
+      },
+      {
+        "label": "C",
+        "text": "9"
+      },
+      {
+        "label": "D",
+        "text": "10"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Multiply first: 1×4=4. Then add 5: 9",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added before multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Ignored multiplication"
+      }
+    ],
+    "skills": [
+      "order-of-operations"
+    ],
+    "tags": [
+      "PEMDAS"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.order_of_operations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Evaluate: 8 + 2 × 6",
+    "options": [
+      {
+        "label": "A",
+        "text": "20"
+      },
+      {
+        "label": "B",
+        "text": "60"
+      },
+      {
+        "label": "C",
+        "text": "22"
+      },
+      {
+        "label": "D",
+        "text": "16"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Multiply first: 2×6=12. Then add 8: 20",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added before multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Ignored multiplication"
+      }
+    ],
+    "skills": [
+      "order-of-operations"
+    ],
+    "tags": [
+      "PEMDAS"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.order_of_operations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Evaluate: 8 + 4 × 5 (variant 1)",
+    "options": [
+      {
+        "label": "A",
+        "text": "28"
+      },
+      {
+        "label": "B",
+        "text": "60"
+      },
+      {
+        "label": "C",
+        "text": "37"
+      },
+      {
+        "label": "D",
+        "text": "17"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Multiply first: 4×5=20. Then add 8: 28",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added before multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Ignored multiplication"
+      }
+    ],
+    "skills": [
+      "order-of-operations"
+    ],
+    "tags": [
+      "PEMDAS"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.order_of_operations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Evaluate: 4 + 2 × 5",
+    "options": [
+      {
+        "label": "A",
+        "text": "14"
+      },
+      {
+        "label": "B",
+        "text": "30"
+      },
+      {
+        "label": "C",
+        "text": "13"
+      },
+      {
+        "label": "D",
+        "text": "11"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Multiply first: 2×5=10. Then add 4: 14",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added before multiplying"
+      },
+      {
+        "label": "C",
+        "explanation": "Ignored multiplication"
+      }
+    ],
+    "skills": [
+      "order-of-operations"
+    ],
+    "tags": [
+      "PEMDAS"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.fractions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Calculate: 5/7 + 5/7",
+    "options": [
+      {
+        "label": "A",
+        "text": "10/7"
+      },
+      {
+        "label": "B",
+        "text": "10/14"
+      },
+      {
+        "label": "C",
+        "text": "70/49"
+      },
+      {
+        "label": "D",
+        "text": "11/7"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Common denominator 49: 70/49 = 10/7",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added numerators and denominators separately"
+      },
+      {
+        "label": "C",
+        "explanation": "Forgot to simplify"
+      }
+    ],
+    "skills": [
+      "fraction-operations"
+    ],
+    "tags": [
+      "fractions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.fractions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Calculate: 5/6 + 3/7",
+    "options": [
+      {
+        "label": "A",
+        "text": "53/42"
+      },
+      {
+        "label": "B",
+        "text": "8/13"
+      },
+      {
+        "label": "C",
+        "text": "53/42"
+      },
+      {
+        "label": "D",
+        "text": "54/42"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Common denominator 42: 53/42 = 53/42",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added numerators and denominators separately"
+      },
+      {
+        "label": "C",
+        "explanation": "Forgot to simplify"
+      }
+    ],
+    "skills": [
+      "fraction-operations"
+    ],
+    "tags": [
+      "fractions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.fractions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Calculate: 2/6 + 1/3",
+    "options": [
+      {
+        "label": "A",
+        "text": "2/3"
+      },
+      {
+        "label": "B",
+        "text": "3/9"
+      },
+      {
+        "label": "C",
+        "text": "12/18"
+      },
+      {
+        "label": "D",
+        "text": "3/3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Common denominator 18: 12/18 = 2/3",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added numerators and denominators separately"
+      },
+      {
+        "label": "C",
+        "explanation": "Forgot to simplify"
+      }
+    ],
+    "skills": [
+      "fraction-operations"
+    ],
+    "tags": [
+      "fractions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.fractions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Calculate: 4/4 + 2/4",
+    "options": [
+      {
+        "label": "A",
+        "text": "3/2"
+      },
+      {
+        "label": "B",
+        "text": "6/8"
+      },
+      {
+        "label": "C",
+        "text": "24/16"
+      },
+      {
+        "label": "D",
+        "text": "4/2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Common denominator 16: 24/16 = 3/2",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added numerators and denominators separately"
+      },
+      {
+        "label": "C",
+        "explanation": "Forgot to simplify"
+      }
+    ],
+    "skills": [
+      "fraction-operations"
+    ],
+    "tags": [
+      "fractions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.fractions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Calculate: 5/8 + 2/2",
+    "options": [
+      {
+        "label": "A",
+        "text": "13/8"
+      },
+      {
+        "label": "B",
+        "text": "7/10"
+      },
+      {
+        "label": "C",
+        "text": "26/16"
+      },
+      {
+        "label": "D",
+        "text": "14/8"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Common denominator 16: 26/16 = 13/8",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added numerators and denominators separately"
+      },
+      {
+        "label": "C",
+        "explanation": "Forgot to simplify"
+      }
+    ],
+    "skills": [
+      "fraction-operations"
+    ],
+    "tags": [
+      "fractions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.fractions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Calculate: 3/6 + 2/8",
+    "options": [
+      {
+        "label": "A",
+        "text": "3/4"
+      },
+      {
+        "label": "B",
+        "text": "5/14"
+      },
+      {
+        "label": "C",
+        "text": "36/48"
+      },
+      {
+        "label": "D",
+        "text": "4/4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Common denominator 48: 36/48 = 3/4",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added numerators and denominators separately"
+      },
+      {
+        "label": "C",
+        "explanation": "Forgot to simplify"
+      }
+    ],
+    "skills": [
+      "fraction-operations"
+    ],
+    "tags": [
+      "fractions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.fractions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Calculate: 1/3 + 3/7",
+    "options": [
+      {
+        "label": "A",
+        "text": "16/21"
+      },
+      {
+        "label": "B",
+        "text": "4/10"
+      },
+      {
+        "label": "C",
+        "text": "16/21"
+      },
+      {
+        "label": "D",
+        "text": "17/21"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Common denominator 21: 16/21 = 16/21",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added numerators and denominators separately"
+      },
+      {
+        "label": "C",
+        "explanation": "Forgot to simplify"
+      }
+    ],
+    "skills": [
+      "fraction-operations"
+    ],
+    "tags": [
+      "fractions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.fractions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Calculate: 3/6 + 4/4",
+    "options": [
+      {
+        "label": "A",
+        "text": "3/2"
+      },
+      {
+        "label": "B",
+        "text": "7/10"
+      },
+      {
+        "label": "C",
+        "text": "36/24"
+      },
+      {
+        "label": "D",
+        "text": "4/2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Common denominator 24: 36/24 = 3/2",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added numerators and denominators separately"
+      },
+      {
+        "label": "C",
+        "explanation": "Forgot to simplify"
+      }
+    ],
+    "skills": [
+      "fraction-operations"
+    ],
+    "tags": [
+      "fractions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.fractions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Calculate: 5/7 + 5/7 (variant 1)",
+    "options": [
+      {
+        "label": "A",
+        "text": "10/7"
+      },
+      {
+        "label": "B",
+        "text": "10/14"
+      },
+      {
+        "label": "C",
+        "text": "70/49"
+      },
+      {
+        "label": "D",
+        "text": "11/7"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Common denominator 49: 70/49 = 10/7",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added numerators and denominators separately"
+      },
+      {
+        "label": "C",
+        "explanation": "Forgot to simplify"
+      }
+    ],
+    "skills": [
+      "fraction-operations"
+    ],
+    "tags": [
+      "fractions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.fractions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Calculate: 2/7 + 4/3",
+    "options": [
+      {
+        "label": "A",
+        "text": "34/21"
+      },
+      {
+        "label": "B",
+        "text": "6/10"
+      },
+      {
+        "label": "C",
+        "text": "34/21"
+      },
+      {
+        "label": "D",
+        "text": "35/21"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Common denominator 21: 34/21 = 34/21",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Added numerators and denominators separately"
+      },
+      {
+        "label": "C",
+        "explanation": "Forgot to simplify"
+      }
+    ],
+    "skills": [
+      "fraction-operations"
+    ],
+    "tags": [
+      "fractions"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.decimals",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Calculate: 7.7 + 8.4",
+    "options": [
+      {
+        "label": "A",
+        "text": "16.1"
+      },
+      {
+        "label": "B",
+        "text": "17.1"
+      },
+      {
+        "label": "C",
+        "text": "16"
+      },
+      {
+        "label": "D",
+        "text": "64.7"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "7.7 + 8.4 = 16.1",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Carrying error"
+      },
+      {
+        "label": "C",
+        "explanation": "Multiplied instead of adding"
+      }
+    ],
+    "skills": [
+      "decimal-operations"
+    ],
+    "tags": [
+      "decimals"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.decimals",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Calculate: 4.8 + 4.5",
+    "options": [
+      {
+        "label": "A",
+        "text": "9.3"
+      },
+      {
+        "label": "B",
+        "text": "10.3"
+      },
+      {
+        "label": "C",
+        "text": "9.2"
+      },
+      {
+        "label": "D",
+        "text": "21.6"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "4.8 + 4.5 = 9.3",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Carrying error"
+      },
+      {
+        "label": "C",
+        "explanation": "Multiplied instead of adding"
+      }
+    ],
+    "skills": [
+      "decimal-operations"
+    ],
+    "tags": [
+      "decimals"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.decimals",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Calculate: 9.9 + 8.9",
+    "options": [
+      {
+        "label": "A",
+        "text": "18.8"
+      },
+      {
+        "label": "B",
+        "text": "19.8"
+      },
+      {
+        "label": "C",
+        "text": "18.7"
+      },
+      {
+        "label": "D",
+        "text": "88.1"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "9.9 + 8.9 = 18.8",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Carrying error"
+      },
+      {
+        "label": "C",
+        "explanation": "Multiplied instead of adding"
+      }
+    ],
+    "skills": [
+      "decimal-operations"
+    ],
+    "tags": [
+      "decimals"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.decimals",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Calculate: 1.8 + 8.1",
+    "options": [
+      {
+        "label": "A",
+        "text": "9.9"
+      },
+      {
+        "label": "B",
+        "text": "10.9"
+      },
+      {
+        "label": "C",
+        "text": "9.8"
+      },
+      {
+        "label": "D",
+        "text": "14.6"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "1.8 + 8.1 = 9.9",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Carrying error"
+      },
+      {
+        "label": "C",
+        "explanation": "Multiplied instead of adding"
+      }
+    ],
+    "skills": [
+      "decimal-operations"
+    ],
+    "tags": [
+      "decimals"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.decimals",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Calculate: 8 + 6.4",
+    "options": [
+      {
+        "label": "A",
+        "text": "14.4"
+      },
+      {
+        "label": "B",
+        "text": "15.4"
+      },
+      {
+        "label": "C",
+        "text": "14.3"
+      },
+      {
+        "label": "D",
+        "text": "51.2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "8 + 6.4 = 14.4",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Carrying error"
+      },
+      {
+        "label": "C",
+        "explanation": "Multiplied instead of adding"
+      }
+    ],
+    "skills": [
+      "decimal-operations"
+    ],
+    "tags": [
+      "decimals"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.number_theory.gcf_lcm",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the GCF of 20 and 40?",
+    "options": [
+      {
+        "label": "A",
+        "text": "20"
+      },
+      {
+        "label": "B",
+        "text": "40"
+      },
+      {
+        "label": "C",
+        "text": "20"
+      },
+      {
+        "label": "D",
+        "text": "19"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "GCF(20, 40) = 20",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found LCM instead"
+      },
+      {
+        "label": "C",
+        "explanation": "Used smaller number"
+      }
+    ],
+    "skills": [
+      "gcf-lcm"
+    ],
+    "tags": [
+      "number-theory",
+      "gcf"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.number_theory.gcf_lcm",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the GCF of 41 and 22?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1"
+      },
+      {
+        "label": "B",
+        "text": "902"
+      },
+      {
+        "label": "C",
+        "text": "22"
+      },
+      {
+        "label": "D",
+        "text": "2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "GCF(41, 22) = 1",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found LCM instead"
+      },
+      {
+        "label": "C",
+        "explanation": "Used smaller number"
+      }
+    ],
+    "skills": [
+      "gcf-lcm"
+    ],
+    "tags": [
+      "number-theory",
+      "gcf"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.number_theory.gcf_lcm",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the GCF of 18 and 17?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1"
+      },
+      {
+        "label": "B",
+        "text": "306"
+      },
+      {
+        "label": "C",
+        "text": "17"
+      },
+      {
+        "label": "D",
+        "text": "2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "GCF(18, 17) = 1",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found LCM instead"
+      },
+      {
+        "label": "C",
+        "explanation": "Used smaller number"
+      }
+    ],
+    "skills": [
+      "gcf-lcm"
+    ],
+    "tags": [
+      "number-theory",
+      "gcf"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.number_theory.gcf_lcm",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the GCF of 18 and 16?",
+    "options": [
+      {
+        "label": "A",
+        "text": "2"
+      },
+      {
+        "label": "B",
+        "text": "144"
+      },
+      {
+        "label": "C",
+        "text": "16"
+      },
+      {
+        "label": "D",
+        "text": "1"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "GCF(18, 16) = 2",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found LCM instead"
+      },
+      {
+        "label": "C",
+        "explanation": "Used smaller number"
+      }
+    ],
+    "skills": [
+      "gcf-lcm"
+    ],
+    "tags": [
+      "number-theory",
+      "gcf"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.number_theory.gcf_lcm",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "What is the GCF of 34 and 29?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1"
+      },
+      {
+        "label": "B",
+        "text": "986"
+      },
+      {
+        "label": "C",
+        "text": "29"
+      },
+      {
+        "label": "D",
+        "text": "2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "GCF(34, 29) = 1",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found LCM instead"
+      },
+      {
+        "label": "C",
+        "explanation": "Used smaller number"
+      }
+    ],
+    "skills": [
+      "gcf-lcm"
+    ],
+    "tags": [
+      "number-theory",
+      "gcf"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.number_theory.gcf_lcm",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "What is the GCF of 33 and 29?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1"
+      },
+      {
+        "label": "B",
+        "text": "957"
+      },
+      {
+        "label": "C",
+        "text": "29"
+      },
+      {
+        "label": "D",
+        "text": "2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "GCF(33, 29) = 1",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Found LCM instead"
+      },
+      {
+        "label": "C",
+        "explanation": "Used smaller number"
+      }
+    ],
+    "skills": [
+      "gcf-lcm"
+    ],
+    "tags": [
+      "number-theory",
+      "gcf"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.number_theory.gcf_lcm",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "What is the LCM of 9 and 5?",
+    "options": [
+      {
+        "label": "A",
+        "text": "45"
+      },
+      {
+        "label": "B",
+        "text": "45"
+      },
+      {
+        "label": "C",
+        "text": "1"
+      },
+      {
+        "label": "D",
+        "text": "9"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "LCM = 9×5/GCF = 45/1 = 45",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Multiplied without dividing by GCF"
+      },
+      {
+        "label": "C",
+        "explanation": "Found GCF instead"
+      }
+    ],
+    "skills": [
+      "gcf-lcm"
+    ],
+    "tags": [
+      "number-theory",
+      "lcm"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.number_theory.gcf_lcm",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "What is the LCM of 13 and 6?",
+    "options": [
+      {
+        "label": "A",
+        "text": "78"
+      },
+      {
+        "label": "B",
+        "text": "78"
+      },
+      {
+        "label": "C",
+        "text": "1"
+      },
+      {
+        "label": "D",
+        "text": "13"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "LCM = 13×6/GCF = 78/1 = 78",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Multiplied without dividing by GCF"
+      },
+      {
+        "label": "C",
+        "explanation": "Found GCF instead"
+      }
+    ],
+    "skills": [
+      "gcf-lcm"
+    ],
+    "tags": [
+      "number-theory",
+      "lcm"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.number_theory.gcf_lcm",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "What is the LCM of 5 and 10?",
+    "options": [
+      {
+        "label": "A",
+        "text": "10"
+      },
+      {
+        "label": "B",
+        "text": "50"
+      },
+      {
+        "label": "C",
+        "text": "5"
+      },
+      {
+        "label": "D",
+        "text": "10"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "LCM = 5×10/GCF = 50/5 = 10",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Multiplied without dividing by GCF"
+      },
+      {
+        "label": "C",
+        "explanation": "Found GCF instead"
+      }
+    ],
+    "skills": [
+      "gcf-lcm"
+    ],
+    "tags": [
+      "number-theory",
+      "lcm"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.number_theory.gcf_lcm",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "What is the LCM of 10 and 15?",
+    "options": [
+      {
+        "label": "A",
+        "text": "30"
+      },
+      {
+        "label": "B",
+        "text": "150"
+      },
+      {
+        "label": "C",
+        "text": "5"
+      },
+      {
+        "label": "D",
+        "text": "15"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "LCM = 10×15/GCF = 150/5 = 30",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Multiplied without dividing by GCF"
+      },
+      {
+        "label": "C",
+        "explanation": "Found GCF instead"
+      }
+    ],
+    "skills": [
+      "gcf-lcm"
+    ],
+    "tags": [
+      "number-theory",
+      "lcm"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.number_theory.gcf_lcm",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "What is the LCM of 9 and 12?",
+    "options": [
+      {
+        "label": "A",
+        "text": "36"
+      },
+      {
+        "label": "B",
+        "text": "108"
+      },
+      {
+        "label": "C",
+        "text": "3"
+      },
+      {
+        "label": "D",
+        "text": "12"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "LCM = 9×12/GCF = 108/3 = 36",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Multiplied without dividing by GCF"
+      },
+      {
+        "label": "C",
+        "explanation": "Found GCF instead"
+      }
+    ],
+    "skills": [
+      "gcf-lcm"
+    ],
+    "tags": [
+      "number-theory",
+      "lcm"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.number_theory.gcf_lcm",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "What is the LCM of 11 and 6?",
+    "options": [
+      {
+        "label": "A",
+        "text": "66"
+      },
+      {
+        "label": "B",
+        "text": "66"
+      },
+      {
+        "label": "C",
+        "text": "1"
+      },
+      {
+        "label": "D",
+        "text": "11"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "LCM = 11×6/GCF = 66/1 = 66",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Multiplied without dividing by GCF"
+      },
+      {
+        "label": "C",
+        "explanation": "Found GCF instead"
+      }
+    ],
+    "skills": [
+      "gcf-lcm"
+    ],
+    "tags": [
+      "number-theory",
+      "lcm"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.number_theory.primes",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Which is prime?",
+    "options": [
+      {
+        "label": "A",
+        "text": "17"
+      },
+      {
+        "label": "B",
+        "text": "18"
+      },
+      {
+        "label": "C",
+        "text": "34"
+      },
+      {
+        "label": "D",
+        "text": "23"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "17 has only factors 1 and itself",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "18 is even/composite"
+      },
+      {
+        "label": "C",
+        "explanation": "34 is divisible by 2"
+      }
+    ],
+    "skills": [
+      "prime-numbers"
+    ],
+    "tags": [
+      "number-theory",
+      "primes"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.number_theory.primes",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Which is prime? (variant 1)",
+    "options": [
+      {
+        "label": "A",
+        "text": "19"
+      },
+      {
+        "label": "B",
+        "text": "20"
+      },
+      {
+        "label": "C",
+        "text": "38"
+      },
+      {
+        "label": "D",
+        "text": "25"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "19 has only factors 1 and itself",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "20 is even/composite"
+      },
+      {
+        "label": "C",
+        "explanation": "38 is divisible by 2"
+      }
+    ],
+    "skills": [
+      "prime-numbers"
+    ],
+    "tags": [
+      "number-theory",
+      "primes"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.number_theory.primes",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Which is prime? (variant 2)",
+    "options": [
+      {
+        "label": "A",
+        "text": "23"
+      },
+      {
+        "label": "B",
+        "text": "24"
+      },
+      {
+        "label": "C",
+        "text": "46"
+      },
+      {
+        "label": "D",
+        "text": "29"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "23 has only factors 1 and itself",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "24 is even/composite"
+      },
+      {
+        "label": "C",
+        "explanation": "46 is divisible by 2"
+      }
+    ],
+    "skills": [
+      "prime-numbers"
+    ],
+    "tags": [
+      "number-theory",
+      "primes"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.number_theory.primes",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Which is prime? (variant 3)",
+    "options": [
+      {
+        "label": "A",
+        "text": "29"
+      },
+      {
+        "label": "B",
+        "text": "30"
+      },
+      {
+        "label": "C",
+        "text": "58"
+      },
+      {
+        "label": "D",
+        "text": "35"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "29 has only factors 1 and itself",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "30 is even/composite"
+      },
+      {
+        "label": "C",
+        "explanation": "58 is divisible by 2"
+      }
+    ],
+    "skills": [
+      "prime-numbers"
+    ],
+    "tags": [
+      "number-theory",
+      "primes"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.number_theory.divisibility",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Is 69 divisible by 3?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yes"
+      },
+      {
+        "label": "B",
+        "text": "No"
+      },
+      {
+        "label": "C",
+        "text": "Only by 2"
+      },
+      {
+        "label": "D",
+        "text": "Cannot determine"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "69 ÷ 3 = 23. Rule: digits sum divisible by 3",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misapplied divisibility rule"
+      },
+      {
+        "label": "C",
+        "explanation": "Not enough info is wrong — we can test directly"
+      }
+    ],
+    "skills": [
+      "divisibility-rules"
+    ],
+    "tags": [
+      "number-theory",
+      "divisibility"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.number_theory.divisibility",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Is 120 divisible by 4?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yes"
+      },
+      {
+        "label": "B",
+        "text": "No"
+      },
+      {
+        "label": "C",
+        "text": "Only by 3"
+      },
+      {
+        "label": "D",
+        "text": "Cannot determine"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "120 ÷ 4 = 30. Rule: last two digits divisible by 4",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misapplied divisibility rule"
+      },
+      {
+        "label": "C",
+        "explanation": "Not enough info is wrong — we can test directly"
+      }
+    ],
+    "skills": [
+      "divisibility-rules"
+    ],
+    "tags": [
+      "number-theory",
+      "divisibility"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.number_theory.divisibility",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Is 120 divisible by 6?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yes"
+      },
+      {
+        "label": "B",
+        "text": "No"
+      },
+      {
+        "label": "C",
+        "text": "Only by 5"
+      },
+      {
+        "label": "D",
+        "text": "Cannot determine"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "120 ÷ 6 = 20. Rule: divisible by both 2 and 3",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misapplied divisibility rule"
+      },
+      {
+        "label": "C",
+        "explanation": "Not enough info is wrong — we can test directly"
+      }
+    ],
+    "skills": [
+      "divisibility-rules"
+    ],
+    "tags": [
+      "number-theory",
+      "divisibility"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.number_theory.divisibility",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Is 117 divisible by 9?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yes"
+      },
+      {
+        "label": "B",
+        "text": "No"
+      },
+      {
+        "label": "C",
+        "text": "Only by 8"
+      },
+      {
+        "label": "D",
+        "text": "Cannot determine"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "117 ÷ 9 = 13. Rule: digits sum divisible by 9",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Misapplied divisibility rule"
+      },
+      {
+        "label": "C",
+        "explanation": "Not enough info is wrong — we can test directly"
+      }
+    ],
+    "skills": [
+      "divisibility-rules"
+    ],
+    "tags": [
+      "number-theory",
+      "divisibility"
+    ]
+  }
+]

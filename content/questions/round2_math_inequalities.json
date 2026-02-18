@@ -1,0 +1,2177 @@
+[
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve: 5x + 4 > -11",
+    "options": [
+      {
+        "label": "A",
+        "text": "x > -3"
+      },
+      {
+        "label": "B",
+        "text": "x < -3"
+      },
+      {
+        "label": "C",
+        "text": "x > -2"
+      },
+      {
+        "label": "D",
+        "text": "x > 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Subtract 4, divide by 5: x > -3",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Flipped inequality unnecessarily"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve: 6x + 9 < 69",
+    "options": [
+      {
+        "label": "A",
+        "text": "x < 10"
+      },
+      {
+        "label": "B",
+        "text": "x > 10"
+      },
+      {
+        "label": "C",
+        "text": "x < 11"
+      },
+      {
+        "label": "D",
+        "text": "x < -10"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Subtract 9, divide by 6: x < 10",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Flipped inequality unnecessarily"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve: 3x + 12 ≥ 6",
+    "options": [
+      {
+        "label": "A",
+        "text": "x ≥ -2"
+      },
+      {
+        "label": "B",
+        "text": "x ≤ -2"
+      },
+      {
+        "label": "C",
+        "text": "x ≥ -1"
+      },
+      {
+        "label": "D",
+        "text": "x ≥ 2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Subtract 12, divide by 3: x ≥ -2",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Flipped inequality unnecessarily"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve: 4x + 8 ≤ 12",
+    "options": [
+      {
+        "label": "A",
+        "text": "x ≤ 1"
+      },
+      {
+        "label": "B",
+        "text": "x ≥ 1"
+      },
+      {
+        "label": "C",
+        "text": "x ≤ 2"
+      },
+      {
+        "label": "D",
+        "text": "x ≤ -1"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Subtract 8, divide by 4: x ≤ 1",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Flipped inequality unnecessarily"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve: 8x + 12 > 60",
+    "options": [
+      {
+        "label": "A",
+        "text": "x > 6"
+      },
+      {
+        "label": "B",
+        "text": "x < 6"
+      },
+      {
+        "label": "C",
+        "text": "x > 7"
+      },
+      {
+        "label": "D",
+        "text": "x > -6"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Subtract 12, divide by 8: x > 6",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Flipped inequality unnecessarily"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve: 6x + 4 < 52",
+    "options": [
+      {
+        "label": "A",
+        "text": "x < 8"
+      },
+      {
+        "label": "B",
+        "text": "x > 8"
+      },
+      {
+        "label": "C",
+        "text": "x < 9"
+      },
+      {
+        "label": "D",
+        "text": "x < -8"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Subtract 4, divide by 6: x < 8",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Flipped inequality unnecessarily"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve: 5x + 8 ≥ 3",
+    "options": [
+      {
+        "label": "A",
+        "text": "x ≥ -1"
+      },
+      {
+        "label": "B",
+        "text": "x ≤ -1"
+      },
+      {
+        "label": "C",
+        "text": "x ≥ 0"
+      },
+      {
+        "label": "D",
+        "text": "x ≥ 1"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Subtract 8, divide by 5: x ≥ -1",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Flipped inequality unnecessarily"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve: 7x + 8 ≤ 22",
+    "options": [
+      {
+        "label": "A",
+        "text": "x ≤ 2"
+      },
+      {
+        "label": "B",
+        "text": "x ≥ 2"
+      },
+      {
+        "label": "C",
+        "text": "x ≤ 3"
+      },
+      {
+        "label": "D",
+        "text": "x ≤ -2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Subtract 8, divide by 7: x ≤ 2",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Flipped inequality unnecessarily"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve: 8x + 4 > 44",
+    "options": [
+      {
+        "label": "A",
+        "text": "x > 5"
+      },
+      {
+        "label": "B",
+        "text": "x < 5"
+      },
+      {
+        "label": "C",
+        "text": "x > 6"
+      },
+      {
+        "label": "D",
+        "text": "x > -5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Subtract 4, divide by 8: x > 5",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Flipped inequality unnecessarily"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve: 8x + 11 < -21",
+    "options": [
+      {
+        "label": "A",
+        "text": "x < -4"
+      },
+      {
+        "label": "B",
+        "text": "x > -4"
+      },
+      {
+        "label": "C",
+        "text": "x < -3"
+      },
+      {
+        "label": "D",
+        "text": "x < 4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Subtract 11, divide by 8: x < -4",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Flipped inequality unnecessarily"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve: 3x + 13 ≥ 31",
+    "options": [
+      {
+        "label": "A",
+        "text": "x ≥ 6"
+      },
+      {
+        "label": "B",
+        "text": "x ≤ 6"
+      },
+      {
+        "label": "C",
+        "text": "x ≥ 7"
+      },
+      {
+        "label": "D",
+        "text": "x ≥ -6"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Subtract 13, divide by 3: x ≥ 6",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Flipped inequality unnecessarily"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve: 2x + 1 ≤ 15",
+    "options": [
+      {
+        "label": "A",
+        "text": "x ≤ 7"
+      },
+      {
+        "label": "B",
+        "text": "x ≥ 7"
+      },
+      {
+        "label": "C",
+        "text": "x ≤ 8"
+      },
+      {
+        "label": "D",
+        "text": "x ≤ -7"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Subtract 1, divide by 2: x ≤ 7",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Flipped inequality unnecessarily"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve: 7x + 13 > 41",
+    "options": [
+      {
+        "label": "A",
+        "text": "x > 4"
+      },
+      {
+        "label": "B",
+        "text": "x < 4"
+      },
+      {
+        "label": "C",
+        "text": "x > 5"
+      },
+      {
+        "label": "D",
+        "text": "x > -4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Subtract 13, divide by 7: x > 4",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Flipped inequality unnecessarily"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve: 3x + 14 < 44",
+    "options": [
+      {
+        "label": "A",
+        "text": "x < 10"
+      },
+      {
+        "label": "B",
+        "text": "x > 10"
+      },
+      {
+        "label": "C",
+        "text": "x < 11"
+      },
+      {
+        "label": "D",
+        "text": "x < -10"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Subtract 14, divide by 3: x < 10",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Flipped inequality unnecessarily"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve: 3x + 6 ≥ 3",
+    "options": [
+      {
+        "label": "A",
+        "text": "x ≥ -1"
+      },
+      {
+        "label": "B",
+        "text": "x ≤ -1"
+      },
+      {
+        "label": "C",
+        "text": "x ≥ 0"
+      },
+      {
+        "label": "D",
+        "text": "x ≥ 1"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Subtract 6, divide by 3: x ≥ -1",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Flipped inequality unnecessarily"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve: 4x + 14 ≤ -6",
+    "options": [
+      {
+        "label": "A",
+        "text": "x ≤ -5"
+      },
+      {
+        "label": "B",
+        "text": "x ≥ -5"
+      },
+      {
+        "label": "C",
+        "text": "x ≤ -4"
+      },
+      {
+        "label": "D",
+        "text": "x ≤ 5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Subtract 14, divide by 4: x ≤ -5",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Flipped inequality unnecessarily"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve: 8x + 6 > 30",
+    "options": [
+      {
+        "label": "A",
+        "text": "x > 3"
+      },
+      {
+        "label": "B",
+        "text": "x < 3"
+      },
+      {
+        "label": "C",
+        "text": "x > 4"
+      },
+      {
+        "label": "D",
+        "text": "x > -3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Subtract 6, divide by 8: x > 3",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Flipped inequality unnecessarily"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve: 4x + 11 < 15",
+    "options": [
+      {
+        "label": "A",
+        "text": "x < 1"
+      },
+      {
+        "label": "B",
+        "text": "x > 1"
+      },
+      {
+        "label": "C",
+        "text": "x < 2"
+      },
+      {
+        "label": "D",
+        "text": "x < -1"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Subtract 11, divide by 4: x < 1",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Flipped inequality unnecessarily"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve: 3x + 11 ≥ 38",
+    "options": [
+      {
+        "label": "A",
+        "text": "x ≥ 9"
+      },
+      {
+        "label": "B",
+        "text": "x ≤ 9"
+      },
+      {
+        "label": "C",
+        "text": "x ≥ 10"
+      },
+      {
+        "label": "D",
+        "text": "x ≥ -9"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Subtract 11, divide by 3: x ≥ 9",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Flipped inequality unnecessarily"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve: 6x + 2 ≤ 26",
+    "options": [
+      {
+        "label": "A",
+        "text": "x ≤ 4"
+      },
+      {
+        "label": "B",
+        "text": "x ≥ 4"
+      },
+      {
+        "label": "C",
+        "text": "x ≤ 5"
+      },
+      {
+        "label": "D",
+        "text": "x ≤ -4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Subtract 2, divide by 6: x ≤ 4",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Flipped inequality unnecessarily"
+      },
+      {
+        "label": "C",
+        "explanation": "Arithmetic error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve: -4x + 5 > 9",
+    "options": [
+      {
+        "label": "A",
+        "text": "x < -1"
+      },
+      {
+        "label": "B",
+        "text": "x > -1"
+      },
+      {
+        "label": "C",
+        "text": "x < 1"
+      },
+      {
+        "label": "D",
+        "text": "x > 1"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Divide by -4 and flip: x < -1",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot to flip when dividing by negative"
+      },
+      {
+        "label": "C",
+        "explanation": "Sign error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities",
+      "flip-inequality"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve: -6x + 2 < 32",
+    "options": [
+      {
+        "label": "A",
+        "text": "x > -5"
+      },
+      {
+        "label": "B",
+        "text": "x < -5"
+      },
+      {
+        "label": "C",
+        "text": "x > 5"
+      },
+      {
+        "label": "D",
+        "text": "x < 5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Divide by -6 and flip: x > -5",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot to flip when dividing by negative"
+      },
+      {
+        "label": "C",
+        "explanation": "Sign error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities",
+      "flip-inequality"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve: -4x + 8 > 8",
+    "options": [
+      {
+        "label": "A",
+        "text": "x < 0"
+      },
+      {
+        "label": "B",
+        "text": "x > 0"
+      },
+      {
+        "label": "C",
+        "text": "x < 0"
+      },
+      {
+        "label": "D",
+        "text": "x > 0"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Divide by -4 and flip: x < 0",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot to flip when dividing by negative"
+      },
+      {
+        "label": "C",
+        "explanation": "Sign error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities",
+      "flip-inequality"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve: -5x + 9 < 34",
+    "options": [
+      {
+        "label": "A",
+        "text": "x > -5"
+      },
+      {
+        "label": "B",
+        "text": "x < -5"
+      },
+      {
+        "label": "C",
+        "text": "x > 5"
+      },
+      {
+        "label": "D",
+        "text": "x < 5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Divide by -5 and flip: x > -5",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot to flip when dividing by negative"
+      },
+      {
+        "label": "C",
+        "explanation": "Sign error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities",
+      "flip-inequality"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve: -3x + 8 > 14",
+    "options": [
+      {
+        "label": "A",
+        "text": "x < -2"
+      },
+      {
+        "label": "B",
+        "text": "x > -2"
+      },
+      {
+        "label": "C",
+        "text": "x < 2"
+      },
+      {
+        "label": "D",
+        "text": "x > 2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Divide by -3 and flip: x < -2",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot to flip when dividing by negative"
+      },
+      {
+        "label": "C",
+        "explanation": "Sign error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities",
+      "flip-inequality"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve: -6x + 6 < -18",
+    "options": [
+      {
+        "label": "A",
+        "text": "x > 4"
+      },
+      {
+        "label": "B",
+        "text": "x < 4"
+      },
+      {
+        "label": "C",
+        "text": "x > -4"
+      },
+      {
+        "label": "D",
+        "text": "x < -4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Divide by -6 and flip: x > 4",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot to flip when dividing by negative"
+      },
+      {
+        "label": "C",
+        "explanation": "Sign error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities",
+      "flip-inequality"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve: -5x + 8 > 28",
+    "options": [
+      {
+        "label": "A",
+        "text": "x < -4"
+      },
+      {
+        "label": "B",
+        "text": "x > -4"
+      },
+      {
+        "label": "C",
+        "text": "x < 4"
+      },
+      {
+        "label": "D",
+        "text": "x > 4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Divide by -5 and flip: x < -4",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot to flip when dividing by negative"
+      },
+      {
+        "label": "C",
+        "explanation": "Sign error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities",
+      "flip-inequality"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve: -4x + 6 < -2",
+    "options": [
+      {
+        "label": "A",
+        "text": "x > 2"
+      },
+      {
+        "label": "B",
+        "text": "x < 2"
+      },
+      {
+        "label": "C",
+        "text": "x > -2"
+      },
+      {
+        "label": "D",
+        "text": "x < -2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Divide by -4 and flip: x > 2",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot to flip when dividing by negative"
+      },
+      {
+        "label": "C",
+        "explanation": "Sign error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities",
+      "flip-inequality"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve: -3x + 3 > -12",
+    "options": [
+      {
+        "label": "A",
+        "text": "x < 5"
+      },
+      {
+        "label": "B",
+        "text": "x > 5"
+      },
+      {
+        "label": "C",
+        "text": "x < -5"
+      },
+      {
+        "label": "D",
+        "text": "x > -5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Divide by -3 and flip: x < 5",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot to flip when dividing by negative"
+      },
+      {
+        "label": "C",
+        "explanation": "Sign error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities",
+      "flip-inequality"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve: -6x + 2 < -28",
+    "options": [
+      {
+        "label": "A",
+        "text": "x > 5"
+      },
+      {
+        "label": "B",
+        "text": "x < 5"
+      },
+      {
+        "label": "C",
+        "text": "x > -5"
+      },
+      {
+        "label": "D",
+        "text": "x < -5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Divide by -6 and flip: x > 5",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot to flip when dividing by negative"
+      },
+      {
+        "label": "C",
+        "explanation": "Sign error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities",
+      "flip-inequality"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve: -5x + 1 > -9",
+    "options": [
+      {
+        "label": "A",
+        "text": "x < 2"
+      },
+      {
+        "label": "B",
+        "text": "x > 2"
+      },
+      {
+        "label": "C",
+        "text": "x < -2"
+      },
+      {
+        "label": "D",
+        "text": "x > -2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Divide by -5 and flip: x < 2",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot to flip when dividing by negative"
+      },
+      {
+        "label": "C",
+        "explanation": "Sign error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities",
+      "flip-inequality"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve: -2x + 6 < 4",
+    "options": [
+      {
+        "label": "A",
+        "text": "x > 1"
+      },
+      {
+        "label": "B",
+        "text": "x < 1"
+      },
+      {
+        "label": "C",
+        "text": "x > -1"
+      },
+      {
+        "label": "D",
+        "text": "x < -1"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Divide by -2 and flip: x > 1",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot to flip when dividing by negative"
+      },
+      {
+        "label": "C",
+        "explanation": "Sign error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities",
+      "flip-inequality"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve: -6x + 3 > 9",
+    "options": [
+      {
+        "label": "A",
+        "text": "x < -1"
+      },
+      {
+        "label": "B",
+        "text": "x > -1"
+      },
+      {
+        "label": "C",
+        "text": "x < 1"
+      },
+      {
+        "label": "D",
+        "text": "x > 1"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Divide by -6 and flip: x < -1",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot to flip when dividing by negative"
+      },
+      {
+        "label": "C",
+        "explanation": "Sign error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities",
+      "flip-inequality"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve: -3x + 10 < 7",
+    "options": [
+      {
+        "label": "A",
+        "text": "x > 1"
+      },
+      {
+        "label": "B",
+        "text": "x < 1"
+      },
+      {
+        "label": "C",
+        "text": "x > -1"
+      },
+      {
+        "label": "D",
+        "text": "x < -1"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Divide by -3 and flip: x > 1",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot to flip when dividing by negative"
+      },
+      {
+        "label": "C",
+        "explanation": "Sign error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities",
+      "flip-inequality"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.inequalities",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve: -3x + 2 > 17",
+    "options": [
+      {
+        "label": "A",
+        "text": "x < -5"
+      },
+      {
+        "label": "B",
+        "text": "x > -5"
+      },
+      {
+        "label": "C",
+        "text": "x < 5"
+      },
+      {
+        "label": "D",
+        "text": "x > 5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Divide by -3 and flip: x < -5",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot to flip when dividing by negative"
+      },
+      {
+        "label": "C",
+        "explanation": "Sign error"
+      }
+    ],
+    "skills": [
+      "solve-inequalities",
+      "flip-inequality"
+    ],
+    "tags": [
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.absolute_value",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Solve: |x| = 8",
+    "options": [
+      {
+        "label": "A",
+        "text": "x = 8 or x = -8"
+      },
+      {
+        "label": "B",
+        "text": "x = 8"
+      },
+      {
+        "label": "C",
+        "text": "x = -8"
+      },
+      {
+        "label": "D",
+        "text": "No solution"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "|x| = 8 means x = 8 or x = -8",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Only positive solution"
+      },
+      {
+        "label": "C",
+        "explanation": "Only negative solution"
+      }
+    ],
+    "skills": [
+      "absolute-value"
+    ],
+    "tags": [
+      "absolute-value"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.absolute_value",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Solve: |x| < 6",
+    "options": [
+      {
+        "label": "A",
+        "text": "-6 < x < 6"
+      },
+      {
+        "label": "B",
+        "text": "x < 6"
+      },
+      {
+        "label": "C",
+        "text": "x > -6"
+      },
+      {
+        "label": "D",
+        "text": "x < -6 or x > 6"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "|x| < 6 means -6 < x < 6",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot lower bound"
+      },
+      {
+        "label": "C",
+        "explanation": "Used greater-than rule"
+      }
+    ],
+    "skills": [
+      "absolute-value-inequalities"
+    ],
+    "tags": [
+      "absolute-value",
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.absolute_value",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Solve: |x| > 5",
+    "options": [
+      {
+        "label": "A",
+        "text": "x < -5 or x > 5"
+      },
+      {
+        "label": "B",
+        "text": "-5 < x < 5"
+      },
+      {
+        "label": "C",
+        "text": "x > 5"
+      },
+      {
+        "label": "D",
+        "text": "x > -5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "|x| > 5 means x < -5 or x > 5",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Used less-than rule"
+      },
+      {
+        "label": "C",
+        "explanation": "Forgot negative part"
+      }
+    ],
+    "skills": [
+      "absolute-value-inequalities"
+    ],
+    "tags": [
+      "absolute-value",
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.absolute_value",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Solve: |x| = 2",
+    "options": [
+      {
+        "label": "A",
+        "text": "x = 2 or x = -2"
+      },
+      {
+        "label": "B",
+        "text": "x = 2"
+      },
+      {
+        "label": "C",
+        "text": "x = -2"
+      },
+      {
+        "label": "D",
+        "text": "No solution"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "|x| = 2 means x = 2 or x = -2",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Only positive solution"
+      },
+      {
+        "label": "C",
+        "explanation": "Only negative solution"
+      }
+    ],
+    "skills": [
+      "absolute-value"
+    ],
+    "tags": [
+      "absolute-value"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.absolute_value",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Solve: |x| < 4",
+    "options": [
+      {
+        "label": "A",
+        "text": "-4 < x < 4"
+      },
+      {
+        "label": "B",
+        "text": "x < 4"
+      },
+      {
+        "label": "C",
+        "text": "x > -4"
+      },
+      {
+        "label": "D",
+        "text": "x < -4 or x > 4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "|x| < 4 means -4 < x < 4",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot lower bound"
+      },
+      {
+        "label": "C",
+        "explanation": "Used greater-than rule"
+      }
+    ],
+    "skills": [
+      "absolute-value-inequalities"
+    ],
+    "tags": [
+      "absolute-value",
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.absolute_value",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Solve: |x| > 5 (variant 1)",
+    "options": [
+      {
+        "label": "A",
+        "text": "x < -5 or x > 5"
+      },
+      {
+        "label": "B",
+        "text": "-5 < x < 5"
+      },
+      {
+        "label": "C",
+        "text": "x > 5"
+      },
+      {
+        "label": "D",
+        "text": "x > -5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "|x| > 5 means x < -5 or x > 5",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Used less-than rule"
+      },
+      {
+        "label": "C",
+        "explanation": "Forgot negative part"
+      }
+    ],
+    "skills": [
+      "absolute-value-inequalities"
+    ],
+    "tags": [
+      "absolute-value",
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.absolute_value",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Solve: |x| = 4",
+    "options": [
+      {
+        "label": "A",
+        "text": "x = 4 or x = -4"
+      },
+      {
+        "label": "B",
+        "text": "x = 4"
+      },
+      {
+        "label": "C",
+        "text": "x = -4"
+      },
+      {
+        "label": "D",
+        "text": "No solution"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "|x| = 4 means x = 4 or x = -4",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Only positive solution"
+      },
+      {
+        "label": "C",
+        "explanation": "Only negative solution"
+      }
+    ],
+    "skills": [
+      "absolute-value"
+    ],
+    "tags": [
+      "absolute-value"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.absolute_value",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Solve: |x| < 7",
+    "options": [
+      {
+        "label": "A",
+        "text": "-7 < x < 7"
+      },
+      {
+        "label": "B",
+        "text": "x < 7"
+      },
+      {
+        "label": "C",
+        "text": "x > -7"
+      },
+      {
+        "label": "D",
+        "text": "x < -7 or x > 7"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "|x| < 7 means -7 < x < 7",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot lower bound"
+      },
+      {
+        "label": "C",
+        "explanation": "Used greater-than rule"
+      }
+    ],
+    "skills": [
+      "absolute-value-inequalities"
+    ],
+    "tags": [
+      "absolute-value",
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.absolute_value",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Solve: |x| > 1",
+    "options": [
+      {
+        "label": "A",
+        "text": "x < -1 or x > 1"
+      },
+      {
+        "label": "B",
+        "text": "-1 < x < 1"
+      },
+      {
+        "label": "C",
+        "text": "x > 1"
+      },
+      {
+        "label": "D",
+        "text": "x > -1"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "|x| > 1 means x < -1 or x > 1",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Used less-than rule"
+      },
+      {
+        "label": "C",
+        "explanation": "Forgot negative part"
+      }
+    ],
+    "skills": [
+      "absolute-value-inequalities"
+    ],
+    "tags": [
+      "absolute-value",
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.absolute_value",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Solve: |x| = 7",
+    "options": [
+      {
+        "label": "A",
+        "text": "x = 7 or x = -7"
+      },
+      {
+        "label": "B",
+        "text": "x = 7"
+      },
+      {
+        "label": "C",
+        "text": "x = -7"
+      },
+      {
+        "label": "D",
+        "text": "No solution"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "|x| = 7 means x = 7 or x = -7",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Only positive solution"
+      },
+      {
+        "label": "C",
+        "explanation": "Only negative solution"
+      }
+    ],
+    "skills": [
+      "absolute-value"
+    ],
+    "tags": [
+      "absolute-value"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.absolute_value",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Solve: |x| < 2",
+    "options": [
+      {
+        "label": "A",
+        "text": "-2 < x < 2"
+      },
+      {
+        "label": "B",
+        "text": "x < 2"
+      },
+      {
+        "label": "C",
+        "text": "x > -2"
+      },
+      {
+        "label": "D",
+        "text": "x < -2 or x > 2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "|x| < 2 means -2 < x < 2",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot lower bound"
+      },
+      {
+        "label": "C",
+        "explanation": "Used greater-than rule"
+      }
+    ],
+    "skills": [
+      "absolute-value-inequalities"
+    ],
+    "tags": [
+      "absolute-value",
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.absolute_value",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Solve: |x| > 6",
+    "options": [
+      {
+        "label": "A",
+        "text": "x < -6 or x > 6"
+      },
+      {
+        "label": "B",
+        "text": "-6 < x < 6"
+      },
+      {
+        "label": "C",
+        "text": "x > 6"
+      },
+      {
+        "label": "D",
+        "text": "x > -6"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "|x| > 6 means x < -6 or x > 6",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Used less-than rule"
+      },
+      {
+        "label": "C",
+        "explanation": "Forgot negative part"
+      }
+    ],
+    "skills": [
+      "absolute-value-inequalities"
+    ],
+    "tags": [
+      "absolute-value",
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.absolute_value",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Solve: |x| = 5",
+    "options": [
+      {
+        "label": "A",
+        "text": "x = 5 or x = -5"
+      },
+      {
+        "label": "B",
+        "text": "x = 5"
+      },
+      {
+        "label": "C",
+        "text": "x = -5"
+      },
+      {
+        "label": "D",
+        "text": "No solution"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "|x| = 5 means x = 5 or x = -5",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Only positive solution"
+      },
+      {
+        "label": "C",
+        "explanation": "Only negative solution"
+      }
+    ],
+    "skills": [
+      "absolute-value"
+    ],
+    "tags": [
+      "absolute-value"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.absolute_value",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Solve: |x| < 8",
+    "options": [
+      {
+        "label": "A",
+        "text": "-8 < x < 8"
+      },
+      {
+        "label": "B",
+        "text": "x < 8"
+      },
+      {
+        "label": "C",
+        "text": "x > -8"
+      },
+      {
+        "label": "D",
+        "text": "x < -8 or x > 8"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "|x| < 8 means -8 < x < 8",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Forgot lower bound"
+      },
+      {
+        "label": "C",
+        "explanation": "Used greater-than rule"
+      }
+    ],
+    "skills": [
+      "absolute-value-inequalities"
+    ],
+    "tags": [
+      "absolute-value",
+      "inequalities"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.absolute_value",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Solve: |x| > 7",
+    "options": [
+      {
+        "label": "A",
+        "text": "x < -7 or x > 7"
+      },
+      {
+        "label": "B",
+        "text": "-7 < x < 7"
+      },
+      {
+        "label": "C",
+        "text": "x > 7"
+      },
+      {
+        "label": "D",
+        "text": "x > -7"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "|x| > 7 means x < -7 or x > 7",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Used less-than rule"
+      },
+      {
+        "label": "C",
+        "explanation": "Forgot negative part"
+      }
+    ],
+    "skills": [
+      "absolute-value-inequalities"
+    ],
+    "tags": [
+      "absolute-value",
+      "inequalities"
+    ]
+  }
+]

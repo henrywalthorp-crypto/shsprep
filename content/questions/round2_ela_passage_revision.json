@@ -1,0 +1,1850 @@
+[
+  {
+    "section": "ela",
+    "category": "ela.revising.passage.best_transition",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which transition best connects these sections?\n\nParagraph 1 discusses benefits of exercise. Paragraph 2 discusses potential risks.",
+    "options": [
+      {
+        "label": "A",
+        "text": "However"
+      },
+      {
+        "label": "B",
+        "text": "Therefore"
+      },
+      {
+        "label": "C",
+        "text": "Similarly"
+      },
+      {
+        "label": "D",
+        "text": "In addition"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Contrasting ideas need a contrast transition.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship type"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't fit the logical flow"
+      }
+    ],
+    "skills": [
+      "passage-transitions"
+    ],
+    "tags": [
+      "passage-revision",
+      "transitions"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.passage.best_transition",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which transition best connects these sections?\n\nThe first section explains the problem. The next provides solutions.",
+    "options": [
+      {
+        "label": "A",
+        "text": "To address this"
+      },
+      {
+        "label": "B",
+        "text": "However"
+      },
+      {
+        "label": "C",
+        "text": "Similarly"
+      },
+      {
+        "label": "D",
+        "text": "In contrast"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Moving from problem to solution.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship type"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't fit the logical flow"
+      }
+    ],
+    "skills": [
+      "passage-transitions"
+    ],
+    "tags": [
+      "passage-revision",
+      "transitions"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.passage.best_transition",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which transition best connects these sections?\n\nThe author describes the old method. Then the new method.",
+    "options": [
+      {
+        "label": "A",
+        "text": "In contrast"
+      },
+      {
+        "label": "B",
+        "text": "Therefore"
+      },
+      {
+        "label": "C",
+        "text": "Similarly"
+      },
+      {
+        "label": "D",
+        "text": "As a result"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Comparing old vs new methods.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship type"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't fit the logical flow"
+      }
+    ],
+    "skills": [
+      "passage-transitions"
+    ],
+    "tags": [
+      "passage-revision",
+      "transitions"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.passage.best_transition",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which transition best connects these sections?\n\nEvidence A supports the claim. Evidence B also supports it.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Furthermore"
+      },
+      {
+        "label": "B",
+        "text": "However"
+      },
+      {
+        "label": "C",
+        "text": "Instead"
+      },
+      {
+        "label": "D",
+        "text": "Nevertheless"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Adding supporting evidence.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship type"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't fit the logical flow"
+      }
+    ],
+    "skills": [
+      "passage-transitions"
+    ],
+    "tags": [
+      "passage-revision",
+      "transitions"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.passage.best_transition",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which transition best connects these sections?\n\nThe experiment had limitations. The results were still valid.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nevertheless"
+      },
+      {
+        "label": "B",
+        "text": "Therefore"
+      },
+      {
+        "label": "C",
+        "text": "Similarly"
+      },
+      {
+        "label": "D",
+        "text": "For example"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Conceding a point while maintaining the argument.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship type"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't fit the logical flow"
+      }
+    ],
+    "skills": [
+      "passage-transitions"
+    ],
+    "tags": [
+      "passage-revision",
+      "transitions"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.passage.best_transition",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which transition best connects these sections?\n\nThe paragraph describes causes. The next paragraph describes effects.",
+    "options": [
+      {
+        "label": "A",
+        "text": "As a result"
+      },
+      {
+        "label": "B",
+        "text": "However"
+      },
+      {
+        "label": "C",
+        "text": "Similarly"
+      },
+      {
+        "label": "D",
+        "text": "For instance"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Cause-to-effect transition.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship type"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't fit the logical flow"
+      }
+    ],
+    "skills": [
+      "passage-transitions"
+    ],
+    "tags": [
+      "passage-revision",
+      "transitions"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.passage.best_transition",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which transition best connects these sections?\n\nThe writer lists advantages. The following section lists disadvantages.",
+    "options": [
+      {
+        "label": "A",
+        "text": "On the other hand"
+      },
+      {
+        "label": "B",
+        "text": "Therefore"
+      },
+      {
+        "label": "C",
+        "text": "In addition"
+      },
+      {
+        "label": "D",
+        "text": "For example"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Shifting to opposing view.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship type"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't fit the logical flow"
+      }
+    ],
+    "skills": [
+      "passage-transitions"
+    ],
+    "tags": [
+      "passage-revision",
+      "transitions"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.passage.best_transition",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which transition best connects these sections?\n\nThe introduction presents the thesis. The body paragraph provides an example.",
+    "options": [
+      {
+        "label": "A",
+        "text": "For instance"
+      },
+      {
+        "label": "B",
+        "text": "However"
+      },
+      {
+        "label": "C",
+        "text": "In conclusion"
+      },
+      {
+        "label": "D",
+        "text": "Nevertheless"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Introducing supporting example.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship type"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't fit the logical flow"
+      }
+    ],
+    "skills": [
+      "passage-transitions"
+    ],
+    "tags": [
+      "passage-revision",
+      "transitions"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.passage.best_transition",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which transition best connects these sections?\n\nThe passage argues for conservation. The next point strengthens the argument.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Moreover"
+      },
+      {
+        "label": "B",
+        "text": "However"
+      },
+      {
+        "label": "C",
+        "text": "Instead"
+      },
+      {
+        "label": "D",
+        "text": "In contrast"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Strengthening with additional point.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship type"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't fit the logical flow"
+      }
+    ],
+    "skills": [
+      "passage-transitions"
+    ],
+    "tags": [
+      "passage-revision",
+      "transitions"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.passage.best_transition",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which transition best connects these sections?\n\nData is presented. An interpretation follows.",
+    "options": [
+      {
+        "label": "A",
+        "text": "This suggests that"
+      },
+      {
+        "label": "B",
+        "text": "However"
+      },
+      {
+        "label": "C",
+        "text": "Similarly"
+      },
+      {
+        "label": "D",
+        "text": "Instead"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Drawing conclusion from data.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship type"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't fit the logical flow"
+      }
+    ],
+    "skills": [
+      "passage-transitions"
+    ],
+    "tags": [
+      "passage-revision",
+      "transitions"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.passage.best_transition",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which transition best connects these sections?\n\nThe historical context is given. The current situation is described.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Today"
+      },
+      {
+        "label": "B",
+        "text": "However"
+      },
+      {
+        "label": "C",
+        "text": "Similarly"
+      },
+      {
+        "label": "D",
+        "text": "Therefore"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Time transition from past to present.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship type"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't fit the logical flow"
+      }
+    ],
+    "skills": [
+      "passage-transitions"
+    ],
+    "tags": [
+      "passage-revision",
+      "transitions"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.passage.best_transition",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which transition best connects these sections?\n\nThe first reason is economic. The second reason is ethical.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Additionally"
+      },
+      {
+        "label": "B",
+        "text": "However"
+      },
+      {
+        "label": "C",
+        "text": "Instead"
+      },
+      {
+        "label": "D",
+        "text": "In contrast"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Adding another reason.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship type"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't fit the logical flow"
+      }
+    ],
+    "skills": [
+      "passage-transitions"
+    ],
+    "tags": [
+      "passage-revision",
+      "transitions"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.passage.best_transition",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which transition best connects these sections?\n\nA counterargument is presented. The author refutes it.",
+    "options": [
+      {
+        "label": "A",
+        "text": "However"
+      },
+      {
+        "label": "B",
+        "text": "Therefore"
+      },
+      {
+        "label": "C",
+        "text": "Similarly"
+      },
+      {
+        "label": "D",
+        "text": "For example"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Refuting a counterargument.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship type"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't fit the logical flow"
+      }
+    ],
+    "skills": [
+      "passage-transitions"
+    ],
+    "tags": [
+      "passage-revision",
+      "transitions"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.passage.best_transition",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which transition best connects these sections?\n\nThe study's methods are described. The findings follow.",
+    "options": [
+      {
+        "label": "A",
+        "text": "The results showed that"
+      },
+      {
+        "label": "B",
+        "text": "However"
+      },
+      {
+        "label": "C",
+        "text": "Similarly"
+      },
+      {
+        "label": "D",
+        "text": "Instead"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Moving from methods to results.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship type"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't fit the logical flow"
+      }
+    ],
+    "skills": [
+      "passage-transitions"
+    ],
+    "tags": [
+      "passage-revision",
+      "transitions"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.passage.sentence_revision",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which is the best revision?\n\n\"The student was studying for the test and the student was also reviewing notes and the student was very tired.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Although tired, the student studied for the test and reviewed notes."
+      },
+      {
+        "label": "B",
+        "text": "The student was studying and reviewing and was tired."
+      },
+      {
+        "label": "C",
+        "text": "Tired, studying, reviewing, the student was."
+      },
+      {
+        "label": "D",
+        "text": "The student was studying for the test and the student was also reviewing notes and the student was very tired."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Combines ideas concisely and eliminates redundancy.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still awkward/wordy"
+      },
+      {
+        "label": "C",
+        "explanation": "Original problem unchanged"
+      }
+    ],
+    "skills": [
+      "sentence-revision"
+    ],
+    "tags": [
+      "passage-revision",
+      "sentence-revision"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.passage.sentence_revision",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which is the best revision?\n\n\"There are many students who like to play soccer after school.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Many students like to play soccer after school."
+      },
+      {
+        "label": "B",
+        "text": "There are students, many of them, who play soccer."
+      },
+      {
+        "label": "C",
+        "text": "Soccer is played by many students after school."
+      },
+      {
+        "label": "D",
+        "text": "There are many students who like to play soccer after school."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Eliminates \"there are\" construction for directness.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still awkward/wordy"
+      },
+      {
+        "label": "C",
+        "explanation": "Original problem unchanged"
+      }
+    ],
+    "skills": [
+      "sentence-revision"
+    ],
+    "tags": [
+      "passage-revision",
+      "sentence-revision"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.passage.sentence_revision",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which is the best revision?\n\n\"It is a well-known fact that exercise improves health.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Exercise improves health."
+      },
+      {
+        "label": "B",
+        "text": "The fact that exercise improves health is well-known."
+      },
+      {
+        "label": "C",
+        "text": "That exercise improves health is well-known by all."
+      },
+      {
+        "label": "D",
+        "text": "It is a well-known fact that exercise improves health."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Removes unnecessary preamble.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still awkward/wordy"
+      },
+      {
+        "label": "C",
+        "explanation": "Original problem unchanged"
+      }
+    ],
+    "skills": [
+      "sentence-revision"
+    ],
+    "tags": [
+      "passage-revision",
+      "sentence-revision"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.passage.sentence_revision",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which is the best revision?\n\n\"The reason the game was cancelled was because of the rain.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The game was cancelled because of the rain."
+      },
+      {
+        "label": "B",
+        "text": "Because of the rain is the reason the game was cancelled."
+      },
+      {
+        "label": "C",
+        "text": "Rain was the reason for the cancellation of the game."
+      },
+      {
+        "label": "D",
+        "text": "The reason the game was cancelled was because of the rain."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Eliminates redundant \"the reason...was because.\"",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still awkward/wordy"
+      },
+      {
+        "label": "C",
+        "explanation": "Original problem unchanged"
+      }
+    ],
+    "skills": [
+      "sentence-revision"
+    ],
+    "tags": [
+      "passage-revision",
+      "sentence-revision"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.passage.sentence_revision",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which is the best revision?\n\n\"She was of the opinion that the project needed more time.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "She believed the project needed more time."
+      },
+      {
+        "label": "B",
+        "text": "Her opinion was that the project was needing more time."
+      },
+      {
+        "label": "C",
+        "text": "The project, she opined, was in need of additional time."
+      },
+      {
+        "label": "D",
+        "text": "She was of the opinion that the project needed more time."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "More direct and concise.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still awkward/wordy"
+      },
+      {
+        "label": "C",
+        "explanation": "Original problem unchanged"
+      }
+    ],
+    "skills": [
+      "sentence-revision"
+    ],
+    "tags": [
+      "passage-revision",
+      "sentence-revision"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.passage.sentence_revision",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which is the best revision?\n\n\"What I want to say is that we should start earlier.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "We should start earlier."
+      },
+      {
+        "label": "B",
+        "text": "The thing I want to say is about starting earlier."
+      },
+      {
+        "label": "C",
+        "text": "Starting earlier is what I'm trying to say we should do."
+      },
+      {
+        "label": "D",
+        "text": "What I want to say is that we should start earlier."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Removes filler phrase.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still awkward/wordy"
+      },
+      {
+        "label": "C",
+        "explanation": "Original problem unchanged"
+      }
+    ],
+    "skills": [
+      "sentence-revision"
+    ],
+    "tags": [
+      "passage-revision",
+      "sentence-revision"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.passage.sentence_revision",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which is the best revision?\n\n\"He made the decision to resign from his position.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "He decided to resign."
+      },
+      {
+        "label": "B",
+        "text": "His decision was to resign from his position at work."
+      },
+      {
+        "label": "C",
+        "text": "The decision he made was resignation from the position."
+      },
+      {
+        "label": "D",
+        "text": "He made the decision to resign from his position."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Uses strong verb instead of weak noun phrase.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still awkward/wordy"
+      },
+      {
+        "label": "C",
+        "explanation": "Original problem unchanged"
+      }
+    ],
+    "skills": [
+      "sentence-revision"
+    ],
+    "tags": [
+      "passage-revision",
+      "sentence-revision"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.passage.sentence_revision",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which is the best revision?\n\n\"The book that was written by the author was published last year.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The author's book was published last year."
+      },
+      {
+        "label": "B",
+        "text": "Last year the book was written and published by the author."
+      },
+      {
+        "label": "C",
+        "text": "Written by the author, the book, it was published."
+      },
+      {
+        "label": "D",
+        "text": "The book that was written by the author was published last year."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "More concise and direct.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still awkward/wordy"
+      },
+      {
+        "label": "C",
+        "explanation": "Original problem unchanged"
+      }
+    ],
+    "skills": [
+      "sentence-revision"
+    ],
+    "tags": [
+      "passage-revision",
+      "sentence-revision"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.passage.sentence_revision",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which is the best revision?\n\n\"Due to the fact that the weather was bad, the event was postponed.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The event was postponed due to bad weather."
+      },
+      {
+        "label": "B",
+        "text": "Bad weather was the fact due to which the event was postponed."
+      },
+      {
+        "label": "C",
+        "text": "The postponement of the event was due to the fact of bad weather."
+      },
+      {
+        "label": "D",
+        "text": "Due to the fact that the weather was bad, the event was postponed."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Simplifies wordy phrase.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still awkward/wordy"
+      },
+      {
+        "label": "C",
+        "explanation": "Original problem unchanged"
+      }
+    ],
+    "skills": [
+      "sentence-revision"
+    ],
+    "tags": [
+      "passage-revision",
+      "sentence-revision"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.passage.sentence_revision",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which is the best revision?\n\n\"At this point in time, we need to make a decision about the matter.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "We need to decide now."
+      },
+      {
+        "label": "B",
+        "text": "A decision about the matter needs to be made at this point."
+      },
+      {
+        "label": "C",
+        "text": "The matter requires a decision to be made at this time."
+      },
+      {
+        "label": "D",
+        "text": "At this point in time, we need to make a decision about the matter."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Eliminates wordy phrases.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still awkward/wordy"
+      },
+      {
+        "label": "C",
+        "explanation": "Original problem unchanged"
+      }
+    ],
+    "skills": [
+      "sentence-revision"
+    ],
+    "tags": [
+      "passage-revision",
+      "sentence-revision"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.passage.sentence_revision",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which is the best revision?\n\n\"The teacher gave an explanation of the concept to the students.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The teacher explained the concept to the students."
+      },
+      {
+        "label": "B",
+        "text": "An explanation of the concept was given by the teacher."
+      },
+      {
+        "label": "C",
+        "text": "The concept had an explanation given about it by the teacher."
+      },
+      {
+        "label": "D",
+        "text": "The teacher gave an explanation of the concept to the students."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Strong verb replaces weak \"gave an explanation.\"",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still awkward/wordy"
+      },
+      {
+        "label": "C",
+        "explanation": "Original problem unchanged"
+      }
+    ],
+    "skills": [
+      "sentence-revision"
+    ],
+    "tags": [
+      "passage-revision",
+      "sentence-revision"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.passage.sentence_revision",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which is the best revision?\n\n\"It is necessary for all students to complete the assignment.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "All students must complete the assignment."
+      },
+      {
+        "label": "B",
+        "text": "Completion of the assignment is a necessity for students."
+      },
+      {
+        "label": "C",
+        "text": "The assignment, it is necessary that students complete it."
+      },
+      {
+        "label": "D",
+        "text": "It is necessary for all students to complete the assignment."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "More direct.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still awkward/wordy"
+      },
+      {
+        "label": "C",
+        "explanation": "Original problem unchanged"
+      }
+    ],
+    "skills": [
+      "sentence-revision"
+    ],
+    "tags": [
+      "passage-revision",
+      "sentence-revision"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.passage.sentence_revision",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which is the best revision?\n\n\"In the event that it rains, the picnic will be cancelled.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "If it rains, the picnic will be cancelled."
+      },
+      {
+        "label": "B",
+        "text": "Raining being the event, cancellation of the picnic will occur."
+      },
+      {
+        "label": "C",
+        "text": "The picnic will be cancelled in the event of the occurrence of rain."
+      },
+      {
+        "label": "D",
+        "text": "In the event that it rains, the picnic will be cancelled."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Simpler conditional.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still awkward/wordy"
+      },
+      {
+        "label": "C",
+        "explanation": "Original problem unchanged"
+      }
+    ],
+    "skills": [
+      "sentence-revision"
+    ],
+    "tags": [
+      "passage-revision",
+      "sentence-revision"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.passage.sentence_revision",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which is the best revision?\n\n\"She has a tendency to arrive late to meetings.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "She tends to arrive late to meetings."
+      },
+      {
+        "label": "B",
+        "text": "Her tendency is that of arriving late to the meetings."
+      },
+      {
+        "label": "C",
+        "text": "Arriving late to meetings is a tendency she has."
+      },
+      {
+        "label": "D",
+        "text": "She has a tendency to arrive late to meetings."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Verb form is more concise.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still awkward/wordy"
+      },
+      {
+        "label": "C",
+        "explanation": "Original problem unchanged"
+      }
+    ],
+    "skills": [
+      "sentence-revision"
+    ],
+    "tags": [
+      "passage-revision",
+      "sentence-revision"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.organization.transitions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which transition best fits this context?\n\nA paragraph about causes is followed by one about effects.",
+    "options": [
+      {
+        "label": "A",
+        "text": "As a result"
+      },
+      {
+        "label": "B",
+        "text": "However"
+      },
+      {
+        "label": "C",
+        "text": "For example"
+      },
+      {
+        "label": "D",
+        "text": "Similarly"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Cause-effect needs a causal transition.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't fit passage flow"
+      }
+    ],
+    "skills": [
+      "organizational-transitions"
+    ],
+    "tags": [
+      "passage-revision",
+      "organization"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.organization.transitions",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Which transition best fits this context?\n\nThe essay introduces a topic then gives background.",
+    "options": [
+      {
+        "label": "A",
+        "text": "To understand this issue"
+      },
+      {
+        "label": "B",
+        "text": "In conclusion"
+      },
+      {
+        "label": "C",
+        "text": "However"
+      },
+      {
+        "label": "D",
+        "text": "On the other hand"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Background transition.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't fit passage flow"
+      }
+    ],
+    "skills": [
+      "organizational-transitions"
+    ],
+    "tags": [
+      "passage-revision",
+      "organization"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.organization.transitions",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Which transition best fits this context?\n\nAfter listing pros, the essay switches to cons.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Conversely"
+      },
+      {
+        "label": "B",
+        "text": "Additionally"
+      },
+      {
+        "label": "C",
+        "text": "Therefore"
+      },
+      {
+        "label": "D",
+        "text": "For instance"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Shifting to opposite perspective.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't fit passage flow"
+      }
+    ],
+    "skills": [
+      "organizational-transitions"
+    ],
+    "tags": [
+      "passage-revision",
+      "organization"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.organization.transitions",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Which transition best fits this context?\n\nThe paragraph ends an argument and the next summarizes.",
+    "options": [
+      {
+        "label": "A",
+        "text": "In conclusion"
+      },
+      {
+        "label": "B",
+        "text": "However"
+      },
+      {
+        "label": "C",
+        "text": "For example"
+      },
+      {
+        "label": "D",
+        "text": "Furthermore"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Concluding transition.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't fit passage flow"
+      }
+    ],
+    "skills": [
+      "organizational-transitions"
+    ],
+    "tags": [
+      "passage-revision",
+      "organization"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.organization.transitions",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Which transition best fits this context?\n\nA general statement is followed by a specific example.",
+    "options": [
+      {
+        "label": "A",
+        "text": "For example"
+      },
+      {
+        "label": "B",
+        "text": "However"
+      },
+      {
+        "label": "C",
+        "text": "In conclusion"
+      },
+      {
+        "label": "D",
+        "text": "Nevertheless"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "General to specific.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't fit passage flow"
+      }
+    ],
+    "skills": [
+      "organizational-transitions"
+    ],
+    "tags": [
+      "passage-revision",
+      "organization"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.organization.transitions",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Which transition best fits this context?\n\nThe writer acknowledges opposition then returns to main argument.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nonetheless"
+      },
+      {
+        "label": "B",
+        "text": "Similarly"
+      },
+      {
+        "label": "C",
+        "text": "For example"
+      },
+      {
+        "label": "D",
+        "text": "In addition"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Returning after concession.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't fit passage flow"
+      }
+    ],
+    "skills": [
+      "organizational-transitions"
+    ],
+    "tags": [
+      "passage-revision",
+      "organization"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.organization.transitions",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Which transition best fits this context?\n\nSequential steps are being described.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Next"
+      },
+      {
+        "label": "B",
+        "text": "However"
+      },
+      {
+        "label": "C",
+        "text": "In contrast"
+      },
+      {
+        "label": "D",
+        "text": "Nevertheless"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Sequence transition.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't fit passage flow"
+      }
+    ],
+    "skills": [
+      "organizational-transitions"
+    ],
+    "tags": [
+      "passage-revision",
+      "organization"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.organization.transitions",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Which transition best fits this context?\n\nAn analogy is being introduced.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Similarly"
+      },
+      {
+        "label": "B",
+        "text": "However"
+      },
+      {
+        "label": "C",
+        "text": "Therefore"
+      },
+      {
+        "label": "D",
+        "text": "In conclusion"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Drawing comparison.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't fit passage flow"
+      }
+    ],
+    "skills": [
+      "organizational-transitions"
+    ],
+    "tags": [
+      "passage-revision",
+      "organization"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.organization.transitions",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Which transition best fits this context?\n\nThe passage shifts from past to present.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Currently"
+      },
+      {
+        "label": "B",
+        "text": "However"
+      },
+      {
+        "label": "C",
+        "text": "Therefore"
+      },
+      {
+        "label": "D",
+        "text": "For example"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Time shift transition.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't fit passage flow"
+      }
+    ],
+    "skills": [
+      "organizational-transitions"
+    ],
+    "tags": [
+      "passage-revision",
+      "organization"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.organization.transitions",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Which transition best fits this context?\n\nThe argument is being reinforced.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Indeed"
+      },
+      {
+        "label": "B",
+        "text": "However"
+      },
+      {
+        "label": "C",
+        "text": "Instead"
+      },
+      {
+        "label": "D",
+        "text": "In contrast"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Emphasis/reinforcement.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't fit passage flow"
+      }
+    ],
+    "skills": [
+      "organizational-transitions"
+    ],
+    "tags": [
+      "passage-revision",
+      "organization"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.organization.transitions",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Which transition best fits this context?\n\nA definition has been given, now an example follows.",
+    "options": [
+      {
+        "label": "A",
+        "text": "To illustrate"
+      },
+      {
+        "label": "B",
+        "text": "However"
+      },
+      {
+        "label": "C",
+        "text": "In conclusion"
+      },
+      {
+        "label": "D",
+        "text": "Instead"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Definition to example.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't fit passage flow"
+      }
+    ],
+    "skills": [
+      "organizational-transitions"
+    ],
+    "tags": [
+      "passage-revision",
+      "organization"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.organization.transitions",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Which transition best fits this context?\n\nThe writer is about to present the main claim.",
+    "options": [
+      {
+        "label": "A",
+        "text": "The central argument is that"
+      },
+      {
+        "label": "B",
+        "text": "However"
+      },
+      {
+        "label": "C",
+        "text": "For example"
+      },
+      {
+        "label": "D",
+        "text": "In addition"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Introducing thesis.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't fit passage flow"
+      }
+    ],
+    "skills": [
+      "organizational-transitions"
+    ],
+    "tags": [
+      "passage-revision",
+      "organization"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.organization.transitions",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Which transition best fits this context?\n\nMultiple examples have been given, now wrapping up.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Taken together, these examples show"
+      },
+      {
+        "label": "B",
+        "text": "However"
+      },
+      {
+        "label": "C",
+        "text": "For instance"
+      },
+      {
+        "label": "D",
+        "text": "Similarly"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Synthesizing examples.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't fit passage flow"
+      }
+    ],
+    "skills": [
+      "organizational-transitions"
+    ],
+    "tags": [
+      "passage-revision",
+      "organization"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.organization.transitions",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Which transition best fits this context?\n\nA story is about to be used as evidence.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Consider the following example"
+      },
+      {
+        "label": "B",
+        "text": "However"
+      },
+      {
+        "label": "C",
+        "text": "In conclusion"
+      },
+      {
+        "label": "D",
+        "text": "Instead"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Introducing narrative evidence.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't fit passage flow"
+      }
+    ],
+    "skills": [
+      "organizational-transitions"
+    ],
+    "tags": [
+      "passage-revision",
+      "organization"
+    ]
+  }
+]

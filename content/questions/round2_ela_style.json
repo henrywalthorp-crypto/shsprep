@@ -1,0 +1,1718 @@
+[
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.word_choice",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which word best replaces the vague term?\n\n\"The food was really good.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "exceptional"
+      },
+      {
+        "label": "B",
+        "text": "very good"
+      },
+      {
+        "label": "C",
+        "text": "nice"
+      },
+      {
+        "label": "D",
+        "text": "good"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "More precise than \"good.\"",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still vague"
+      },
+      {
+        "label": "C",
+        "explanation": "Even less precise"
+      }
+    ],
+    "skills": [
+      "precise-language"
+    ],
+    "tags": [
+      "style",
+      "word-choice"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.word_choice",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which word best replaces the vague term?\n\n\"She went through the data.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "analyzed"
+      },
+      {
+        "label": "B",
+        "text": "looked at"
+      },
+      {
+        "label": "C",
+        "text": "saw"
+      },
+      {
+        "label": "D",
+        "text": "data"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "\"Analyzed\" is more precise and academic.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still vague"
+      },
+      {
+        "label": "C",
+        "explanation": "Even less precise"
+      }
+    ],
+    "skills": [
+      "precise-language"
+    ],
+    "tags": [
+      "style",
+      "word-choice"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.word_choice",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which word best replaces the vague term?\n\n\"He got a prize.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "received"
+      },
+      {
+        "label": "B",
+        "text": "got himself"
+      },
+      {
+        "label": "C",
+        "text": "had"
+      },
+      {
+        "label": "D",
+        "text": "prize"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "\"Received\" is more formal.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still vague"
+      },
+      {
+        "label": "C",
+        "explanation": "Even less precise"
+      }
+    ],
+    "skills": [
+      "precise-language"
+    ],
+    "tags": [
+      "style",
+      "word-choice"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.word_choice",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which is more precise?\n\n\"The thing was important.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The discovery was significant."
+      },
+      {
+        "label": "B",
+        "text": "The thing was very important."
+      },
+      {
+        "label": "C",
+        "text": "The thing was big."
+      },
+      {
+        "label": "D",
+        "text": "important"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Replace vague \"thing\" with specific noun.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still vague"
+      },
+      {
+        "label": "C",
+        "explanation": "Even less precise"
+      }
+    ],
+    "skills": [
+      "precise-language"
+    ],
+    "tags": [
+      "style",
+      "word-choice"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.word_choice",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which word best replaces the vague term?\n\n\"It was a bad storm.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "devastating"
+      },
+      {
+        "label": "B",
+        "text": "really bad"
+      },
+      {
+        "label": "C",
+        "text": "not good"
+      },
+      {
+        "label": "D",
+        "text": "storm"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "More vivid and precise.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still vague"
+      },
+      {
+        "label": "C",
+        "explanation": "Even less precise"
+      }
+    ],
+    "skills": [
+      "precise-language"
+    ],
+    "tags": [
+      "style",
+      "word-choice"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.word_choice",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which word best replaces the vague term?\n\n\"She made a good point.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "compelling"
+      },
+      {
+        "label": "B",
+        "text": "very good"
+      },
+      {
+        "label": "C",
+        "text": "nice"
+      },
+      {
+        "label": "D",
+        "text": "point"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "\"Compelling\" is more precise.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still vague"
+      },
+      {
+        "label": "C",
+        "explanation": "Even less precise"
+      }
+    ],
+    "skills": [
+      "precise-language"
+    ],
+    "tags": [
+      "style",
+      "word-choice"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.word_choice",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which word best replaces the vague term?\n\n\"They did the experiment.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "conducted"
+      },
+      {
+        "label": "B",
+        "text": "did up"
+      },
+      {
+        "label": "C",
+        "text": "made"
+      },
+      {
+        "label": "D",
+        "text": "experiment"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "\"Conducted\" is the academic term.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still vague"
+      },
+      {
+        "label": "C",
+        "explanation": "Even less precise"
+      }
+    ],
+    "skills": [
+      "precise-language"
+    ],
+    "tags": [
+      "style",
+      "word-choice"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.word_choice",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which word best replaces the vague term?\n\n\"The results were nice.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "promising"
+      },
+      {
+        "label": "B",
+        "text": "very nice"
+      },
+      {
+        "label": "C",
+        "text": "okay"
+      },
+      {
+        "label": "D",
+        "text": "nice"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "\"Promising\" conveys specific meaning.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still vague"
+      },
+      {
+        "label": "C",
+        "explanation": "Even less precise"
+      }
+    ],
+    "skills": [
+      "precise-language"
+    ],
+    "tags": [
+      "style",
+      "word-choice"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.transitions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which transition fits?\n\n\"Rain was forecast. _____ we packed umbrellas.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Therefore"
+      },
+      {
+        "label": "B",
+        "text": "However"
+      },
+      {
+        "label": "C",
+        "text": "Meanwhile"
+      },
+      {
+        "label": "D",
+        "text": "Instead"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Cause-effect relationship.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship type"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't match context"
+      }
+    ],
+    "skills": [
+      "transitions"
+    ],
+    "tags": [
+      "style",
+      "transitions"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.transitions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which transition fits?\n\n\"It seemed easy. _____ it took months.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "However"
+      },
+      {
+        "label": "B",
+        "text": "Therefore"
+      },
+      {
+        "label": "C",
+        "text": "Similarly"
+      },
+      {
+        "label": "D",
+        "text": "In addition"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Contrast between expectation and reality.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship type"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't match context"
+      }
+    ],
+    "skills": [
+      "transitions"
+    ],
+    "tags": [
+      "style",
+      "transitions"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.transitions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which transition fits?\n\n\"She studied all night. _____ she passed.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "As a result"
+      },
+      {
+        "label": "B",
+        "text": "However"
+      },
+      {
+        "label": "C",
+        "text": "Meanwhile"
+      },
+      {
+        "label": "D",
+        "text": "Instead"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Shows consequence.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship type"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't match context"
+      }
+    ],
+    "skills": [
+      "transitions"
+    ],
+    "tags": [
+      "style",
+      "transitions"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.transitions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Which transition fits?\n\n\"He likes math. _____ he enjoys science.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Similarly"
+      },
+      {
+        "label": "B",
+        "text": "However"
+      },
+      {
+        "label": "C",
+        "text": "Therefore"
+      },
+      {
+        "label": "D",
+        "text": "Instead"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Shows similarity.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship type"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't match context"
+      }
+    ],
+    "skills": [
+      "transitions"
+    ],
+    "tags": [
+      "style",
+      "transitions"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.transitions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which transition fits?\n\n\"We planned a picnic. _____ it rained.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Unfortunately"
+      },
+      {
+        "label": "B",
+        "text": "Therefore"
+      },
+      {
+        "label": "C",
+        "text": "Similarly"
+      },
+      {
+        "label": "D",
+        "text": "In addition"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Shows negative outcome.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship type"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't match context"
+      }
+    ],
+    "skills": [
+      "transitions"
+    ],
+    "tags": [
+      "style",
+      "transitions"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.transitions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which transition fits?\n\n\"She finished her essay. _____ she started studying.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Then"
+      },
+      {
+        "label": "B",
+        "text": "However"
+      },
+      {
+        "label": "C",
+        "text": "Similarly"
+      },
+      {
+        "label": "D",
+        "text": "Therefore"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Shows sequence.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship type"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't match context"
+      }
+    ],
+    "skills": [
+      "transitions"
+    ],
+    "tags": [
+      "style",
+      "transitions"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.transitions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which transition fits?\n\n\"The data was unclear. _____ they repeated the experiment.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Consequently"
+      },
+      {
+        "label": "B",
+        "text": "However"
+      },
+      {
+        "label": "C",
+        "text": "Similarly"
+      },
+      {
+        "label": "D",
+        "text": "Meanwhile"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Shows result.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship type"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't match context"
+      }
+    ],
+    "skills": [
+      "transitions"
+    ],
+    "tags": [
+      "style",
+      "transitions"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.grammar.transitions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which transition fits?\n\n\"He trained daily. _____ he ate healthy food.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "In addition"
+      },
+      {
+        "label": "B",
+        "text": "However"
+      },
+      {
+        "label": "C",
+        "text": "Therefore"
+      },
+      {
+        "label": "D",
+        "text": "Instead"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Adds information.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Wrong relationship type"
+      },
+      {
+        "label": "C",
+        "explanation": "Doesn't match context"
+      }
+    ],
+    "skills": [
+      "transitions"
+    ],
+    "tags": [
+      "style",
+      "transitions"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.style.conciseness",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which is more concise?\n\n\"Due to the fact that it rained, we stayed inside.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Because it rained, we stayed inside."
+      },
+      {
+        "label": "B",
+        "text": "Due to the fact that it rained, we stayed inside."
+      },
+      {
+        "label": "C",
+        "text": "Due to the fact that it rained, we stayed inside. really."
+      },
+      {
+        "label": "D",
+        "text": "Due to the fact that it rained, we stayed inside, indeed."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Eliminate unnecessary words while keeping meaning.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still wordy"
+      },
+      {
+        "label": "C",
+        "explanation": "Adds words"
+      }
+    ],
+    "skills": [
+      "conciseness"
+    ],
+    "tags": [
+      "style",
+      "conciseness"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.style.conciseness",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which is more concise?\n\n\"She is a person who is very talented.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "She is very talented."
+      },
+      {
+        "label": "B",
+        "text": "She is a person who is very talented."
+      },
+      {
+        "label": "C",
+        "text": "She is a person who is very talented. really."
+      },
+      {
+        "label": "D",
+        "text": "She is a person who is very talented, indeed."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Eliminate unnecessary words while keeping meaning.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still wordy"
+      },
+      {
+        "label": "C",
+        "explanation": "Adds words"
+      }
+    ],
+    "skills": [
+      "conciseness"
+    ],
+    "tags": [
+      "style",
+      "conciseness"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.style.conciseness",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which is more concise?\n\n\"In my opinion, I think the plan will work.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "I think the plan will work."
+      },
+      {
+        "label": "B",
+        "text": "In my opinion, I think the plan will work."
+      },
+      {
+        "label": "C",
+        "text": "In my opinion, I think the plan will work. really."
+      },
+      {
+        "label": "D",
+        "text": "In my opinion, I think the plan will work, indeed."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Eliminate unnecessary words while keeping meaning.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still wordy"
+      },
+      {
+        "label": "C",
+        "explanation": "Adds words"
+      }
+    ],
+    "skills": [
+      "conciseness"
+    ],
+    "tags": [
+      "style",
+      "conciseness"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.style.conciseness",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which is more concise?\n\n\"At this point in time, we should leave.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "We should leave now."
+      },
+      {
+        "label": "B",
+        "text": "At this point in time, we should leave."
+      },
+      {
+        "label": "C",
+        "text": "At this point in time, we should leave. really."
+      },
+      {
+        "label": "D",
+        "text": "At this point in time, we should leave, indeed."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Eliminate unnecessary words while keeping meaning.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still wordy"
+      },
+      {
+        "label": "C",
+        "explanation": "Adds words"
+      }
+    ],
+    "skills": [
+      "conciseness"
+    ],
+    "tags": [
+      "style",
+      "conciseness"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.style.conciseness",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which is more concise?\n\n\"The reason why he left is because he was tired.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "He left because he was tired."
+      },
+      {
+        "label": "B",
+        "text": "The reason why he left is because he was tired."
+      },
+      {
+        "label": "C",
+        "text": "The reason why he left is because he was tired. really."
+      },
+      {
+        "label": "D",
+        "text": "The reason why he left is because he was tired, indeed."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Eliminate unnecessary words while keeping meaning.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still wordy"
+      },
+      {
+        "label": "C",
+        "explanation": "Adds words"
+      }
+    ],
+    "skills": [
+      "conciseness"
+    ],
+    "tags": [
+      "style",
+      "conciseness"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.style.conciseness",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which is more concise?\n\n\"She made a decision to go.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "She decided to go."
+      },
+      {
+        "label": "B",
+        "text": "She made a decision to go."
+      },
+      {
+        "label": "C",
+        "text": "She made a decision to go. really."
+      },
+      {
+        "label": "D",
+        "text": "She made a decision to go, indeed."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Eliminate unnecessary words while keeping meaning.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still wordy"
+      },
+      {
+        "label": "C",
+        "explanation": "Adds words"
+      }
+    ],
+    "skills": [
+      "conciseness"
+    ],
+    "tags": [
+      "style",
+      "conciseness"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.style.conciseness",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which is more concise?\n\n\"It is important to note that the results improved.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The results improved."
+      },
+      {
+        "label": "B",
+        "text": "It is important to note that the results improved."
+      },
+      {
+        "label": "C",
+        "text": "It is important to note that the results improved. really."
+      },
+      {
+        "label": "D",
+        "text": "It is important to note that the results improved, indeed."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Eliminate unnecessary words while keeping meaning.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still wordy"
+      },
+      {
+        "label": "C",
+        "explanation": "Adds words"
+      }
+    ],
+    "skills": [
+      "conciseness"
+    ],
+    "tags": [
+      "style",
+      "conciseness"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.style.conciseness",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which is more concise?\n\n\"He has the ability to sing well.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "He can sing well."
+      },
+      {
+        "label": "B",
+        "text": "He has the ability to sing well."
+      },
+      {
+        "label": "C",
+        "text": "He has the ability to sing well. really."
+      },
+      {
+        "label": "D",
+        "text": "He has the ability to sing well, indeed."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Eliminate unnecessary words while keeping meaning.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still wordy"
+      },
+      {
+        "label": "C",
+        "explanation": "Adds words"
+      }
+    ],
+    "skills": [
+      "conciseness"
+    ],
+    "tags": [
+      "style",
+      "conciseness"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.style.precise_language",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which revision is most precise?\n\nOriginal: \"The building was big.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The skyscraper towered over the city."
+      },
+      {
+        "label": "B",
+        "text": "The building was very big."
+      },
+      {
+        "label": "C",
+        "text": "The building was big."
+      },
+      {
+        "label": "D",
+        "text": "The building was big. always."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Precise language uses specific, vivid details.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Just adds intensifiers"
+      },
+      {
+        "label": "C",
+        "explanation": "Original is vague"
+      }
+    ],
+    "skills": [
+      "precise-language"
+    ],
+    "tags": [
+      "style",
+      "precise-language"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.style.precise_language",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which revision is most precise?\n\nOriginal: \"She felt bad about it.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "She felt remorseful about her decision."
+      },
+      {
+        "label": "B",
+        "text": "She felt really bad about it."
+      },
+      {
+        "label": "C",
+        "text": "She felt bad about it."
+      },
+      {
+        "label": "D",
+        "text": "She felt bad about it. always."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Precise language uses specific, vivid details.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Just adds intensifiers"
+      },
+      {
+        "label": "C",
+        "explanation": "Original is vague"
+      }
+    ],
+    "skills": [
+      "precise-language"
+    ],
+    "tags": [
+      "style",
+      "precise-language"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.style.precise_language",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which revision is most precise?\n\nOriginal: \"The dog went across the yard.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The dog sprinted across the yard."
+      },
+      {
+        "label": "B",
+        "text": "The dog moved across the yard."
+      },
+      {
+        "label": "C",
+        "text": "The dog went across the yard."
+      },
+      {
+        "label": "D",
+        "text": "The dog went across the yard. always."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Precise language uses specific, vivid details.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Just adds intensifiers"
+      },
+      {
+        "label": "C",
+        "explanation": "Original is vague"
+      }
+    ],
+    "skills": [
+      "precise-language"
+    ],
+    "tags": [
+      "style",
+      "precise-language"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.style.precise_language",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Which revision is most precise?\n\nOriginal: \"It was a nice day.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "It was a warm, cloudless afternoon."
+      },
+      {
+        "label": "B",
+        "text": "It was a really nice day."
+      },
+      {
+        "label": "C",
+        "text": "It was a nice day."
+      },
+      {
+        "label": "D",
+        "text": "It was a nice day. always."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Precise language uses specific, vivid details.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Just adds intensifiers"
+      },
+      {
+        "label": "C",
+        "explanation": "Original is vague"
+      }
+    ],
+    "skills": [
+      "precise-language"
+    ],
+    "tags": [
+      "style",
+      "precise-language"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.style.precise_language",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Which revision is most precise?\n\nOriginal: \"He said something quietly.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "He whispered a warning."
+      },
+      {
+        "label": "B",
+        "text": "He said something very quietly."
+      },
+      {
+        "label": "C",
+        "text": "He said something quietly."
+      },
+      {
+        "label": "D",
+        "text": "He said something quietly. always."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Precise language uses specific, vivid details.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Just adds intensifiers"
+      },
+      {
+        "label": "C",
+        "explanation": "Original is vague"
+      }
+    ],
+    "skills": [
+      "precise-language"
+    ],
+    "tags": [
+      "style",
+      "precise-language"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.style.precise_language",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Which revision is most precise?\n\nOriginal: \"The food smelled good.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The fresh bread filled the kitchen with a warm aroma."
+      },
+      {
+        "label": "B",
+        "text": "The food smelled really good."
+      },
+      {
+        "label": "C",
+        "text": "The food smelled good."
+      },
+      {
+        "label": "D",
+        "text": "The food smelled good. always."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Precise language uses specific, vivid details.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Just adds intensifiers"
+      },
+      {
+        "label": "C",
+        "explanation": "Original is vague"
+      }
+    ],
+    "skills": [
+      "precise-language"
+    ],
+    "tags": [
+      "style",
+      "precise-language"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.style.precise_language",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Which revision is most precise?\n\nOriginal: \"She looked at the painting.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "She studied every brushstroke of the painting."
+      },
+      {
+        "label": "B",
+        "text": "She looked at the painting closely."
+      },
+      {
+        "label": "C",
+        "text": "She looked at the painting."
+      },
+      {
+        "label": "D",
+        "text": "She looked at the painting. always."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Precise language uses specific, vivid details.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Just adds intensifiers"
+      },
+      {
+        "label": "C",
+        "explanation": "Original is vague"
+      }
+    ],
+    "skills": [
+      "precise-language"
+    ],
+    "tags": [
+      "style",
+      "precise-language"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.style.active_passive",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Convert to active voice: \"The ball was thrown by the pitcher.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The pitcher threw the ball."
+      },
+      {
+        "label": "B",
+        "text": "The ball was thrown by the pitcher."
+      },
+      {
+        "label": "C",
+        "text": "The ball has been thrown by the pitcher."
+      },
+      {
+        "label": "D",
+        "text": "The ball was thrown by the pitcher recently."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Active voice: subject performs the action directly.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still passive"
+      },
+      {
+        "label": "C",
+        "explanation": "Changed tense but still passive"
+      }
+    ],
+    "skills": [
+      "active-passive-voice"
+    ],
+    "tags": [
+      "style",
+      "active-passive"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.style.active_passive",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Convert to active voice: \"The cake was baked by my mother.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "My mother baked the cake."
+      },
+      {
+        "label": "B",
+        "text": "The cake was baked by my mother."
+      },
+      {
+        "label": "C",
+        "text": "The cake has been baked by my mother."
+      },
+      {
+        "label": "D",
+        "text": "The cake was baked by my mother recently."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Active voice: subject performs the action directly.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still passive"
+      },
+      {
+        "label": "C",
+        "explanation": "Changed tense but still passive"
+      }
+    ],
+    "skills": [
+      "active-passive-voice"
+    ],
+    "tags": [
+      "style",
+      "active-passive"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.style.active_passive",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Convert to active voice: \"The homework was completed by the students.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The students completed the homework."
+      },
+      {
+        "label": "B",
+        "text": "The homework was completed by the students."
+      },
+      {
+        "label": "C",
+        "text": "The homework has been completed by the students."
+      },
+      {
+        "label": "D",
+        "text": "The homework was completed by the students recently."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Active voice: subject performs the action directly.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still passive"
+      },
+      {
+        "label": "C",
+        "explanation": "Changed tense but still passive"
+      }
+    ],
+    "skills": [
+      "active-passive-voice"
+    ],
+    "tags": [
+      "style",
+      "active-passive"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.style.active_passive",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Convert to active voice: \"The song was sung by the choir.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The choir sang the song."
+      },
+      {
+        "label": "B",
+        "text": "The song was sung by the choir."
+      },
+      {
+        "label": "C",
+        "text": "The song has been sung by the choir."
+      },
+      {
+        "label": "D",
+        "text": "The song was sung by the choir recently."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Active voice: subject performs the action directly.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still passive"
+      },
+      {
+        "label": "C",
+        "explanation": "Changed tense but still passive"
+      }
+    ],
+    "skills": [
+      "active-passive-voice"
+    ],
+    "tags": [
+      "style",
+      "active-passive"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.style.active_passive",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Convert to active voice: \"The letter was written by Sarah.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sarah wrote the letter."
+      },
+      {
+        "label": "B",
+        "text": "The letter was written by Sarah."
+      },
+      {
+        "label": "C",
+        "text": "The letter has been written by Sarah."
+      },
+      {
+        "label": "D",
+        "text": "The letter was written by Sarah recently."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Active voice: subject performs the action directly.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still passive"
+      },
+      {
+        "label": "C",
+        "explanation": "Changed tense but still passive"
+      }
+    ],
+    "skills": [
+      "active-passive-voice"
+    ],
+    "tags": [
+      "style",
+      "active-passive"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.style.active_passive",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Convert to active voice: \"The window was broken by the storm.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The storm broke the window."
+      },
+      {
+        "label": "B",
+        "text": "The window was broken by the storm."
+      },
+      {
+        "label": "C",
+        "text": "The window has been broken by the storm."
+      },
+      {
+        "label": "D",
+        "text": "The window was broken by the storm recently."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Active voice: subject performs the action directly.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still passive"
+      },
+      {
+        "label": "C",
+        "explanation": "Changed tense but still passive"
+      }
+    ],
+    "skills": [
+      "active-passive-voice"
+    ],
+    "tags": [
+      "style",
+      "active-passive"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.style.active_passive",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Convert to active voice: \"The speech was delivered by the president.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "The president delivered the speech."
+      },
+      {
+        "label": "B",
+        "text": "The speech was delivered by the president."
+      },
+      {
+        "label": "C",
+        "text": "The speech has been delivered by the president."
+      },
+      {
+        "label": "D",
+        "text": "The speech was delivered by the president recently."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Active voice: subject performs the action directly.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still passive"
+      },
+      {
+        "label": "C",
+        "explanation": "Changed tense but still passive"
+      }
+    ],
+    "skills": [
+      "active-passive-voice"
+    ],
+    "tags": [
+      "style",
+      "active-passive"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.revising.style.active_passive",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Convert to active voice: \"The game was won by our team.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Our team won the game."
+      },
+      {
+        "label": "B",
+        "text": "The game was won by our team."
+      },
+      {
+        "label": "C",
+        "text": "The game has been won by our team."
+      },
+      {
+        "label": "D",
+        "text": "The game was won by our team recently."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Active voice: subject performs the action directly.",
+    "commonMistakes": [
+      {
+        "label": "B",
+        "explanation": "Still passive"
+      },
+      {
+        "label": "C",
+        "explanation": "Changed tense but still passive"
+      }
+    ],
+    "skills": [
+      "active-passive-voice"
+    ],
+    "tags": [
+      "style",
+      "active-passive"
+    ]
+  }
+]
