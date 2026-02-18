@@ -6,7 +6,7 @@ ALTER TABLE profiles ADD COLUMN subscription_ends_at TIMESTAMPTZ;
 
 -- Payment history
 CREATE TABLE payment_history (
-  id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
   profile_id UUID NOT NULL REFERENCES profiles(id) ON DELETE CASCADE,
   stripe_payment_intent_id TEXT,
   stripe_subscription_id TEXT,

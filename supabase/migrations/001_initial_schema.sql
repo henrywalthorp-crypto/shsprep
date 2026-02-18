@@ -28,7 +28,7 @@ CREATE TABLE profiles (
 
 -- Parent-Student linking
 CREATE TABLE parent_student_links (
-  id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
   parent_id UUID NOT NULL REFERENCES profiles(id) ON DELETE CASCADE,
   student_id UUID NOT NULL REFERENCES profiles(id) ON DELETE CASCADE,
   created_at TIMESTAMPTZ DEFAULT NOW(),
@@ -50,7 +50,7 @@ CREATE TYPE passage_type AS ENUM ('fiction', 'nonfiction', 'poetry', 'historical
 
 -- Passages (for RC and passage-based R/E questions)
 CREATE TABLE passages (
-  id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
   type passage_type NOT NULL,
   title TEXT NOT NULL,
   text TEXT NOT NULL,
@@ -64,7 +64,7 @@ CREATE TABLE passages (
 
 -- Questions
 CREATE TABLE questions (
-  id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
   section section_type NOT NULL,
   category TEXT NOT NULL,                -- e.g., 'ela.revising.grammar.run_ons'
   subcategory TEXT,                      -- additional specificity
@@ -120,7 +120,7 @@ CREATE TYPE session_mode AS ENUM ('practice', 'timed_practice', 'exam', 'review'
 CREATE TYPE session_status AS ENUM ('in_progress', 'completed', 'abandoned');
 
 CREATE TABLE practice_sessions (
-  id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
   student_id UUID NOT NULL REFERENCES profiles(id) ON DELETE CASCADE,
   mode session_mode NOT NULL DEFAULT 'practice',
   status session_status NOT NULL DEFAULT 'in_progress',
@@ -151,7 +151,7 @@ CREATE INDEX idx_sessions_mode ON practice_sessions(mode);
 
 -- Individual question attempts within a session
 CREATE TABLE practice_attempts (
-  id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
   session_id UUID NOT NULL REFERENCES practice_sessions(id) ON DELETE CASCADE,
   question_id UUID NOT NULL REFERENCES questions(id) ON DELETE CASCADE,
   student_id UUID NOT NULL REFERENCES profiles(id) ON DELETE CASCADE,
@@ -177,7 +177,7 @@ CREATE INDEX idx_attempts_correct ON practice_attempts(is_correct);
 -- ============================================================================
 
 CREATE TABLE exams (
-  id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
   student_id UUID NOT NULL REFERENCES profiles(id) ON DELETE CASCADE,
   session_id UUID REFERENCES practice_sessions(id),
   
@@ -210,7 +210,7 @@ CREATE INDEX idx_exams_student ON exams(student_id);
 -- ============================================================================
 
 CREATE TABLE student_skill_stats (
-  id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
   student_id UUID NOT NULL REFERENCES profiles(id) ON DELETE CASCADE,
   category TEXT NOT NULL,                -- matches question category taxonomy
   
@@ -239,7 +239,7 @@ CREATE INDEX idx_skill_stats_mastery ON student_skill_stats(mastery_level);
 -- ============================================================================
 
 CREATE TABLE weekly_plans (
-  id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
   student_id UUID NOT NULL REFERENCES profiles(id) ON DELETE CASCADE,
   week_start DATE NOT NULL,
   

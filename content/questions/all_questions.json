@@ -13363,7 +13363,7 @@
     {
       "id": "ela-re-061",
       "category": "ela.revising.grammar.subject_verb",
-      "difficulty": "easy",
+      "difficulty": "1",
       "type": "mc",
       "stem": "Read this sentence.\n\n\"Neither the coach nor the players *was* prepared for the sudden rainstorm.\"\n\nWhich edit corrects the error in the sentence?",
       "options": [
@@ -13382,7 +13382,7 @@
     {
       "id": "ela-re-062",
       "category": "ela.revising.grammar.subject_verb",
-      "difficulty": "medium",
+      "difficulty": "2",
       "type": "mc",
       "stem": "Read this sentence.\n\n\"The collection of rare stamps *have* attracted attention from dealers around the world.\"\n\nWhich edit corrects the error in the sentence?",
       "options": [
@@ -13400,7 +13400,7 @@
     {
       "id": "ela-re-063",
       "category": "ela.revising.grammar.misplaced_modifier",
-      "difficulty": "medium",
+      "difficulty": "2",
       "type": "mc",
       "stem": "Read this sentence.\n\n\"Covered in chocolate frosting, Marcus couldn't resist the cupcakes on the counter.\"\n\nWhich revision best corrects the misplaced modifier?",
       "options": [
@@ -13419,7 +13419,7 @@
     {
       "id": "ela-re-064",
       "category": "ela.revising.grammar.misplaced_modifier",
-      "difficulty": "hard",
+      "difficulty": "3",
       "type": "mc",
       "stem": "Read this sentence.\n\n\"After practicing for six hours, the piano sonata was finally mastered by Elena.\"\n\nWhich revision best corrects the dangling modifier?",
       "options": [
@@ -13438,7 +13438,7 @@
     {
       "id": "ela-re-065",
       "category": "ela.revising.grammar.comma_splice",
-      "difficulty": "easy",
+      "difficulty": "1",
       "type": "mc",
       "stem": "Read this sentence.\n\n\"The library closes at nine o'clock, we need to leave soon.\"\n\nWhich edit best corrects this sentence?",
       "options": [
@@ -13457,7 +13457,7 @@
     {
       "id": "ela-re-066",
       "category": "ela.revising.grammar.comma_splice",
-      "difficulty": "medium",
+      "difficulty": "2",
       "type": "mc",
       "stem": "Read this sentence.\n\n\"Tom\u00e1s wanted to join the debate team he was worried about speaking in front of large crowds.\"\n\nWhich edit best corrects this sentence?",
       "options": [
@@ -13476,7 +13476,7 @@
     {
       "id": "ela-re-067",
       "category": "ela.revising.mechanics.apostrophes",
-      "difficulty": "easy",
+      "difficulty": "1",
       "type": "mc",
       "stem": "Read this sentence.\n\n\"The two guitarist's played their solo's flawlessly during the concert.\"\n\nWhich edit corrects all apostrophe errors?",
       "options": [
@@ -13495,7 +13495,7 @@
     {
       "id": "ela-re-068",
       "category": "ela.revising.mechanics.apostrophes",
-      "difficulty": "hard",
+      "difficulty": "3",
       "type": "mc",
       "stem": "Read this sentence.\n\n\"Its important that the children's coats are hung on they're own hooks before the schools' doors open.\"\n\nWhich version corrects all errors?",
       "options": [
@@ -13515,7 +13515,7 @@
     {
       "id": "ela-re-069",
       "category": "ela.revising.grammar.pronoun_antecedent",
-      "difficulty": "medium",
+      "difficulty": "2",
       "type": "mc",
       "stem": "Read this sentence.\n\n\"Each of the girls on the soccer team must bring their own water bottle to practice.\"\n\nWhich edit corrects the pronoun-antecedent agreement error?",
       "options": [
@@ -13534,7 +13534,7 @@
     {
       "id": "ela-re-070",
       "category": "ela.revising.grammar.pronoun_antecedent",
-      "difficulty": "hard",
+      "difficulty": "3",
       "type": "mc",
       "stem": "Read this sentence.\n\n\"When a student finishes the exam early, they should review their answers, check that they haven't left any blanks, and turn it in to the proctor.\"\n\nWhich revision corrects the pronoun-antecedent error while maintaining clarity?",
       "options": [
@@ -13553,7 +13553,7 @@
     {
       "id": "ela-re-071",
       "category": "ela.revising.style.active_passive",
-      "difficulty": "medium",
+      "difficulty": "2",
       "type": "mc",
       "stem": "Read this sentence.\n\n\"The winning goal was scored by Amara in the final minute of the championship game.\"\n\nWhich revision uses active voice to make the sentence more direct?",
       "options": [
@@ -13572,7 +13572,7 @@
     {
       "id": "ela-re-072",
       "category": "ela.revising.style.active_passive",
-      "difficulty": "medium",
+      "difficulty": "2",
       "type": "mc",
       "stem": "Read these sentences.\n\n\"The mural was designed by local artists. Bright colors were chosen to reflect the neighborhood's diversity. The wall was donated by a community business.\"\n\nWhich revision best improves the paragraph by using active voice?",
       "options": [
@@ -13591,7 +13591,7 @@
     {
       "id": "ela-re-073",
       "category": "ela.revising.style.sentence_combining",
-      "difficulty": "easy",
+      "difficulty": "1",
       "type": "mc",
       "stem": "Read these sentences.\n\n\"The volcano erupted violently. Ash covered the surrounding villages. Residents were forced to evacuate.\"\n\nWhich revision most effectively combines these sentences?",
       "options": [
@@ -13611,7 +13611,7 @@
     {
       "id": "ela-re-074",
       "category": "ela.revising.style.sentence_combining",
-      "difficulty": "hard",
+      "difficulty": "3",
       "type": "mc",
       "stem": "Read these sentences.\n\n\"Dr. Mae Jemison was born in 1956. She was the first African American woman in space. She flew aboard the Space Shuttle Endeavour. The mission took place in 1992.\"\n\nWhich revision most effectively combines these sentences?",
       "options": [
@@ -13631,7 +13631,7 @@
     {
       "id": "ela-re-075",
       "category": "ela.revising.style.precise_language",
-      "difficulty": "medium",
+      "difficulty": "2",
       "type": "mc",
       "stem": "Read this sentence.\n\n\"The thing about the experiment was that it went really bad and stuff happened that the scientists didn't expect.\"\n\nWhich revision replaces vague language with precise language?",
       "options": [
@@ -13649,7 +13649,7 @@
     {
       "id": "ela-re-076",
       "category": "ela.revising.style.precise_language",
-      "difficulty": "hard",
+      "difficulty": "3",
       "type": "mc",
       "stem": "Read this sentence from a persuasive essay.\n\n\"A lot of people think that schools should do more things to help kids be better at stuff.\"\n\nWhich revision is most appropriate for a formal persuasive essay?",
       "options": [
@@ -13668,7 +13668,7 @@
     {
       "id": "ela-re-077",
       "category": "ela.revising.organization.transitions",
-      "difficulty": "medium",
+      "difficulty": "2",
       "type": "mc",
       "stem": "Read these sentences.\n\n\"Solar panels have become significantly more affordable over the past decade. _______, many homeowners still hesitate to install them because of the high upfront cost.\"\n\nWhich transition best fills the blank?",
       "options": [
@@ -13686,7 +13686,7 @@
     {
       "id": "ela-re-078",
       "category": "ela.revising.organization.transitions",
-      "difficulty": "medium",
+      "difficulty": "2",
       "type": "mc",
       "stem": "Read these sentences from an informational essay.\n\n\"The city council approved funding for three new parks. _______, they allocated resources for upgrading existing playground equipment in older neighborhoods.\"\n\nWhich transition best fills the blank?",
       "options": [
@@ -13704,7 +13704,7 @@
     {
       "id": "ela-re-079",
       "category": "ela.revising.organization.topic_sentence",
-      "difficulty": "hard",
+      "difficulty": "3",
       "type": "mc",
       "stem": "Read this paragraph.\n\n\"_______. The fennec fox, for instance, has oversized ears that radiate heat to keep the animal cool. Camels store fat in their humps, providing energy when food and water are scarce. Even desert plants like cacti have adapted, developing thick waxy skin to minimize water loss.\"\n\nWhich sentence best serves as the topic sentence for this paragraph?",
       "options": [
@@ -13723,7 +13723,7 @@
     {
       "id": "ela-re-080",
       "category": "ela.revising.organization.topic_sentence",
-      "difficulty": "hard",
+      "difficulty": "3",
       "type": "mc",
       "stem": "Read this paragraph.\n\n\"_______. First, volunteers sorted donated books by reading level and genre. Next, they cataloged each book in a digital database so patrons could search titles online. Finally, they arranged the shelves using color-coded labels to help young readers find books independently.\"\n\nWhich sentence best serves as the topic sentence?",
       "options": [
@@ -13742,7 +13742,7 @@
     {
       "id": "ela-re-081",
       "category": "ela.revising.grammar.subject_verb",
-      "difficulty": "easy",
+      "difficulty": "1",
       "type": "mc",
       "stem": "Which edit corrects the error in sentence 2?",
       "options": [
@@ -13760,7 +13760,7 @@
     {
       "id": "ela-re-082",
       "category": "ela.revising.grammar.comma_splice",
-      "difficulty": "medium",
+      "difficulty": "2",
       "type": "mc",
       "stem": "Which edit corrects the error in sentence 8?",
       "options": [
@@ -13778,7 +13778,7 @@
     {
       "id": "ela-re-083",
       "category": "ela.revising.mechanics.apostrophes",
-      "difficulty": "medium",
+      "difficulty": "2",
       "type": "mc",
       "stem": "Which edit corrects the punctuation error in sentence 6?",
       "options": [
@@ -13796,7 +13796,7 @@
     {
       "id": "ela-re-084",
       "category": "ela.revising.grammar.subject_verb",
-      "difficulty": "hard",
+      "difficulty": "3",
       "type": "mc",
       "stem": "Sentences 9 and 10 both contain errors. Which pair of edits corrects them?",
       "options": [
@@ -13815,7 +13815,7 @@
     {
       "id": "ela-re-085",
       "category": "ela.revising.organization.transitions",
-      "difficulty": "medium",
+      "difficulty": "2",
       "type": "mc",
       "stem": "Which revision of sentence 7 best adds an appropriate introductory transition?",
       "options": [
@@ -13834,7 +13834,7 @@
     {
       "id": "ela-re-086",
       "category": "ela.revising.grammar.subject_verb",
-      "difficulty": "easy",
+      "difficulty": "1",
       "type": "mc",
       "stem": "Which edit corrects the error in sentence 1?",
       "options": [
@@ -13852,7 +13852,7 @@
     {
       "id": "ela-re-087",
       "category": "ela.revising.grammar.misplaced_modifier",
-      "difficulty": "hard",
+      "difficulty": "3",
       "type": "mc",
       "stem": "Which edit corrects the error in sentence 3?",
       "options": [
@@ -13871,7 +13871,7 @@
     {
       "id": "ela-re-088",
       "category": "ela.revising.grammar.comma_splice",
-      "difficulty": "hard",
+      "difficulty": "3",
       "type": "mc",
       "stem": "Which edit corrects the error in sentence 8?",
       "options": [
@@ -13890,7 +13890,7 @@
     {
       "id": "ela-re-089",
       "category": "ela.revising.style.precise_language",
-      "difficulty": "hard",
+      "difficulty": "3",
       "type": "mc",
       "stem": "Read sentence 5.\n\n\"Thousands of volunteers have planted milkweed in gardens along highways and in vacant lots creating what scientists call 'monarch waystations.'\"\n\nWhich revision improves clarity and punctuation?",
       "options": [
@@ -13909,7 +13909,7 @@
     {
       "id": "ela-re-090",
       "category": "ela.revising.mechanics.apostrophes",
-      "difficulty": "hard",
+      "difficulty": "3",
       "type": "mc",
       "stem": "Read sentence 10.\n\n\"If funding is cut or public interest fades the monarchs' remarkable migration could once again be in jeopardy.\"\n\nWhich edit corrects the punctuation error while keeping the apostrophe usage correct?",
       "options": [
@@ -13928,7 +13928,7 @@
     {
       "id": "ela-re-091",
       "category": "ela.revising.punctuation.semicolons_in_lists",
-      "difficulty": "easy",
+      "difficulty": "1",
       "type": "mc",
       "stem": "Read this sentence.\n\n\"The debate team traveled to Austin, Texas, Portland, Oregon, and Reno, Nevada.\"\n\nWhich revision correctly punctuates the list?",
       "options": [
@@ -13947,7 +13947,7 @@
     {
       "id": "ela-re-092",
       "category": "ela.revising.punctuation.colon_usage",
-      "difficulty": "easy",
+      "difficulty": "1",
       "type": "mc",
       "stem": "Read this sentence.\n\n\"Mara packed everything she needed, a sleeping bag, a flashlight, and a water bottle.\"\n\nWhich edit best corrects the punctuation in this sentence?",
       "options": [
@@ -13966,7 +13966,7 @@
     {
       "id": "ela-re-093",
       "category": "ela.revising.style.conciseness",
-      "difficulty": "easy",
+      "difficulty": "1",
       "type": "mc",
       "stem": "Read this sentence.\n\n\"The two candidates each expressed their own individual opinions and personal viewpoints on the subject.\"\n\nWhich revision eliminates the redundancy in this sentence?",
       "options": [
@@ -13985,7 +13985,7 @@
     {
       "id": "ela-re-094",
       "category": "ela.revising.grammar.parallel_structure",
-      "difficulty": "medium",
+      "difficulty": "2",
       "type": "mc",
       "stem": "Read this sentence.\n\n\"The summer program requires participants to complete an application, writing a personal essay, and submit two letters of recommendation.\"\n\nWhich revision corrects the faulty parallelism?",
       "options": [
@@ -14003,7 +14003,7 @@
     {
       "id": "ela-re-095",
       "category": "ela.revising.grammar.verb_tense_consistency",
-      "difficulty": "medium",
+      "difficulty": "2",
       "type": "mc",
       "stem": "Read this passage.\n\n\"The archaeologist carefully brushed away the sand. She photographs the artifact from several angles and then placed it in a protective case.\"\n\nWhich edit corrects the error?",
       "options": [
@@ -14021,7 +14021,7 @@
     {
       "id": "ela-re-096",
       "category": "ela.revising.punctuation.dash_vs_parentheses",
-      "difficulty": "medium",
+      "difficulty": "2",
       "type": "mc",
       "stem": "Read this sentence.\n\n\"The keynote speaker, a retired astronaut who had orbited Earth 148 times, captivated the audience with her stories.\"\n\nA student wants to give the aside about the speaker more emphasis. Which revision best achieves this?",
       "options": [
@@ -14040,7 +14040,7 @@
     {
       "id": "ela-re-097",
       "category": "ela.revising.grammar.compound_complex_sentences",
-      "difficulty": "medium",
+      "difficulty": "2",
       "type": "mc",
       "stem": "Read this sentence.\n\n\"Although the experiment failed the students learned valuable lessons and they decided to redesign their hypothesis.\"\n\nWhich revision correctly punctuates this compound-complex sentence?",
       "options": [
@@ -14059,7 +14059,7 @@
     {
       "id": "ela-re-098",
       "category": "ela.revising.style.integrating_quotations",
-      "difficulty": "medium",
+      "difficulty": "2",
       "type": "mc",
       "stem": "Read this sentence.\n\n\"The effects of climate change are widespread. 'Rising sea levels threaten coastal communities around the globe' (Hernandez 2024).\"\n\nWhich revision best integrates the quotation into the student's writing?",
       "options": [
@@ -14078,7 +14078,7 @@
     {
       "id": "ela-re-099",
       "category": "ela.revising.style.audience_register",
-      "difficulty": "medium",
+      "difficulty": "2",
       "type": "mc",
       "stem": "A student is writing a formal research paper about space exploration. Read this sentence from the paper.\n\n\"NASA's new rocket is super awesome and will totally blast off to Mars way faster than anything before.\"\n\nWhich revision is most appropriate for the intended audience and purpose?",
       "options": [
@@ -14097,7 +14097,7 @@
     {
       "id": "ela-re-100",
       "category": "ela.revising.punctuation.colon_usage",
-      "difficulty": "medium",
+      "difficulty": "2",
       "type": "mc",
       "stem": "Read this sentence.\n\n\"The detective noticed something unusual: the window had been locked from the inside.\"\n\nWhat is the function of the colon in this sentence?",
       "options": [
@@ -14116,7 +14116,7 @@
     {
       "id": "ela-re-101",
       "category": "ela.revising.style.conciseness",
-      "difficulty": "hard",
+      "difficulty": "3",
       "type": "mc",
       "stem": "Read this sentence.\n\n\"Due to the fact that the funding was insufficient and inadequate, the construction of the new building was postponed and delayed until a later point in time.\"\n\nWhich revision is the most concise without changing the meaning?",
       "options": [
@@ -14135,7 +14135,7 @@
     {
       "id": "ela-re-102",
       "category": "ela.revising.grammar.parallel_structure",
-      "difficulty": "hard",
+      "difficulty": "3",
       "type": "mc",
       "stem": "Read this sentence.\n\n\"The grant proposal emphasized the project's potential to reduce waste, that it would create local jobs, and improving public health outcomes.\"\n\nWhich revision corrects the faulty parallelism?",
       "options": [
@@ -14153,7 +14153,7 @@
     {
       "id": "ela-re-103",
       "category": "ela.revising.grammar.compound_complex_sentences",
-      "difficulty": "easy",
+      "difficulty": "1",
       "type": "mc",
       "stem": "Read these two sentences.\n\n\"The power went out during the storm. We used candles to light the room and we played board games until it came back on.\"\n\nWhich revision best combines these into a single compound-complex sentence?",
       "options": [
@@ -14172,7 +14172,7 @@
     {
       "id": "ela-re-104",
       "category": "ela.revising.style.audience_register",
-      "difficulty": "hard",
+      "difficulty": "3",
       "type": "mc",
       "stem": "A student is writing a letter to the school board requesting funding for a robotics club. Read this excerpt.\n\n\"You guys should definitely give us money for a robotics club because it would be really cool and tons of kids want to join.\"\n\nWhich revision is most appropriate for the audience and purpose?",
       "options": [
@@ -14191,7 +14191,7 @@
     {
       "id": "ela-re-105",
       "category": "ela.revising.style.conciseness",
-      "difficulty": "medium",
+      "difficulty": "2",
       "type": "mc",
       "stem": "Which revision of sentence (3) best eliminates the redundancy?",
       "options": [
@@ -14210,7 +14210,7 @@
     {
       "id": "ela-re-106",
       "category": "ela.revising.grammar.sentence_fragment",
-      "difficulty": "medium",
+      "difficulty": "2",
       "type": "mc",
       "stem": "Which edit corrects the error in sentence (4)?",
       "options": [
@@ -14229,7 +14229,7 @@
     {
       "id": "ela-re-107",
       "category": "ela.revising.grammar.comma_splice",
-      "difficulty": "hard",
+      "difficulty": "3",
       "type": "mc",
       "stem": "Which revision corrects the error in sentence (5)?",
       "options": [
@@ -14248,7 +14248,7 @@
     {
       "id": "ela-re-108",
       "category": "ela.revising.grammar.subject_verb",
-      "difficulty": "hard",
+      "difficulty": "3",
       "type": "mc",
       "stem": "Which edit corrects the error in sentence (6)?",
       "options": [
@@ -14266,7 +14266,7 @@
     {
       "id": "ela-re-109",
       "category": "ela.revising.style.integrating_quotations",
-      "difficulty": "hard",
+      "difficulty": "3",
       "type": "mc",
       "stem": "Which revision of sentence (8) best integrates the quotation using standard punctuation?",
       "options": [
@@ -14285,7 +14285,7 @@
     {
       "id": "ela-re-110",
       "category": "ela.revising.grammar.compound_complex_sentences",
-      "difficulty": "hard",
+      "difficulty": "3",
       "type": "mc",
       "stem": "What type of sentence is sentence (9)?",
       "options": [
