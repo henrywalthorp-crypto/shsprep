@@ -33,7 +33,7 @@ export const CATEGORY_GROUPS: CategoryGroup[] = [
       'math.algebra.word_problems',
       'math.algebraic_modeling',
     ],
-    targetCount: 50,
+    targetCount: 100,
   },
   {
     id: 'math-exponents',
@@ -47,7 +47,7 @@ export const CATEGORY_GROUPS: CategoryGroup[] = [
       'math.scientific_notation',
       'math.arithmetic.scientific_notation',
     ],
-    targetCount: 50,
+    targetCount: 100,
   },
   {
     id: 'math-inequalities',
@@ -61,7 +61,7 @@ export const CATEGORY_GROUPS: CategoryGroup[] = [
       'math.absolute_value',
       'math.arithmetic.absolute_value',
     ],
-    targetCount: 50,
+    targetCount: 100,
   },
   {
     id: 'math-ratios',
@@ -82,7 +82,7 @@ export const CATEGORY_GROUPS: CategoryGroup[] = [
       'math.word_problems.percent_change',
       'math.word_problems.ratio_proportion',
     ],
-    targetCount: 50,
+    targetCount: 100,
   },
   {
     id: 'math-arithmetic',
@@ -98,7 +98,7 @@ export const CATEGORY_GROUPS: CategoryGroup[] = [
       'math.number_theory.gcf_lcm',
       'math.number_theory.primes',
     ],
-    targetCount: 50,
+    targetCount: 100,
   },
   {
     id: 'math-geometry-shapes',
@@ -121,7 +121,7 @@ export const CATEGORY_GROUPS: CategoryGroup[] = [
       'math.geometry.pythagorean',
       'math.geometry.pythagorean_theorem',
     ],
-    targetCount: 50,
+    targetCount: 100,
   },
   {
     id: 'math-geometry-3d',
@@ -135,7 +135,7 @@ export const CATEGORY_GROUPS: CategoryGroup[] = [
       'math.geometry.3d.surface_area',
       'math.geometry.3d.cross_sections',
     ],
-    targetCount: 50,
+    targetCount: 100,
   },
   {
     id: 'math-coordinate',
@@ -151,7 +151,7 @@ export const CATEGORY_GROUPS: CategoryGroup[] = [
       'math.geometry.pythagorean_coordinate',
       'math.geometry.transformations',
     ],
-    targetCount: 50,
+    targetCount: 100,
   },
   {
     id: 'math-statistics',
@@ -167,7 +167,7 @@ export const CATEGORY_GROUPS: CategoryGroup[] = [
       'math.data_interpretation',
       'math.functions.tables',
     ],
-    targetCount: 50,
+    targetCount: 100,
   },
   {
     id: 'math-probability',
@@ -181,7 +181,7 @@ export const CATEGORY_GROUPS: CategoryGroup[] = [
       'math.statistics.probability',
       'math.sets.venn_diagrams',
     ],
-    targetCount: 50,
+    targetCount: 100,
   },
   {
     id: 'math-patterns',
@@ -193,7 +193,7 @@ export const CATEGORY_GROUPS: CategoryGroup[] = [
       'math.algebra.patterns_sequences',
       'math.sequences_patterns',
     ],
-    targetCount: 50,
+    targetCount: 100,
   },
   {
     id: 'math-word-problems',
@@ -210,7 +210,7 @@ export const CATEGORY_GROUPS: CategoryGroup[] = [
       'math.arithmetic.rate_distance_time',
       'math.measurement.unit_conversion',
     ],
-    targetCount: 50,
+    targetCount: 100,
   },
 
   // ── ELA — READING ─────────────────────────────────────────────────────────
@@ -225,7 +225,7 @@ export const CATEGORY_GROUPS: CategoryGroup[] = [
       'ela.reading.authors_purpose',
       'ela.reading.text_structure',
     ],
-    targetCount: 50,
+    targetCount: 100,
   },
   {
     id: 'ela-inference',
@@ -239,7 +239,7 @@ export const CATEGORY_GROUPS: CategoryGroup[] = [
       'ela.reading.claim_evidence',
       'ela.reading.claim_vs_evidence',
     ],
-    targetCount: 50,
+    targetCount: 100,
   },
   {
     id: 'ela-literary',
@@ -253,7 +253,7 @@ export const CATEGORY_GROUPS: CategoryGroup[] = [
       'ela.reading.plot_character',
       'ela.reading.vocabulary_in_context',
     ],
-    targetCount: 50,
+    targetCount: 100,
   },
   {
     id: 'ela-grammar',
@@ -280,7 +280,7 @@ export const CATEGORY_GROUPS: CategoryGroup[] = [
       'ela.revising.grammar.subjunctive_mood',
       'ela.revising.grammar.restrictive_nonrestrictive',
     ],
-    targetCount: 50,
+    targetCount: 100,
   },
   {
     id: 'ela-punctuation',
@@ -296,7 +296,7 @@ export const CATEGORY_GROUPS: CategoryGroup[] = [
       'ela.revising.punctuation.semicolons_in_lists',
       'ela.revising.mechanics.apostrophes',
     ],
-    targetCount: 50,
+    targetCount: 100,
   },
   {
     id: 'ela-style',
@@ -316,7 +316,7 @@ export const CATEGORY_GROUPS: CategoryGroup[] = [
       'ela.revising.style.sentence_combining',
       'ela.revising.style.integrating_quotations',
     ],
-    targetCount: 50,
+    targetCount: 100,
   },
   {
     id: 'ela-passage-revision',
@@ -334,7 +334,7 @@ export const CATEGORY_GROUPS: CategoryGroup[] = [
       'ela.revising.organization.topic_sentence',
       'ela.revising.organization.transitions',
     ],
-    targetCount: 50,
+    targetCount: 100,
   },
 ];
 
