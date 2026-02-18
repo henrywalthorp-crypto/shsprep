@@ -4,7 +4,6 @@ import React, { useState } from "react";
 import Link from "next/link";
 import { motion } from "framer-motion";
 import { useRouter } from "next/navigation";
-import { Chrome, Apple } from "lucide-react";
 import { Check, Star, Loader2 } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { createBrowserClient } from "@/lib/supabase/client";
@@ -15,7 +14,6 @@ const SignInPage = () => {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [loading, setLoading] = useState(false);
-  const [googleLoading, setGoogleLoading] = useState(false);
   const [showPassword, setShowPassword] = useState(false);
 
   const handleEmailSignIn = async (e: React.FormEvent) => {
@@ -47,26 +45,6 @@ const SignInPage = () => {
     }
   };
 
-  const handleGoogleSignIn = async () => {
-    setGoogleLoading(true);
-    try {
-      const supabase = createBrowserClient();
-      const { error } = await supabase.auth.signInWithOAuth({
-        provider: "google",
-        options: {
-          redirectTo: `${window.location.origin}/api/auth/callback`,
-        },
-      });
-      if (error) {
-        toast.error(error.message);
-        setGoogleLoading(false);
-      }
-    } catch {
-      toast.error("An unexpected error occurred");
-      setGoogleLoading(false);
-    }
-  };
-
   return (
     <div className="flex min-h-screen font-sans bg-white">
       {/* Left Side - Login Form */}
@@ -91,34 +69,6 @@ const SignInPage = () => {
             <p className="text-text-gray text-sm">
               Sign in to start practicing with SHSprep
             </p>
-          </div>
-
-          <div className="space-y-4">
-            <button
-              onClick={handleGoogleSignIn}
-              disabled={googleLoading}
-              className="w-full flex items-center justify-center gap-3 px-6 py-3 border border-gray-200 rounded-xl hover:bg-gray-50 transition-colors font-semibold text-deep-forest disabled:opacity-50"
-            >
-              {googleLoading ? (
-                <Loader2 className="w-5 h-5 animate-spin" />
-              ) : (
-                <Chrome className="text-xl" />
-              )}
-              Continue with Google
-            </button>
-            <button className="w-full flex items-center justify-center gap-3 px-6 py-3 bg-black text-white rounded-xl hover:bg-zinc-900 transition-colors font-semibold">
-              <Apple className="text-xl" />
-              Continue with Apple
-            </button>
-          </div>
-
-          <div className="relative my-8">
-            <div className="absolute inset-0 flex items-center">
-              <div className="w-full border-t border-gray-100"></div>
-            </div>
-            <div className="relative flex justify-center text-xs uppercase">
-              <span className="bg-white px-4 text-gray-300 font-bold">OR</span>
-            </div>
           </div>
 
           <form onSubmit={handleEmailSignIn} className="space-y-4">

@@ -5,7 +5,6 @@ import Link from "next/link";
 import { motion } from "framer-motion";
 import { useRouter } from "next/navigation";
 import { ArrowLeft, ChevronRight, Loader2 } from "lucide-react";
-import { Chrome, Apple } from "lucide-react";
 import { createBrowserClient } from "@/lib/supabase/client";
 import { toast } from "sonner";
 
@@ -16,7 +15,6 @@ const SignUpFormPage = () => {
   const [firstName, setFirstName] = useState("");
   const [lastName, setLastName] = useState("");
   const [loading, setLoading] = useState(false);
-  const [googleLoading, setGoogleLoading] = useState(false);
 
   const handleSignUp = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -53,26 +51,6 @@ const SignUpFormPage = () => {
       toast.error("An unexpected error occurred");
     } finally {
       setLoading(false);
-    }
-  };
-
-  const handleGoogleSignUp = async () => {
-    setGoogleLoading(true);
-    try {
-      const supabase = createBrowserClient();
-      const { error } = await supabase.auth.signInWithOAuth({
-        provider: "google",
-        options: {
-          redirectTo: `${window.location.origin}/api/auth/callback?next=/signup/onboarding`,
-        },
-      });
-      if (error) {
-        toast.error(error.message);
-        setGoogleLoading(false);
-      }
-    } catch {
-      toast.error("An unexpected error occurred");
-      setGoogleLoading(false);
     }
   };
 
@@ -118,35 +96,6 @@ const SignUpFormPage = () => {
         <h1 className="text-2xl md:text-3xl font-bold text-deep-forest text-center mb-8 font-display tracking-tight leading-tight">
           Your path to a higher score starts here
         </h1>
-
-        <div className="space-y-4">
-          <button
-            onClick={handleGoogleSignUp}
-            disabled={googleLoading}
-            className="w-full flex items-center justify-center gap-3 px-6 py-3.5 bg-[#4F46E5] text-white rounded-xl hover:bg-[#4338CA] transition-all font-bold text-sm shadow-sm shadow-[#4F46E5]/20 disabled:opacity-50"
-          >
-            {googleLoading ? (
-              <Loader2 className="w-5 h-5 animate-spin" />
-            ) : (
-              <Chrome className="text-xl bg-white rounded-full p-0.5" />
-            )}
-            Continue with Google
-          </button>
-          
-          <button className="w-full flex items-center justify-center gap-3 px-6 py-3.5 bg-black text-white rounded-xl hover:bg-zinc-900 transition-all font-bold text-sm">
-            <Apple className="text-xl" />
-            Continue with Apple
-          </button>
-        </div>
-
-        <div className="relative my-8">
-          <div className="absolute inset-0 flex items-center">
-            <div className="w-full border-t border-gray-100"></div>
-          </div>
-          <div className="relative flex justify-center text-xs uppercase">
-            <span className="bg-white px-4 text-gray-300 font-bold tracking-widest">OR</span>
-          </div>
-        </div>
 
         <form className="space-y-4" onSubmit={handleSignUp}>
           <div className="space-y-1.5">
