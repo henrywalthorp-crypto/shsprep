@@ -183,7 +183,7 @@ const PathToProduction = () => {
                 </p>
                 <div className="flex flex-wrap gap-4">
                   <button className="px-10 py-5 bg-mint text-deep-forest font-black rounded-2xl shadow-xl shadow-mint/20 hover:scale-105 transition-transform">
-                    Claim Your Free Diagnostic
+                    Start Your Diagnostic
                   </button>
                   <button className="px-10 py-5 bg-white/5 border border-white/10 text-white font-black rounded-2xl hover:bg-white/10 transition-colors">
                     View Success Rates

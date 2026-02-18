@@ -35,7 +35,7 @@ const Navbar = () => {
               animate={{ y: 0 }}
               transition={{ delay: 0.2 }}
             >
-              🎓 Get ready for the 2024 SHSAT —{" "}
+              🎓 Get ready for the 2026 SHSAT —{" "}
               <a href="/practice" className="underline hover:opacity-80 transition-opacity">
                 Join our diagnostic test
               </a>{" "}
@@ -174,7 +174,7 @@ const Navbar = () => {
             {/* CTA Buttons */}
             <div className="flex items-center gap-3">
               <a
-                href="/login"
+                href="/sign-in"
                 className="hidden min-[1225px]:block px-5 py-2.5 text-sm font-bold hover:opacity-70 transition-opacity"
               >
                 Log In
@@ -185,7 +185,7 @@ const Navbar = () => {
                 whileTap={{ scale: 0.95 }}
                 className="hidden min-[1225px]:flex items-center gap-2 bg-deep-forest text-mint px-7 py-3 rounded-full text-sm font-bold shadow-xl shadow-deep-forest/10 hover:shadow-deep-forest/20 transition-all"
               >
-                Start for Free
+                Get Started
                 <ArrowRight className="w-4 h-4" />
               </motion.a>
 
@@ -260,7 +260,7 @@ const Navbar = () => {
                 </ul>
                 <div className="flex flex-col gap-4">
                   <motion.a
-                    href="/login"
+                    href="/sign-in"
                     whileTap={{ scale: 0.98 }}
                     className="flex items-center justify-between w-full p-6 bg-pastel-purple/40 rounded-[24px] group"
                   >

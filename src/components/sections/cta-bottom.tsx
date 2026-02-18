@@ -83,7 +83,7 @@ const CTABottom = () => {
                   <div>
                     <span className="text-[10px] font-black uppercase tracking-[0.3em] opacity-40 mb-2 block">Premium Prep</span>
                     <span className="text-4xl font-black font-display leading-none tracking-tighter block">
-                      Start Your <br />Free Test
+                      Start Your <br />SHSAT Prep
                     </span>
                   </div>
                   

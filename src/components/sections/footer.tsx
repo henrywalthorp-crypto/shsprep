@@ -61,7 +61,7 @@ const Footer = () => {
             </div>
           </div>
           <div className="mt-20 pt-8 border-t border-[#152822]/10 flex flex-col md:flex-row justify-between items-center gap-4 text-[#152822]/40 text-[10px] font-bold uppercase tracking-widest">
-             <div>© 2024 SHSPREP. ALL RIGHTS RESERVED.</div>
+             <div>© 2026 SHSPREP. ALL RIGHTS RESERVED.</div>
              <div className="flex gap-8">
                 <a href="#">Terms</a>
                 <a href="#">Privacy</a>
