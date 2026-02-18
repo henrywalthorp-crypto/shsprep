@@ -19,10 +19,12 @@ import {
   Info,
   LogOut,
   Upload,
+  Crosshair,
 } from "lucide-react";
 
 const studentNavItems = [
   { icon: PenTool, label: "Practice", href: "/dashboard/practice" },
+  { icon: Crosshair, label: "Targeted Questions", href: "/dashboard/targeted-questions" },
   { icon: BookOpen, label: "Mock Exams", href: "/dashboard/mock-exams" },
   { icon: Layout, label: "Study Plan", href: "/dashboard" },
   { icon: BarChart2, label: "Performance", href: "/dashboard/performance" },

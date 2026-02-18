@@ -24,6 +24,7 @@ import {
   Tooltip,
   ResponsiveContainer,
 } from "recharts";
+import { getCategoryLabel } from "@/lib/questions/categories";
 
 interface Skill {
   category: string;
@@ -173,7 +174,7 @@ export default function PerformancePage() {
             <div className="bg-white rounded-[24px] p-6 border border-slate-100 shadow-sm mb-8">
               <h2 className="font-black text-deep-forest text-lg mb-6">Skill Mastery</h2>
               <ResponsiveContainer width="100%" height={Math.max(200, skills.length * 40)}>
-                <BarChart data={skills.map(s => ({ name: s.category, mastery: Math.round(s.mastery * 100) }))} layout="vertical">
+                <BarChart data={skills.map(s => ({ name: getCategoryLabel(s.category), mastery: Math.round(s.mastery * 100) }))} layout="vertical">
                   <CartesianGrid strokeDasharray="3 3" stroke="#E2E8F0" />
                   <XAxis type="number" domain={[0, 100]} tick={{ fontSize: 12, fill: "#94A3B8" }} />
                   <YAxis dataKey="name" type="category" width={180} tick={{ fontSize: 11, fill: "#64748B" }} />
@@ -197,7 +198,7 @@ export default function PerformancePage() {
                 {strengths.map((item) => (
                   <div key={item.category}>
                     <div className="flex items-center justify-between mb-1">
-                      <span className="text-sm font-bold text-deep-forest">{item.category}</span>
+                      <span className="text-sm font-bold text-deep-forest">{getCategoryLabel(item.category)}</span>
                       <div className="flex items-center gap-2">
                         <TrendIcon trend={item.trend} />
                         <span className="text-sm font-black text-[#22C55E]">{Math.round(item.accuracy * 100)}%</span>
@@ -223,7 +224,7 @@ export default function PerformancePage() {
                 {weaknesses.map((item) => (
                   <div key={item.category}>
                     <div className="flex items-center justify-between mb-1">
-                      <span className="text-sm font-bold text-deep-forest">{item.category}</span>
+                      <span className="text-sm font-bold text-deep-forest">{getCategoryLabel(item.category)}</span>
                       <div className="flex items-center gap-2">
                         <TrendIcon trend={item.trend} />
                         <span className="text-sm font-black text-[#F59E0B]">{Math.round(item.accuracy * 100)}%</span>
