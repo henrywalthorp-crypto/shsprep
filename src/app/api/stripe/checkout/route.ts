@@ -2,16 +2,38 @@ import { NextRequest, NextResponse } from 'next/server'
 import { createServerClient } from '@/lib/supabase/server'
 import { stripe, PLANS, isStripeConfigured, PlanType, getSubscriptionEndDate } from '@/lib/stripe'
 
+// Diagnostic endpoint - DELETE after debugging
+export async function GET() {
+  return NextResponse.json({
+    stripeConfigured: isStripeConfigured(),
+    hasStripeClient: !!stripe,
+    hasSecretKey: !!process.env.STRIPE_SECRET_KEY,
+    secretKeyPrefix: process.env.STRIPE_SECRET_KEY?.substring(0, 10) || 'MISSING',
+    hasMonthlyPrice: !!process.env.STRIPE_MONTHLY_PRICE_ID,
+    hasAnnualPrice: !!process.env.STRIPE_ANNUAL_PRICE_ID,
+    monthlyPriceId: process.env.STRIPE_MONTHLY_PRICE_ID || 'MISSING',
+    annualPriceId: process.env.STRIPE_ANNUAL_PRICE_ID || 'MISSING',
+    appUrl: process.env.NEXT_PUBLIC_APP_URL || 'MISSING',
+  })
+}
+
 export async function POST(request: NextRequest) {
   try {
-    if (!isStripeConfigured() || !stripe) {
-      return NextResponse.json({ error: 'Payments not configured', url: null }, { status: 503 })
+    const stripeConfigured = isStripeConfigured()
+    console.log('[stripe/checkout] configured:', stripeConfigured, 'stripe client:', !!stripe)
+    if (!stripeConfigured || !stripe) {
+      return NextResponse.json({ 
+        error: 'Payments not configured', 
+        debug: { hasSecretKey: !!process.env.STRIPE_SECRET_KEY, hasMonthlyPrice: !!process.env.STRIPE_MONTHLY_PRICE_ID },
+        url: null 
+      }, { status: 503 })
     }
 
     const supabase = await createServerClient()
     const { data: { user }, error: authError } = await supabase.auth.getUser()
+    console.log('[stripe/checkout] auth:', { userId: user?.id, authError: authError?.message })
     if (authError || !user) {
-      return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
+      return NextResponse.json({ error: 'Unauthorized', debug: { authError: authError?.message } }, { status: 401 })
     }
 
     const body = await request.json()
@@ -66,7 +88,9 @@ export async function POST(request: NextRequest) {
     })
 
     return NextResponse.json({ url: session.url })
-  } catch {
-    return NextResponse.json({ error: 'Internal server error' }, { status: 500 })
+  } catch (err: unknown) {
+    const message = err instanceof Error ? err.message : String(err)
+    console.error('[stripe/checkout] error:', message)
+    return NextResponse.json({ error: 'Internal server error', debug: message }, { status: 500 })
   }
 }
