@@ -137,8 +137,18 @@ export async function POST(request: NextRequest) {
       return NextResponse.json({ error: 'Failed to create session' }, { status: 500 })
     }
 
-    // Return first question
-    const firstQuestion = questions[0]
+    // Return first question — load passage text if needed
+    let firstQuestion: any = questions[0]
+    if (firstQuestion.passage_id && !firstQuestion.stimulus) {
+      const { data: passage } = await supabase
+        .from('passages')
+        .select('text, title')
+        .eq('id', firstQuestion.passage_id)
+        .single()
+      if (passage) {
+        firstQuestion = { ...firstQuestion, stimulus: passage.text }
+      }
+    }
 
     return NextResponse.json({
       sessionId: session.id,

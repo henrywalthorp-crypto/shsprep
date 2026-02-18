@@ -13,6 +13,7 @@ interface QuestionData {
   stem: string;
   stimulus: string | null;
   options: QuestionOption[] | null;
+  type?: string;
 }
 
 interface QuestionViewProps {
@@ -38,8 +39,8 @@ export function QuestionView({ question, selectedAnswer, onSelectAnswer, onSubmi
         <p className="text-lg font-bold text-deep-forest leading-relaxed">{question.stem}</p>
       </div>
 
-      {/* Options */}
-      {question.options && (
+      {/* Options — multiple choice */}
+      {question.options && question.options.length > 0 ? (
         <div className="space-y-3 mb-8">
           {question.options.map((opt) => {
             const isSelected = selectedAnswer === opt.label;
@@ -62,6 +63,20 @@ export function QuestionView({ question, selectedAnswer, onSelectAnswer, onSubmi
               </button>
             );
           })}
+        </div>
+      ) : (
+        /* Grid-in / free response input */
+        <div className="mb-8">
+          <label className="block text-[10px] font-black text-slate-400 uppercase tracking-widest mb-2">Your Answer</label>
+          <input
+            type="text"
+            value={selectedAnswer || ""}
+            onChange={(e) => onSelectAnswer(e.target.value)}
+            placeholder="Type your answer here..."
+            className="w-full px-5 py-4 rounded-2xl border-2 border-slate-200 focus:border-[#4F46E5] focus:ring-2 focus:ring-[#4F46E5]/20 outline-none text-lg font-bold text-deep-forest transition-all"
+            autoFocus
+            onKeyDown={(e) => { if (e.key === "Enter" && selectedAnswer) onSubmit(); }}
+          />
         </div>
       )}
 

@@ -4,6 +4,24 @@ import { z } from 'zod'
 import { updateMastery, calculateTrend, selectNextQuestion } from '@/lib/questions/engine'
 import type { EngineSkillStats, Question } from '@/lib/types'
 
+/** Normalize common_mistakes: strings like "A: explanation" → {label, explanation} */
+function normalizeCommonMistakes(raw: unknown): { label: string; explanation: string }[] {
+  if (!Array.isArray(raw)) return []
+  return raw.map((item: unknown) => {
+    if (typeof item === 'object' && item !== null && 'label' in item && 'explanation' in item) {
+      return item as { label: string; explanation: string }
+    }
+    if (typeof item === 'string') {
+      const colonIdx = item.indexOf(':')
+      if (colonIdx > 0 && colonIdx <= 3) {
+        return { label: item.slice(0, colonIdx).trim(), explanation: item.slice(colonIdx + 1).trim() }
+      }
+      return { label: '', explanation: item }
+    }
+    return { label: '', explanation: String(item) }
+  })
+}
+
 const answerSchema = z.object({
   questionId: z.string().uuid(),
   answer: z.string().min(1),
@@ -46,10 +64,10 @@ export async function POST(
       return NextResponse.json({ error: 'Session is not in progress' }, { status: 400 })
     }
 
-    // Get question with correct answer
+    // Get question with correct answer and passage if applicable
     const { data: question, error: qError } = await supabase
       .from('questions')
-      .select('*')
+      .select('*, passages:passage_id(id, title, text, type)')
       .eq('id', questionId)
       .single()
 
@@ -183,13 +201,16 @@ export async function POST(
     // Filter to unanswered questions
     const unansweredQuestions = (allQuestions || []).filter(q => !answeredSet.has(q.id)) as Question[]
 
+    // Normalize common_mistakes: convert strings like "A: explanation" to {label, explanation}
+    const normalizedMistakes = normalizeCommonMistakes(question.common_mistakes)
+
     // Check if we've answered enough questions
     if (answeredSet.size >= session.total_questions || unansweredQuestions.length === 0) {
       return NextResponse.json({
         isCorrect,
         correctAnswer: question.correct_answer,
         explanation: question.explanation,
-        commonMistakes: question.common_mistakes,
+        commonMistakes: normalizedMistakes,
         nextQuestion: null,
       })
     }
@@ -225,7 +246,7 @@ export async function POST(
 
     const nextSelection = selectNextQuestion(engineStats, recentSessionAttempts, unansweredQuestions as Question[])
 
-    let nextQuestion = null
+    let nextQuestion: any = null
     if (nextSelection) {
       nextQuestion = unansweredQuestions.find(q => q.id === nextSelection.questionId) || null
     }
@@ -234,11 +255,23 @@ export async function POST(
       nextQuestion = unansweredQuestions[0]
     }
 
+    // Load passage text for next question if it has a passage_id but no stimulus
+    if (nextQuestion && nextQuestion.passage_id && !nextQuestion.stimulus) {
+      const { data: passage } = await supabase
+        .from('passages')
+        .select('text, title')
+        .eq('id', nextQuestion.passage_id)
+        .single()
+      if (passage) {
+        nextQuestion = { ...nextQuestion, stimulus: passage.text }
+      }
+    }
+
     return NextResponse.json({
       isCorrect,
       correctAnswer: question.correct_answer,
       explanation: question.explanation,
-      commonMistakes: question.common_mistakes,
+      commonMistakes: normalizedMistakes,
       nextQuestion,
     })
   } catch {

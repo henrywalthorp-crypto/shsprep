@@ -75,8 +75,17 @@ export default function PerformancePage() {
       .finally(() => setLoading(false));
   }, []);
 
-  const totalQuestions = history.reduce((a, s) => a + s.questionsCount, 0);
-  const avgAccuracy = history.length > 0 ? history.reduce((a, s) => a + s.accuracy, 0) / history.length : 0;
+  // Also compute totals from skill stats (more reliable since they update per-answer)
+  const totalQuestionsFromSkills = skills.reduce((a, s) => a + s.totalAttempted, 0);
+  const totalQuestionsFromHistory = history.reduce((a, s) => a + s.questionsCount, 0);
+  const totalQuestions = Math.max(totalQuestionsFromSkills, totalQuestionsFromHistory);
+  const avgAccuracyFromSkills = skills.length > 0 
+    ? skills.reduce((a, s) => a + s.accuracy * s.totalAttempted, 0) / Math.max(totalQuestionsFromSkills, 1)
+    : 0;
+  const avgAccuracyFromHistory = history.length > 0 
+    ? history.reduce((a, s) => a + (s.accuracy || 0), 0) / history.length 
+    : 0;
+  const avgAccuracy = totalQuestionsFromSkills > 0 ? avgAccuracyFromSkills : avgAccuracyFromHistory;
   const totalTime = history.reduce((a, s) => a + s.timeSpent, 0);
 
   const strengths = [...skills].sort((a, b) => b.accuracy - a.accuracy).slice(0, 4);

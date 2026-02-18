@@ -110,9 +110,20 @@ async function createSession(
 
   // Shuffle and pick
   const shuffled = questions.sort(() => Math.random() - 0.5).slice(0, questionCount)
-  const firstQuestion = shuffled[0]
+  let firstQuestion = shuffled[0]
 
-  // Pre-queue remaining questions
+  // Load passage text for first question if needed
+  if (firstQuestion.passage_id && !firstQuestion.stimulus) {
+    const { data: passage } = await supabase
+      .from('passages')
+      .select('text, title')
+      .eq('id', firstQuestion.passage_id)
+      .single()
+    if (passage) {
+      firstQuestion = { ...firstQuestion, stimulus: passage.text }
+    }
+  }
+
   const remaining = shuffled.slice(1)
 
   return NextResponse.json({

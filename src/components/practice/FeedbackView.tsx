@@ -46,7 +46,7 @@ export function FeedbackView({ question, feedback, selectedAnswer, onNext }: Fee
       </div>
 
       {/* Options with feedback highlighting */}
-      {question.options && (
+      {question.options && question.options.length > 0 ? (
         <div className="space-y-3 mb-8">
           {question.options.map((opt) => {
             const isSelected = selectedAnswer === opt.label;
@@ -84,6 +84,34 @@ export function FeedbackView({ question, feedback, selectedAnswer, onNext }: Fee
               </button>
             );
           })}
+        </div>
+      ) : (
+        /* Grid-in answer feedback */
+        <div className="mb-8 space-y-3">
+          <div className={`p-5 rounded-2xl border-2 flex items-center gap-4 ${
+            feedback.isCorrect ? "border-[#22C55E] bg-[#22C55E]/5" : "border-[#EF4444] bg-[#EF4444]/5"
+          }`}>
+            <div className={`w-10 h-10 rounded-xl flex items-center justify-center shrink-0 ${
+              feedback.isCorrect ? "bg-[#22C55E] text-white" : "bg-[#EF4444] text-white"
+            }`}>
+              {feedback.isCorrect ? <CheckCircle2 className="w-5 h-5" /> : <XCircle className="w-5 h-5" />}
+            </div>
+            <div>
+              <span className="text-sm font-bold text-slate-400">Your answer: </span>
+              <span className="text-sm font-bold text-deep-forest">{selectedAnswer}</span>
+            </div>
+          </div>
+          {!feedback.isCorrect && (
+            <div className="p-5 rounded-2xl border-2 border-[#22C55E] bg-[#22C55E]/5 flex items-center gap-4">
+              <div className="w-10 h-10 rounded-xl flex items-center justify-center bg-[#22C55E] text-white shrink-0">
+                <CheckCircle2 className="w-5 h-5" />
+              </div>
+              <div>
+                <span className="text-sm font-bold text-slate-400">Correct answer: </span>
+                <span className="text-sm font-bold text-deep-forest">{feedback.correctAnswer}</span>
+              </div>
+            </div>
+          )}
         </div>
       )}
 
