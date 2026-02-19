@@ -41,6 +41,54 @@ function BlogContent() {
   // Hardcoded articles matching our markdown files
   const articles: BlogArticle[] = [
     {
+      slug: "shsat-score-calculator",
+      title: "SHSAT Score Calculator 2026: Estimate Your Score & See Which Schools You'd Get Into",
+      description: "Free SHSAT score calculator — enter your raw scores to estimate your scaled score and see which specialized high schools you'd qualify for.",
+      keywords: ["SHSAT score calculator", "SHSAT scoring", "SHSAT cutoff scores"],
+      category: "tools",
+      author: "SHS Prep Team",
+      publishedAt: "2026-02-18",
+      readTime: "5 min read",
+      image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80&w=800",
+      content: "",
+    },
+    {
+      slug: "shsat-cutoff-scores-2026",
+      title: "What Score Do You Need on the SHSAT? 2026 Cutoff Scores for Every School",
+      description: "Complete guide to SHSAT cutoff scores for all 8 specialized high schools. Includes 2025 cutoffs, historical trends, and what you need to score.",
+      keywords: ["SHSAT cutoff scores", "what score for Stuyvesant", "SHSAT score needed"],
+      category: "test-prep",
+      author: "SHS Prep Team",
+      publishedAt: "2026-02-18",
+      readTime: "10 min read",
+      image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&q=80&w=800",
+      content: "",
+    },
+    {
+      slug: "how-to-study-for-the-shsat",
+      title: "How to Study for the SHSAT: 10 Proven Strategies That Actually Work",
+      description: "Master the SHSAT with 10 proven study strategies from top scorers. Includes study timelines, common mistakes, and expert tips.",
+      keywords: ["how to study for SHSAT", "SHSAT study tips", "SHSAT preparation"],
+      category: "test-prep",
+      author: "SHS Prep Team",
+      publishedAt: "2026-02-18",
+      readTime: "12 min read",
+      image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&q=80&w=800",
+      content: "",
+    },
+    {
+      slug: "shsat-ela-reading-comprehension-guide",
+      title: "SHSAT ELA Reading Comprehension: How to Master the Hardest Section",
+      description: "Master SHSAT reading comprehension with proven strategies for every question type. Tips for fiction, nonfiction, and poetry passages.",
+      keywords: ["SHSAT reading comprehension", "SHSAT ELA tips", "SHSAT reading strategies"],
+      category: "ela",
+      author: "SHS Prep Team",
+      publishedAt: "2026-02-18",
+      readTime: "11 min read",
+      image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?auto=format&fit=crop&q=80&w=800",
+      content: "",
+    },
+    {
       slug: "parent-guide-shsat-registration-2026",
       title: "Parent's Guide to SHSAT Registration & Preparation (2026)",
       description: "Everything parents need to know about registering for the 2026 SHSAT, supporting your child's preparation, and navigating the specialized high school admissions process.",
@@ -127,6 +175,27 @@ function BlogContent() {
             active={activeCategory}
             onChange={setActiveCategory}
           />
+        </div>
+      </section>
+
+      {/* Pinned Score Calculator Card */}
+      <section className="px-5 md:px-10 lg:px-20 mb-12">
+        <div className="max-w-[1280px] mx-auto">
+          <a href="/blog/shsat-score-calculator" className="block group">
+            <div className="bg-gradient-to-r from-[#4F46E5] to-[#7C3AED] rounded-[28px] p-8 md:p-10 flex flex-col md:flex-row items-center gap-6 shadow-xl shadow-[#4F46E5]/10 hover:shadow-2xl hover:shadow-[#4F46E5]/20 transition-all">
+              <div className="w-16 h-16 bg-white/20 rounded-2xl flex items-center justify-center shrink-0">
+                <svg className="w-8 h-8 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 7h6m0 10v-3m-3 3h.01M9 17h.01M9 14h.01M12 14h.01M15 11h.01M12 11h.01M9 11h.01M7 21h10a2 2 0 002-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v14a2 2 0 002 2z" /></svg>
+              </div>
+              <div className="flex-1 text-center md:text-left">
+                <div className="text-[10px] font-black text-white/50 uppercase tracking-widest mb-1">📌 Popular Tool</div>
+                <h3 className="text-xl md:text-2xl font-black text-white mb-2">SHSAT Score Calculator</h3>
+                <p className="text-white/70 text-sm font-medium">Enter your raw scores to estimate your scaled score and see which specialized high schools you&apos;d qualify for. Includes 2025 cutoff scores for all 8 schools.</p>
+              </div>
+              <div className="bg-white text-[#4F46E5] px-6 py-3 rounded-xl font-black text-sm group-hover:bg-slate-100 transition-colors shrink-0">
+                Try Calculator →
+              </div>
+            </div>
+          </a>
         </div>
       </section>
 

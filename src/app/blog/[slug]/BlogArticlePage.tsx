@@ -11,6 +11,7 @@ import TableOfContents from "@/components/blog/TableOfContents";
 import ArticleCTA from "@/components/blog/ArticleCTA";
 import ShareButtons from "@/components/blog/ShareButtons";
 import ArticleCard from "@/components/blog/ArticleCard";
+import ScoreCalculator from "@/components/blog/ScoreCalculator";
 import type { BlogArticle } from "@/lib/blog/articles";
 
 const categoryLabels: Record<string, string> = {
@@ -21,6 +22,7 @@ const categoryLabels: Record<string, string> = {
   "school-guides": "School Guides",
   "parent-resources": "For Parents",
   "success-stories": "Success Stories",
+  tools: "Tools",
 };
 
 export default function BlogArticlePage({
@@ -99,7 +101,17 @@ export default function BlogArticlePage({
           </div>
         </section>
 
+        {/* Score Calculator (for score-calculator article) */}
+        {article.slug === "shsat-score-calculator" && (
+          <section className="px-5 md:px-10 lg:px-20 mb-12">
+            <div className="max-w-[900px] mx-auto">
+              <ScoreCalculator />
+            </div>
+          </section>
+        )}
+
         {/* Hero Image */}
+        {article.slug !== "shsat-score-calculator" && (
         <section className="px-5 md:px-10 lg:px-20 mb-12">
           <div className="max-w-[1100px] mx-auto">
             <div className="rounded-[32px] overflow-hidden">
@@ -111,6 +123,7 @@ export default function BlogArticlePage({
             </div>
           </div>
         </section>
+        )}
 
         {/* Content + TOC */}
         <section className="px-5 md:px-10 lg:px-20 mb-16">
