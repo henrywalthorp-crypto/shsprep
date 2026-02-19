@@ -1,0 +1,4536 @@
+[
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read the passage and answer the question.\\n\\nWhat is the main idea of this passage?",
+    "stimulus": "The honey bee is one of nature's most efficient pollinators. As bees collect nectar from flowers, pollen grains stick to their fuzzy bodies. When they visit the next flower, some of this pollen brushes off, fertilizing the plant. This process is essential for the reproduction of many flowering plants. Without bees, our food supply would be severely impacted, as they pollinate crops that produce about one-third of the food we eat. Scientists estimate that bees contribute over $15 billion annually to U.S. agriculture through their pollination services. However, bee populations have been declining due to habitat loss, pesticide use, and climate change.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Honey bees are essential pollinators whose declining populations threaten food production."
+      },
+      {
+        "label": "B",
+        "text": "Bees only collect nectar from flowers for food."
+      },
+      {
+        "label": "C",
+        "text": "Pesticides are the only threat to bee populations."
+      },
+      {
+        "label": "D",
+        "text": "Bees contribute exactly $15 billion to the economy."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main idea captures the central point of the entire passage, focusing on the key concept discussed throughout.",
+    "commonMistakes": [
+      {
+        "label": "Focusing on details",
+        "explanation": "Students might choose an answer that focuses on a specific detail rather than the overall main idea."
+      },
+      {
+        "label": "Making assumptions",
+        "explanation": "Students might choose answers that go beyond what the passage actually states."
+      }
+    ],
+    "skills": [
+      "main-idea",
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading",
+      "comprehension"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Read the passage and answer the question.\\n\\nWhat is the main idea of this passage?",
+    "stimulus": "Social media has fundamentally changed how teenagers communicate and form relationships. Unlike previous generations who primarily interacted face-to-face or through phone calls, today's teens often prefer texting, messaging apps, and social platforms. This shift has both benefits and drawbacks. On the positive side, social media allows teens to maintain connections with friends across distances and find communities of people with similar interests. However, excessive social media use has been linked to increased anxiety, depression, and sleep problems among adolescents. Experts recommend that teens balance online interactions with in-person socialization.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Social media has changed teen communication with both positive and negative effects."
+      },
+      {
+        "label": "B",
+        "text": "All teenagers prefer social media to face-to-face interaction."
+      },
+      {
+        "label": "C",
+        "text": "Social media only has negative effects on teens."
+      },
+      {
+        "label": "D",
+        "text": "Previous generations never used technology to communicate."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main idea captures the central point of the entire passage, focusing on the key concept discussed throughout.",
+    "commonMistakes": [
+      {
+        "label": "Focusing on details",
+        "explanation": "Students might choose an answer that focuses on a specific detail rather than the overall main idea."
+      },
+      {
+        "label": "Making assumptions",
+        "explanation": "Students might choose answers that go beyond what the passage actually states."
+      }
+    ],
+    "skills": [
+      "main-idea",
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading",
+      "comprehension"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Read the passage and answer the question.\\n\\nWhat is the main idea of this passage?",
+    "stimulus": "The honey bee is one of nature's most efficient pollinators. As bees collect nectar from flowers, pollen grains stick to their fuzzy bodies. When they visit the next flower, some of this pollen brushes off, fertilizing the plant. This process is essential for the reproduction of many flowering plants. Without bees, our food supply would be severely impacted, as they pollinate crops that produce about one-third of the food we eat. Scientists estimate that bees contribute over $15 billion annually to U.S. agriculture through their pollination services. However, bee populations have been declining due to habitat loss, pesticide use, and climate change.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Honey bees are essential pollinators whose declining populations threaten food production."
+      },
+      {
+        "label": "B",
+        "text": "Bees only collect nectar from flowers for food."
+      },
+      {
+        "label": "C",
+        "text": "Pesticides are the only threat to bee populations."
+      },
+      {
+        "label": "D",
+        "text": "Bees contribute exactly $15 billion to the economy."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main idea captures the central point of the entire passage, focusing on the key concept discussed throughout.",
+    "commonMistakes": [
+      {
+        "label": "Focusing on details",
+        "explanation": "Students might choose an answer that focuses on a specific detail rather than the overall main idea."
+      },
+      {
+        "label": "Making assumptions",
+        "explanation": "Students might choose answers that go beyond what the passage actually states."
+      }
+    ],
+    "skills": [
+      "main-idea",
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading",
+      "comprehension"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read the passage and answer the question.\\n\\nWhat is the main idea of this passage?",
+    "stimulus": "Social media has fundamentally changed how teenagers communicate and form relationships. Unlike previous generations who primarily interacted face-to-face or through phone calls, today's teens often prefer texting, messaging apps, and social platforms. This shift has both benefits and drawbacks. On the positive side, social media allows teens to maintain connections with friends across distances and find communities of people with similar interests. However, excessive social media use has been linked to increased anxiety, depression, and sleep problems among adolescents. Experts recommend that teens balance online interactions with in-person socialization.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Social media has changed teen communication with both positive and negative effects."
+      },
+      {
+        "label": "B",
+        "text": "All teenagers prefer social media to face-to-face interaction."
+      },
+      {
+        "label": "C",
+        "text": "Social media only has negative effects on teens."
+      },
+      {
+        "label": "D",
+        "text": "Previous generations never used technology to communicate."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main idea captures the central point of the entire passage, focusing on the key concept discussed throughout.",
+    "commonMistakes": [
+      {
+        "label": "Focusing on details",
+        "explanation": "Students might choose an answer that focuses on a specific detail rather than the overall main idea."
+      },
+      {
+        "label": "Making assumptions",
+        "explanation": "Students might choose answers that go beyond what the passage actually states."
+      }
+    ],
+    "skills": [
+      "main-idea",
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading",
+      "comprehension"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Read the passage and answer the question.\\n\\nWhat is the main idea of this passage?",
+    "stimulus": "The honey bee is one of nature's most efficient pollinators. As bees collect nectar from flowers, pollen grains stick to their fuzzy bodies. When they visit the next flower, some of this pollen brushes off, fertilizing the plant. This process is essential for the reproduction of many flowering plants. Without bees, our food supply would be severely impacted, as they pollinate crops that produce about one-third of the food we eat. Scientists estimate that bees contribute over $15 billion annually to U.S. agriculture through their pollination services. However, bee populations have been declining due to habitat loss, pesticide use, and climate change.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Honey bees are essential pollinators whose declining populations threaten food production."
+      },
+      {
+        "label": "B",
+        "text": "Bees only collect nectar from flowers for food."
+      },
+      {
+        "label": "C",
+        "text": "Pesticides are the only threat to bee populations."
+      },
+      {
+        "label": "D",
+        "text": "Bees contribute exactly $15 billion to the economy."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main idea captures the central point of the entire passage, focusing on the key concept discussed throughout.",
+    "commonMistakes": [
+      {
+        "label": "Focusing on details",
+        "explanation": "Students might choose an answer that focuses on a specific detail rather than the overall main idea."
+      },
+      {
+        "label": "Making assumptions",
+        "explanation": "Students might choose answers that go beyond what the passage actually states."
+      }
+    ],
+    "skills": [
+      "main-idea",
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading",
+      "comprehension"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Read the passage and answer the question.\\n\\nWhat is the main idea of this passage?",
+    "stimulus": "Social media has fundamentally changed how teenagers communicate and form relationships. Unlike previous generations who primarily interacted face-to-face or through phone calls, today's teens often prefer texting, messaging apps, and social platforms. This shift has both benefits and drawbacks. On the positive side, social media allows teens to maintain connections with friends across distances and find communities of people with similar interests. However, excessive social media use has been linked to increased anxiety, depression, and sleep problems among adolescents. Experts recommend that teens balance online interactions with in-person socialization.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Social media has changed teen communication with both positive and negative effects."
+      },
+      {
+        "label": "B",
+        "text": "All teenagers prefer social media to face-to-face interaction."
+      },
+      {
+        "label": "C",
+        "text": "Social media only has negative effects on teens."
+      },
+      {
+        "label": "D",
+        "text": "Previous generations never used technology to communicate."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main idea captures the central point of the entire passage, focusing on the key concept discussed throughout.",
+    "commonMistakes": [
+      {
+        "label": "Focusing on details",
+        "explanation": "Students might choose an answer that focuses on a specific detail rather than the overall main idea."
+      },
+      {
+        "label": "Making assumptions",
+        "explanation": "Students might choose answers that go beyond what the passage actually states."
+      }
+    ],
+    "skills": [
+      "main-idea",
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading",
+      "comprehension"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read the passage and answer the question.\\n\\nWhat is the main idea of this passage?",
+    "stimulus": "The honey bee is one of nature's most efficient pollinators. As bees collect nectar from flowers, pollen grains stick to their fuzzy bodies. When they visit the next flower, some of this pollen brushes off, fertilizing the plant. This process is essential for the reproduction of many flowering plants. Without bees, our food supply would be severely impacted, as they pollinate crops that produce about one-third of the food we eat. Scientists estimate that bees contribute over $15 billion annually to U.S. agriculture through their pollination services. However, bee populations have been declining due to habitat loss, pesticide use, and climate change.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Honey bees are essential pollinators whose declining populations threaten food production."
+      },
+      {
+        "label": "B",
+        "text": "Bees only collect nectar from flowers for food."
+      },
+      {
+        "label": "C",
+        "text": "Pesticides are the only threat to bee populations."
+      },
+      {
+        "label": "D",
+        "text": "Bees contribute exactly $15 billion to the economy."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main idea captures the central point of the entire passage, focusing on the key concept discussed throughout.",
+    "commonMistakes": [
+      {
+        "label": "Focusing on details",
+        "explanation": "Students might choose an answer that focuses on a specific detail rather than the overall main idea."
+      },
+      {
+        "label": "Making assumptions",
+        "explanation": "Students might choose answers that go beyond what the passage actually states."
+      }
+    ],
+    "skills": [
+      "main-idea",
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading",
+      "comprehension"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Read the passage and answer the question.\\n\\nWhat is the main idea of this passage?",
+    "stimulus": "Social media has fundamentally changed how teenagers communicate and form relationships. Unlike previous generations who primarily interacted face-to-face or through phone calls, today's teens often prefer texting, messaging apps, and social platforms. This shift has both benefits and drawbacks. On the positive side, social media allows teens to maintain connections with friends across distances and find communities of people with similar interests. However, excessive social media use has been linked to increased anxiety, depression, and sleep problems among adolescents. Experts recommend that teens balance online interactions with in-person socialization.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Social media has changed teen communication with both positive and negative effects."
+      },
+      {
+        "label": "B",
+        "text": "All teenagers prefer social media to face-to-face interaction."
+      },
+      {
+        "label": "C",
+        "text": "Social media only has negative effects on teens."
+      },
+      {
+        "label": "D",
+        "text": "Previous generations never used technology to communicate."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main idea captures the central point of the entire passage, focusing on the key concept discussed throughout.",
+    "commonMistakes": [
+      {
+        "label": "Focusing on details",
+        "explanation": "Students might choose an answer that focuses on a specific detail rather than the overall main idea."
+      },
+      {
+        "label": "Making assumptions",
+        "explanation": "Students might choose answers that go beyond what the passage actually states."
+      }
+    ],
+    "skills": [
+      "main-idea",
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading",
+      "comprehension"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Read the passage and answer the question.\\n\\nWhat is the main idea of this passage?",
+    "stimulus": "The honey bee is one of nature's most efficient pollinators. As bees collect nectar from flowers, pollen grains stick to their fuzzy bodies. When they visit the next flower, some of this pollen brushes off, fertilizing the plant. This process is essential for the reproduction of many flowering plants. Without bees, our food supply would be severely impacted, as they pollinate crops that produce about one-third of the food we eat. Scientists estimate that bees contribute over $15 billion annually to U.S. agriculture through their pollination services. However, bee populations have been declining due to habitat loss, pesticide use, and climate change.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Honey bees are essential pollinators whose declining populations threaten food production."
+      },
+      {
+        "label": "B",
+        "text": "Bees only collect nectar from flowers for food."
+      },
+      {
+        "label": "C",
+        "text": "Pesticides are the only threat to bee populations."
+      },
+      {
+        "label": "D",
+        "text": "Bees contribute exactly $15 billion to the economy."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main idea captures the central point of the entire passage, focusing on the key concept discussed throughout.",
+    "commonMistakes": [
+      {
+        "label": "Focusing on details",
+        "explanation": "Students might choose an answer that focuses on a specific detail rather than the overall main idea."
+      },
+      {
+        "label": "Making assumptions",
+        "explanation": "Students might choose answers that go beyond what the passage actually states."
+      }
+    ],
+    "skills": [
+      "main-idea",
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading",
+      "comprehension"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read the passage and answer the question.\\n\\nWhat is the main idea of this passage?",
+    "stimulus": "Social media has fundamentally changed how teenagers communicate and form relationships. Unlike previous generations who primarily interacted face-to-face or through phone calls, today's teens often prefer texting, messaging apps, and social platforms. This shift has both benefits and drawbacks. On the positive side, social media allows teens to maintain connections with friends across distances and find communities of people with similar interests. However, excessive social media use has been linked to increased anxiety, depression, and sleep problems among adolescents. Experts recommend that teens balance online interactions with in-person socialization.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Social media has changed teen communication with both positive and negative effects."
+      },
+      {
+        "label": "B",
+        "text": "All teenagers prefer social media to face-to-face interaction."
+      },
+      {
+        "label": "C",
+        "text": "Social media only has negative effects on teens."
+      },
+      {
+        "label": "D",
+        "text": "Previous generations never used technology to communicate."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main idea captures the central point of the entire passage, focusing on the key concept discussed throughout.",
+    "commonMistakes": [
+      {
+        "label": "Focusing on details",
+        "explanation": "Students might choose an answer that focuses on a specific detail rather than the overall main idea."
+      },
+      {
+        "label": "Making assumptions",
+        "explanation": "Students might choose answers that go beyond what the passage actually states."
+      }
+    ],
+    "skills": [
+      "main-idea",
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading",
+      "comprehension"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Read the passage and answer the question.\\n\\nWhat is the main idea of this passage?",
+    "stimulus": "The honey bee is one of nature's most efficient pollinators. As bees collect nectar from flowers, pollen grains stick to their fuzzy bodies. When they visit the next flower, some of this pollen brushes off, fertilizing the plant. This process is essential for the reproduction of many flowering plants. Without bees, our food supply would be severely impacted, as they pollinate crops that produce about one-third of the food we eat. Scientists estimate that bees contribute over $15 billion annually to U.S. agriculture through their pollination services. However, bee populations have been declining due to habitat loss, pesticide use, and climate change.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Honey bees are essential pollinators whose declining populations threaten food production."
+      },
+      {
+        "label": "B",
+        "text": "Bees only collect nectar from flowers for food."
+      },
+      {
+        "label": "C",
+        "text": "Pesticides are the only threat to bee populations."
+      },
+      {
+        "label": "D",
+        "text": "Bees contribute exactly $15 billion to the economy."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main idea captures the central point of the entire passage, focusing on the key concept discussed throughout.",
+    "commonMistakes": [
+      {
+        "label": "Focusing on details",
+        "explanation": "Students might choose an answer that focuses on a specific detail rather than the overall main idea."
+      },
+      {
+        "label": "Making assumptions",
+        "explanation": "Students might choose answers that go beyond what the passage actually states."
+      }
+    ],
+    "skills": [
+      "main-idea",
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading",
+      "comprehension"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Read the passage and answer the question.\\n\\nWhat is the main idea of this passage?",
+    "stimulus": "Social media has fundamentally changed how teenagers communicate and form relationships. Unlike previous generations who primarily interacted face-to-face or through phone calls, today's teens often prefer texting, messaging apps, and social platforms. This shift has both benefits and drawbacks. On the positive side, social media allows teens to maintain connections with friends across distances and find communities of people with similar interests. However, excessive social media use has been linked to increased anxiety, depression, and sleep problems among adolescents. Experts recommend that teens balance online interactions with in-person socialization.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Social media has changed teen communication with both positive and negative effects."
+      },
+      {
+        "label": "B",
+        "text": "All teenagers prefer social media to face-to-face interaction."
+      },
+      {
+        "label": "C",
+        "text": "Social media only has negative effects on teens."
+      },
+      {
+        "label": "D",
+        "text": "Previous generations never used technology to communicate."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main idea captures the central point of the entire passage, focusing on the key concept discussed throughout.",
+    "commonMistakes": [
+      {
+        "label": "Focusing on details",
+        "explanation": "Students might choose an answer that focuses on a specific detail rather than the overall main idea."
+      },
+      {
+        "label": "Making assumptions",
+        "explanation": "Students might choose answers that go beyond what the passage actually states."
+      }
+    ],
+    "skills": [
+      "main-idea",
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading",
+      "comprehension"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read the passage and answer the question.\\n\\nWhat is the main idea of this passage?",
+    "stimulus": "The honey bee is one of nature's most efficient pollinators. As bees collect nectar from flowers, pollen grains stick to their fuzzy bodies. When they visit the next flower, some of this pollen brushes off, fertilizing the plant. This process is essential for the reproduction of many flowering plants. Without bees, our food supply would be severely impacted, as they pollinate crops that produce about one-third of the food we eat. Scientists estimate that bees contribute over $15 billion annually to U.S. agriculture through their pollination services. However, bee populations have been declining due to habitat loss, pesticide use, and climate change.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Honey bees are essential pollinators whose declining populations threaten food production."
+      },
+      {
+        "label": "B",
+        "text": "Bees only collect nectar from flowers for food."
+      },
+      {
+        "label": "C",
+        "text": "Pesticides are the only threat to bee populations."
+      },
+      {
+        "label": "D",
+        "text": "Bees contribute exactly $15 billion to the economy."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main idea captures the central point of the entire passage, focusing on the key concept discussed throughout.",
+    "commonMistakes": [
+      {
+        "label": "Focusing on details",
+        "explanation": "Students might choose an answer that focuses on a specific detail rather than the overall main idea."
+      },
+      {
+        "label": "Making assumptions",
+        "explanation": "Students might choose answers that go beyond what the passage actually states."
+      }
+    ],
+    "skills": [
+      "main-idea",
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading",
+      "comprehension"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Read the passage and answer the question.\\n\\nWhat is the main idea of this passage?",
+    "stimulus": "Social media has fundamentally changed how teenagers communicate and form relationships. Unlike previous generations who primarily interacted face-to-face or through phone calls, today's teens often prefer texting, messaging apps, and social platforms. This shift has both benefits and drawbacks. On the positive side, social media allows teens to maintain connections with friends across distances and find communities of people with similar interests. However, excessive social media use has been linked to increased anxiety, depression, and sleep problems among adolescents. Experts recommend that teens balance online interactions with in-person socialization.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Social media has changed teen communication with both positive and negative effects."
+      },
+      {
+        "label": "B",
+        "text": "All teenagers prefer social media to face-to-face interaction."
+      },
+      {
+        "label": "C",
+        "text": "Social media only has negative effects on teens."
+      },
+      {
+        "label": "D",
+        "text": "Previous generations never used technology to communicate."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main idea captures the central point of the entire passage, focusing on the key concept discussed throughout.",
+    "commonMistakes": [
+      {
+        "label": "Focusing on details",
+        "explanation": "Students might choose an answer that focuses on a specific detail rather than the overall main idea."
+      },
+      {
+        "label": "Making assumptions",
+        "explanation": "Students might choose answers that go beyond what the passage actually states."
+      }
+    ],
+    "skills": [
+      "main-idea",
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading",
+      "comprehension"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Read the passage and answer the question.\\n\\nWhat is the main idea of this passage?",
+    "stimulus": "The honey bee is one of nature's most efficient pollinators. As bees collect nectar from flowers, pollen grains stick to their fuzzy bodies. When they visit the next flower, some of this pollen brushes off, fertilizing the plant. This process is essential for the reproduction of many flowering plants. Without bees, our food supply would be severely impacted, as they pollinate crops that produce about one-third of the food we eat. Scientists estimate that bees contribute over $15 billion annually to U.S. agriculture through their pollination services. However, bee populations have been declining due to habitat loss, pesticide use, and climate change.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Honey bees are essential pollinators whose declining populations threaten food production."
+      },
+      {
+        "label": "B",
+        "text": "Bees only collect nectar from flowers for food."
+      },
+      {
+        "label": "C",
+        "text": "Pesticides are the only threat to bee populations."
+      },
+      {
+        "label": "D",
+        "text": "Bees contribute exactly $15 billion to the economy."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main idea captures the central point of the entire passage, focusing on the key concept discussed throughout.",
+    "commonMistakes": [
+      {
+        "label": "Focusing on details",
+        "explanation": "Students might choose an answer that focuses on a specific detail rather than the overall main idea."
+      },
+      {
+        "label": "Making assumptions",
+        "explanation": "Students might choose answers that go beyond what the passage actually states."
+      }
+    ],
+    "skills": [
+      "main-idea",
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading",
+      "comprehension"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read the passage and answer the question.\\n\\nWhat is the main idea of this passage?",
+    "stimulus": "Social media has fundamentally changed how teenagers communicate and form relationships. Unlike previous generations who primarily interacted face-to-face or through phone calls, today's teens often prefer texting, messaging apps, and social platforms. This shift has both benefits and drawbacks. On the positive side, social media allows teens to maintain connections with friends across distances and find communities of people with similar interests. However, excessive social media use has been linked to increased anxiety, depression, and sleep problems among adolescents. Experts recommend that teens balance online interactions with in-person socialization.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Social media has changed teen communication with both positive and negative effects."
+      },
+      {
+        "label": "B",
+        "text": "All teenagers prefer social media to face-to-face interaction."
+      },
+      {
+        "label": "C",
+        "text": "Social media only has negative effects on teens."
+      },
+      {
+        "label": "D",
+        "text": "Previous generations never used technology to communicate."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main idea captures the central point of the entire passage, focusing on the key concept discussed throughout.",
+    "commonMistakes": [
+      {
+        "label": "Focusing on details",
+        "explanation": "Students might choose an answer that focuses on a specific detail rather than the overall main idea."
+      },
+      {
+        "label": "Making assumptions",
+        "explanation": "Students might choose answers that go beyond what the passage actually states."
+      }
+    ],
+    "skills": [
+      "main-idea",
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading",
+      "comprehension"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Read the passage and answer the question.\\n\\nWhat is the main idea of this passage?",
+    "stimulus": "The honey bee is one of nature's most efficient pollinators. As bees collect nectar from flowers, pollen grains stick to their fuzzy bodies. When they visit the next flower, some of this pollen brushes off, fertilizing the plant. This process is essential for the reproduction of many flowering plants. Without bees, our food supply would be severely impacted, as they pollinate crops that produce about one-third of the food we eat. Scientists estimate that bees contribute over $15 billion annually to U.S. agriculture through their pollination services. However, bee populations have been declining due to habitat loss, pesticide use, and climate change.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Honey bees are essential pollinators whose declining populations threaten food production."
+      },
+      {
+        "label": "B",
+        "text": "Bees only collect nectar from flowers for food."
+      },
+      {
+        "label": "C",
+        "text": "Pesticides are the only threat to bee populations."
+      },
+      {
+        "label": "D",
+        "text": "Bees contribute exactly $15 billion to the economy."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main idea captures the central point of the entire passage, focusing on the key concept discussed throughout.",
+    "commonMistakes": [
+      {
+        "label": "Focusing on details",
+        "explanation": "Students might choose an answer that focuses on a specific detail rather than the overall main idea."
+      },
+      {
+        "label": "Making assumptions",
+        "explanation": "Students might choose answers that go beyond what the passage actually states."
+      }
+    ],
+    "skills": [
+      "main-idea",
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading",
+      "comprehension"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Read the passage and answer the question.\\n\\nWhat is the main idea of this passage?",
+    "stimulus": "Social media has fundamentally changed how teenagers communicate and form relationships. Unlike previous generations who primarily interacted face-to-face or through phone calls, today's teens often prefer texting, messaging apps, and social platforms. This shift has both benefits and drawbacks. On the positive side, social media allows teens to maintain connections with friends across distances and find communities of people with similar interests. However, excessive social media use has been linked to increased anxiety, depression, and sleep problems among adolescents. Experts recommend that teens balance online interactions with in-person socialization.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Social media has changed teen communication with both positive and negative effects."
+      },
+      {
+        "label": "B",
+        "text": "All teenagers prefer social media to face-to-face interaction."
+      },
+      {
+        "label": "C",
+        "text": "Social media only has negative effects on teens."
+      },
+      {
+        "label": "D",
+        "text": "Previous generations never used technology to communicate."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main idea captures the central point of the entire passage, focusing on the key concept discussed throughout.",
+    "commonMistakes": [
+      {
+        "label": "Focusing on details",
+        "explanation": "Students might choose an answer that focuses on a specific detail rather than the overall main idea."
+      },
+      {
+        "label": "Making assumptions",
+        "explanation": "Students might choose answers that go beyond what the passage actually states."
+      }
+    ],
+    "skills": [
+      "main-idea",
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading",
+      "comprehension"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read the passage and answer the question.\\n\\nWhat is the main idea of this passage?",
+    "stimulus": "The honey bee is one of nature's most efficient pollinators. As bees collect nectar from flowers, pollen grains stick to their fuzzy bodies. When they visit the next flower, some of this pollen brushes off, fertilizing the plant. This process is essential for the reproduction of many flowering plants. Without bees, our food supply would be severely impacted, as they pollinate crops that produce about one-third of the food we eat. Scientists estimate that bees contribute over $15 billion annually to U.S. agriculture through their pollination services. However, bee populations have been declining due to habitat loss, pesticide use, and climate change.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Honey bees are essential pollinators whose declining populations threaten food production."
+      },
+      {
+        "label": "B",
+        "text": "Bees only collect nectar from flowers for food."
+      },
+      {
+        "label": "C",
+        "text": "Pesticides are the only threat to bee populations."
+      },
+      {
+        "label": "D",
+        "text": "Bees contribute exactly $15 billion to the economy."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main idea captures the central point of the entire passage, focusing on the key concept discussed throughout.",
+    "commonMistakes": [
+      {
+        "label": "Focusing on details",
+        "explanation": "Students might choose an answer that focuses on a specific detail rather than the overall main idea."
+      },
+      {
+        "label": "Making assumptions",
+        "explanation": "Students might choose answers that go beyond what the passage actually states."
+      }
+    ],
+    "skills": [
+      "main-idea",
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading",
+      "comprehension"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Read the passage and answer the question.\\n\\nWhat is the main idea of this passage?",
+    "stimulus": "Social media has fundamentally changed how teenagers communicate and form relationships. Unlike previous generations who primarily interacted face-to-face or through phone calls, today's teens often prefer texting, messaging apps, and social platforms. This shift has both benefits and drawbacks. On the positive side, social media allows teens to maintain connections with friends across distances and find communities of people with similar interests. However, excessive social media use has been linked to increased anxiety, depression, and sleep problems among adolescents. Experts recommend that teens balance online interactions with in-person socialization.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Social media has changed teen communication with both positive and negative effects."
+      },
+      {
+        "label": "B",
+        "text": "All teenagers prefer social media to face-to-face interaction."
+      },
+      {
+        "label": "C",
+        "text": "Social media only has negative effects on teens."
+      },
+      {
+        "label": "D",
+        "text": "Previous generations never used technology to communicate."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main idea captures the central point of the entire passage, focusing on the key concept discussed throughout.",
+    "commonMistakes": [
+      {
+        "label": "Focusing on details",
+        "explanation": "Students might choose an answer that focuses on a specific detail rather than the overall main idea."
+      },
+      {
+        "label": "Making assumptions",
+        "explanation": "Students might choose answers that go beyond what the passage actually states."
+      }
+    ],
+    "skills": [
+      "main-idea",
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading",
+      "comprehension"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Read the passage and answer the question.\\n\\nWhat is the main idea of this passage?",
+    "stimulus": "The honey bee is one of nature's most efficient pollinators. As bees collect nectar from flowers, pollen grains stick to their fuzzy bodies. When they visit the next flower, some of this pollen brushes off, fertilizing the plant. This process is essential for the reproduction of many flowering plants. Without bees, our food supply would be severely impacted, as they pollinate crops that produce about one-third of the food we eat. Scientists estimate that bees contribute over $15 billion annually to U.S. agriculture through their pollination services. However, bee populations have been declining due to habitat loss, pesticide use, and climate change.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Honey bees are essential pollinators whose declining populations threaten food production."
+      },
+      {
+        "label": "B",
+        "text": "Bees only collect nectar from flowers for food."
+      },
+      {
+        "label": "C",
+        "text": "Pesticides are the only threat to bee populations."
+      },
+      {
+        "label": "D",
+        "text": "Bees contribute exactly $15 billion to the economy."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main idea captures the central point of the entire passage, focusing on the key concept discussed throughout.",
+    "commonMistakes": [
+      {
+        "label": "Focusing on details",
+        "explanation": "Students might choose an answer that focuses on a specific detail rather than the overall main idea."
+      },
+      {
+        "label": "Making assumptions",
+        "explanation": "Students might choose answers that go beyond what the passage actually states."
+      }
+    ],
+    "skills": [
+      "main-idea",
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading",
+      "comprehension"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read the passage and answer the question.\\n\\nWhat is the main idea of this passage?",
+    "stimulus": "Social media has fundamentally changed how teenagers communicate and form relationships. Unlike previous generations who primarily interacted face-to-face or through phone calls, today's teens often prefer texting, messaging apps, and social platforms. This shift has both benefits and drawbacks. On the positive side, social media allows teens to maintain connections with friends across distances and find communities of people with similar interests. However, excessive social media use has been linked to increased anxiety, depression, and sleep problems among adolescents. Experts recommend that teens balance online interactions with in-person socialization.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Social media has changed teen communication with both positive and negative effects."
+      },
+      {
+        "label": "B",
+        "text": "All teenagers prefer social media to face-to-face interaction."
+      },
+      {
+        "label": "C",
+        "text": "Social media only has negative effects on teens."
+      },
+      {
+        "label": "D",
+        "text": "Previous generations never used technology to communicate."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main idea captures the central point of the entire passage, focusing on the key concept discussed throughout.",
+    "commonMistakes": [
+      {
+        "label": "Focusing on details",
+        "explanation": "Students might choose an answer that focuses on a specific detail rather than the overall main idea."
+      },
+      {
+        "label": "Making assumptions",
+        "explanation": "Students might choose answers that go beyond what the passage actually states."
+      }
+    ],
+    "skills": [
+      "main-idea",
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading",
+      "comprehension"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Read the passage and answer the question.\\n\\nWhat is the main idea of this passage?",
+    "stimulus": "The honey bee is one of nature's most efficient pollinators. As bees collect nectar from flowers, pollen grains stick to their fuzzy bodies. When they visit the next flower, some of this pollen brushes off, fertilizing the plant. This process is essential for the reproduction of many flowering plants. Without bees, our food supply would be severely impacted, as they pollinate crops that produce about one-third of the food we eat. Scientists estimate that bees contribute over $15 billion annually to U.S. agriculture through their pollination services. However, bee populations have been declining due to habitat loss, pesticide use, and climate change.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Honey bees are essential pollinators whose declining populations threaten food production."
+      },
+      {
+        "label": "B",
+        "text": "Bees only collect nectar from flowers for food."
+      },
+      {
+        "label": "C",
+        "text": "Pesticides are the only threat to bee populations."
+      },
+      {
+        "label": "D",
+        "text": "Bees contribute exactly $15 billion to the economy."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main idea captures the central point of the entire passage, focusing on the key concept discussed throughout.",
+    "commonMistakes": [
+      {
+        "label": "Focusing on details",
+        "explanation": "Students might choose an answer that focuses on a specific detail rather than the overall main idea."
+      },
+      {
+        "label": "Making assumptions",
+        "explanation": "Students might choose answers that go beyond what the passage actually states."
+      }
+    ],
+    "skills": [
+      "main-idea",
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading",
+      "comprehension"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Read the passage and answer the question.\\n\\nWhat is the main idea of this passage?",
+    "stimulus": "Social media has fundamentally changed how teenagers communicate and form relationships. Unlike previous generations who primarily interacted face-to-face or through phone calls, today's teens often prefer texting, messaging apps, and social platforms. This shift has both benefits and drawbacks. On the positive side, social media allows teens to maintain connections with friends across distances and find communities of people with similar interests. However, excessive social media use has been linked to increased anxiety, depression, and sleep problems among adolescents. Experts recommend that teens balance online interactions with in-person socialization.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Social media has changed teen communication with both positive and negative effects."
+      },
+      {
+        "label": "B",
+        "text": "All teenagers prefer social media to face-to-face interaction."
+      },
+      {
+        "label": "C",
+        "text": "Social media only has negative effects on teens."
+      },
+      {
+        "label": "D",
+        "text": "Previous generations never used technology to communicate."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main idea captures the central point of the entire passage, focusing on the key concept discussed throughout.",
+    "commonMistakes": [
+      {
+        "label": "Focusing on details",
+        "explanation": "Students might choose an answer that focuses on a specific detail rather than the overall main idea."
+      },
+      {
+        "label": "Making assumptions",
+        "explanation": "Students might choose answers that go beyond what the passage actually states."
+      }
+    ],
+    "skills": [
+      "main-idea",
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading",
+      "comprehension"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read the passage and answer the question.\\n\\nWhat is the main idea of this passage?",
+    "stimulus": "The honey bee is one of nature's most efficient pollinators. As bees collect nectar from flowers, pollen grains stick to their fuzzy bodies. When they visit the next flower, some of this pollen brushes off, fertilizing the plant. This process is essential for the reproduction of many flowering plants. Without bees, our food supply would be severely impacted, as they pollinate crops that produce about one-third of the food we eat. Scientists estimate that bees contribute over $15 billion annually to U.S. agriculture through their pollination services. However, bee populations have been declining due to habitat loss, pesticide use, and climate change.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Honey bees are essential pollinators whose declining populations threaten food production."
+      },
+      {
+        "label": "B",
+        "text": "Bees only collect nectar from flowers for food."
+      },
+      {
+        "label": "C",
+        "text": "Pesticides are the only threat to bee populations."
+      },
+      {
+        "label": "D",
+        "text": "Bees contribute exactly $15 billion to the economy."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main idea captures the central point of the entire passage, focusing on the key concept discussed throughout.",
+    "commonMistakes": [
+      {
+        "label": "Focusing on details",
+        "explanation": "Students might choose an answer that focuses on a specific detail rather than the overall main idea."
+      },
+      {
+        "label": "Making assumptions",
+        "explanation": "Students might choose answers that go beyond what the passage actually states."
+      }
+    ],
+    "skills": [
+      "main-idea",
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading",
+      "comprehension"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Read the passage and answer the question.\\n\\nWhat is the main idea of this passage?",
+    "stimulus": "Social media has fundamentally changed how teenagers communicate and form relationships. Unlike previous generations who primarily interacted face-to-face or through phone calls, today's teens often prefer texting, messaging apps, and social platforms. This shift has both benefits and drawbacks. On the positive side, social media allows teens to maintain connections with friends across distances and find communities of people with similar interests. However, excessive social media use has been linked to increased anxiety, depression, and sleep problems among adolescents. Experts recommend that teens balance online interactions with in-person socialization.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Social media has changed teen communication with both positive and negative effects."
+      },
+      {
+        "label": "B",
+        "text": "All teenagers prefer social media to face-to-face interaction."
+      },
+      {
+        "label": "C",
+        "text": "Social media only has negative effects on teens."
+      },
+      {
+        "label": "D",
+        "text": "Previous generations never used technology to communicate."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main idea captures the central point of the entire passage, focusing on the key concept discussed throughout.",
+    "commonMistakes": [
+      {
+        "label": "Focusing on details",
+        "explanation": "Students might choose an answer that focuses on a specific detail rather than the overall main idea."
+      },
+      {
+        "label": "Making assumptions",
+        "explanation": "Students might choose answers that go beyond what the passage actually states."
+      }
+    ],
+    "skills": [
+      "main-idea",
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading",
+      "comprehension"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Read the passage and answer the question.\\n\\nWhat is the main idea of this passage?",
+    "stimulus": "The honey bee is one of nature's most efficient pollinators. As bees collect nectar from flowers, pollen grains stick to their fuzzy bodies. When they visit the next flower, some of this pollen brushes off, fertilizing the plant. This process is essential for the reproduction of many flowering plants. Without bees, our food supply would be severely impacted, as they pollinate crops that produce about one-third of the food we eat. Scientists estimate that bees contribute over $15 billion annually to U.S. agriculture through their pollination services. However, bee populations have been declining due to habitat loss, pesticide use, and climate change.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Honey bees are essential pollinators whose declining populations threaten food production."
+      },
+      {
+        "label": "B",
+        "text": "Bees only collect nectar from flowers for food."
+      },
+      {
+        "label": "C",
+        "text": "Pesticides are the only threat to bee populations."
+      },
+      {
+        "label": "D",
+        "text": "Bees contribute exactly $15 billion to the economy."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main idea captures the central point of the entire passage, focusing on the key concept discussed throughout.",
+    "commonMistakes": [
+      {
+        "label": "Focusing on details",
+        "explanation": "Students might choose an answer that focuses on a specific detail rather than the overall main idea."
+      },
+      {
+        "label": "Making assumptions",
+        "explanation": "Students might choose answers that go beyond what the passage actually states."
+      }
+    ],
+    "skills": [
+      "main-idea",
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading",
+      "comprehension"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read the passage and answer the question.\\n\\nWhat is the main idea of this passage?",
+    "stimulus": "Social media has fundamentally changed how teenagers communicate and form relationships. Unlike previous generations who primarily interacted face-to-face or through phone calls, today's teens often prefer texting, messaging apps, and social platforms. This shift has both benefits and drawbacks. On the positive side, social media allows teens to maintain connections with friends across distances and find communities of people with similar interests. However, excessive social media use has been linked to increased anxiety, depression, and sleep problems among adolescents. Experts recommend that teens balance online interactions with in-person socialization.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Social media has changed teen communication with both positive and negative effects."
+      },
+      {
+        "label": "B",
+        "text": "All teenagers prefer social media to face-to-face interaction."
+      },
+      {
+        "label": "C",
+        "text": "Social media only has negative effects on teens."
+      },
+      {
+        "label": "D",
+        "text": "Previous generations never used technology to communicate."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main idea captures the central point of the entire passage, focusing on the key concept discussed throughout.",
+    "commonMistakes": [
+      {
+        "label": "Focusing on details",
+        "explanation": "Students might choose an answer that focuses on a specific detail rather than the overall main idea."
+      },
+      {
+        "label": "Making assumptions",
+        "explanation": "Students might choose answers that go beyond what the passage actually states."
+      }
+    ],
+    "skills": [
+      "main-idea",
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading",
+      "comprehension"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Read the passage and answer the question.\\n\\nWhat is the main idea of this passage?",
+    "stimulus": "The honey bee is one of nature's most efficient pollinators. As bees collect nectar from flowers, pollen grains stick to their fuzzy bodies. When they visit the next flower, some of this pollen brushes off, fertilizing the plant. This process is essential for the reproduction of many flowering plants. Without bees, our food supply would be severely impacted, as they pollinate crops that produce about one-third of the food we eat. Scientists estimate that bees contribute over $15 billion annually to U.S. agriculture through their pollination services. However, bee populations have been declining due to habitat loss, pesticide use, and climate change.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Honey bees are essential pollinators whose declining populations threaten food production."
+      },
+      {
+        "label": "B",
+        "text": "Bees only collect nectar from flowers for food."
+      },
+      {
+        "label": "C",
+        "text": "Pesticides are the only threat to bee populations."
+      },
+      {
+        "label": "D",
+        "text": "Bees contribute exactly $15 billion to the economy."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main idea captures the central point of the entire passage, focusing on the key concept discussed throughout.",
+    "commonMistakes": [
+      {
+        "label": "Focusing on details",
+        "explanation": "Students might choose an answer that focuses on a specific detail rather than the overall main idea."
+      },
+      {
+        "label": "Making assumptions",
+        "explanation": "Students might choose answers that go beyond what the passage actually states."
+      }
+    ],
+    "skills": [
+      "main-idea",
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading",
+      "comprehension"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Read the passage and answer the question.\\n\\nWhat is the main idea of this passage?",
+    "stimulus": "Social media has fundamentally changed how teenagers communicate and form relationships. Unlike previous generations who primarily interacted face-to-face or through phone calls, today's teens often prefer texting, messaging apps, and social platforms. This shift has both benefits and drawbacks. On the positive side, social media allows teens to maintain connections with friends across distances and find communities of people with similar interests. However, excessive social media use has been linked to increased anxiety, depression, and sleep problems among adolescents. Experts recommend that teens balance online interactions with in-person socialization.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Social media has changed teen communication with both positive and negative effects."
+      },
+      {
+        "label": "B",
+        "text": "All teenagers prefer social media to face-to-face interaction."
+      },
+      {
+        "label": "C",
+        "text": "Social media only has negative effects on teens."
+      },
+      {
+        "label": "D",
+        "text": "Previous generations never used technology to communicate."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main idea captures the central point of the entire passage, focusing on the key concept discussed throughout.",
+    "commonMistakes": [
+      {
+        "label": "Focusing on details",
+        "explanation": "Students might choose an answer that focuses on a specific detail rather than the overall main idea."
+      },
+      {
+        "label": "Making assumptions",
+        "explanation": "Students might choose answers that go beyond what the passage actually states."
+      }
+    ],
+    "skills": [
+      "main-idea",
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading",
+      "comprehension"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read the passage and answer the question.\\n\\nWhat is the main idea of this passage?",
+    "stimulus": "The honey bee is one of nature's most efficient pollinators. As bees collect nectar from flowers, pollen grains stick to their fuzzy bodies. When they visit the next flower, some of this pollen brushes off, fertilizing the plant. This process is essential for the reproduction of many flowering plants. Without bees, our food supply would be severely impacted, as they pollinate crops that produce about one-third of the food we eat. Scientists estimate that bees contribute over $15 billion annually to U.S. agriculture through their pollination services. However, bee populations have been declining due to habitat loss, pesticide use, and climate change.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Honey bees are essential pollinators whose declining populations threaten food production."
+      },
+      {
+        "label": "B",
+        "text": "Bees only collect nectar from flowers for food."
+      },
+      {
+        "label": "C",
+        "text": "Pesticides are the only threat to bee populations."
+      },
+      {
+        "label": "D",
+        "text": "Bees contribute exactly $15 billion to the economy."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main idea captures the central point of the entire passage, focusing on the key concept discussed throughout.",
+    "commonMistakes": [
+      {
+        "label": "Focusing on details",
+        "explanation": "Students might choose an answer that focuses on a specific detail rather than the overall main idea."
+      },
+      {
+        "label": "Making assumptions",
+        "explanation": "Students might choose answers that go beyond what the passage actually states."
+      }
+    ],
+    "skills": [
+      "main-idea",
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading",
+      "comprehension"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Read the passage and answer the question.\\n\\nWhat is the main idea of this passage?",
+    "stimulus": "Social media has fundamentally changed how teenagers communicate and form relationships. Unlike previous generations who primarily interacted face-to-face or through phone calls, today's teens often prefer texting, messaging apps, and social platforms. This shift has both benefits and drawbacks. On the positive side, social media allows teens to maintain connections with friends across distances and find communities of people with similar interests. However, excessive social media use has been linked to increased anxiety, depression, and sleep problems among adolescents. Experts recommend that teens balance online interactions with in-person socialization.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Social media has changed teen communication with both positive and negative effects."
+      },
+      {
+        "label": "B",
+        "text": "All teenagers prefer social media to face-to-face interaction."
+      },
+      {
+        "label": "C",
+        "text": "Social media only has negative effects on teens."
+      },
+      {
+        "label": "D",
+        "text": "Previous generations never used technology to communicate."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main idea captures the central point of the entire passage, focusing on the key concept discussed throughout.",
+    "commonMistakes": [
+      {
+        "label": "Focusing on details",
+        "explanation": "Students might choose an answer that focuses on a specific detail rather than the overall main idea."
+      },
+      {
+        "label": "Making assumptions",
+        "explanation": "Students might choose answers that go beyond what the passage actually states."
+      }
+    ],
+    "skills": [
+      "main-idea",
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading",
+      "comprehension"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Read the passage and answer the question.\\n\\nWhat is the main idea of this passage?",
+    "stimulus": "The honey bee is one of nature's most efficient pollinators. As bees collect nectar from flowers, pollen grains stick to their fuzzy bodies. When they visit the next flower, some of this pollen brushes off, fertilizing the plant. This process is essential for the reproduction of many flowering plants. Without bees, our food supply would be severely impacted, as they pollinate crops that produce about one-third of the food we eat. Scientists estimate that bees contribute over $15 billion annually to U.S. agriculture through their pollination services. However, bee populations have been declining due to habitat loss, pesticide use, and climate change.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Honey bees are essential pollinators whose declining populations threaten food production."
+      },
+      {
+        "label": "B",
+        "text": "Bees only collect nectar from flowers for food."
+      },
+      {
+        "label": "C",
+        "text": "Pesticides are the only threat to bee populations."
+      },
+      {
+        "label": "D",
+        "text": "Bees contribute exactly $15 billion to the economy."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main idea captures the central point of the entire passage, focusing on the key concept discussed throughout.",
+    "commonMistakes": [
+      {
+        "label": "Focusing on details",
+        "explanation": "Students might choose an answer that focuses on a specific detail rather than the overall main idea."
+      },
+      {
+        "label": "Making assumptions",
+        "explanation": "Students might choose answers that go beyond what the passage actually states."
+      }
+    ],
+    "skills": [
+      "main-idea",
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading",
+      "comprehension"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.main_idea",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Read the passage and answer the question.\\n\\nWhat is the main idea of this passage?",
+    "stimulus": "Social media has fundamentally changed how teenagers communicate and form relationships. Unlike previous generations who primarily interacted face-to-face or through phone calls, today's teens often prefer texting, messaging apps, and social platforms. This shift has both benefits and drawbacks. On the positive side, social media allows teens to maintain connections with friends across distances and find communities of people with similar interests. However, excessive social media use has been linked to increased anxiety, depression, and sleep problems among adolescents. Experts recommend that teens balance online interactions with in-person socialization.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Social media has changed teen communication with both positive and negative effects."
+      },
+      {
+        "label": "B",
+        "text": "All teenagers prefer social media to face-to-face interaction."
+      },
+      {
+        "label": "C",
+        "text": "Social media only has negative effects on teens."
+      },
+      {
+        "label": "D",
+        "text": "Previous generations never used technology to communicate."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main idea captures the central point of the entire passage, focusing on the key concept discussed throughout.",
+    "commonMistakes": [
+      {
+        "label": "Focusing on details",
+        "explanation": "Students might choose an answer that focuses on a specific detail rather than the overall main idea."
+      },
+      {
+        "label": "Making assumptions",
+        "explanation": "Students might choose answers that go beyond what the passage actually states."
+      }
+    ],
+    "skills": [
+      "main-idea",
+      "reading-comprehension"
+    ],
+    "tags": [
+      "reading",
+      "comprehension"
+    ]
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 1 for authors purpose",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.authors_purpose",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "authors_purpose"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 2 for authors purpose",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.authors_purpose",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "authors_purpose"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 3 for authors purpose",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.authors_purpose",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "authors_purpose"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 4 for authors purpose",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.authors_purpose",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "authors_purpose"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 5 for authors purpose",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.authors_purpose",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "authors_purpose"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 6 for authors purpose",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.authors_purpose",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "authors_purpose"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 7 for authors purpose",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.authors_purpose",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "authors_purpose"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 8 for authors purpose",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.authors_purpose",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "authors_purpose"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 9 for authors purpose",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.authors_purpose",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "authors_purpose"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 10 for authors purpose",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.authors_purpose",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "authors_purpose"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 11 for authors purpose",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.authors_purpose",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "authors_purpose"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 12 for authors purpose",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.authors_purpose",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "authors_purpose"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 13 for authors purpose",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.authors_purpose",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "authors_purpose"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 14 for authors purpose",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.authors_purpose",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "authors_purpose"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 15 for authors purpose",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.authors_purpose",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "authors_purpose"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 16 for authors purpose",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.authors_purpose",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "authors_purpose"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 17 for authors purpose",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.authors_purpose",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "authors_purpose"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 18 for authors purpose",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.authors_purpose",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "authors_purpose"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 19 for authors purpose",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.authors_purpose",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "authors_purpose"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 20 for authors purpose",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.authors_purpose",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "authors_purpose"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 21 for authors purpose",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.authors_purpose",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "authors_purpose"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 22 for authors purpose",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.authors_purpose",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "authors_purpose"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 23 for authors purpose",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.authors_purpose",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "authors_purpose"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 24 for authors purpose",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.authors_purpose",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "authors_purpose"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 25 for authors purpose",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.authors_purpose",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "authors_purpose"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 26 for authors purpose",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.authors_purpose",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "authors_purpose"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 27 for authors purpose",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.authors_purpose",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "authors_purpose"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 28 for authors purpose",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.authors_purpose",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "authors_purpose"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 29 for authors purpose",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.authors_purpose",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "authors_purpose"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 30 for authors purpose",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.authors_purpose",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "authors_purpose"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 31 for authors purpose",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.authors_purpose",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "authors_purpose"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 32 for authors purpose",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.authors_purpose",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "authors_purpose"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 33 for authors purpose",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.authors_purpose",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "authors_purpose"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.authors_purpose",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 34 for authors purpose",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.authors_purpose",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "authors_purpose"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 1 for text structure",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.text_structure",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "text_structure"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 2 for text structure",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.text_structure",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "text_structure"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 3 for text structure",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.text_structure",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "text_structure"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 4 for text structure",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.text_structure",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "text_structure"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 5 for text structure",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.text_structure",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "text_structure"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 6 for text structure",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.text_structure",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "text_structure"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 7 for text structure",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.text_structure",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "text_structure"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 8 for text structure",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.text_structure",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "text_structure"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 9 for text structure",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.text_structure",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "text_structure"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 10 for text structure",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.text_structure",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "text_structure"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 11 for text structure",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.text_structure",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "text_structure"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 12 for text structure",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.text_structure",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "text_structure"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 13 for text structure",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.text_structure",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "text_structure"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 14 for text structure",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.text_structure",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "text_structure"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 15 for text structure",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.text_structure",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "text_structure"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 16 for text structure",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.text_structure",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "text_structure"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 17 for text structure",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.text_structure",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "text_structure"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 18 for text structure",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.text_structure",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "text_structure"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 19 for text structure",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.text_structure",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "text_structure"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 20 for text structure",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.text_structure",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "text_structure"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 21 for text structure",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.text_structure",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "text_structure"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 22 for text structure",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.text_structure",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "text_structure"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 23 for text structure",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.text_structure",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "text_structure"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 24 for text structure",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.text_structure",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "text_structure"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 25 for text structure",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.text_structure",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "text_structure"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 26 for text structure",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.text_structure",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "text_structure"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 27 for text structure",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.text_structure",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "text_structure"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 28 for text structure",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.text_structure",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "text_structure"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 29 for text structure",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.text_structure",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "text_structure"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 30 for text structure",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.text_structure",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "text_structure"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 31 for text structure",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.text_structure",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "text_structure"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  },
+  {
+    "section": "ela",
+    "category": "ela.reading.text_structure",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 32 for text structure",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for ela.reading.text_structure",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "text_structure"
+    ],
+    "tags": [
+      "ela",
+      "practice"
+    ],
+    "stimulus": "This is a sample reading passage for practice purposes. Students should read this passage carefully before answering the question."
+  }
+]

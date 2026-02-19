@@ -1,0 +1,4397 @@
+[
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve for x: 3x + 13 = 30",
+    "options": [
+      {
+        "label": "A",
+        "text": "x = 6"
+      },
+      {
+        "label": "B",
+        "text": "x = 7"
+      },
+      {
+        "label": "C",
+        "text": "x = 5"
+      },
+      {
+        "label": "D",
+        "text": "x = 8"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Subtract 13 from both sides: 3x = 17. Divide by 3: x = 6.",
+    "commonMistakes": [
+      {
+        "label": "Wrong operation",
+        "explanation": "Students might add instead of subtract the constant."
+      },
+      {
+        "label": "Division error",
+        "explanation": "Students might make arithmetic mistakes when dividing."
+      }
+    ],
+    "skills": [
+      "linear-equations"
+    ],
+    "tags": [
+      "algebra",
+      "basic"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve for x: 4x + 24 = 30",
+    "options": [
+      {
+        "label": "A",
+        "text": "x = 2"
+      },
+      {
+        "label": "B",
+        "text": "x = 3"
+      },
+      {
+        "label": "C",
+        "text": "x = 1"
+      },
+      {
+        "label": "D",
+        "text": "x = 4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Subtract 24 from both sides: 4x = 6. Divide by 4: x = 2.",
+    "commonMistakes": [
+      {
+        "label": "Wrong operation",
+        "explanation": "Students might add instead of subtract the constant."
+      },
+      {
+        "label": "Division error",
+        "explanation": "Students might make arithmetic mistakes when dividing."
+      }
+    ],
+    "skills": [
+      "linear-equations"
+    ],
+    "tags": [
+      "algebra",
+      "basic"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Solve for x: 5x + 14 = 39",
+    "options": [
+      {
+        "label": "A",
+        "text": "x = 5"
+      },
+      {
+        "label": "B",
+        "text": "x = 6"
+      },
+      {
+        "label": "C",
+        "text": "x = 4"
+      },
+      {
+        "label": "D",
+        "text": "x = 7"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Subtract 14 from both sides: 5x = 25. Divide by 5: x = 5.",
+    "commonMistakes": [
+      {
+        "label": "Wrong operation",
+        "explanation": "Students might add instead of subtract the constant."
+      },
+      {
+        "label": "Division error",
+        "explanation": "Students might make arithmetic mistakes when dividing."
+      }
+    ],
+    "skills": [
+      "linear-equations"
+    ],
+    "tags": [
+      "algebra",
+      "basic"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve for x: 6x + 20 = 20",
+    "options": [
+      {
+        "label": "A",
+        "text": "x = 0"
+      },
+      {
+        "label": "B",
+        "text": "x = 1"
+      },
+      {
+        "label": "C",
+        "text": "x = -1"
+      },
+      {
+        "label": "D",
+        "text": "x = 2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Subtract 20 from both sides: 6x = 0. Divide by 6: x = 0.",
+    "commonMistakes": [
+      {
+        "label": "Wrong operation",
+        "explanation": "Students might add instead of subtract the constant."
+      },
+      {
+        "label": "Division error",
+        "explanation": "Students might make arithmetic mistakes when dividing."
+      }
+    ],
+    "skills": [
+      "linear-equations"
+    ],
+    "tags": [
+      "algebra",
+      "basic"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve for x: 8x + 23 = 31",
+    "options": [
+      {
+        "label": "A",
+        "text": "x = 1"
+      },
+      {
+        "label": "B",
+        "text": "x = 2"
+      },
+      {
+        "label": "C",
+        "text": "x = 0"
+      },
+      {
+        "label": "D",
+        "text": "x = 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Subtract 23 from both sides: 8x = 8. Divide by 8: x = 1.",
+    "commonMistakes": [
+      {
+        "label": "Wrong operation",
+        "explanation": "Students might add instead of subtract the constant."
+      },
+      {
+        "label": "Division error",
+        "explanation": "Students might make arithmetic mistakes when dividing."
+      }
+    ],
+    "skills": [
+      "linear-equations"
+    ],
+    "tags": [
+      "algebra",
+      "basic"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Solve for y: 2(y + 6) = 7y + -18",
+    "options": [
+      {
+        "label": "A",
+        "text": "y = 10"
+      },
+      {
+        "label": "B",
+        "text": "y = 12"
+      },
+      {
+        "label": "C",
+        "text": "y = 8"
+      },
+      {
+        "label": "D",
+        "text": "y = 14"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Expand: 2y + 12 = 7y + -18. Collect like terms: -5y = -30. Solve: y = 10.",
+    "commonMistakes": [
+      {
+        "label": "Distribution error",
+        "explanation": "Students might incorrectly distribute the coefficient."
+      },
+      {
+        "label": "Sign mistakes",
+        "explanation": "Students might make errors when moving terms across the equation."
+      }
+    ],
+    "skills": [
+      "linear-equations",
+      "distributive-property"
+    ],
+    "tags": [
+      "algebra",
+      "parentheses"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve for y: 4(y + 5) = 6y + 29",
+    "options": [
+      {
+        "label": "A",
+        "text": "y = 8"
+      },
+      {
+        "label": "B",
+        "text": "y = 10"
+      },
+      {
+        "label": "C",
+        "text": "y = 6"
+      },
+      {
+        "label": "D",
+        "text": "y = 12"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Expand: 4y + 20 = 6y + 29. Collect like terms: -2y = 9. Solve: y = 8.",
+    "commonMistakes": [
+      {
+        "label": "Distribution error",
+        "explanation": "Students might incorrectly distribute the coefficient."
+      },
+      {
+        "label": "Sign mistakes",
+        "explanation": "Students might make errors when moving terms across the equation."
+      }
+    ],
+    "skills": [
+      "linear-equations",
+      "distributive-property"
+    ],
+    "tags": [
+      "algebra",
+      "parentheses"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Solve for y: 3(y + 4) = 6y + 3",
+    "options": [
+      {
+        "label": "A",
+        "text": "y = 9"
+      },
+      {
+        "label": "B",
+        "text": "y = 11"
+      },
+      {
+        "label": "C",
+        "text": "y = 7"
+      },
+      {
+        "label": "D",
+        "text": "y = 13"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Expand: 3y + 12 = 6y + 3. Collect like terms: -3y = -9. Solve: y = 9.",
+    "commonMistakes": [
+      {
+        "label": "Distribution error",
+        "explanation": "Students might incorrectly distribute the coefficient."
+      },
+      {
+        "label": "Sign mistakes",
+        "explanation": "Students might make errors when moving terms across the equation."
+      }
+    ],
+    "skills": [
+      "linear-equations",
+      "distributive-property"
+    ],
+    "tags": [
+      "algebra",
+      "parentheses"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Solve for y: 4(y + 8) = 5y + 38",
+    "options": [
+      {
+        "label": "A",
+        "text": "y = 4"
+      },
+      {
+        "label": "B",
+        "text": "y = 6"
+      },
+      {
+        "label": "C",
+        "text": "y = 2"
+      },
+      {
+        "label": "D",
+        "text": "y = 8"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Expand: 4y + 32 = 5y + 38. Collect like terms: -1y = 6. Solve: y = 4.",
+    "commonMistakes": [
+      {
+        "label": "Distribution error",
+        "explanation": "Students might incorrectly distribute the coefficient."
+      },
+      {
+        "label": "Sign mistakes",
+        "explanation": "Students might make errors when moving terms across the equation."
+      }
+    ],
+    "skills": [
+      "linear-equations",
+      "distributive-property"
+    ],
+    "tags": [
+      "algebra",
+      "parentheses"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve for y: 3(y + 8) = 6y + 19",
+    "options": [
+      {
+        "label": "A",
+        "text": "y = 10"
+      },
+      {
+        "label": "B",
+        "text": "y = 12"
+      },
+      {
+        "label": "C",
+        "text": "y = 8"
+      },
+      {
+        "label": "D",
+        "text": "y = 14"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Expand: 3y + 24 = 6y + 19. Collect like terms: -3y = -5. Solve: y = 10.",
+    "commonMistakes": [
+      {
+        "label": "Distribution error",
+        "explanation": "Students might incorrectly distribute the coefficient."
+      },
+      {
+        "label": "Sign mistakes",
+        "explanation": "Students might make errors when moving terms across the equation."
+      }
+    ],
+    "skills": [
+      "linear-equations",
+      "distributive-property"
+    ],
+    "tags": [
+      "algebra",
+      "parentheses"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Solve: 4(x - 2) = 20",
+    "options": [
+      {
+        "label": "A",
+        "text": "x = 7"
+      },
+      {
+        "label": "B",
+        "text": "x = 8"
+      },
+      {
+        "label": "C",
+        "text": "x = 6"
+      },
+      {
+        "label": "D",
+        "text": "x = 9"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Step-by-step solution leads to the correct answer.",
+    "commonMistakes": [
+      {
+        "label": "Calculation error",
+        "explanation": "Students might make arithmetic mistakes."
+      },
+      {
+        "label": "Operation confusion",
+        "explanation": "Students might use wrong operations."
+      }
+    ],
+    "skills": [
+      "linear-equations"
+    ],
+    "tags": [
+      "algebra"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Find x: x/3 + 4 = 7",
+    "options": [
+      {
+        "label": "A",
+        "text": "x = 9"
+      },
+      {
+        "label": "B",
+        "text": "x = 10"
+      },
+      {
+        "label": "C",
+        "text": "x = 8"
+      },
+      {
+        "label": "D",
+        "text": "x = 11"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Step-by-step solution leads to the correct answer.",
+    "commonMistakes": [
+      {
+        "label": "Calculation error",
+        "explanation": "Students might make arithmetic mistakes."
+      },
+      {
+        "label": "Operation confusion",
+        "explanation": "Students might use wrong operations."
+      }
+    ],
+    "skills": [
+      "linear-equations"
+    ],
+    "tags": [
+      "algebra"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Solve for x: 3x - 7 = 14",
+    "options": [
+      {
+        "label": "A",
+        "text": "x = 7"
+      },
+      {
+        "label": "B",
+        "text": "x = 8"
+      },
+      {
+        "label": "C",
+        "text": "x = 6"
+      },
+      {
+        "label": "D",
+        "text": "x = 9"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Step-by-step solution leads to the correct answer.",
+    "commonMistakes": [
+      {
+        "label": "Calculation error",
+        "explanation": "Students might make arithmetic mistakes."
+      },
+      {
+        "label": "Operation confusion",
+        "explanation": "Students might use wrong operations."
+      }
+    ],
+    "skills": [
+      "linear-equations"
+    ],
+    "tags": [
+      "algebra"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "If 2x + 5 = 19, find x",
+    "options": [
+      {
+        "label": "A",
+        "text": "x = 7"
+      },
+      {
+        "label": "B",
+        "text": "x = 8"
+      },
+      {
+        "label": "C",
+        "text": "x = 6"
+      },
+      {
+        "label": "D",
+        "text": "x = 9"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Step-by-step solution leads to the correct answer.",
+    "commonMistakes": [
+      {
+        "label": "Calculation error",
+        "explanation": "Students might make arithmetic mistakes."
+      },
+      {
+        "label": "Operation confusion",
+        "explanation": "Students might use wrong operations."
+      }
+    ],
+    "skills": [
+      "linear-equations"
+    ],
+    "tags": [
+      "algebra"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Solve: 4(x - 2) = 20",
+    "options": [
+      {
+        "label": "A",
+        "text": "x = 7"
+      },
+      {
+        "label": "B",
+        "text": "x = 8"
+      },
+      {
+        "label": "C",
+        "text": "x = 6"
+      },
+      {
+        "label": "D",
+        "text": "x = 9"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Step-by-step solution leads to the correct answer.",
+    "commonMistakes": [
+      {
+        "label": "Calculation error",
+        "explanation": "Students might make arithmetic mistakes."
+      },
+      {
+        "label": "Operation confusion",
+        "explanation": "Students might use wrong operations."
+      }
+    ],
+    "skills": [
+      "linear-equations"
+    ],
+    "tags": [
+      "algebra"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Find x: x/3 + 4 = 7",
+    "options": [
+      {
+        "label": "A",
+        "text": "x = 9"
+      },
+      {
+        "label": "B",
+        "text": "x = 10"
+      },
+      {
+        "label": "C",
+        "text": "x = 8"
+      },
+      {
+        "label": "D",
+        "text": "x = 11"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Step-by-step solution leads to the correct answer.",
+    "commonMistakes": [
+      {
+        "label": "Calculation error",
+        "explanation": "Students might make arithmetic mistakes."
+      },
+      {
+        "label": "Operation confusion",
+        "explanation": "Students might use wrong operations."
+      }
+    ],
+    "skills": [
+      "linear-equations"
+    ],
+    "tags": [
+      "algebra"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Solve for x: 3x - 7 = 14",
+    "options": [
+      {
+        "label": "A",
+        "text": "x = 7"
+      },
+      {
+        "label": "B",
+        "text": "x = 8"
+      },
+      {
+        "label": "C",
+        "text": "x = 6"
+      },
+      {
+        "label": "D",
+        "text": "x = 9"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Step-by-step solution leads to the correct answer.",
+    "commonMistakes": [
+      {
+        "label": "Calculation error",
+        "explanation": "Students might make arithmetic mistakes."
+      },
+      {
+        "label": "Operation confusion",
+        "explanation": "Students might use wrong operations."
+      }
+    ],
+    "skills": [
+      "linear-equations"
+    ],
+    "tags": [
+      "algebra"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "If 2x + 5 = 19, find x",
+    "options": [
+      {
+        "label": "A",
+        "text": "x = 7"
+      },
+      {
+        "label": "B",
+        "text": "x = 8"
+      },
+      {
+        "label": "C",
+        "text": "x = 6"
+      },
+      {
+        "label": "D",
+        "text": "x = 9"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Step-by-step solution leads to the correct answer.",
+    "commonMistakes": [
+      {
+        "label": "Calculation error",
+        "explanation": "Students might make arithmetic mistakes."
+      },
+      {
+        "label": "Operation confusion",
+        "explanation": "Students might use wrong operations."
+      }
+    ],
+    "skills": [
+      "linear-equations"
+    ],
+    "tags": [
+      "algebra"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Solve: 4(x - 2) = 20",
+    "options": [
+      {
+        "label": "A",
+        "text": "x = 7"
+      },
+      {
+        "label": "B",
+        "text": "x = 8"
+      },
+      {
+        "label": "C",
+        "text": "x = 6"
+      },
+      {
+        "label": "D",
+        "text": "x = 9"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Step-by-step solution leads to the correct answer.",
+    "commonMistakes": [
+      {
+        "label": "Calculation error",
+        "explanation": "Students might make arithmetic mistakes."
+      },
+      {
+        "label": "Operation confusion",
+        "explanation": "Students might use wrong operations."
+      }
+    ],
+    "skills": [
+      "linear-equations"
+    ],
+    "tags": [
+      "algebra"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.linear_equations",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Find x: x/3 + 4 = 7",
+    "options": [
+      {
+        "label": "A",
+        "text": "x = 9"
+      },
+      {
+        "label": "B",
+        "text": "x = 10"
+      },
+      {
+        "label": "C",
+        "text": "x = 8"
+      },
+      {
+        "label": "D",
+        "text": "x = 11"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Step-by-step solution leads to the correct answer.",
+    "commonMistakes": [
+      {
+        "label": "Calculation error",
+        "explanation": "Students might make arithmetic mistakes."
+      },
+      {
+        "label": "Operation confusion",
+        "explanation": "Students might use wrong operations."
+      }
+    ],
+    "skills": [
+      "linear-equations"
+    ],
+    "tags": [
+      "algebra"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Solve the system of equations:\\n3x + 4y = 31\\n2x + 1y = 14",
+    "options": [
+      {
+        "label": "A",
+        "text": "(5, 4)"
+      },
+      {
+        "label": "B",
+        "text": "(6, 4)"
+      },
+      {
+        "label": "C",
+        "text": "(5, 5)"
+      },
+      {
+        "label": "D",
+        "text": "(6, 5)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using substitution or elimination method, we find x = 5 and y = 4.",
+    "commonMistakes": [
+      {
+        "label": "Sign errors",
+        "explanation": "Students might make sign errors when eliminating variables."
+      },
+      {
+        "label": "Substitution errors",
+        "explanation": "Students might incorrectly substitute values."
+      }
+    ],
+    "skills": [
+      "systems-equations"
+    ],
+    "tags": [
+      "algebra",
+      "systems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Solve the system of equations:\\n1x + 4y = 12\\n1x + 4y = 12",
+    "options": [
+      {
+        "label": "A",
+        "text": "(4, 2)"
+      },
+      {
+        "label": "B",
+        "text": "(5, 2)"
+      },
+      {
+        "label": "C",
+        "text": "(4, 3)"
+      },
+      {
+        "label": "D",
+        "text": "(5, 3)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using substitution or elimination method, we find x = 4 and y = 2.",
+    "commonMistakes": [
+      {
+        "label": "Sign errors",
+        "explanation": "Students might make sign errors when eliminating variables."
+      },
+      {
+        "label": "Substitution errors",
+        "explanation": "Students might incorrectly substitute values."
+      }
+    ],
+    "skills": [
+      "systems-equations"
+    ],
+    "tags": [
+      "algebra",
+      "systems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Solve the system of equations:\\n4x + 1y = 14\\n3x + 2y = 18",
+    "options": [
+      {
+        "label": "A",
+        "text": "(2, 6)"
+      },
+      {
+        "label": "B",
+        "text": "(3, 6)"
+      },
+      {
+        "label": "C",
+        "text": "(2, 7)"
+      },
+      {
+        "label": "D",
+        "text": "(3, 7)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using substitution or elimination method, we find x = 2 and y = 6.",
+    "commonMistakes": [
+      {
+        "label": "Sign errors",
+        "explanation": "Students might make sign errors when eliminating variables."
+      },
+      {
+        "label": "Substitution errors",
+        "explanation": "Students might incorrectly substitute values."
+      }
+    ],
+    "skills": [
+      "systems-equations"
+    ],
+    "tags": [
+      "algebra",
+      "systems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Solve the system of equations:\\n2x + 3y = 14\\n3x + 4y = 19",
+    "options": [
+      {
+        "label": "A",
+        "text": "(1, 4)"
+      },
+      {
+        "label": "B",
+        "text": "(2, 4)"
+      },
+      {
+        "label": "C",
+        "text": "(1, 5)"
+      },
+      {
+        "label": "D",
+        "text": "(2, 5)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using substitution or elimination method, we find x = 1 and y = 4.",
+    "commonMistakes": [
+      {
+        "label": "Sign errors",
+        "explanation": "Students might make sign errors when eliminating variables."
+      },
+      {
+        "label": "Substitution errors",
+        "explanation": "Students might incorrectly substitute values."
+      }
+    ],
+    "skills": [
+      "systems-equations"
+    ],
+    "tags": [
+      "algebra",
+      "systems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Solve the system of equations:\\n3x + 3y = 21\\n3x + 2y = 17",
+    "options": [
+      {
+        "label": "A",
+        "text": "(3, 4)"
+      },
+      {
+        "label": "B",
+        "text": "(4, 4)"
+      },
+      {
+        "label": "C",
+        "text": "(3, 5)"
+      },
+      {
+        "label": "D",
+        "text": "(4, 5)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using substitution or elimination method, we find x = 3 and y = 4.",
+    "commonMistakes": [
+      {
+        "label": "Sign errors",
+        "explanation": "Students might make sign errors when eliminating variables."
+      },
+      {
+        "label": "Substitution errors",
+        "explanation": "Students might incorrectly substitute values."
+      }
+    ],
+    "skills": [
+      "systems-equations"
+    ],
+    "tags": [
+      "algebra",
+      "systems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Solve the system of equations:\\n2x + 1y = 9\\n1x + 2y = 6",
+    "options": [
+      {
+        "label": "A",
+        "text": "(4, 1)"
+      },
+      {
+        "label": "B",
+        "text": "(5, 1)"
+      },
+      {
+        "label": "C",
+        "text": "(4, 2)"
+      },
+      {
+        "label": "D",
+        "text": "(5, 2)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using substitution or elimination method, we find x = 4 and y = 1.",
+    "commonMistakes": [
+      {
+        "label": "Sign errors",
+        "explanation": "Students might make sign errors when eliminating variables."
+      },
+      {
+        "label": "Substitution errors",
+        "explanation": "Students might incorrectly substitute values."
+      }
+    ],
+    "skills": [
+      "systems-equations"
+    ],
+    "tags": [
+      "algebra",
+      "systems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Solve the system of equations:\\n2x + 3y = 24\\n3x + 1y = 22",
+    "options": [
+      {
+        "label": "A",
+        "text": "(6, 4)"
+      },
+      {
+        "label": "B",
+        "text": "(7, 4)"
+      },
+      {
+        "label": "C",
+        "text": "(6, 5)"
+      },
+      {
+        "label": "D",
+        "text": "(7, 5)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using substitution or elimination method, we find x = 6 and y = 4.",
+    "commonMistakes": [
+      {
+        "label": "Sign errors",
+        "explanation": "Students might make sign errors when eliminating variables."
+      },
+      {
+        "label": "Substitution errors",
+        "explanation": "Students might incorrectly substitute values."
+      }
+    ],
+    "skills": [
+      "systems-equations"
+    ],
+    "tags": [
+      "algebra",
+      "systems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Solve the system of equations:\\n2x + 3y = 20\\n2x + 1y = 8",
+    "options": [
+      {
+        "label": "A",
+        "text": "(1, 6)"
+      },
+      {
+        "label": "B",
+        "text": "(2, 6)"
+      },
+      {
+        "label": "C",
+        "text": "(1, 7)"
+      },
+      {
+        "label": "D",
+        "text": "(2, 7)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using substitution or elimination method, we find x = 1 and y = 6.",
+    "commonMistakes": [
+      {
+        "label": "Sign errors",
+        "explanation": "Students might make sign errors when eliminating variables."
+      },
+      {
+        "label": "Substitution errors",
+        "explanation": "Students might incorrectly substitute values."
+      }
+    ],
+    "skills": [
+      "systems-equations"
+    ],
+    "tags": [
+      "algebra",
+      "systems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Solve the system of equations:\\n2x + 4y = 12\\n3x + 1y = 13",
+    "options": [
+      {
+        "label": "A",
+        "text": "(4, 1)"
+      },
+      {
+        "label": "B",
+        "text": "(5, 1)"
+      },
+      {
+        "label": "C",
+        "text": "(4, 2)"
+      },
+      {
+        "label": "D",
+        "text": "(5, 2)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using substitution or elimination method, we find x = 4 and y = 1.",
+    "commonMistakes": [
+      {
+        "label": "Sign errors",
+        "explanation": "Students might make sign errors when eliminating variables."
+      },
+      {
+        "label": "Substitution errors",
+        "explanation": "Students might incorrectly substitute values."
+      }
+    ],
+    "skills": [
+      "systems-equations"
+    ],
+    "tags": [
+      "algebra",
+      "systems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Solve the system of equations:\\n3x + 4y = 29\\n1x + 3y = 18",
+    "options": [
+      {
+        "label": "A",
+        "text": "(3, 5)"
+      },
+      {
+        "label": "B",
+        "text": "(4, 5)"
+      },
+      {
+        "label": "C",
+        "text": "(3, 6)"
+      },
+      {
+        "label": "D",
+        "text": "(4, 6)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using substitution or elimination method, we find x = 3 and y = 5.",
+    "commonMistakes": [
+      {
+        "label": "Sign errors",
+        "explanation": "Students might make sign errors when eliminating variables."
+      },
+      {
+        "label": "Substitution errors",
+        "explanation": "Students might incorrectly substitute values."
+      }
+    ],
+    "skills": [
+      "systems-equations"
+    ],
+    "tags": [
+      "algebra",
+      "systems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Solve the system of equations:\\n2x + 4y = 22\\n2x + 2y = 12",
+    "options": [
+      {
+        "label": "A",
+        "text": "(1, 5)"
+      },
+      {
+        "label": "B",
+        "text": "(2, 5)"
+      },
+      {
+        "label": "C",
+        "text": "(1, 6)"
+      },
+      {
+        "label": "D",
+        "text": "(2, 6)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using substitution or elimination method, we find x = 1 and y = 5.",
+    "commonMistakes": [
+      {
+        "label": "Sign errors",
+        "explanation": "Students might make sign errors when eliminating variables."
+      },
+      {
+        "label": "Substitution errors",
+        "explanation": "Students might incorrectly substitute values."
+      }
+    ],
+    "skills": [
+      "systems-equations"
+    ],
+    "tags": [
+      "algebra",
+      "systems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Solve the system of equations:\\n4x + 4y = 36\\n3x + 4y = 33",
+    "options": [
+      {
+        "label": "A",
+        "text": "(3, 6)"
+      },
+      {
+        "label": "B",
+        "text": "(4, 6)"
+      },
+      {
+        "label": "C",
+        "text": "(3, 7)"
+      },
+      {
+        "label": "D",
+        "text": "(4, 7)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using substitution or elimination method, we find x = 3 and y = 6.",
+    "commonMistakes": [
+      {
+        "label": "Sign errors",
+        "explanation": "Students might make sign errors when eliminating variables."
+      },
+      {
+        "label": "Substitution errors",
+        "explanation": "Students might incorrectly substitute values."
+      }
+    ],
+    "skills": [
+      "systems-equations"
+    ],
+    "tags": [
+      "algebra",
+      "systems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Solve the system of equations:\\n2x + 1y = 16\\n4x + 2y = 32",
+    "options": [
+      {
+        "label": "A",
+        "text": "(6, 4)"
+      },
+      {
+        "label": "B",
+        "text": "(7, 4)"
+      },
+      {
+        "label": "C",
+        "text": "(6, 5)"
+      },
+      {
+        "label": "D",
+        "text": "(7, 5)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using substitution or elimination method, we find x = 6 and y = 4.",
+    "commonMistakes": [
+      {
+        "label": "Sign errors",
+        "explanation": "Students might make sign errors when eliminating variables."
+      },
+      {
+        "label": "Substitution errors",
+        "explanation": "Students might incorrectly substitute values."
+      }
+    ],
+    "skills": [
+      "systems-equations"
+    ],
+    "tags": [
+      "algebra",
+      "systems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Solve the system of equations:\\n3x + 4y = 27\\n1x + 2y = 13",
+    "options": [
+      {
+        "label": "A",
+        "text": "(1, 6)"
+      },
+      {
+        "label": "B",
+        "text": "(2, 6)"
+      },
+      {
+        "label": "C",
+        "text": "(1, 7)"
+      },
+      {
+        "label": "D",
+        "text": "(2, 7)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using substitution or elimination method, we find x = 1 and y = 6.",
+    "commonMistakes": [
+      {
+        "label": "Sign errors",
+        "explanation": "Students might make sign errors when eliminating variables."
+      },
+      {
+        "label": "Substitution errors",
+        "explanation": "Students might incorrectly substitute values."
+      }
+    ],
+    "skills": [
+      "systems-equations"
+    ],
+    "tags": [
+      "algebra",
+      "systems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Solve the system of equations:\\n1x + 2y = 9\\n4x + 4y = 28",
+    "options": [
+      {
+        "label": "A",
+        "text": "(5, 2)"
+      },
+      {
+        "label": "B",
+        "text": "(6, 2)"
+      },
+      {
+        "label": "C",
+        "text": "(5, 3)"
+      },
+      {
+        "label": "D",
+        "text": "(6, 3)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using substitution or elimination method, we find x = 5 and y = 2.",
+    "commonMistakes": [
+      {
+        "label": "Sign errors",
+        "explanation": "Students might make sign errors when eliminating variables."
+      },
+      {
+        "label": "Substitution errors",
+        "explanation": "Students might incorrectly substitute values."
+      }
+    ],
+    "skills": [
+      "systems-equations"
+    ],
+    "tags": [
+      "algebra",
+      "systems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Solve the system of equations:\\n3x + 1y = 14\\n1x + 3y = 18",
+    "options": [
+      {
+        "label": "A",
+        "text": "(3, 5)"
+      },
+      {
+        "label": "B",
+        "text": "(4, 5)"
+      },
+      {
+        "label": "C",
+        "text": "(3, 6)"
+      },
+      {
+        "label": "D",
+        "text": "(4, 6)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using substitution or elimination method, we find x = 3 and y = 5.",
+    "commonMistakes": [
+      {
+        "label": "Sign errors",
+        "explanation": "Students might make sign errors when eliminating variables."
+      },
+      {
+        "label": "Substitution errors",
+        "explanation": "Students might incorrectly substitute values."
+      }
+    ],
+    "skills": [
+      "systems-equations"
+    ],
+    "tags": [
+      "algebra",
+      "systems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Solve the system of equations:\\n3x + 4y = 19\\n2x + 4y = 14",
+    "options": [
+      {
+        "label": "A",
+        "text": "(5, 1)"
+      },
+      {
+        "label": "B",
+        "text": "(6, 1)"
+      },
+      {
+        "label": "C",
+        "text": "(5, 2)"
+      },
+      {
+        "label": "D",
+        "text": "(6, 2)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using substitution or elimination method, we find x = 5 and y = 1.",
+    "commonMistakes": [
+      {
+        "label": "Sign errors",
+        "explanation": "Students might make sign errors when eliminating variables."
+      },
+      {
+        "label": "Substitution errors",
+        "explanation": "Students might incorrectly substitute values."
+      }
+    ],
+    "skills": [
+      "systems-equations"
+    ],
+    "tags": [
+      "algebra",
+      "systems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Solve the system of equations:\\n3x + 1y = 4\\n4x + 2y = 6",
+    "options": [
+      {
+        "label": "A",
+        "text": "(1, 1)"
+      },
+      {
+        "label": "B",
+        "text": "(2, 1)"
+      },
+      {
+        "label": "C",
+        "text": "(1, 2)"
+      },
+      {
+        "label": "D",
+        "text": "(2, 2)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using substitution or elimination method, we find x = 1 and y = 1.",
+    "commonMistakes": [
+      {
+        "label": "Sign errors",
+        "explanation": "Students might make sign errors when eliminating variables."
+      },
+      {
+        "label": "Substitution errors",
+        "explanation": "Students might incorrectly substitute values."
+      }
+    ],
+    "skills": [
+      "systems-equations"
+    ],
+    "tags": [
+      "algebra",
+      "systems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Solve the system of equations:\\n3x + 2y = 5\\n1x + 3y = 4",
+    "options": [
+      {
+        "label": "A",
+        "text": "(1, 1)"
+      },
+      {
+        "label": "B",
+        "text": "(2, 1)"
+      },
+      {
+        "label": "C",
+        "text": "(1, 2)"
+      },
+      {
+        "label": "D",
+        "text": "(2, 2)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using substitution or elimination method, we find x = 1 and y = 1.",
+    "commonMistakes": [
+      {
+        "label": "Sign errors",
+        "explanation": "Students might make sign errors when eliminating variables."
+      },
+      {
+        "label": "Substitution errors",
+        "explanation": "Students might incorrectly substitute values."
+      }
+    ],
+    "skills": [
+      "systems-equations"
+    ],
+    "tags": [
+      "algebra",
+      "systems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.systems",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Solve the system of equations:\\n1x + 4y = 14\\n4x + 4y = 20",
+    "options": [
+      {
+        "label": "A",
+        "text": "(2, 3)"
+      },
+      {
+        "label": "B",
+        "text": "(3, 3)"
+      },
+      {
+        "label": "C",
+        "text": "(2, 4)"
+      },
+      {
+        "label": "D",
+        "text": "(3, 4)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using substitution or elimination method, we find x = 2 and y = 3.",
+    "commonMistakes": [
+      {
+        "label": "Sign errors",
+        "explanation": "Students might make sign errors when eliminating variables."
+      },
+      {
+        "label": "Substitution errors",
+        "explanation": "Students might incorrectly substitute values."
+      }
+    ],
+    "skills": [
+      "systems-equations"
+    ],
+    "tags": [
+      "algebra",
+      "systems"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 1 for expressions",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.expressions",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "expressions"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 2 for expressions",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.expressions",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "expressions"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 3 for expressions",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.expressions",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "expressions"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 4 for expressions",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.expressions",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "expressions"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 5 for expressions",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.expressions",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "expressions"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 6 for expressions",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.expressions",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "expressions"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 7 for expressions",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.expressions",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "expressions"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 8 for expressions",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.expressions",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "expressions"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 9 for expressions",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.expressions",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "expressions"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 10 for expressions",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.expressions",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "expressions"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 11 for expressions",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.expressions",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "expressions"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 12 for expressions",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.expressions",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "expressions"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 13 for expressions",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.expressions",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "expressions"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 14 for expressions",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.expressions",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "expressions"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 15 for expressions",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.expressions",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "expressions"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 16 for expressions",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.expressions",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "expressions"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 17 for expressions",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.expressions",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "expressions"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 18 for expressions",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.expressions",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "expressions"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 19 for expressions",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.expressions",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "expressions"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.expressions",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 20 for expressions",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.expressions",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "expressions"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 1 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 2 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 3 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 4 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 5 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 6 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 7 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 8 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 9 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 10 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 11 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 12 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 13 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 14 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 15 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 16 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 17 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 18 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 19 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebra.word_problems",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 20 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebra.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebraic_modeling",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 1 for algebraic modeling",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebraic_modeling",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "algebraic_modeling"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebraic_modeling",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 2 for algebraic modeling",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebraic_modeling",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "algebraic_modeling"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebraic_modeling",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 3 for algebraic modeling",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebraic_modeling",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "algebraic_modeling"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebraic_modeling",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 4 for algebraic modeling",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebraic_modeling",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "algebraic_modeling"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebraic_modeling",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 5 for algebraic modeling",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebraic_modeling",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "algebraic_modeling"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebraic_modeling",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 6 for algebraic modeling",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebraic_modeling",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "algebraic_modeling"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebraic_modeling",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 7 for algebraic modeling",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebraic_modeling",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "algebraic_modeling"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebraic_modeling",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 8 for algebraic modeling",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebraic_modeling",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "algebraic_modeling"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebraic_modeling",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 9 for algebraic modeling",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebraic_modeling",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "algebraic_modeling"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebraic_modeling",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 10 for algebraic modeling",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebraic_modeling",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "algebraic_modeling"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebraic_modeling",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 11 for algebraic modeling",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebraic_modeling",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "algebraic_modeling"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebraic_modeling",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 12 for algebraic modeling",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebraic_modeling",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "algebraic_modeling"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebraic_modeling",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 13 for algebraic modeling",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebraic_modeling",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "algebraic_modeling"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebraic_modeling",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 14 for algebraic modeling",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebraic_modeling",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "algebraic_modeling"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebraic_modeling",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 15 for algebraic modeling",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebraic_modeling",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "algebraic_modeling"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebraic_modeling",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 16 for algebraic modeling",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebraic_modeling",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "algebraic_modeling"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebraic_modeling",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 17 for algebraic modeling",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebraic_modeling",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "algebraic_modeling"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebraic_modeling",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 18 for algebraic modeling",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebraic_modeling",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "algebraic_modeling"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebraic_modeling",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 19 for algebraic modeling",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebraic_modeling",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "algebraic_modeling"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.algebraic_modeling",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 20 for algebraic modeling",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.algebraic_modeling",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "algebraic_modeling"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  }
+]

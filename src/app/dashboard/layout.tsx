@@ -20,11 +20,13 @@ import {
   LogOut,
   Upload,
   Crosshair,
+  GraduationCap,
 } from "lucide-react";
 
 const studentNavItems = [
   { icon: PenTool, label: "Practice", href: "/dashboard/practice" },
   { icon: Crosshair, label: "Targeted Questions", href: "/dashboard/targeted-questions" },
+  { icon: GraduationCap, label: "Lessons", href: "/dashboard/lessons", badge: "Beta" },
   { icon: BookOpen, label: "Mock Exams", href: "/dashboard/mock-exams" },
   { icon: Layout, label: "Study Plan", href: "/dashboard" },
   { icon: BarChart2, label: "Performance", href: "/dashboard/performance" },
@@ -117,7 +119,7 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
     return pathname.startsWith(href);
   };
 
-  const SidebarItem = ({ icon: Icon, label, href, active }: { icon: any; label: string; href: string; active: boolean }) => (
+  const SidebarItem = ({ icon: Icon, label, href, active, badge }: { icon: any; label: string; href: string; active: boolean; badge?: string }) => (
     <div
       onClick={() => router.push(href)}
       className={`flex items-center gap-3 px-4 py-3 rounded-xl cursor-pointer transition-all ${
@@ -126,6 +128,11 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
     >
       <Icon className="w-5 h-5" />
       <span className="font-bold text-sm tracking-tight">{label}</span>
+      {badge && (
+        <span className="ml-auto px-1.5 py-0.5 text-[9px] font-black uppercase tracking-widest bg-pastel-orange/30 text-orange-300 rounded">
+          {badge}
+        </span>
+      )}
     </div>
   );
 
@@ -144,7 +151,7 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
 
           <nav className="flex-1 space-y-1">
             {navItems.map((item) => (
-              <SidebarItem key={item.href} icon={item.icon} label={item.label} href={item.href} active={isActive(item.href)} />
+              <SidebarItem key={item.href} icon={item.icon} label={item.label} href={item.href} active={isActive(item.href)} badge={(item as any).badge} />
             ))}
 
             {additionalItems.length > 0 && (

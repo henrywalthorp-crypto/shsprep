@@ -1,0 +1,4402 @@
+[
+  {
+    "section": "math",
+    "category": "math.word_problems",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 1 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 2 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 3 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 4 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 5 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 6 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 7 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 8 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 9 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 10 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 11 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 12 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 13 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 14 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 15 for word problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "word_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.age_problems",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 1 for age problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.age_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "age_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.age_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 2 for age problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.age_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "age_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.age_problems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 3 for age problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.age_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "age_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.age_problems",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 4 for age problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.age_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "age_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.age_problems",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 5 for age problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.age_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "age_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.age_problems",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 6 for age problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.age_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "age_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.age_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 7 for age problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.age_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "age_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.age_problems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 8 for age problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.age_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "age_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.age_problems",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 9 for age problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.age_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "age_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.age_problems",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 10 for age problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.age_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "age_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.age_problems",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 11 for age problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.age_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "age_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.age_problems",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 12 for age problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.age_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "age_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.age_problems",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 13 for age problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.age_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "age_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.age_problems",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 14 for age problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.age_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "age_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.age_problems",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 15 for age problems",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.age_problems",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "age_problems"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.combined_work",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 1 for combined work",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.combined_work",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "combined_work"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.combined_work",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 2 for combined work",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.combined_work",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "combined_work"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.combined_work",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 3 for combined work",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.combined_work",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "combined_work"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.combined_work",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 4 for combined work",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.combined_work",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "combined_work"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.combined_work",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 5 for combined work",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.combined_work",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "combined_work"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.combined_work",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 6 for combined work",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.combined_work",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "combined_work"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.combined_work",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 7 for combined work",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.combined_work",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "combined_work"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.combined_work",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 8 for combined work",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.combined_work",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "combined_work"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.combined_work",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 9 for combined work",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.combined_work",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "combined_work"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.combined_work",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 10 for combined work",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.combined_work",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "combined_work"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.combined_work",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 11 for combined work",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.combined_work",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "combined_work"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.combined_work",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 12 for combined work",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.combined_work",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "combined_work"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.combined_work",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 13 for combined work",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.combined_work",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "combined_work"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.combined_work",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 14 for combined work",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.combined_work",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "combined_work"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.combined_work",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 15 for combined work",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.combined_work",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "combined_work"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.rate_distance_time",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 1 for rate distance time",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.rate_distance_time",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "rate_distance_time"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.rate_distance_time",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 2 for rate distance time",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.rate_distance_time",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "rate_distance_time"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.rate_distance_time",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 3 for rate distance time",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.rate_distance_time",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "rate_distance_time"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.rate_distance_time",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 4 for rate distance time",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.rate_distance_time",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "rate_distance_time"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.rate_distance_time",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 5 for rate distance time",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.rate_distance_time",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "rate_distance_time"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.rate_distance_time",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 6 for rate distance time",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.rate_distance_time",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "rate_distance_time"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.rate_distance_time",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 7 for rate distance time",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.rate_distance_time",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "rate_distance_time"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.rate_distance_time",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 8 for rate distance time",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.rate_distance_time",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "rate_distance_time"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.rate_distance_time",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 9 for rate distance time",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.rate_distance_time",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "rate_distance_time"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.rate_distance_time",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 10 for rate distance time",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.rate_distance_time",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "rate_distance_time"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.rate_distance_time",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 11 for rate distance time",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.rate_distance_time",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "rate_distance_time"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.rate_distance_time",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 12 for rate distance time",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.rate_distance_time",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "rate_distance_time"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.rate_distance_time",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 13 for rate distance time",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.rate_distance_time",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "rate_distance_time"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.rate_distance_time",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 14 for rate distance time",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.rate_distance_time",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "rate_distance_time"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.word_problems.rate_distance_time",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 15 for rate distance time",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.word_problems.rate_distance_time",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "rate_distance_time"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.combined_work",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 1 for combined work",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.arithmetic.combined_work",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "combined_work"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.combined_work",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 2 for combined work",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.arithmetic.combined_work",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "combined_work"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.combined_work",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 3 for combined work",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.arithmetic.combined_work",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "combined_work"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.combined_work",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 4 for combined work",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.arithmetic.combined_work",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "combined_work"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.combined_work",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 5 for combined work",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.arithmetic.combined_work",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "combined_work"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.combined_work",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 6 for combined work",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.arithmetic.combined_work",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "combined_work"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.combined_work",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 7 for combined work",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.arithmetic.combined_work",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "combined_work"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.combined_work",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 8 for combined work",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.arithmetic.combined_work",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "combined_work"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.combined_work",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 9 for combined work",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.arithmetic.combined_work",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "combined_work"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.combined_work",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 10 for combined work",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.arithmetic.combined_work",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "combined_work"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.combined_work",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 11 for combined work",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.arithmetic.combined_work",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "combined_work"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.combined_work",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 12 for combined work",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.arithmetic.combined_work",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "combined_work"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.combined_work",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 13 for combined work",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.arithmetic.combined_work",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "combined_work"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.combined_work",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 14 for combined work",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.arithmetic.combined_work",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "combined_work"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.combined_work",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 15 for combined work",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.arithmetic.combined_work",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "combined_work"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.rate_distance_time",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 1 for rate distance time",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.arithmetic.rate_distance_time",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "rate_distance_time"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.rate_distance_time",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 2 for rate distance time",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.arithmetic.rate_distance_time",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "rate_distance_time"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.rate_distance_time",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 3 for rate distance time",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.arithmetic.rate_distance_time",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "rate_distance_time"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.rate_distance_time",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 4 for rate distance time",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.arithmetic.rate_distance_time",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "rate_distance_time"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.rate_distance_time",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 5 for rate distance time",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.arithmetic.rate_distance_time",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "rate_distance_time"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.rate_distance_time",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 6 for rate distance time",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.arithmetic.rate_distance_time",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "rate_distance_time"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.rate_distance_time",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 7 for rate distance time",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.arithmetic.rate_distance_time",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "rate_distance_time"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.rate_distance_time",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 8 for rate distance time",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.arithmetic.rate_distance_time",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "rate_distance_time"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.rate_distance_time",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 9 for rate distance time",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.arithmetic.rate_distance_time",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "rate_distance_time"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.rate_distance_time",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 10 for rate distance time",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.arithmetic.rate_distance_time",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "rate_distance_time"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.rate_distance_time",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 11 for rate distance time",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.arithmetic.rate_distance_time",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "rate_distance_time"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.rate_distance_time",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 12 for rate distance time",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.arithmetic.rate_distance_time",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "rate_distance_time"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.rate_distance_time",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 13 for rate distance time",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.arithmetic.rate_distance_time",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "rate_distance_time"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.rate_distance_time",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 14 for rate distance time",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.arithmetic.rate_distance_time",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "rate_distance_time"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.arithmetic.rate_distance_time",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 15 for rate distance time",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.arithmetic.rate_distance_time",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "rate_distance_time"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.measurement.unit_conversion",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 1 for unit conversion",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.measurement.unit_conversion",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "unit_conversion"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.measurement.unit_conversion",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 2 for unit conversion",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.measurement.unit_conversion",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "unit_conversion"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.measurement.unit_conversion",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 3 for unit conversion",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.measurement.unit_conversion",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "unit_conversion"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.measurement.unit_conversion",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 4 for unit conversion",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.measurement.unit_conversion",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "unit_conversion"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.measurement.unit_conversion",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 5 for unit conversion",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.measurement.unit_conversion",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "unit_conversion"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.measurement.unit_conversion",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "Practice question 6 for unit conversion",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.measurement.unit_conversion",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "unit_conversion"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.measurement.unit_conversion",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Practice question 7 for unit conversion",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.measurement.unit_conversion",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "unit_conversion"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.measurement.unit_conversion",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "Practice question 8 for unit conversion",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.measurement.unit_conversion",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "unit_conversion"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.measurement.unit_conversion",
+    "difficulty": 4,
+    "type": "multiple_choice",
+    "stem": "Practice question 9 for unit conversion",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.measurement.unit_conversion",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "unit_conversion"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  },
+  {
+    "section": "math",
+    "category": "math.measurement.unit_conversion",
+    "difficulty": 5,
+    "type": "multiple_choice",
+    "stem": "Practice question 10 for unit conversion",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Detailed explanation for math.measurement.unit_conversion",
+    "commonMistakes": [
+      {
+        "label": "Common error",
+        "explanation": "Students often make this type of mistake."
+      },
+      {
+        "label": "Another mistake",
+        "explanation": "This is another frequent error."
+      }
+    ],
+    "skills": [
+      "unit_conversion"
+    ],
+    "tags": [
+      "math",
+      "practice"
+    ]
+  }
+]
