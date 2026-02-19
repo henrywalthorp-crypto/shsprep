@@ -81,8 +81,23 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
 
   if (loading) {
     return (
-      <div className="flex min-h-screen items-center justify-center bg-[#F8FAFC]">
-        <div className="h-8 w-8 animate-spin rounded-full border-4 border-[#4F46E5] border-t-transparent" />
+      <div className="flex min-h-screen items-center justify-center bg-[#0F172A]">
+        <div className="flex flex-col items-center gap-6">
+          <div className="relative">
+            <div className="h-16 w-16 bg-mint rounded-2xl flex items-center justify-center text-deep-forest font-bold text-3xl shadow-lg shadow-mint/20 font-display">
+              S
+            </div>
+            <div className="absolute inset-[-12px] animate-spin" style={{ animationDuration: "1.2s" }}>
+              <div className="absolute top-0 left-1/2 -translate-x-1/2 w-2.5 h-2.5 bg-mint rounded-full shadow-lg shadow-mint/40" />
+            </div>
+          </div>
+          <span className="text-2xl font-bold text-white tracking-tight font-display">
+            SHS<span className="text-white/40">prep</span>
+          </span>
+          <div className="w-48 h-1 bg-white/10 rounded-full overflow-hidden">
+            <div className="w-full h-full bg-gradient-to-r from-transparent via-mint to-transparent animate-[shimmer_1s_ease-in-out_infinite]" />
+          </div>
+        </div>
       </div>
     );
   }

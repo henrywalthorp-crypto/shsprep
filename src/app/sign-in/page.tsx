@@ -8,14 +8,13 @@ import { Check, Star, Loader2 } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { createBrowserClient } from "@/lib/supabase/client";
 import { toast } from "sonner";
+import { friendlyAuthError } from "@/lib/auth/errors";
 
 const SignInPage = () => {
   const router = useRouter();
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [loading, setLoading] = useState(false);
-  const [showPassword, setShowPassword] = useState(false);
-
   const handleEmailSignIn = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!email) {
@@ -23,7 +22,7 @@ const SignInPage = () => {
       return;
     }
     if (!password) {
-      setShowPassword(true);
+      toast.error("Please enter your password");
       return;
     }
 
@@ -32,7 +31,7 @@ const SignInPage = () => {
       const supabase = createBrowserClient();
       const { error } = await supabase.auth.signInWithPassword({ email, password });
       if (error) {
-        toast.error(error.message);
+        toast.error(friendlyAuthError(error.message));
       } else {
         toast.success("Welcome back!");
         router.push("/dashboard");
@@ -81,18 +80,15 @@ const SignInPage = () => {
                 className="w-full px-4 py-3 bg-white border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-deep-forest/10 focus:border-deep-forest transition-all"
               />
             </div>
-            {showPassword && (
-              <div>
-                <input
-                  type="password"
-                  placeholder="Password"
-                  value={password}
-                  onChange={(e) => setPassword(e.target.value)}
-                  autoFocus
-                  className="w-full px-4 py-3 bg-white border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-deep-forest/10 focus:border-deep-forest transition-all"
-                />
-              </div>
-            )}
+            <div>
+              <input
+                type="password"
+                placeholder="Password"
+                value={password}
+                onChange={(e) => setPassword(e.target.value)}
+                className="w-full px-4 py-3 bg-white border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-deep-forest/10 focus:border-deep-forest transition-all"
+              />
+            </div>
             <button
               type="submit"
               disabled={loading}

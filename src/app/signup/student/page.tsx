@@ -7,6 +7,7 @@ import { useRouter } from "next/navigation";
 import { ArrowLeft, ChevronRight, Loader2 } from "lucide-react";
 import { createBrowserClient } from "@/lib/supabase/client";
 import { toast } from "sonner";
+import { friendlyAuthError } from "@/lib/auth/errors";
 
 const SignUpFormPage = () => {
   const router = useRouter();
@@ -42,7 +43,7 @@ const SignUpFormPage = () => {
         },
       });
       if (error) {
-        toast.error(error.message);
+        toast.error(friendlyAuthError(error.message));
       } else {
         localStorage.setItem("shs_student_name", firstName);
         toast.success("Account created!");

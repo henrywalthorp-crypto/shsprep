@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { AuthProvider } from "@/lib/auth/provider";
+import { AppLoader } from "@/components/ui/AppLoader";
 
 export const metadata: Metadata = {
   title: 'SHS Prep — SHSAT Practice for NYC Students',
@@ -36,6 +37,7 @@ export default function RootLayout({
           Skip to main content
         </a>
         <AuthProvider>
+          <AppLoader />
           <main id="main-content">
             {children}
           </main>
