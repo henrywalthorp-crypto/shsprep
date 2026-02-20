@@ -2,6 +2,7 @@
 
 import React from "react";
 import { Loader2 } from "lucide-react";
+import { MathText } from "@/components/ui/MathText";
 
 interface QuestionOption {
   label: string;
@@ -36,7 +37,7 @@ export function QuestionView({ question, selectedAnswer, onSelectAnswer, onSubmi
 
       {/* Question stem */}
       <div className="bg-white rounded-[24px] border border-slate-100 shadow-sm p-8 mb-6">
-        <p className="text-lg font-bold text-deep-forest leading-relaxed">{question.stem}</p>
+        <MathText className="text-lg font-bold text-deep-forest leading-relaxed block">{question.stem}</MathText>
       </div>
 
       {/* Options — multiple choice */}
@@ -59,7 +60,7 @@ export function QuestionView({ question, selectedAnswer, onSelectAnswer, onSubmi
                 }`}>
                   {opt.label}
                 </div>
-                <span className="font-bold text-deep-forest text-sm">{opt.text}</span>
+                <MathText className="font-bold text-deep-forest text-sm">{opt.text}</MathText>
               </button>
             );
           })}

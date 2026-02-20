@@ -17,6 +17,7 @@ import {
 } from "lucide-react";
 import { cn } from "@/lib/utils";
 import ReactMarkdown from "react-markdown";
+import { MathText } from "@/components/ui/MathText";
 
 interface ContentSection {
   type: "text" | "example" | "tip" | "practice";
@@ -263,7 +264,7 @@ export default function LessonPage({ params }: { params: Promise<{ lessonId: str
             >
               {/* Question stem */}
               <h3 className="text-lg font-bold text-deep-forest mb-6 font-display">
-                {questions[currentQ].inline_question.stem}
+                <MathText>{questions[currentQ].inline_question.stem}</MathText>
               </h3>
 
               {/* Options */}
@@ -308,7 +309,7 @@ export default function LessonPage({ params }: { params: Promise<{ lessonId: str
                         "text-sm font-medium",
                         showResult && isCorrect ? "text-deep-forest font-bold" : "text-deep-forest/80"
                       )}>
-                        {option}
+                        <MathText>{option}</MathText>
                       </span>
                     </button>
                   );
@@ -325,9 +326,9 @@ export default function LessonPage({ params }: { params: Promise<{ lessonId: str
                   <p className="text-xs font-black text-deep-forest uppercase tracking-widest mb-2">
                     Explanation
                   </p>
-                  <p className="text-sm text-deep-forest/80">
+                  <MathText className="text-sm text-deep-forest/80 block">
                     {questions[currentQ].inline_question.explanation}
-                  </p>
+                  </MathText>
                 </motion.div>
               )}
 

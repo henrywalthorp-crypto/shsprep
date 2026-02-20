@@ -3,6 +3,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { CheckCircle2, XCircle, ChevronRight } from "lucide-react";
+import { MathText } from "@/components/ui/MathText";
 
 interface QuestionOption {
   label: string;
@@ -42,7 +43,7 @@ export function FeedbackView({ question, feedback, selectedAnswer, onNext }: Fee
 
       {/* Question stem */}
       <div className="bg-white rounded-[24px] border border-slate-100 shadow-sm p-8 mb-6">
-        <p className="text-lg font-bold text-deep-forest leading-relaxed">{question.stem}</p>
+        <MathText className="text-lg font-bold text-deep-forest leading-relaxed block">{question.stem}</MathText>
       </div>
 
       {/* Options with feedback highlighting */}
@@ -80,7 +81,7 @@ export function FeedbackView({ question, feedback, selectedAnswer, onNext }: Fee
                    isWrong ? <XCircle className="w-5 h-5" /> :
                    opt.label}
                 </div>
-                <span className="font-bold text-deep-forest text-sm">{opt.text}</span>
+                <MathText className="font-bold text-deep-forest text-sm">{opt.text}</MathText>
               </button>
             );
           })}
@@ -133,12 +134,12 @@ export function FeedbackView({ question, feedback, selectedAnswer, onNext }: Fee
             {feedback.isCorrect ? "Correct!" : "Incorrect"}
           </span>
         </div>
-        <p className="text-slate-600 text-sm font-medium leading-relaxed mb-3">{feedback.explanation}</p>
+        <MathText className="text-slate-600 text-sm font-medium leading-relaxed mb-3 block">{feedback.explanation}</MathText>
         {feedback.commonMistakes && feedback.commonMistakes.length > 0 && (
           <div className="mt-3 pt-3 border-t border-slate-200">
             <span className="text-[10px] font-black text-slate-400 uppercase tracking-widest">Common Mistakes</span>
             {feedback.commonMistakes.map((m, i) => (
-              <p key={i} className="text-xs text-slate-500 mt-1"><strong>{m.label}:</strong> {m.explanation}</p>
+              <p key={i} className="text-xs text-slate-500 mt-1"><strong>{m.label}:</strong> <MathText>{m.explanation}</MathText></p>
             ))}
           </div>
         )}
